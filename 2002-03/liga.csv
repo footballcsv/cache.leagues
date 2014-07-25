@@ -1,0 +1,307 @@
+Date,Team 1,Team 2,FT,HT
+2002-08-22,Setubal,Boavista,1-1,1-1
+2002-08-23,Academica,Sp Lisbon,0-2,0-1
+2002-08-24,Benfica,Maritimo,3-0,2-0
+2002-08-24,Leiria,Guimaraes,1-2,0-1
+2002-08-24,Santa Clara,Sp Braga,0-0,0-0
+2002-08-25,Moreirense,Beira Mar,1-2,0-0
+2002-08-25,Nacional,Gil Vicente,0-1,0-0
+2002-08-25,Pacos Ferreira,Varzim,3-1,2-0
+2002-08-25,Porto,Belenenses,2-2,0-1
+2002-08-30,Sp Braga,Pacos Ferreira,1-0,1-0
+2002-08-31,Beira Mar,Benfica,0-2,0-1
+2002-08-31,Belenenses,Academica,2-0,1-0
+2002-08-31,Guimaraes,Nacional,3-2,1-1
+2002-09-01,Gil Vicente,Setubal,0-1,0-0
+2002-09-01,Maritimo,Leiria,2-0,1-0
+2002-09-01,Sp Lisbon,Santa Clara,2-1,1-0
+2002-09-01,Varzim,Moreirense,1-0,0-0
+2002-09-02,Boavista,Porto,0-1,0-1
+2002-09-13,Academica,Boavista,0-1,0-1
+2002-09-14,Leiria,Beira Mar,1-0,0-0
+2002-09-14,Moreirense,Benfica,2-3,2-1
+2002-09-14,Pacos Ferreira,Sp Lisbon,4-0,2-0
+2002-09-15,Nacional,Maritimo,0-0,0-0
+2002-09-15,Porto,Gil Vicente,3-1,1-1
+2002-09-15,Santa Clara,Belenenses,3-1,2-0
+2002-09-15,Varzim,Sp Braga,2-0,0-0
+2002-09-16,Setubal,Guimaraes,1-2,0-2
+2002-09-21,Belenenses,Pacos Ferreira,1-0,1-0
+2002-09-21,Benfica,Leiria,3-1,1-1
+2002-09-22,Beira Mar,Nacional,0-2,0-1
+2002-09-22,Gil Vicente,Academica,1-1,1-0
+2002-09-22,Maritimo,Setubal,0-5,0-3
+2002-09-22,Sp Braga,Moreirense,2-1,0-0
+2002-09-23,Guimaraes,Porto,0-2,0-1
+2002-09-23,Sp Lisbon,Varzim,0-0,0-0
+2002-09-24,Boavista,Santa Clara,1-0,0-0
+2002-09-28,Nacional,Benfica,1-0,0-0
+2002-09-28,Porto,Maritimo,1-0,1-0
+2002-09-29,Moreirense,Leiria,2-1,1-0
+2002-09-29,Pacos Ferreira,Boavista,3-1,1-1
+2002-09-29,Santa Clara,Gil Vicente,4-2,2-1
+2002-09-29,Setubal,Beira Mar,1-1,1-1
+2002-09-29,Sp Braga,Sp Lisbon,4-2,3-2
+2002-09-29,Varzim,Belenenses,0-2,0-1
+2002-09-30,Academica,Guimaraes,2-2,1-1
+2002-10-05,Belenenses,Sp Braga,3-2,2-0
+2002-10-05,Benfica,Setubal,1-1,0-0
+2002-10-05,Leiria,Nacional,1-0,0-0
+2002-10-06,Gil Vicente,Pacos Ferreira,1-1,1-0
+2002-10-06,Guimaraes,Santa Clara,5-0,2-0
+2002-10-06,Maritimo,Academica,2-1,1-0
+2002-10-07,Beira Mar,Porto,1-1,0-1
+2002-10-07,Sp Lisbon,Moreirense,3-0,2-0
+2002-10-08,Boavista,Varzim,2-1,1-1
+2002-10-19,Sp Braga,Boavista,1-0,0-0
+2002-10-20,Academica,Beira Mar,1-1,1-1
+2002-10-20,Moreirense,Nacional,2-0,1-0
+2002-10-20,Porto,Benfica,2-1,1-1
+2002-10-20,Setubal,Leiria,0-0,0-0
+2002-10-20,Sp Lisbon,Belenenses,2-0,1-0
+2002-10-20,Varzim,Gil Vicente,3-0,3-0
+2002-10-21,Pacos Ferreira,Guimaraes,1-2,0-1
+2002-10-25,Belenenses,Moreirense,1-0,0-0
+2002-10-26,Benfica,Academica,1-1,0-0
+2002-10-26,Boavista,Sp Lisbon,1-2,0-1
+2002-10-26,Leiria,Porto,2-2,1-2
+2002-10-27,Beira Mar,Santa Clara,2-1,2-1
+2002-10-27,Guimaraes,Varzim,2-3,1-0
+2002-10-27,Maritimo,Pacos Ferreira,2-0,2-0
+2002-10-27,Nacional,Setubal,1-1,0-1
+2002-10-28,Gil Vicente,Sp Braga,3-0,3-0
+2002-11-02,Sp Braga,Guimaraes,2-4,0-3
+2002-11-02,Sp Lisbon,Gil Vicente,0-3,0-2
+2002-11-03,Academica,Leiria,3-2,2-2
+2002-11-03,Moreirense,Setubal,2-2,1-1
+2002-11-03,Pacos Ferreira,Beira Mar,1-0,0-0
+2002-11-03,Santa Clara,Benfica,1-2,1-1
+2002-11-03,Varzim,Maritimo,4-1,1-0
+2002-11-04,Belenenses,Boavista,0-0,0-0
+2002-11-04,Porto,Nacional,5-2,3-1
+2002-11-08,Guimaraes,Sp Lisbon,1-3,0-1
+2002-11-09,Boavista,Moreirense,0-0,0-0
+2002-11-09,Maritimo,Sp Braga,3-0,2-0
+2002-11-09,Setubal,Porto,0-1,0-1
+2002-11-10,Beira Mar,Varzim,2-1,2-0
+2002-11-10,Benfica,Pacos Ferreira,7-0,3-0
+2002-11-10,Leiria,Santa Clara,3-1,2-1
+2002-11-10,Nacional,Academica,3-2,1-2
+2002-11-11,Gil Vicente,Belenenses,3-1,2-1
+2002-11-15,Sp Lisbon,Maritimo,2-0,0-0
+2002-11-16,Varzim,Benfica,2-1,1-1
+2002-11-17,Academica,Setubal,1-1,0-0
+2002-11-17,Belenenses,Guimaraes,1-0,0-0
+2002-11-17,Pacos Ferreira,Leiria,1-0,0-0
+2002-11-17,Santa Clara,Nacional,2-3,2-1
+2002-11-17,Sp Braga,Beira Mar,0-0,0-0
+2002-11-18,Boavista,Gil Vicente,0-1,0-0
+2002-11-18,Moreirense,Porto,0-1,0-0
+2002-11-30,Beira Mar,Sp Lisbon,1-3,1-1
+2002-11-30,Benfica,Sp Braga,3-0,2-0
+2002-11-30,Gil Vicente,Moreirense,2-1,2-1
+2002-11-30,Setubal,Santa Clara,0-0,0-0
+2002-12-01,Leiria,Varzim,3-1,1-0
+2002-12-01,Maritimo,Belenenses,2-1,2-0
+2002-12-01,Nacional,Pacos Ferreira,4-0,0-0
+2002-12-02,Guimaraes,Boavista,3-1,1-1
+2002-12-02,Porto,Academica,4-1,0-1
+2002-12-04,Benfica,Gil Vicente,3-1,2-1
+2002-12-04,Santa Clara,Maritimo,2-1,0-1
+2002-12-06,Belenenses,Beira Mar,3-2,1-1
+2002-12-07,Sp Lisbon,Benfica,0-2,0-2
+2002-12-08,Boavista,Maritimo,3-0,2-0
+2002-12-08,Moreirense,Academica,1-0,0-0
+2002-12-08,Pacos Ferreira,Setubal,1-2,0-1
+2002-12-08,Santa Clara,Porto,1-3,0-1
+2002-12-08,Sp Braga,Leiria,1-1,1-1
+2002-12-08,Varzim,Nacional,1-0,0-0
+2002-12-09,Gil Vicente,Guimaraes,0-2,0-1
+2002-12-13,Setubal,Varzim,2-4,2-0
+2002-12-14,Academica,Santa Clara,3-2,2-0
+2002-12-14,Benfica,Belenenses,1-0,0-0
+2002-12-14,Guimaraes,Moreirense,1-1,0-0
+2002-12-14,Leiria,Sp Lisbon,3-2,1-1
+2002-12-15,Maritimo,Gil Vicente,3-1,2-0
+2002-12-15,Nacional,Sp Braga,0-0,0-0
+2002-12-16,Beira Mar,Boavista,3-3,2-1
+2002-12-16,Porto,Pacos Ferreira,2-1,1-0
+2002-12-21,Belenenses,Leiria,1-3,1-3
+2002-12-21,Boavista,Benfica,0-0,0-0
+2002-12-22,Gil Vicente,Beira Mar,3-1,1-1
+2002-12-22,Moreirense,Santa Clara,2-2,1-1
+2002-12-22,Pacos Ferreira,Academica,0-0,0-0
+2002-12-22,Sp Braga,Setubal,1-0,1-0
+2002-12-22,Sp Lisbon,Nacional,2-0,1-0
+2002-12-22,Varzim,Porto,0-2,0-1
+2002-12-23,Guimaraes,Maritimo,2-0,1-0
+2003-01-04,Beira Mar,Guimaraes,1-1,0-0
+2003-01-04,Leiria,Boavista,1-0,0-0
+2003-01-04,Setubal,Sp Lisbon,1-2,1-0
+2003-01-05,Academica,Varzim,2-1,2-0
+2003-01-05,Moreirense,Maritimo,2-2,1-1
+2003-01-05,Porto,Sp Braga,3-0,1-0
+2003-01-05,Santa Clara,Pacos Ferreira,0-0,0-0
+2003-01-06,Nacional,Belenenses,1-1,0-0
+2003-01-10,Sp Braga,Academica,1-1,0-0
+2003-01-11,Gil Vicente,Leiria,3-1,2-1
+2003-01-11,Guimaraes,Benfica,1-1,0-0
+2003-01-11,Sp Lisbon,Porto,0-1,0-1
+2003-01-12,Boavista,Nacional,0-0,0-0
+2003-01-12,Maritimo,Beira Mar,3-0,1-0
+2003-01-12,Pacos Ferreira,Moreirense,1-1,0-1
+2003-01-12,Varzim,Santa Clara,0-0,0-0
+2003-01-13,Belenenses,Setubal,0-0,0-0
+2003-01-17,Guimaraes,Leiria,1-2,0-1
+2003-01-18,Maritimo,Benfica,1-2,0-0
+2003-01-19,Beira Mar,Moreirense,1-2,0-2
+2003-01-19,Belenenses,Porto,1-3,1-0
+2003-01-19,Boavista,Setubal,1-0,1-0
+2003-01-19,Sp Braga,Santa Clara,1-1,1-1
+2003-01-19,Varzim,Pacos Ferreira,0-0,0-0
+2003-01-20,Gil Vicente,Nacional,2-0,1-0
+2003-01-24,Academica,Belenenses,2-1,1-0
+2003-01-25,Leiria,Maritimo,3-0,2-0
+2003-01-25,Porto,Boavista,1-0,0-0
+2003-01-25,Santa Clara,Sp Lisbon,0-1,0-1
+2003-01-26,Benfica,Beira Mar,1-0,0-0
+2003-01-26,Moreirense,Varzim,1-0,0-0
+2003-01-26,Nacional,Guimaraes,0-0,0-0
+2003-01-26,Pacos Ferreira,Sp Braga,0-1,0-0
+2003-01-26,Setubal,Gil Vicente,0-1,0-0
+2003-02-01,Boavista,Academica,4-1,2-1
+2003-02-02,Beira Mar,Leiria,2-2,1-2
+2003-02-02,Belenenses,Santa Clara,1-1,1-1
+2003-02-02,Gil Vicente,Porto,3-5,1-2
+2003-02-02,Maritimo,Nacional,2-3,0-2
+2003-02-02,Sp Braga,Varzim,1-0,1-0
+2003-02-02,Sp Lisbon,Pacos Ferreira,4-0,2-0
+2003-02-03,Benfica,Moreirense,1-1,0-0
+2003-02-03,Guimaraes,Setubal,1-0,0-0
+2003-02-05,Sp Lisbon,Academica,1-0,0-0
+2003-02-07,Santa Clara,Boavista,1-1,1-0
+2003-02-08,Leiria,Benfica,0-3,0-2
+2003-02-08,Varzim,Sp Lisbon,1-1,0-1
+2003-02-09,Academica,Gil Vicente,2-0,1-0
+2003-02-09,Moreirense,Sp Braga,2-2,1-0
+2003-02-09,Nacional,Beira Mar,1-0,0-0
+2003-02-09,Pacos Ferreira,Belenenses,3-2,0-0
+2003-02-09,Porto,Guimaraes,2-1,2-0
+2003-02-09,Setubal,Maritimo,1-0,1-0
+2003-02-15,Boavista,Pacos Ferreira,0-0,0-0
+2003-02-15,Maritimo,Porto,2-1,1-0
+2003-02-16,Beira Mar,Setubal,5-3,4-2
+2003-02-16,Belenenses,Varzim,4-1,1-0
+2003-02-16,Benfica,Nacional,2-0,2-0
+2003-02-16,Gil Vicente,Santa Clara,1-2,0-0
+2003-02-16,Leiria,Moreirense,2-2,1-0
+2003-02-16,Sp Lisbon,Sp Braga,2-0,0-0
+2003-02-17,Guimaraes,Academica,1-0,0-0
+2003-02-21,Sp Braga,Belenenses,1-1,0-0
+2003-02-22,Setubal,Benfica,2-6,2-1
+2003-02-23,Academica,Maritimo,2-0,1-0
+2003-02-23,Pacos Ferreira,Gil Vicente,2-0,1-0
+2003-02-23,Porto,Beira Mar,3-0,2-0
+2003-02-23,Santa Clara,Guimaraes,2-1,1-0
+2003-02-23,Varzim,Boavista,1-1,1-1
+2003-02-24,Moreirense,Sp Lisbon,1-2,0-1
+2003-02-24,Nacional,Leiria,2-2,1-0
+2003-02-28,Maritimo,Santa Clara,1-1,1-0
+2003-03-01,Belenenses,Sp Lisbon,1-1,0-1
+2003-03-01,Leiria,Setubal,1-1,1-0
+2003-03-02,Beira Mar,Academica,1-0,0-0
+2003-03-02,Gil Vicente,Varzim,2-1,1-0
+2003-03-02,Guimaraes,Pacos Ferreira,1-4,1-4
+2003-03-02,Nacional,Moreirense,1-1,1-1
+2003-03-03,Boavista,Sp Braga,2-1,1-0
+2003-03-04,Benfica,Porto,0-1,0-1
+2003-03-14,Moreirense,Belenenses,3-1,0-1
+2003-03-15,Academica,Benfica,1-4,0-3
+2003-03-16,Pacos Ferreira,Maritimo,0-0,0-0
+2003-03-16,Porto,Leiria,2-0,1-0
+2003-03-16,Santa Clara,Beira Mar,3-1,1-0
+2003-03-16,Setubal,Nacional,2-2,1-2
+2003-03-16,Sp Braga,Gil Vicente,0-0,0-0
+2003-03-16,Sp Lisbon,Boavista,1-1,1-1
+2003-03-17,Varzim,Guimaraes,0-1,0-0
+2003-03-21,Gil Vicente,Sp Lisbon,1-0,1-0
+2003-03-22,Benfica,Santa Clara,1-0,0-0
+2003-03-23,Beira Mar,Pacos Ferreira,3-1,2-1
+2003-03-23,Guimaraes,Sp Braga,1-1,0-0
+2003-03-23,Leiria,Academica,0-0,0-0
+2003-03-23,Maritimo,Varzim,2-0,1-0
+2003-03-23,Setubal,Moreirense,0-2,0-1
+2003-03-24,Boavista,Belenenses,1-3,1-0
+2003-03-24,Nacional,Porto,1-2,1-0
+2003-04-05,Moreirense,Boavista,1-1,1-0
+2003-04-05,Pacos Ferreira,Benfica,1-3,1-3
+2003-04-06,Academica,Nacional,2-2,1-1
+2003-04-06,Porto,Setubal,3-0,1-0
+2003-04-06,Santa Clara,Leiria,1-3,0-0
+2003-04-06,Sp Braga,Maritimo,0-1,0-0
+2003-04-06,Sp Lisbon,Guimaraes,1-1,0-1
+2003-04-06,Varzim,Beira Mar,1-0,1-0
+2003-04-07,Belenenses,Gil Vicente,1-1,1-1
+2003-04-18,Gil Vicente,Boavista,1-0,1-0
+2003-04-18,Leiria,Pacos Ferreira,0-1,0-0
+2003-04-19,Beira Mar,Sp Braga,2-2,2-1
+2003-04-19,Maritimo,Sp Lisbon,0-3,0-1
+2003-04-19,Nacional,Santa Clara,2-1,1-0
+2003-04-19,Porto,Moreirense,2-1,1-0
+2003-04-19,Setubal,Academica,3-1,2-1
+2003-04-21,Benfica,Varzim,2-1,1-0
+2003-04-21,Guimaraes,Belenenses,1-0,0-0
+2003-04-25,Sp Lisbon,Beira Mar,1-1,0-0
+2003-04-26,Belenenses,Maritimo,3-1,1-0
+2003-04-26,Sp Braga,Benfica,1-3,1-2
+2003-04-27,Moreirense,Gil Vicente,2-1,1-1
+2003-04-27,Pacos Ferreira,Nacional,3-3,0-2
+2003-04-27,Santa Clara,Setubal,1-0,0-0
+2003-04-27,Varzim,Leiria,0-2,0-1
+2003-04-28,Academica,Porto,1-1,1-0
+2003-04-28,Boavista,Guimaraes,3-1,2-0
+2003-05-02,Beira Mar,Belenenses,2-1,2-0
+2003-05-03,Benfica,Sp Lisbon,1-2,0-2
+2003-05-04,Academica,Moreirense,1-1,0-1
+2003-05-04,Leiria,Sp Braga,1-1,1-0
+2003-05-04,Maritimo,Boavista,0-0,0-0
+2003-05-04,Nacional,Varzim,2-0,2-0
+2003-05-04,Porto,Santa Clara,5-0,2-0
+2003-05-04,Setubal,Pacos Ferreira,0-2,0-0
+2003-05-05,Guimaraes,Gil Vicente,1-1,0-0
+2003-05-09,Boavista,Beira Mar,1-0,0-0
+2003-05-10,Belenenses,Benfica,2-4,1-2
+2003-05-10,Moreirense,Guimaraes,1-2,0-1
+2003-05-11,Gil Vicente,Maritimo,0-1,0-1
+2003-05-11,Pacos Ferreira,Porto,1-0,0-0
+2003-05-11,Santa Clara,Academica,0-0,0-0
+2003-05-11,Sp Braga,Nacional,4-1,3-0
+2003-05-11,Varzim,Setubal,3-2,1-0
+2003-05-12,Sp Lisbon,Leiria,1-1,0-1
+2003-05-16,Maritimo,Guimaraes,1-0,0-0
+2003-05-17,Leiria,Belenenses,1-4,0-2
+2003-05-17,Nacional,Sp Lisbon,1-1,0-0
+2003-05-17,Porto,Varzim,3-2,3-0
+2003-05-18,Academica,Pacos Ferreira,2-2,2-2
+2003-05-18,Beira Mar,Gil Vicente,5-0,3-0
+2003-05-18,Benfica,Boavista,1-1,1-1
+2003-05-18,Santa Clara,Moreirense,2-0,1-0
+2003-05-19,Setubal,Sp Braga,2-2,2-0
+2003-05-23,Guimaraes,Beira Mar,0-2,0-2
+2003-05-24,Sp Lisbon,Setubal,3-4,2-3
+2003-05-25,Belenenses,Nacional,0-0,0-0
+2003-05-25,Gil Vicente,Benfica,0-2,0-1
+2003-05-25,Maritimo,Moreirense,3-1,0-1
+2003-05-25,Pacos Ferreira,Santa Clara,3-1,0-0
+2003-05-25,Sp Braga,Porto,1-1,1-0
+2003-05-25,Varzim,Academica,0-3,0-2
+2003-05-26,Boavista,Leiria,0-1,0-0
+2003-06-01,Academica,Sp Braga,1-0,1-0
+2003-06-01,Beira Mar,Maritimo,1-0,0-0
+2003-06-01,Benfica,Guimaraes,4-0,3-0
+2003-06-01,Leiria,Gil Vicente,4-2,3-0
+2003-06-01,Moreirense,Pacos Ferreira,2-0,0-0
+2003-06-01,Nacional,Boavista,0-1,0-0
+2003-06-01,Porto,Sp Lisbon,2-0,1-0
+2003-06-01,Santa Clara,Varzim,2-2,1-0
+2003-06-01,Setubal,Belenenses,1-1,1-0

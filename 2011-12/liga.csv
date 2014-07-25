@@ -1,0 +1,241 @@
+Date,Team 1,Team 2,FT,HT
+2011-08-12,Gil Vicente,Benfica,2-2,1-2
+2011-08-13,Rio Ave,Sp Braga,0-0,0-0
+2011-08-13,Sp Lisbon,Olhanense,1-1,0-1
+2011-08-14,Feirense ,Nacional,0-0,0-0
+2011-08-14,Guimaraes,Porto,0-1,0-1
+2011-08-14,Maritimo,Beira Mar,0-0,0-0
+2011-08-14,Setubal,Pacos Ferreira,2-1,0-1
+2011-08-15,Leiria,Academica,1-2,1-0
+2011-08-19,Porto,Gil Vicente,3-1,2-1
+2011-08-20,Benfica,Feirense,3-1,1-0
+2011-08-21,Academica,Rio Ave,1-0,1-0
+2011-08-21,Beira Mar,Sp Lisbon,0-0,0-0
+2011-08-21,Pacos Ferreira,Leiria,2-1,0-0
+2011-08-21,Sp Braga,Maritimo,2-0,0-0
+2011-08-22,Olhanense,Setubal,2-2,0-2
+2011-08-27,Gil Vicente,Academica,2-0,0-0
+2011-08-28,Feirense,Pacos Ferreira,0-0,0-0
+2011-08-28,Guimaraes,Beira Mar,0-3,0-1
+2011-08-28,Rio Ave,Olhanense,0-1,0-1
+2011-08-28,Sp Lisbon,Maritimo,2-3,1-0
+2011-08-29,Nacional,Benfica,0-2,0-1
+2011-08-29,Setubal,Sp Braga,0-1,0-0
+2011-09-04,Nacional,Guimaraes,1-4,0-2
+2011-09-06,Leiria,Porto,2-5,0-2
+2011-09-09,Porto,Setubal,3-0,0-0
+2011-09-10,Benfica,Guimaraes,2-1,2-0
+2011-09-10,Pacos Ferreira,Sp Lisbon,2-3,1-0
+2011-09-11,Beira Mar,Leiria,0-1,0-0
+2011-09-11,Maritimo,Rio Ave,2-1,1-1
+2011-09-11,Olhanense,Feirense,1-2,0-1
+2011-09-11,Sp Braga,Gil Vicente,3-1,0-0
+2011-09-12,Academica,Nacional,4-0,0-0
+2011-09-16,Gil Vicente,Olhanense,1-1,0-1
+2011-09-17,Nacional,Pacos Ferreira,1-0,1-0
+2011-09-18,Benfica,Academica,4-1,2-1
+2011-09-18,Feirense,Porto,0-0,0-0
+2011-09-18,Leiria,Maritimo,1-3,0-2
+2011-09-18,Setubal,Beira Mar,1-0,0-0
+2011-09-19,Guimaraes,Sp Braga,1-1,1-0
+2011-09-19,Rio Ave,Sp Lisbon,2-3,0-2
+2011-09-23,Porto,Benfica,2-2,1-0
+2011-09-24,Sp Braga,Nacional,2-0,1-0
+2011-09-24,Sp Lisbon,Setubal,3-0,3-0
+2011-09-25,Beira Mar,Rio Ave,0-0,0-0
+2011-09-25,Maritimo,Guimaraes,2-1,1-0
+2011-09-25,Olhanense,Leiria,2-1,1-0
+2011-09-25,Pacos Ferreira,Gil Vicente,1-2,1-1
+2011-09-26,Academica,Feirense,4-0,4-0
+2011-09-30,Setubal,Rio Ave,2-1,1-1
+2011-10-01,Benfica,Pacos Ferreira,4-1,2-0
+2011-10-02,Academica,Porto,0-3,0-2
+2011-10-02,Feirense,Maritimo,2-2,1-1
+2011-10-02,Guimaraes,Sp Lisbon,0-1,0-1
+2011-10-02,Leiria,Sp Braga,1-0,1-0
+2011-10-02,Nacional,Olhanense,1-0,1-0
+2011-10-03,Gil Vicente,Beira Mar,0-0,0-0
+2011-10-21,Pacos Ferreira,Academica,2-0,2-0
+2011-10-22,Beira Mar,Benfica,0-1,0-1
+2011-10-22,Olhanense,Guimaraes,1-0,0-0
+2011-10-23,Maritimo,Setubal,1-0,1-0
+2011-10-23,Porto,Nacional,5-0,2-0
+2011-10-23,Rio Ave,Leiria,2-0,1-0
+2011-10-23,Sp Braga,Feirense,3-0,1-0
+2011-10-24,Sp Lisbon,Gil Vicente,6-1,1-0
+2011-10-28,Porto,Pacos Ferreira,3-0,1-0
+2011-10-29,Academica,Sp Braga,0-0,0-0
+2011-10-29,Benfica,Olhanense,2-1,2-0
+2011-10-30,Feirense,Sp Lisbon,0-2,0-0
+2011-10-30,Guimaraes,Rio Ave,2-1,1-1
+2011-10-30,Leiria,Setubal,2-0,2-0
+2011-10-30,Nacional,Beira Mar,2-1,2-1
+2011-11-01,Gil Vicente,Maritimo,0-0,0-0
+2011-11-04,Pacos Ferreira,Guimaraes,1-5,1-1
+2011-11-05,Maritimo,Academica,3-2,2-1
+2011-11-05,Olhanense,Porto,0-0,0-0
+2011-11-06,Beira Mar,Feirense,2-1,2-0
+2011-11-06,Rio Ave,Nacional,2-1,0-1
+2011-11-06,Setubal,Gil Vicente,0-0,0-0
+2011-11-06,Sp Braga,Benfica,1-1,1-0
+2011-11-06,Sp Lisbon,Leiria,3-1,1-1
+2011-11-25,Academica,Beira Mar,0-1,0-1
+2011-11-26,Benfica,Sp Lisbon,1-0,1-0
+2011-11-26,Nacional,Maritimo,2-2,0-1
+2011-11-27,Feirense,Rio Ave,2-0,2-0
+2011-11-27,Gil Vicente,Leiria,2-1,1-0
+2011-11-27,Pacos Ferreira,Olhanense,1-1,0-0
+2011-11-27,Porto,Sp Braga,3-2,1-0
+2011-11-28,Guimaraes,Setubal,3-0,0-0
+2011-12-09,Sp Braga,Pacos Ferreira,5-2,2-1
+2011-12-10,Beira Mar,Porto,1-2,1-1
+2011-12-10,Sp Lisbon,Nacional,1-0,1-0
+2011-12-11,Leiria,Guimaraes,1-0,1-0
+2011-12-11,Maritimo,Benfica,0-1,0-0
+2011-12-11,Rio Ave,Gil Vicente,2-0,1-0
+2011-12-11,Setubal,Feirense,1-1,1-1
+2011-12-12,Olhanense,Academica,0-2,0-1
+2011-12-16,Benfica,Rio Ave,5-1,3-1
+2011-12-17,Guimaraes,Gil Vicente,1-1,1-1
+2011-12-17,Porto,Maritimo,2-0,0-0
+2011-12-18,Academica,Sp Lisbon,1-1,1-0
+2011-12-18,Feirense,Leiria,2-1,1-0
+2011-12-18,Nacional,Setubal,1-1,0-1
+2011-12-18,Pacos Ferreira,Beira Mar,0-3,0-2
+2011-12-19,Olhanense,Sp Braga,3-4,2-0
+2012-01-06,Setubal,Academica,1-1,0-0
+2012-01-07,Sp Lisbon,Porto,0-0,0-0
+2012-01-08,Gil Vicente,Nacional,0-3,0-2
+2012-01-08,Guimaraes,Feirense,1-0,0-0
+2012-01-08,Leiria,Benfica,0-4,0-1
+2012-01-08,Maritimo,Olhanense,2-1,2-1
+2012-01-08,Rio Ave,Pacos Ferreira,1-0,1-0
+2012-01-09,Beira Mar,Sp Braga,1-2,1-1
+2012-01-13,Pacos Ferreira,Maritimo,1-1,0-0
+2012-01-14,Benfica,Setubal,4-1,3-1
+2012-01-14,Feirense,Gil Vicente,0-0,0-0
+2012-01-14,Porto,Rio Ave,2-0,1-0
+2012-01-15,Academica,Guimaraes,0-2,0-1
+2012-01-15,Nacional,Leiria,2-2,0-1
+2012-01-15,Olhanense,Beira Mar,2-1,0-0
+2012-01-15,Sp Braga,Sp Lisbon,2-1,0-0
+2012-01-20,Academica,Leiria,0-0,0-0
+2012-01-21,Beira Mar,Maritimo,1-2,0-1
+2012-01-22,Benfica,Gil Vicente,3-1,1-1
+2012-01-22,Nacional,Feirense,2-0,1-0
+2012-01-22,Pacos Ferreira,Setubal,2-1,0-0
+2012-01-22,Porto,Guimaraes,3-1,1-0
+2012-01-22,Sp Braga,Rio Ave,2-1,2-0
+2012-01-23,Olhanense,Sp Lisbon,0-0,0-0
+2012-01-27,Guimaraes,Nacional,1-0,0-0
+2012-01-28,Feirense,Benfica,1-2,0-0
+2012-01-28,Rio Ave,Academica,0-0,0-0
+2012-01-29,Gil Vicente,Porto,3-1,2-0
+2012-01-29,Leiria,Pacos Ferreira,2-4,2-2
+2012-01-29,Setubal,Olhanense,2-3,2-2
+2012-01-29,Sp Lisbon,Beira Mar,2-0,2-0
+2012-01-30,Maritimo,Sp Braga,1-2,1-0
+2012-02-10,Sp Braga,Setubal,3-0,1-0
+2012-02-11,Benfica,Nacional,4-1,3-1
+2012-02-11,Maritimo,Sp Lisbon,2-0,1-0
+2012-02-12,Beira Mar,Guimaraes,0-1,0-1
+2012-02-12,Olhanense,Rio Ave,0-2,0-2
+2012-02-12,Pacos Ferreira,Feirense,3-1,2-1
+2012-02-12,Porto,Leiria,4-0,0-0
+2012-02-13,Academica,Gil Vicente,0-2,0-1
+2012-02-17,Rio Ave,Maritimo,1-3,1-2
+2012-02-18,Gil Vicente,Sp Braga,0-3,0-1
+2012-02-19,Feirense,Olhanense,1-1,1-0
+2012-02-19,Leiria,Beira Mar,0-0,0-0
+2012-02-19,Nacional,Academica,4-1,2-0
+2012-02-19,Setubal,Porto,1-3,0-2
+2012-02-19,Sp Lisbon,Pacos Ferreira,1-0,1-0
+2012-02-20,Guimaraes,Benfica,1-0,1-0
+2012-02-24,Maritimo,Leiria,1-0,0-0
+2012-02-25,Academica,Benfica,0-0,0-0
+2012-02-26,Beira Mar,Setubal,2-3,0-2
+2012-02-26,Olhanense,Gil Vicente,0-0,0-0
+2012-02-26,Pacos Ferreira,Nacional,0-2,0-0
+2012-02-26,Porto,Feirense,2-0,0-0
+2012-02-26,Sp Lisbon,Rio Ave,1-0,1-0
+2012-02-27,Sp Braga,Guimaraes,4-0,2-0
+2012-03-02,Benfica,Porto,2-3,1-1
+2012-03-03,Nacional,Sp Braga,1-3,1-1
+2012-03-03,Setubal,Sp Lisbon,1-0,1-0
+2012-03-04,Feirense,Academica,1-1,0-0
+2012-03-04,Gil Vicente,Pacos Ferreira,1-2,1-1
+2012-03-04,Guimaraes,Maritimo,1-0,0-0
+2012-03-04,Rio Ave,Beira Mar,4-0,1-0
+2012-03-05,Leiria,Olhanense,1-3,0-1
+2012-03-09,Maritimo,Feirense,2-1,1-1
+2012-03-10,Porto,Academica,1-1,0-1
+2012-03-10,Sp Braga,Leiria,2-1,1-0
+2012-03-11,Beira Mar,Gil Vicente,1-0,0-0
+2012-03-11,Olhanense,Nacional,4-4,3-2
+2012-03-11,Pacos Ferreira,Benfica,1-2,1-0
+2012-03-11,Rio Ave,Setubal,3-0,2-0
+2012-03-11,Sp Lisbon,Guimaraes,5-0,1-0
+2012-03-16,Benfica,Beira Mar,3-1,2-0
+2012-03-16,Nacional,Porto,0-2,0-1
+2012-03-17,Feirense,Sp Braga,1-4,0-1
+2012-03-17,Leiria,Rio Ave,1-0,0-0
+2012-03-18,Academica,Pacos Ferreira,0-1,0-1
+2012-03-18,Guimaraes,Olhanense,2-2,2-0
+2012-03-18,Setubal,Maritimo,1-1,0-1
+2012-03-19,Gil Vicente,Sp Lisbon,2-0,1-0
+2012-03-23,Olhanense,Benfica,0-0,0-0
+2012-03-24,Sp Lisbon,Feirense,1-0,1-0
+2012-03-25,Beira Mar,Nacional,0-3,0-1
+2012-03-25,Pacos Ferreira,Porto,1-1,0-0
+2012-03-25,Rio Ave,Guimaraes,0-1,0-0
+2012-03-25,Setubal,Leiria,1-0,1-0
+2012-03-26,Maritimo,Gil Vicente,3-2,1-2
+2012-03-26,Sp Braga,Academica,2-1,2-0
+2012-03-30,Academica,Maritimo,0-1,0-0
+2012-03-31,Benfica,Sp Braga,2-1,0-0
+2012-03-31,Porto,Olhanense,2-0,1-0
+2012-04-01,Feirense,Beira Mar,1-3,0-2
+2012-04-01,Gil Vicente,Setubal,0-1,0-0
+2012-04-01,Guimaraes,Pacos Ferreira,3-1,1-0
+2012-04-01,Leiria,Sp Lisbon,0-1,0-0
+2012-04-01,Nacional,Rio Ave,2-1,1-0
+2012-04-06,Beira Mar,Academica,2-1,0-1
+2012-04-06,Leiria,Gil Vicente,0-0,0-0
+2012-04-06,Setubal,Guimaraes,1-0,0-0
+2012-04-07,Maritimo,Nacional,2-4,1-2
+2012-04-07,Olhanense,Pacos Ferreira,1-2,1-1
+2012-04-07,Rio Ave,Feirense,2-2,1-1
+2012-04-07,Sp Braga,Porto,0-1,0-0
+2012-04-09,Sp Lisbon,Benfica,1-0,1-0
+2012-04-20,Pacos Ferreira,Sp Braga,1-1,1-0
+2012-04-21,Benfica,Maritimo,4-1,2-0
+2012-04-21,Guimaraes,Leiria,3-2,0-0
+2012-04-21,Porto,Beira Mar,3-0,1-0
+2012-04-22,Feirense,Setubal,1-0,1-0
+2012-04-22,Gil Vicente,Rio Ave,0-0,0-0
+2012-04-22,Nacional,Sp Lisbon,2-3,1-2
+2012-04-23,Academica,Olhanense,0-1,0-0
+2012-04-27,Sp Braga,Olhanense,1-2,1-0
+2012-04-28,Gil Vicente,Guimaraes,3-1,1-1
+2012-04-28,Maritimo,Porto,0-2,0-1
+2012-04-29,Beira Mar,Pacos Ferreira,2-0,1-0
+2012-04-29,Leiria,Feirense,0-4,0-1
+2012-04-29,Rio Ave,Benfica,2-2,1-2
+2012-04-29,Setubal,Nacional,0-3,0-3
+2012-04-30,Sp Lisbon,Academica,2-1,1-1
+2012-05-05,Academica,Setubal,1-0,1-0
+2012-05-05,Benfica,Leiria,1-0,1-0
+2012-05-05,Feirense,Guimaraes,1-3,1-1
+2012-05-05,Nacional,Gil Vicente,3-1,1-1
+2012-05-05,Olhanense,Maritimo,0-0,0-0
+2012-05-05,Pacos Ferreira,Rio Ave,2-2,1-1
+2012-05-05,Porto,Sp Lisbon,2-0,0-0
+2012-05-05,Sp Braga,Beira Mar,1-0,0-0
+2012-05-12,Beira Mar,Olhanense,1-2,0-1
+2012-05-12,Gil Vicente,Feirense,3-1,1-0
+2012-05-12,Guimaraes,Academica,1-2,0-1
+2012-05-12,Leiria,Nacional,2-3,0-2
+2012-05-12,Maritimo,Pacos Ferreira,1-1,0-0
+2012-05-12,Rio Ave,Porto,2-5,1-2
+2012-05-12,Setubal,Benfica,1-3,1-1
+2012-05-12,Sp Lisbon,Sp Braga,3-2,1-0
