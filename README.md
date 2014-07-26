@@ -5,7 +5,7 @@ Football data for Portugal includes:
 - Primeira Liga
 
 
-Example - [`2013-14/liga.csv`](2013-14/liga.csv):
+Example - [`2013-14/liga.csv`](2013-14/1-liga.csv):
 
 ~~~
 2013-08-16,Pacos Ferreira,Sp Braga,0-2,0-1
