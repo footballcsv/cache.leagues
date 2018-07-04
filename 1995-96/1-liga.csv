@@ -1,307 +1,307 @@
-Date,Team 1,Team 2,FT,HT
-1995-08-20,Benfica,Salgueiros,0-0,
-1995-08-20,Boavista,Belenenses,1-0,
-1995-08-20,Campomaior,Guimaraes,0-1,
-1995-08-20,Farense,Tirsense,2-1,
-1995-08-20,Felgueiras,Desp. Chaves,2-2,
-1995-08-20,Leca,Gil Vicente,0-2,
-1995-08-20,Leiria,Maritimo,0-4,
-1995-08-20,Porto,Sp Lisbon,2-1,
-1995-08-20,Sp Braga,Est Amadora,2-1,
-1995-08-27,Belenenses,Sp Braga,1-1,
-1995-08-27,Desp. Chaves,Leca,2-2,
-1995-08-27,Est Amadora,Campomaior,2-0,
-1995-08-27,Gil Vicente,Porto,0-1,
-1995-08-27,Guimaraes,Farense,1-0,
-1995-08-27,Maritimo,Felgueiras,0-2,
-1995-08-27,Salgueiros,Leiria,4-0,
-1995-08-27,Sp Lisbon,Boavista,0-0,
-1995-08-27,Tirsense,Benfica,0-1,
-1995-09-03,Benfica,Guimaraes,1-1,
-1995-09-03,Boavista,Gil Vicente,3-0,
-1995-09-03,Campomaior,Belenenses,2-3,
-1995-09-03,Farense,Est Amadora,1-0,
-1995-09-03,Felgueiras,Leca,1-2,
-1995-09-03,Leiria,Tirsense,5-1,
-1995-09-03,Maritimo,Salgueiros,3-1,
-1995-09-03,Porto,Desp. Chaves,2-0,
-1995-09-03,Sp Braga,Sp Lisbon,1-3,
-1995-09-10,Belenenses,Farense,2-1,
-1995-09-10,Desp. Chaves,Boavista,2-3,
-1995-09-10,Est Amadora,Benfica,0-1,
-1995-09-10,Gil Vicente,Sp Braga,1-2,
-1995-09-10,Guimaraes,Leiria,3-0,
-1995-09-10,Salgueiros,Felgueiras,0-0,
-1995-09-10,Tirsense,Maritimo,2-1,
-1995-09-18,Leca,Porto,0-2,
-1995-09-18,Sp Lisbon,Campomaior,7-1,
-1995-09-23,Benfica,Belenenses,1-0,
-1995-09-23,Boavista,Leca,2-0,
-1995-09-23,Campomaior,Gil Vicente,2-0,
-1995-09-23,Farense,Sp Lisbon,0-1,
-1995-09-23,Felgueiras,Porto,1-1,
-1995-09-23,Leiria,Est Amadora,2-1,
-1995-09-23,Maritimo,Guimaraes,4-0,
-1995-09-23,Salgueiros,Tirsense,1-1,
-1995-09-23,Sp Braga,Desp. Chaves,1-0,
-1995-10-01,Belenenses,Leiria,3-1,
-1995-10-01,Desp. Chaves,Campomaior,4-1,
-1995-10-01,Est Amadora,Maritimo,1-1,
-1995-10-01,Gil Vicente,Farense,2-2,
-1995-10-01,Guimaraes,Salgueiros,1-2,
-1995-10-01,Leca,Sp Braga,0-1,
-1995-10-01,Sp Lisbon,Benfica,2-0,
-1995-10-01,Tirsense,Felgueiras,0-0,
-1995-10-02,Porto,Boavista,1-0,
-1995-10-15,Benfica,Gil Vicente,3-0,
-1995-10-15,Campomaior,Leca,1-1,
-1995-10-15,Farense,Desp. Chaves,0-0,
-1995-10-15,Felgueiras,Boavista,2-0,
-1995-10-15,Leiria,Sp Lisbon,1-2,
-1995-10-15,Maritimo,Belenenses,1-2,
-1995-10-15,Salgueiros,Est Amadora,0-0,
-1995-10-15,Sp Braga,Porto,0-3,
-1995-10-15,Tirsense,Guimaraes,2-2,
-1995-10-22,Belenenses,Salgueiros,0-1,
-1995-10-22,Boavista,Sp Braga,5-2,
-1995-10-22,Desp. Chaves,Benfica,1-2,
-1995-10-22,Est Amadora,Tirsense,0-0,
-1995-10-22,Gil Vicente,Leiria,1-0,
-1995-10-22,Guimaraes,Felgueiras,2-0,
-1995-10-22,Leca,Farense,2-1,
-1995-10-22,Porto,Campomaior,5-0,
-1995-10-22,Sp Lisbon,Maritimo,2-0,
-1995-10-29,Benfica,Leca,3-1,
-1995-10-29,Campomaior,Boavista,0-2,
-1995-10-29,Farense,Porto,0-2,
-1995-10-29,Felgueiras,Sp Braga,1-1,
-1995-10-29,Guimaraes,Est Amadora,3-0,
-1995-10-29,Leiria,Desp. Chaves,4-1,
-1995-10-29,Maritimo,Gil Vicente,1-0,
-1995-10-29,Salgueiros,Sp Lisbon,2-2,
-1995-10-29,Tirsense,Belenenses,0-0,
-1995-11-05,Belenenses,Guimaraes,1-0,
-1995-11-05,Boavista,Farense,3-0,
-1995-11-05,Desp. Chaves,Maritimo,0-2,
-1995-11-05,Est Amadora,Felgueiras,2-1,
-1995-11-05,Gil Vicente,Salgueiros,1-1,
-1995-11-05,Leca,Leiria,0-1,
-1995-11-05,Porto,Benfica,3-0,
-1995-11-05,Sp Braga,Campomaior,1-0,
-1995-11-08,Sp Lisbon,Tirsense,1-0,
-1995-11-18,Benfica,Boavista,1-1,
-1995-11-18,Leiria,Porto,0-0,
-1995-11-18,Maritimo,Leca,2-0,
-1995-11-19,Est Amadora,Belenenses,2-2,
-1995-11-19,Farense,Sp Braga,1-0,
-1995-11-19,Felgueiras,Campomaior,3-0,
-1995-11-19,Guimaraes,Sp Lisbon,1-1,
-1995-11-19,Salgueiros,Desp. Chaves,2-2,
-1995-11-19,Tirsense,Gil Vicente,1-1,
-1995-11-25,Boavista,Leiria,5-0,
-1995-11-26,Belenenses,Felgueiras,0-1,
-1995-11-26,Campomaior,Farense,1-0,
-1995-11-26,Desp. Chaves,Tirsense,2-0,
-1995-11-26,Gil Vicente,Guimaraes,2-0,
-1995-11-26,Leca,Salgueiros,1-1,
-1995-11-26,Porto,Maritimo,6-0,
-1995-11-26,Sp Braga,Benfica,1-2,
-1995-11-26,Sp Lisbon,Est Amadora,6-2,
-1995-12-10,Belenenses,Sp Lisbon,0-1,
-1995-12-10,Benfica,Campomaior,2-0,
-1995-12-10,Est Amadora,Gil Vicente,3-1,
-1995-12-10,Felgueiras,Farense,3-1,
-1995-12-10,Guimaraes,Desp. Chaves,2-1,
-1995-12-10,Leiria,Sp Braga,1-0,
-1995-12-10,Maritimo,Boavista,2-0,
-1995-12-10,Salgueiros,Porto,0-4,
-1995-12-10,Tirsense,Leca,1-3,
-1995-12-17,Boavista,Salgueiros,1-1,
-1995-12-17,Campomaior,Leiria,4-2,
-1995-12-17,Desp. Chaves,Est Amadora,0-0,
-1995-12-17,Farense,Benfica,1-3,
-1995-12-17,Gil Vicente,Belenenses,0-0,
-1995-12-17,Leca,Guimaraes,1-0,
-1995-12-17,Porto,Tirsense,5-0,
-1995-12-17,Sp Braga,Maritimo,1-1,
-1995-12-17,Sp Lisbon,Felgueiras,4-0,
-1995-12-23,Belenenses,Desp. Chaves,4-1,
-1995-12-23,Est Amadora,Leca,1-0,
-1995-12-23,Felgueiras,Benfica,1-2,
-1995-12-23,Guimaraes,Porto,0-2,
-1995-12-23,Leiria,Farense,1-0,
-1995-12-23,Maritimo,Campomaior,3-0,
-1995-12-23,Salgueiros,Sp Braga,0-0,
-1995-12-23,Sp Lisbon,Gil Vicente,4-1,
-1995-12-23,Tirsense,Boavista,1-3,
-1995-12-30,Benfica,Leiria,4-0,
-1995-12-30,Boavista,Guimaraes,2-1,
-1995-12-30,Campomaior,Salgueiros,0-0,
-1995-12-30,Farense,Maritimo,2-0,
-1995-12-30,Felgueiras,Gil Vicente,2-2,
-1995-12-30,Leca,Belenenses,0-5,
-1995-12-30,Porto,Est Amadora,6-0,
-1995-12-30,Sp Braga,Tirsense,4-0,
-1996-01-05,Sp Lisbon,Leca,2-0,
-1996-01-06,Est Amadora,Boavista,0-0,
-1996-01-06,Maritimo,Benfica,2-2,
-1996-01-07,Belenenses,Porto,1-1,
-1996-01-07,Gil Vicente,Desp. Chaves,2-0,
-1996-01-07,Guimaraes,Sp Braga,1-1,
-1996-01-07,Leiria,Felgueiras,0-0,
-1996-01-07,Salgueiros,Farense,1-0,
-1996-01-07,Tirsense,Campomaior,2-0,
-1996-01-12,Salgueiros,Benfica,4-2,
-1996-01-13,Belenenses,Boavista,1-2,
-1996-01-13,Desp. Chaves,Felgueiras,1-0,
-1996-01-13,Est Amadora,Sp Braga,4-2,
-1996-01-13,Gil Vicente,Leca,0-0,
-1996-01-13,Guimaraes,Campomaior,4-0,
-1996-01-13,Maritimo,Leiria,1-0,
-1996-01-13,Sp Lisbon,Porto,0-2,
-1996-01-13,Tirsense,Farense,2-1,
-1996-01-16,Desp. Chaves,Sp Lisbon,1-1,
-1996-01-20,Benfica,Tirsense,2-1,
-1996-01-20,Boavista,Sp Lisbon,2-1,
-1996-01-20,Campomaior,Est Amadora,2-1,
-1996-01-20,Felgueiras,Maritimo,0-3,
-1996-01-20,Leca,Desp. Chaves,4-1,
-1996-01-20,Leiria,Salgueiros,3-2,
-1996-01-20,Porto,Gil Vicente,2-0,
-1996-01-20,Sp Braga,Belenenses,1-1,
-1996-01-21,Farense,Guimaraes,0-1,
-1996-01-27,Desp. Chaves,Porto,2-3,
-1996-01-27,Est Amadora,Farense,1-1,
-1996-01-27,Gil Vicente,Boavista,1-1,
-1996-01-27,Guimaraes,Benfica,2-4,
-1996-01-27,Leca,Felgueiras,1-0,
-1996-01-27,Salgueiros,Maritimo,2-0,
-1996-01-27,Sp Lisbon,Sp Braga,0-1,
-1996-01-27,Tirsense,Leiria,0-1,
-1996-02-04,Benfica,Est Amadora,1-0,
-1996-02-04,Boavista,Desp. Chaves,2-0,
-1996-02-04,Farense,Belenenses,1-3,
-1996-02-04,Felgueiras,Salgueiros,2-0,
-1996-02-04,Leiria,Guimaraes,1-2,
-1996-02-04,Maritimo,Tirsense,1-0,
-1996-02-04,Porto,Leca,2-0,
-1996-02-04,Sp Braga,Gil Vicente,1-1,
-1996-02-05,Campomaior,Sp Lisbon,0-1,
-1996-02-08,Belenenses,Campomaior,3-1,
-1996-02-11,Belenenses,Benfica,1-0,
-1996-02-11,Desp. Chaves,Sp Braga,1-0,
-1996-02-11,Est Amadora,Leiria,2-4,
-1996-02-11,Gil Vicente,Campomaior,3-1,
-1996-02-11,Guimaraes,Maritimo,6-0,
-1996-02-11,Leca,Boavista,0-3,
-1996-02-11,Porto,Felgueiras,6-2,
-1996-02-11,Sp Lisbon,Farense,5-0,
-1996-02-11,Tirsense,Salgueiros,2-0,
-1996-02-16,Boavista,Porto,1-1,
-1996-02-17,Benfica,Sp Lisbon,0-0,
-1996-02-17,Campomaior,Desp. Chaves,2-1,
-1996-02-17,Felgueiras,Tirsense,0-1,
-1996-02-17,Leiria,Belenenses,1-0,
-1996-02-17,Maritimo,Est Amadora,1-1,
-1996-02-17,Salgueiros,Guimaraes,1-2,
-1996-02-17,Sp Braga,Leca,3-0,
-1996-02-18,Farense,Gil Vicente,5-0,
-1996-03-02,Est Amadora,Salgueiros,1-1,
-1996-03-02,Gil Vicente,Benfica,1-2,
-1996-03-03,Belenenses,Maritimo,4-1,
-1996-03-03,Boavista,Felgueiras,4-0,
-1996-03-03,Desp. Chaves,Farense,2-1,
-1996-03-03,Guimaraes,Tirsense,2-1,
-1996-03-03,Leca,Campomaior,4-1,
-1996-03-03,Porto,Sp Braga,6-3,
-1996-03-03,Sp Lisbon,Leiria,0-0,
-1996-03-06,Tirsense,Est Amadora,0-0,
-1996-03-08,Campomaior,Porto,0-1,
-1996-03-09,Benfica,Desp. Chaves,2-0,
-1996-03-10,Farense,Leca,2-0,
-1996-03-10,Felgueiras,Guimaraes,0-3,
-1996-03-10,Leiria,Gil Vicente,2-0,
-1996-03-10,Maritimo,Sp Lisbon,0-5,
-1996-03-10,Salgueiros,Belenenses,1-3,
-1996-03-10,Sp Braga,Boavista,2-0,
-1996-03-16,Est Amadora,Guimaraes,0-0,
-1996-03-16,Sp Lisbon,Salgueiros,2-2,
-1996-03-17,Belenenses,Tirsense,1-1,
-1996-03-17,Boavista,Campomaior,4-0,
-1996-03-17,Desp. Chaves,Leiria,0-1,
-1996-03-17,Gil Vicente,Maritimo,1-0,
-1996-03-17,Leca,Benfica,0-0,
-1996-03-17,Porto,Farense,2-0,
-1996-03-17,Sp Braga,Felgueiras,2-0,
-1996-03-23,Benfica,Porto,2-1,
-1996-03-23,Tirsense,Sp Lisbon,1-1,
-1996-03-24,Campomaior,Sp Braga,2-0,
-1996-03-24,Farense,Boavista,2-0,
-1996-03-24,Felgueiras,Est Amadora,2-1,
-1996-03-24,Guimaraes,Belenenses,1-0,
-1996-03-24,Leiria,Leca,1-3,
-1996-03-24,Maritimo,Desp. Chaves,0-2,
-1996-03-24,Salgueiros,Gil Vicente,2-3,
-1996-03-30,Boavista,Benfica,1-3,
-1996-03-30,Desp. Chaves,Salgueiros,1-1,
-1996-03-31,Belenenses,Est Amadora,4-1,
-1996-03-31,Campomaior,Felgueiras,2-0,
-1996-03-31,Gil Vicente,Tirsense,1-0,
-1996-03-31,Leca,Maritimo,0-0,
-1996-03-31,Porto,Leiria,1-0,
-1996-03-31,Sp Braga,Farense,3-2,
-1996-03-31,Sp Lisbon,Guimaraes,2-3,
-1996-04-03,Tirsense,Desp. Chaves,2-1,
-1996-04-04,Est Amadora,Sp Lisbon,1-1,
-1996-04-05,Benfica,Sp Braga,3-0,
-1996-04-05,Leiria,Boavista,1-0,
-1996-04-06,Farense,Campomaior,3-1,
-1996-04-06,Felgueiras,Belenenses,0-0,
-1996-04-06,Guimaraes,Gil Vicente,2-0,
-1996-04-06,Maritimo,Porto,1-1,
-1996-04-06,Salgueiros,Leca,3-0,
-1996-04-13,Desp. Chaves,Guimaraes,1-2,
-1996-04-14,Boavista,Maritimo,1-0,
-1996-04-14,Campomaior,Benfica,0-0,
-1996-04-14,Farense,Felgueiras,0-0,
-1996-04-14,Gil Vicente,Est Amadora,0-1,
-1996-04-14,Leca,Tirsense,3-1,
-1996-04-14,Porto,Salgueiros,2-0,
-1996-04-14,Sp Braga,Leiria,0-0,
-1996-04-14,Sp Lisbon,Belenenses,3-1,
-1996-04-20,Felgueiras,Sp Lisbon,0-1,
-1996-04-20,Tirsense,Porto,2-4,
-1996-04-21,Belenenses,Gil Vicente,2-2,
-1996-04-21,Benfica,Farense,0-1,
-1996-04-21,Est Amadora,Desp. Chaves,2-3,
-1996-04-21,Guimaraes,Leca,2-0,
-1996-04-21,Leiria,Campomaior,4-0,
-1996-04-21,Maritimo,Sp Braga,2-1,
-1996-04-21,Salgueiros,Boavista,0-2,
-1996-04-28,Benfica,Felgueiras,1-0,
-1996-04-28,Boavista,Tirsense,1-1,
-1996-04-28,Campomaior,Maritimo,3-1,
-1996-04-28,Desp. Chaves,Belenenses,1-0,
-1996-04-28,Farense,Leiria,1-1,
-1996-04-28,Gil Vicente,Sp Lisbon,0-2,
-1996-04-28,Leca,Est Amadora,0-2,
-1996-04-28,Porto,Guimaraes,2-3,
-1996-04-28,Sp Braga,Salgueiros,2-2,
-1996-05-05,Belenenses,Leca,5-0,
-1996-05-05,Est Amadora,Porto,1-1,
-1996-05-05,Gil Vicente,Felgueiras,2-0,
-1996-05-05,Guimaraes,Boavista,1-3,
-1996-05-05,Leiria,Benfica,0-2,
-1996-05-05,Maritimo,Farense,0-0,
-1996-05-05,Salgueiros,Campomaior,0-2,
-1996-05-05,Sp Lisbon,Desp. Chaves,4-1,
-1996-05-05,Tirsense,Sp Braga,2-0,
-1996-05-12,Benfica,Maritimo,5-1,
-1996-05-12,Boavista,Est Amadora,1-1,
-1996-05-12,Campomaior,Tirsense,3-1,
-1996-05-12,Desp. Chaves,Gil Vicente,1-0,
-1996-05-12,Farense,Salgueiros,4-1,
-1996-05-12,Felgueiras,Leiria,3-0,
-1996-05-12,Leca,Sp Lisbon,1-1,
-1996-05-12,Porto,Belenenses,1-0,
-1996-05-12,Sp Braga,Guimaraes,4-0,
+Round,Date,Team 1,FT,HT,Team 2
+?,(Sun) 20 Aug 1995 (33),Benfica (1),0-0,?,Salgueiros (1)
+?,(Sun) 20 Aug 1995 (33),Boavista (1),1-0,?,Belenenses (1)
+?,(Sun) 20 Aug 1995 (33),Campomaior (1),0-1,?,Guimaraes (1)
+?,(Sun) 20 Aug 1995 (33),Farense (1),2-1,?,Tirsense (1)
+?,(Sun) 20 Aug 1995 (33),Felgueiras (1),2-2,?,Desp. Chaves (1)
+?,(Sun) 20 Aug 1995 (33),Leca (1),0-2,?,Gil Vicente (1)
+?,(Sun) 20 Aug 1995 (33),Leiria (1),0-4,?,Maritimo (1)
+?,(Sun) 20 Aug 1995 (33),Porto (1),2-1,?,Sp Lisbon (1)
+?,(Sun) 20 Aug 1995 (33),Sp Braga (1),2-1,?,Est Amadora (1)
+?,(Sun) 27 Aug 1995 (34),Belenenses (2),1-1,?,Sp Braga (2)
+?,(Sun) 27 Aug 1995 (34),Desp. Chaves (2),2-2,?,Leca (2)
+?,(Sun) 27 Aug 1995 (34),Est Amadora (2),2-0,?,Campomaior (2)
+?,(Sun) 27 Aug 1995 (34),Gil Vicente (2),0-1,?,Porto (2)
+?,(Sun) 27 Aug 1995 (34),Guimaraes (2),1-0,?,Farense (2)
+?,(Sun) 27 Aug 1995 (34),Maritimo (2),0-2,?,Felgueiras (2)
+?,(Sun) 27 Aug 1995 (34),Salgueiros (2),4-0,?,Leiria (2)
+?,(Sun) 27 Aug 1995 (34),Sp Lisbon (2),0-0,?,Boavista (2)
+?,(Sun) 27 Aug 1995 (34),Tirsense (2),0-1,?,Benfica (2)
+?,(Sun) 3 Sep 1995 (35),Benfica (3),1-1,?,Guimaraes (3)
+?,(Sun) 3 Sep 1995 (35),Boavista (3),3-0,?,Gil Vicente (3)
+?,(Sun) 3 Sep 1995 (35),Campomaior (3),2-3,?,Belenenses (3)
+?,(Sun) 3 Sep 1995 (35),Farense (3),1-0,?,Est Amadora (3)
+?,(Sun) 3 Sep 1995 (35),Felgueiras (3),1-2,?,Leca (3)
+?,(Sun) 3 Sep 1995 (35),Leiria (3),5-1,?,Tirsense (3)
+?,(Sun) 3 Sep 1995 (35),Maritimo (3),3-1,?,Salgueiros (3)
+?,(Sun) 3 Sep 1995 (35),Porto (3),2-0,?,Desp. Chaves (3)
+?,(Sun) 3 Sep 1995 (35),Sp Braga (3),1-3,?,Sp Lisbon (3)
+?,(Sun) 10 Sep 1995 (36),Belenenses (4),2-1,?,Farense (4)
+?,(Sun) 10 Sep 1995 (36),Desp. Chaves (4),2-3,?,Boavista (4)
+?,(Sun) 10 Sep 1995 (36),Est Amadora (4),0-1,?,Benfica (4)
+?,(Sun) 10 Sep 1995 (36),Gil Vicente (4),1-2,?,Sp Braga (4)
+?,(Sun) 10 Sep 1995 (36),Guimaraes (4),3-0,?,Leiria (4)
+?,(Sun) 10 Sep 1995 (36),Salgueiros (4),0-0,?,Felgueiras (4)
+?,(Sun) 10 Sep 1995 (36),Tirsense (4),2-1,?,Maritimo (4)
+?,(Mon) 18 Sep 1995 (38),Leca (4),0-2,?,Porto (4)
+?,(Mon) 18 Sep 1995 (38),Sp Lisbon (4),7-1,?,Campomaior (4)
+?,(Sat) 23 Sep 1995 (38),Benfica (5),1-0,?,Belenenses (5)
+?,(Sat) 23 Sep 1995 (38),Boavista (5),2-0,?,Leca (5)
+?,(Sat) 23 Sep 1995 (38),Campomaior (5),2-0,?,Gil Vicente (5)
+?,(Sat) 23 Sep 1995 (38),Farense (5),0-1,?,Sp Lisbon (5)
+?,(Sat) 23 Sep 1995 (38),Felgueiras (5),1-1,?,Porto (5)
+?,(Sat) 23 Sep 1995 (38),Leiria (5),2-1,?,Est Amadora (5)
+?,(Sat) 23 Sep 1995 (38),Maritimo (5),4-0,?,Guimaraes (5)
+?,(Sat) 23 Sep 1995 (38),Salgueiros (5),1-1,?,Tirsense (5)
+?,(Sat) 23 Sep 1995 (38),Sp Braga (5),1-0,?,Desp. Chaves (5)
+?,(Sun) 1 Oct 1995 (39),Belenenses (6),3-1,?,Leiria (6)
+?,(Sun) 1 Oct 1995 (39),Desp. Chaves (6),4-1,?,Campomaior (6)
+?,(Sun) 1 Oct 1995 (39),Est Amadora (6),1-1,?,Maritimo (6)
+?,(Sun) 1 Oct 1995 (39),Gil Vicente (6),2-2,?,Farense (6)
+?,(Sun) 1 Oct 1995 (39),Guimaraes (6),1-2,?,Salgueiros (6)
+?,(Sun) 1 Oct 1995 (39),Leca (6),0-1,?,Sp Braga (6)
+?,(Sun) 1 Oct 1995 (39),Sp Lisbon (6),2-0,?,Benfica (6)
+?,(Sun) 1 Oct 1995 (39),Tirsense (6),0-0,?,Felgueiras (6)
+?,(Mon) 2 Oct 1995 (40),Porto (6),1-0,?,Boavista (6)
+?,(Sun) 15 Oct 1995 (41),Benfica (7),3-0,?,Gil Vicente (7)
+?,(Sun) 15 Oct 1995 (41),Campomaior (7),1-1,?,Leca (7)
+?,(Sun) 15 Oct 1995 (41),Farense (7),0-0,?,Desp. Chaves (7)
+?,(Sun) 15 Oct 1995 (41),Felgueiras (7),2-0,?,Boavista (7)
+?,(Sun) 15 Oct 1995 (41),Leiria (7),1-2,?,Sp Lisbon (7)
+?,(Sun) 15 Oct 1995 (41),Maritimo (7),1-2,?,Belenenses (7)
+?,(Sun) 15 Oct 1995 (41),Salgueiros (7),0-0,?,Est Amadora (7)
+?,(Sun) 15 Oct 1995 (41),Sp Braga (7),0-3,?,Porto (7)
+?,(Sun) 15 Oct 1995 (41),Tirsense (7),2-2,?,Guimaraes (7)
+?,(Sun) 22 Oct 1995 (42),Belenenses (8),0-1,?,Salgueiros (8)
+?,(Sun) 22 Oct 1995 (42),Boavista (8),5-2,?,Sp Braga (8)
+?,(Sun) 22 Oct 1995 (42),Desp. Chaves (8),1-2,?,Benfica (8)
+?,(Sun) 22 Oct 1995 (42),Est Amadora (8),0-0,?,Tirsense (8)
+?,(Sun) 22 Oct 1995 (42),Gil Vicente (8),1-0,?,Leiria (8)
+?,(Sun) 22 Oct 1995 (42),Guimaraes (8),2-0,?,Felgueiras (8)
+?,(Sun) 22 Oct 1995 (42),Leca (8),2-1,?,Farense (8)
+?,(Sun) 22 Oct 1995 (42),Porto (8),5-0,?,Campomaior (8)
+?,(Sun) 22 Oct 1995 (42),Sp Lisbon (8),2-0,?,Maritimo (8)
+?,(Sun) 29 Oct 1995 (43),Benfica (9),3-1,?,Leca (9)
+?,(Sun) 29 Oct 1995 (43),Campomaior (9),0-2,?,Boavista (9)
+?,(Sun) 29 Oct 1995 (43),Farense (9),0-2,?,Porto (9)
+?,(Sun) 29 Oct 1995 (43),Felgueiras (9),1-1,?,Sp Braga (9)
+?,(Sun) 29 Oct 1995 (43),Guimaraes (9),3-0,?,Est Amadora (9)
+?,(Sun) 29 Oct 1995 (43),Leiria (9),4-1,?,Desp. Chaves (9)
+?,(Sun) 29 Oct 1995 (43),Maritimo (9),1-0,?,Gil Vicente (9)
+?,(Sun) 29 Oct 1995 (43),Salgueiros (9),2-2,?,Sp Lisbon (9)
+?,(Sun) 29 Oct 1995 (43),Tirsense (9),0-0,?,Belenenses (9)
+?,(Sun) 5 Nov 1995 (44),Belenenses (10),1-0,?,Guimaraes (10)
+?,(Sun) 5 Nov 1995 (44),Boavista (10),3-0,?,Farense (10)
+?,(Sun) 5 Nov 1995 (44),Desp. Chaves (10),0-2,?,Maritimo (10)
+?,(Sun) 5 Nov 1995 (44),Est Amadora (10),2-1,?,Felgueiras (10)
+?,(Sun) 5 Nov 1995 (44),Gil Vicente (10),1-1,?,Salgueiros (10)
+?,(Sun) 5 Nov 1995 (44),Leca (10),0-1,?,Leiria (10)
+?,(Sun) 5 Nov 1995 (44),Porto (10),3-0,?,Benfica (10)
+?,(Sun) 5 Nov 1995 (44),Sp Braga (10),1-0,?,Campomaior (10)
+?,(Wed) 8 Nov 1995 (45),Sp Lisbon (10),1-0,?,Tirsense (10)
+?,(Sat) 18 Nov 1995 (46),Benfica (11),1-1,?,Boavista (11)
+?,(Sat) 18 Nov 1995 (46),Leiria (11),0-0,?,Porto (11)
+?,(Sat) 18 Nov 1995 (46),Maritimo (11),2-0,?,Leca (11)
+?,(Sun) 19 Nov 1995 (46),Est Amadora (11),2-2,?,Belenenses (11)
+?,(Sun) 19 Nov 1995 (46),Farense (11),1-0,?,Sp Braga (11)
+?,(Sun) 19 Nov 1995 (46),Felgueiras (11),3-0,?,Campomaior (11)
+?,(Sun) 19 Nov 1995 (46),Guimaraes (11),1-1,?,Sp Lisbon (11)
+?,(Sun) 19 Nov 1995 (46),Salgueiros (11),2-2,?,Desp. Chaves (11)
+?,(Sun) 19 Nov 1995 (46),Tirsense (11),1-1,?,Gil Vicente (11)
+?,(Sat) 25 Nov 1995 (47),Boavista (12),5-0,?,Leiria (12)
+?,(Sun) 26 Nov 1995 (47),Belenenses (12),0-1,?,Felgueiras (12)
+?,(Sun) 26 Nov 1995 (47),Campomaior (12),1-0,?,Farense (12)
+?,(Sun) 26 Nov 1995 (47),Desp. Chaves (12),2-0,?,Tirsense (12)
+?,(Sun) 26 Nov 1995 (47),Gil Vicente (12),2-0,?,Guimaraes (12)
+?,(Sun) 26 Nov 1995 (47),Leca (12),1-1,?,Salgueiros (12)
+?,(Sun) 26 Nov 1995 (47),Porto (12),6-0,?,Maritimo (12)
+?,(Sun) 26 Nov 1995 (47),Sp Braga (12),1-2,?,Benfica (12)
+?,(Sun) 26 Nov 1995 (47),Sp Lisbon (12),6-2,?,Est Amadora (12)
+?,(Sun) 10 Dec 1995 (49),Belenenses (13),0-1,?,Sp Lisbon (13)
+?,(Sun) 10 Dec 1995 (49),Benfica (13),2-0,?,Campomaior (13)
+?,(Sun) 10 Dec 1995 (49),Est Amadora (13),3-1,?,Gil Vicente (13)
+?,(Sun) 10 Dec 1995 (49),Felgueiras (13),3-1,?,Farense (13)
+?,(Sun) 10 Dec 1995 (49),Guimaraes (13),2-1,?,Desp. Chaves (13)
+?,(Sun) 10 Dec 1995 (49),Leiria (13),1-0,?,Sp Braga (13)
+?,(Sun) 10 Dec 1995 (49),Maritimo (13),2-0,?,Boavista (13)
+?,(Sun) 10 Dec 1995 (49),Salgueiros (13),0-4,?,Porto (13)
+?,(Sun) 10 Dec 1995 (49),Tirsense (13),1-3,?,Leca (13)
+?,(Sun) 17 Dec 1995 (50),Boavista (14),1-1,?,Salgueiros (14)
+?,(Sun) 17 Dec 1995 (50),Campomaior (14),4-2,?,Leiria (14)
+?,(Sun) 17 Dec 1995 (50),Desp. Chaves (14),0-0,?,Est Amadora (14)
+?,(Sun) 17 Dec 1995 (50),Farense (14),1-3,?,Benfica (14)
+?,(Sun) 17 Dec 1995 (50),Gil Vicente (14),0-0,?,Belenenses (14)
+?,(Sun) 17 Dec 1995 (50),Leca (14),1-0,?,Guimaraes (14)
+?,(Sun) 17 Dec 1995 (50),Porto (14),5-0,?,Tirsense (14)
+?,(Sun) 17 Dec 1995 (50),Sp Braga (14),1-1,?,Maritimo (14)
+?,(Sun) 17 Dec 1995 (50),Sp Lisbon (14),4-0,?,Felgueiras (14)
+?,(Sat) 23 Dec 1995 (51),Belenenses (15),4-1,?,Desp. Chaves (15)
+?,(Sat) 23 Dec 1995 (51),Est Amadora (15),1-0,?,Leca (15)
+?,(Sat) 23 Dec 1995 (51),Felgueiras (15),1-2,?,Benfica (15)
+?,(Sat) 23 Dec 1995 (51),Guimaraes (15),0-2,?,Porto (15)
+?,(Sat) 23 Dec 1995 (51),Leiria (15),1-0,?,Farense (15)
+?,(Sat) 23 Dec 1995 (51),Maritimo (15),3-0,?,Campomaior (15)
+?,(Sat) 23 Dec 1995 (51),Salgueiros (15),0-0,?,Sp Braga (15)
+?,(Sat) 23 Dec 1995 (51),Sp Lisbon (15),4-1,?,Gil Vicente (15)
+?,(Sat) 23 Dec 1995 (51),Tirsense (15),1-3,?,Boavista (15)
+?,(Sat) 30 Dec 1995 (52),Benfica (16),4-0,?,Leiria (16)
+?,(Sat) 30 Dec 1995 (52),Boavista (16),2-1,?,Guimaraes (16)
+?,(Sat) 30 Dec 1995 (52),Campomaior (16),0-0,?,Salgueiros (16)
+?,(Sat) 30 Dec 1995 (52),Farense (16),2-0,?,Maritimo (16)
+?,(Sat) 30 Dec 1995 (52),Felgueiras (16),2-2,?,Gil Vicente (16)
+?,(Sat) 30 Dec 1995 (52),Leca (16),0-5,?,Belenenses (16)
+?,(Sat) 30 Dec 1995 (52),Porto (16),6-0,?,Est Amadora (16)
+?,(Sat) 30 Dec 1995 (52),Sp Braga (16),4-0,?,Tirsense (16)
+?,(Fri) 5 Jan 1996 (1),Sp Lisbon (16),2-0,?,Leca (17)
+?,(Sat) 6 Jan 1996 (1),Est Amadora (17),0-0,?,Boavista (17)
+?,(Sat) 6 Jan 1996 (1),Maritimo (17),2-2,?,Benfica (17)
+?,(Sun) 7 Jan 1996 (1),Belenenses (17),1-1,?,Porto (17)
+?,(Sun) 7 Jan 1996 (1),Gil Vicente (17),2-0,?,Desp. Chaves (16)
+?,(Sun) 7 Jan 1996 (1),Guimaraes (17),1-1,?,Sp Braga (17)
+?,(Sun) 7 Jan 1996 (1),Leiria (17),0-0,?,Felgueiras (17)
+?,(Sun) 7 Jan 1996 (1),Salgueiros (17),1-0,?,Farense (17)
+?,(Sun) 7 Jan 1996 (1),Tirsense (17),2-0,?,Campomaior (17)
+?,(Fri) 12 Jan 1996 (2),Salgueiros (18),4-2,?,Benfica (18)
+?,(Sat) 13 Jan 1996 (2),Belenenses (18),1-2,?,Boavista (18)
+?,(Sat) 13 Jan 1996 (2),Desp. Chaves (17),1-0,?,Felgueiras (18)
+?,(Sat) 13 Jan 1996 (2),Est Amadora (18),4-2,?,Sp Braga (18)
+?,(Sat) 13 Jan 1996 (2),Gil Vicente (18),0-0,?,Leca (18)
+?,(Sat) 13 Jan 1996 (2),Guimaraes (18),4-0,?,Campomaior (18)
+?,(Sat) 13 Jan 1996 (2),Maritimo (18),1-0,?,Leiria (18)
+?,(Sat) 13 Jan 1996 (2),Sp Lisbon (17),0-2,?,Porto (18)
+?,(Sat) 13 Jan 1996 (2),Tirsense (18),2-1,?,Farense (18)
+?,(Tue) 16 Jan 1996 (3),Desp. Chaves (18),1-1,?,Sp Lisbon (18)
+?,(Sat) 20 Jan 1996 (3),Benfica (19),2-1,?,Tirsense (19)
+?,(Sat) 20 Jan 1996 (3),Boavista (19),2-1,?,Sp Lisbon (19)
+?,(Sat) 20 Jan 1996 (3),Campomaior (19),2-1,?,Est Amadora (19)
+?,(Sat) 20 Jan 1996 (3),Felgueiras (19),0-3,?,Maritimo (19)
+?,(Sat) 20 Jan 1996 (3),Leca (19),4-1,?,Desp. Chaves (19)
+?,(Sat) 20 Jan 1996 (3),Leiria (19),3-2,?,Salgueiros (19)
+?,(Sat) 20 Jan 1996 (3),Porto (19),2-0,?,Gil Vicente (19)
+?,(Sat) 20 Jan 1996 (3),Sp Braga (19),1-1,?,Belenenses (19)
+?,(Sun) 21 Jan 1996 (3),Farense (19),0-1,?,Guimaraes (19)
+?,(Sat) 27 Jan 1996 (4),Desp. Chaves (20),2-3,?,Porto (20)
+?,(Sat) 27 Jan 1996 (4),Est Amadora (20),1-1,?,Farense (20)
+?,(Sat) 27 Jan 1996 (4),Gil Vicente (20),1-1,?,Boavista (20)
+?,(Sat) 27 Jan 1996 (4),Guimaraes (20),2-4,?,Benfica (20)
+?,(Sat) 27 Jan 1996 (4),Leca (20),1-0,?,Felgueiras (20)
+?,(Sat) 27 Jan 1996 (4),Salgueiros (20),2-0,?,Maritimo (20)
+?,(Sat) 27 Jan 1996 (4),Sp Lisbon (20),0-1,?,Sp Braga (20)
+?,(Sat) 27 Jan 1996 (4),Tirsense (20),0-1,?,Leiria (20)
+?,(Sun) 4 Feb 1996 (5),Benfica (21),1-0,?,Est Amadora (21)
+?,(Sun) 4 Feb 1996 (5),Boavista (21),2-0,?,Desp. Chaves (21)
+?,(Sun) 4 Feb 1996 (5),Farense (21),1-3,?,Belenenses (20)
+?,(Sun) 4 Feb 1996 (5),Felgueiras (21),2-0,?,Salgueiros (21)
+?,(Sun) 4 Feb 1996 (5),Leiria (21),1-2,?,Guimaraes (21)
+?,(Sun) 4 Feb 1996 (5),Maritimo (21),1-0,?,Tirsense (21)
+?,(Sun) 4 Feb 1996 (5),Porto (21),2-0,?,Leca (21)
+?,(Sun) 4 Feb 1996 (5),Sp Braga (21),1-1,?,Gil Vicente (21)
+?,(Mon) 5 Feb 1996 (6),Campomaior (20),0-1,?,Sp Lisbon (21)
+?,(Thu) 8 Feb 1996 (6),Belenenses (21),3-1,?,Campomaior (21)
+?,(Sun) 11 Feb 1996 (6),Belenenses (22),1-0,?,Benfica (22)
+?,(Sun) 11 Feb 1996 (6),Desp. Chaves (22),1-0,?,Sp Braga (22)
+?,(Sun) 11 Feb 1996 (6),Est Amadora (22),2-4,?,Leiria (22)
+?,(Sun) 11 Feb 1996 (6),Gil Vicente (22),3-1,?,Campomaior (22)
+?,(Sun) 11 Feb 1996 (6),Guimaraes (22),6-0,?,Maritimo (22)
+?,(Sun) 11 Feb 1996 (6),Leca (22),0-3,?,Boavista (22)
+?,(Sun) 11 Feb 1996 (6),Porto (22),6-2,?,Felgueiras (22)
+?,(Sun) 11 Feb 1996 (6),Sp Lisbon (22),5-0,?,Farense (22)
+?,(Sun) 11 Feb 1996 (6),Tirsense (22),2-0,?,Salgueiros (22)
+?,(Fri) 16 Feb 1996 (7),Boavista (23),1-1,?,Porto (23)
+?,(Sat) 17 Feb 1996 (7),Benfica (23),0-0,?,Sp Lisbon (23)
+?,(Sat) 17 Feb 1996 (7),Campomaior (23),2-1,?,Desp. Chaves (23)
+?,(Sat) 17 Feb 1996 (7),Felgueiras (23),0-1,?,Tirsense (23)
+?,(Sat) 17 Feb 1996 (7),Leiria (23),1-0,?,Belenenses (23)
+?,(Sat) 17 Feb 1996 (7),Maritimo (23),1-1,?,Est Amadora (23)
+?,(Sat) 17 Feb 1996 (7),Salgueiros (23),1-2,?,Guimaraes (23)
+?,(Sat) 17 Feb 1996 (7),Sp Braga (23),3-0,?,Leca (23)
+?,(Sun) 18 Feb 1996 (7),Farense (23),5-0,?,Gil Vicente (23)
+?,(Sat) 2 Mar 1996 (9),Est Amadora (24),1-1,?,Salgueiros (24)
+?,(Sat) 2 Mar 1996 (9),Gil Vicente (24),1-2,?,Benfica (24)
+?,(Sun) 3 Mar 1996 (9),Belenenses (24),4-1,?,Maritimo (24)
+?,(Sun) 3 Mar 1996 (9),Boavista (24),4-0,?,Felgueiras (24)
+?,(Sun) 3 Mar 1996 (9),Desp. Chaves (24),2-1,?,Farense (24)
+?,(Sun) 3 Mar 1996 (9),Guimaraes (24),2-1,?,Tirsense (24)
+?,(Sun) 3 Mar 1996 (9),Leca (24),4-1,?,Campomaior (24)
+?,(Sun) 3 Mar 1996 (9),Porto (24),6-3,?,Sp Braga (24)
+?,(Sun) 3 Mar 1996 (9),Sp Lisbon (24),0-0,?,Leiria (24)
+?,(Wed) 6 Mar 1996 (10),Tirsense (25),0-0,?,Est Amadora (25)
+?,(Fri) 8 Mar 1996 (10),Campomaior (25),0-1,?,Porto (25)
+?,(Sat) 9 Mar 1996 (10),Benfica (25),2-0,?,Desp. Chaves (25)
+?,(Sun) 10 Mar 1996 (10),Farense (25),2-0,?,Leca (25)
+?,(Sun) 10 Mar 1996 (10),Felgueiras (25),0-3,?,Guimaraes (25)
+?,(Sun) 10 Mar 1996 (10),Leiria (25),2-0,?,Gil Vicente (25)
+?,(Sun) 10 Mar 1996 (10),Maritimo (25),0-5,?,Sp Lisbon (25)
+?,(Sun) 10 Mar 1996 (10),Salgueiros (25),1-3,?,Belenenses (25)
+?,(Sun) 10 Mar 1996 (10),Sp Braga (25),2-0,?,Boavista (25)
+?,(Sat) 16 Mar 1996 (11),Est Amadora (26),0-0,?,Guimaraes (26)
+?,(Sat) 16 Mar 1996 (11),Sp Lisbon (26),2-2,?,Salgueiros (26)
+?,(Sun) 17 Mar 1996 (11),Belenenses (26),1-1,?,Tirsense (26)
+?,(Sun) 17 Mar 1996 (11),Boavista (26),4-0,?,Campomaior (26)
+?,(Sun) 17 Mar 1996 (11),Desp. Chaves (26),0-1,?,Leiria (26)
+?,(Sun) 17 Mar 1996 (11),Gil Vicente (26),1-0,?,Maritimo (26)
+?,(Sun) 17 Mar 1996 (11),Leca (26),0-0,?,Benfica (26)
+?,(Sun) 17 Mar 1996 (11),Porto (26),2-0,?,Farense (26)
+?,(Sun) 17 Mar 1996 (11),Sp Braga (26),2-0,?,Felgueiras (26)
+?,(Sat) 23 Mar 1996 (12),Benfica (27),2-1,?,Porto (27)
+?,(Sat) 23 Mar 1996 (12),Tirsense (27),1-1,?,Sp Lisbon (27)
+?,(Sun) 24 Mar 1996 (12),Campomaior (27),2-0,?,Sp Braga (27)
+?,(Sun) 24 Mar 1996 (12),Farense (27),2-0,?,Boavista (27)
+?,(Sun) 24 Mar 1996 (12),Felgueiras (27),2-1,?,Est Amadora (27)
+?,(Sun) 24 Mar 1996 (12),Guimaraes (27),1-0,?,Belenenses (27)
+?,(Sun) 24 Mar 1996 (12),Leiria (27),1-3,?,Leca (27)
+?,(Sun) 24 Mar 1996 (12),Maritimo (27),0-2,?,Desp. Chaves (27)
+?,(Sun) 24 Mar 1996 (12),Salgueiros (27),2-3,?,Gil Vicente (27)
+?,(Sat) 30 Mar 1996 (13),Boavista (28),1-3,?,Benfica (28)
+?,(Sat) 30 Mar 1996 (13),Desp. Chaves (28),1-1,?,Salgueiros (28)
+?,(Sun) 31 Mar 1996 (13),Belenenses (28),4-1,?,Est Amadora (28)
+?,(Sun) 31 Mar 1996 (13),Campomaior (28),2-0,?,Felgueiras (28)
+?,(Sun) 31 Mar 1996 (13),Gil Vicente (28),1-0,?,Tirsense (28)
+?,(Sun) 31 Mar 1996 (13),Leca (28),0-0,?,Maritimo (28)
+?,(Sun) 31 Mar 1996 (13),Porto (28),1-0,?,Leiria (28)
+?,(Sun) 31 Mar 1996 (13),Sp Braga (28),3-2,?,Farense (28)
+?,(Sun) 31 Mar 1996 (13),Sp Lisbon (28),2-3,?,Guimaraes (28)
+?,(Wed) 3 Apr 1996 (14),Tirsense (29),2-1,?,Desp. Chaves (29)
+?,(Thu) 4 Apr 1996 (14),Est Amadora (29),1-1,?,Sp Lisbon (29)
+?,(Fri) 5 Apr 1996 (14),Benfica (29),3-0,?,Sp Braga (29)
+?,(Fri) 5 Apr 1996 (14),Leiria (29),1-0,?,Boavista (29)
+?,(Sat) 6 Apr 1996 (14),Farense (29),3-1,?,Campomaior (29)
+?,(Sat) 6 Apr 1996 (14),Felgueiras (29),0-0,?,Belenenses (29)
+?,(Sat) 6 Apr 1996 (14),Guimaraes (29),2-0,?,Gil Vicente (29)
+?,(Sat) 6 Apr 1996 (14),Maritimo (29),1-1,?,Porto (29)
+?,(Sat) 6 Apr 1996 (14),Salgueiros (29),3-0,?,Leca (29)
+?,(Sat) 13 Apr 1996 (15),Desp. Chaves (30),1-2,?,Guimaraes (30)
+?,(Sun) 14 Apr 1996 (15),Boavista (30),1-0,?,Maritimo (30)
+?,(Sun) 14 Apr 1996 (15),Campomaior (30),0-0,?,Benfica (30)
+?,(Sun) 14 Apr 1996 (15),Farense (30),0-0,?,Felgueiras (30)
+?,(Sun) 14 Apr 1996 (15),Gil Vicente (30),0-1,?,Est Amadora (30)
+?,(Sun) 14 Apr 1996 (15),Leca (30),3-1,?,Tirsense (30)
+?,(Sun) 14 Apr 1996 (15),Porto (30),2-0,?,Salgueiros (30)
+?,(Sun) 14 Apr 1996 (15),Sp Braga (30),0-0,?,Leiria (30)
+?,(Sun) 14 Apr 1996 (15),Sp Lisbon (30),3-1,?,Belenenses (30)
+?,(Sat) 20 Apr 1996 (16),Felgueiras (31),0-1,?,Sp Lisbon (31)
+?,(Sat) 20 Apr 1996 (16),Tirsense (31),2-4,?,Porto (31)
+?,(Sun) 21 Apr 1996 (16),Belenenses (31),2-2,?,Gil Vicente (31)
+?,(Sun) 21 Apr 1996 (16),Benfica (31),0-1,?,Farense (31)
+?,(Sun) 21 Apr 1996 (16),Est Amadora (31),2-3,?,Desp. Chaves (31)
+?,(Sun) 21 Apr 1996 (16),Guimaraes (31),2-0,?,Leca (31)
+?,(Sun) 21 Apr 1996 (16),Leiria (31),4-0,?,Campomaior (31)
+?,(Sun) 21 Apr 1996 (16),Maritimo (31),2-1,?,Sp Braga (31)
+?,(Sun) 21 Apr 1996 (16),Salgueiros (31),0-2,?,Boavista (31)
+?,(Sun) 28 Apr 1996 (17),Benfica (32),1-0,?,Felgueiras (32)
+?,(Sun) 28 Apr 1996 (17),Boavista (32),1-1,?,Tirsense (32)
+?,(Sun) 28 Apr 1996 (17),Campomaior (32),3-1,?,Maritimo (32)
+?,(Sun) 28 Apr 1996 (17),Desp. Chaves (32),1-0,?,Belenenses (32)
+?,(Sun) 28 Apr 1996 (17),Farense (32),1-1,?,Leiria (32)
+?,(Sun) 28 Apr 1996 (17),Gil Vicente (32),0-2,?,Sp Lisbon (32)
+?,(Sun) 28 Apr 1996 (17),Leca (32),0-2,?,Est Amadora (32)
+?,(Sun) 28 Apr 1996 (17),Porto (32),2-3,?,Guimaraes (32)
+?,(Sun) 28 Apr 1996 (17),Sp Braga (32),2-2,?,Salgueiros (32)
+?,(Sun) 5 May 1996 (18),Belenenses (33),5-0,?,Leca (33)
+?,(Sun) 5 May 1996 (18),Est Amadora (33),1-1,?,Porto (33)
+?,(Sun) 5 May 1996 (18),Gil Vicente (33),2-0,?,Felgueiras (33)
+?,(Sun) 5 May 1996 (18),Guimaraes (33),1-3,?,Boavista (33)
+?,(Sun) 5 May 1996 (18),Leiria (33),0-2,?,Benfica (33)
+?,(Sun) 5 May 1996 (18),Maritimo (33),0-0,?,Farense (33)
+?,(Sun) 5 May 1996 (18),Salgueiros (33),0-2,?,Campomaior (33)
+?,(Sun) 5 May 1996 (18),Sp Lisbon (33),4-1,?,Desp. Chaves (33)
+?,(Sun) 5 May 1996 (18),Tirsense (33),2-0,?,Sp Braga (33)
+?,(Sun) 12 May 1996 (19),Benfica (34),5-1,?,Maritimo (34)
+?,(Sun) 12 May 1996 (19),Boavista (34),1-1,?,Est Amadora (34)
+?,(Sun) 12 May 1996 (19),Campomaior (34),3-1,?,Tirsense (34)
+?,(Sun) 12 May 1996 (19),Desp. Chaves (34),1-0,?,Gil Vicente (34)
+?,(Sun) 12 May 1996 (19),Farense (34),4-1,?,Salgueiros (34)
+?,(Sun) 12 May 1996 (19),Felgueiras (34),3-0,?,Leiria (34)
+?,(Sun) 12 May 1996 (19),Leca (34),1-1,?,Sp Lisbon (34)
+?,(Sun) 12 May 1996 (19),Porto (34),1-0,?,Belenenses (34)
+?,(Sun) 12 May 1996 (19),Sp Braga (34),4-0,?,Guimaraes (34)

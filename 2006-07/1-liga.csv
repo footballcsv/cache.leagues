@@ -1,241 +1,241 @@
-Date,Team 1,Team 2,FT,HT
-2006-08-25,Porto,Leiria,2-1,2-0
-2006-08-26,Beira Mar,Aves,2-2,1-1
-2006-08-26,Sp Braga,Pacos Ferreira,2-1,0-0
-2006-08-26,Sp Lisbon,Boavista,3-2,0-1
-2006-08-27,Maritimo,Nacional,1-0,1-0
-2006-08-27,Naval,Est Amadora,2-0,1-0
-2006-08-28,Setubal,Academica,1-1,0-0
-2006-09-08,Aves,Sp Braga,0-1,0-1
-2006-09-09,Boavista,Benfica,3-0,1-0
-2006-09-09,Nacional,Sp Lisbon,0-1,0-1
-2006-09-10,Academica,Naval,1-2,1-0
-2006-09-10,Belenenses,Setubal,2-0,1-0
-2006-09-10,Est Amadora,Porto,0-3,0-0
-2006-09-10,Pacos Ferreira,Maritimo,2-1,1-0
-2006-09-11,Leiria,Beira Mar,2-2,0-1
-2006-09-16,Sp Lisbon,Pacos Ferreira,0-1,0-1
-2006-09-17,Academica,Belenenses,1-1,1-1
-2006-09-17,Beira Mar,Est Amadora,2-0,1-0
-2006-09-17,Benfica,Nacional,1-0,1-0
-2006-09-17,Maritimo,Aves,0-0,0-0
-2006-09-17,Naval,Porto,0-2,0-2
-2006-09-18,Sp Braga,Leiria,0-1,0-1
-2006-09-19,Setubal,Boavista,1-0,0-0
-2006-09-22,Pacos Ferreira,Benfica,1-1,0-1
-2006-09-22,Porto,Beira Mar,3-0,0-0
-2006-09-23,Aves,Sp Lisbon,0-2,0-1
-2006-09-23,Belenenses,Naval,0-0,0-0
-2006-09-23,Est Amadora,Sp Braga,0-0,0-0
-2006-09-24,Boavista,Academica,2-2,1-1
-2006-09-24,Nacional,Setubal,1-0,0-0
-2006-09-25,Leiria,Maritimo,1-0,0-0
-2006-09-29,Naval,Beira Mar,2-1,0-0
-2006-09-30,Belenenses,Boavista,0-2,0-2
-2006-10-01,Academica,Nacional,1-3,1-1
-2006-10-01,Benfica,Aves,4-1,1-1
-2006-10-01,Maritimo,Est Amadora,2-1,0-0
-2006-10-02,Setubal,Pacos Ferreira,1-1,1-0
-2006-10-02,Sp Braga,Porto,2-1,1-1
-2006-10-02,Sp Lisbon,Leiria,2-0,1-0
-2006-10-13,Beira Mar,Sp Braga,0-3,0-1
-2006-10-14,Leiria,Benfica,0-4,0-2
-2006-10-14,Porto,Maritimo,3-0,1-0
-2006-10-15,Aves,Setubal,1-2,0-0
-2006-10-15,Est Amadora,Sp Lisbon,0-1,0-1
-2006-10-15,Nacional,Belenenses,2-1,1-1
-2006-10-15,Pacos Ferreira,Academica,1-1,0-1
-2006-10-16,Boavista,Naval,0-1,0-0
-2006-10-20,Belenenses,Pacos Ferreira,2-0,2-0
-2006-10-21,Boavista,Nacional,0-4,0-2
-2006-10-22,Academica,Aves,2-0,1-0
-2006-10-22,Benfica,Est Amadora,3-1,1-1
-2006-10-22,Maritimo,Beira Mar,2-1,0-0
-2006-10-22,Setubal,Leiria,1-2,1-1
-2006-10-22,Sp Lisbon,Porto,1-1,1-0
-2006-10-23,Naval,Sp Braga,1-1,0-1
-2006-10-27,Beira Mar,Sp Lisbon,3-3,1-0
-2006-10-28,Leiria,Academica,2-0,1-0
-2006-10-28,Porto,Benfica,3-2,2-0
-2006-10-29,Aves,Belenenses,0-1,0-0
-2006-10-29,Est Amadora,Setubal,1-0,0-0
-2006-10-29,Nacional,Naval,1-1,1-1
-2006-10-29,Sp Braga,Maritimo,1-4,0-2
-2006-10-30,Pacos Ferreira,Boavista,2-0,1-0
-2006-11-03,Belenenses,Leiria,0-1,0-1
-2006-11-04,Boavista,Aves,2-1,0-1
-2006-11-05,Academica,Est Amadora,2-0,0-0
-2006-11-05,Benfica,Beira Mar,3-0,0-0
-2006-11-05,Nacional,Pacos Ferreira,5-1,3-0
-2006-11-05,Naval,Maritimo,0-1,0-0
-2006-11-06,Setubal,Porto,0-3,0-2
-2006-11-06,Sp Lisbon,Sp Braga,3-0,2-0
-2006-11-17,Beira Mar,Setubal,1-1,0-0
-2006-11-18,Porto,Academica,2-1,0-0
-2006-11-18,Sp Braga,Benfica,3-1,2-1
-2006-11-19,Aves,Nacional,3-1,1-1
-2006-11-19,Leiria,Boavista,0-0,0-0
-2006-11-19,Maritimo,Sp Lisbon,0-1,0-0
-2006-11-19,Pacos Ferreira,Naval,1-1,1-0
-2006-11-20,Est Amadora,Belenenses,1-0,1-0
-2006-11-24,Boavista,Est Amadora,1-1,0-1
-2006-11-25,Benfica,Maritimo,2-1,1-1
-2006-11-26,Academica,Beira Mar,3-1,1-1
-2006-11-26,Belenenses,Porto,0-1,0-1
-2006-11-26,Nacional,Leiria,2-1,1-0
-2006-11-26,Naval,Sp Lisbon,0-1,0-0
-2006-11-26,Pacos Ferreira,Aves,2-0,1-0
-2006-11-27,Setubal,Sp Braga,1-2,0-1
-2006-12-01,Sp Lisbon,Benfica,0-2,0-2
-2006-12-02,Beira Mar,Belenenses,1-2,0-2
-2006-12-02,Porto,Boavista,2-0,0-0
-2006-12-03,Aves,Naval,2-0,0-0
-2006-12-03,Est Amadora,Nacional,2-0,0-0
-2006-12-03,Leiria,Pacos Ferreira,0-0,0-0
-2006-12-03,Sp Braga,Academica,4-2,2-0
-2006-12-04,Maritimo,Setubal,1-0,0-0
-2006-12-08,Belenenses,Sp Braga,2-0,1-0
-2006-12-09,Boavista,Beira Mar,3-0,2-0
-2006-12-09,Setubal,Sp Lisbon,0-3,0-2
-2006-12-10,Academica,Maritimo,1-2,0-1
-2006-12-10,Aves,Leiria,0-1,0-0
-2006-12-10,Naval,Benfica,0-0,0-0
-2006-12-10,Pacos Ferreira,Est Amadora,1-1,1-1
-2006-12-11,Nacional,Porto,1-2,1-0
-2006-12-15,Maritimo,Belenenses,1-4,0-2
-2006-12-16,Benfica,Setubal,3-0,1-0
-2006-12-16,Sp Lisbon,Academica,1-0,1-0
-2006-12-17,Beira Mar,Nacional,1-1,0-0
-2006-12-17,Est Amadora,Aves,1-0,1-0
-2006-12-17,Naval,Leiria,2-1,0-1
-2006-12-17,Porto,Pacos Ferreira,4-0,2-0
-2006-12-18,Sp Braga,Boavista,2-2,2-1
-2006-12-21,Benfica,Belenenses,4-0,2-0
-2007-01-12,Boavista,Maritimo,1-1,1-1
-2007-01-13,Belenenses,Sp Lisbon,0-0,0-0
-2007-01-13,Nacional,Sp Braga,0-0,0-0
-2007-01-14,Aves,Porto,0-2,0-1
-2007-01-14,Leiria,Est Amadora,0-0,0-0
-2007-01-14,Pacos Ferreira,Beira Mar,1-0,0-0
-2007-01-14,Setubal,Naval,0-3,0-1
-2007-01-15,Academica,Benfica,0-2,0-1
-2007-01-26,Leiria,Porto,1-0,0-0
-2007-01-27,Pacos Ferreira,Sp Braga,3-2,1-0
-2007-01-28,Academica,Setubal,0-1,0-0
-2007-01-28,Aves,Beira Mar,0-0,0-0
-2007-01-28,Belenenses,Benfica,1-2,0-2
-2007-01-28,Boavista,Sp Lisbon,1-1,0-0
-2007-01-28,Est Amadora,Naval,0-0,0-0
-2007-01-29,Nacional,Maritimo,3-2,2-0
-2007-02-02,Benfica,Boavista,0-0,0-0
-2007-02-03,Porto,Est Amadora,0-1,0-0
-2007-02-03,Sp Lisbon,Nacional,5-1,0-1
-2007-02-04,Beira Mar,Leiria,1-0,1-0
-2007-02-04,Maritimo,Pacos Ferreira,1-1,0-0
-2007-02-04,Naval,Academica,0-1,0-0
-2007-02-04,Setubal,Belenenses,0-1,0-1
-2007-02-04,Sp Braga,Aves,1-0,0-0
-2007-02-16,Porto,Naval,4-0,2-0
-2007-02-17,Boavista,Setubal,1-1,0-0
-2007-02-17,Pacos Ferreira,Sp Lisbon,1-1,0-0
-2007-02-18,Aves,Maritimo,1-1,1-1
-2007-02-18,Est Amadora,Beira Mar,2-2,2-2
-2007-02-18,Leiria,Sp Braga,1-0,0-0
-2007-02-18,Nacional,Benfica,0-2,0-0
-2007-02-19,Belenenses,Academica,1-2,0-0
-2007-02-23,Sp Lisbon,Aves,0-0,0-0
-2007-02-24,Academica,Boavista,0-2,0-2
-2007-02-24,Naval,Belenenses,2-3,1-2
-2007-02-25,Beira Mar,Porto,0-5,0-1
-2007-02-25,Setubal,Nacional,1-1,0-0
-2007-02-26,Benfica,Pacos Ferreira,3-1,2-1
-2007-02-26,Maritimo,Leiria,2-1,1-1
-2007-02-26,Sp Braga,Est Amadora,2-1,1-1
-2007-03-02,Pacos Ferreira,Setubal,1-0,1-0
-2007-03-03,Aves,Benfica,0-1,0-0
-2007-03-03,Porto,Sp Braga,1-0,1-0
-2007-03-04,Beira Mar,Naval,1-3,0-0
-2007-03-04,Est Amadora,Maritimo,1-0,1-0
-2007-03-04,Leiria,Sp Lisbon,0-0,0-0
-2007-03-04,Nacional,Academica,4-0,1-0
-2007-03-05,Boavista,Belenenses,0-0,0-0
-2007-03-09,Naval,Boavista,1-1,1-1
-2007-03-10,Belenenses,Nacional,2-0,2-0
-2007-03-10,Sp Lisbon,Est Amadora,3-1,1-0
-2007-03-11,Academica,Pacos Ferreira,0-2,0-1
-2007-03-11,Maritimo,Porto,1-2,0-2
-2007-03-11,Setubal,Aves,1-1,1-1
-2007-03-11,Sp Braga,Beira Mar,0-0,0-0
-2007-03-12,Benfica,Leiria,2-0,1-0
-2007-03-16,Nacional,Boavista,2-0,2-0
-2007-03-17,Porto,Sp Lisbon,0-1,0-0
-2007-03-18,Aves,Academica,2-2,0-1
-2007-03-18,Beira Mar,Maritimo,2-2,1-0
-2007-03-18,Leiria,Setubal,1-1,0-0
-2007-03-18,Pacos Ferreira,Belenenses,0-2,0-1
-2007-03-19,Est Amadora,Benfica,0-1,0-0
-2007-03-20,Sp Braga,Naval,2-1,1-0
-2007-03-31,Belenenses,Aves,1-0,1-0
-2007-03-31,Boavista,Pacos Ferreira,3-1,1-0
-2007-04-01,Academica,Leiria,0-0,0-0
-2007-04-01,Benfica,Porto,1-1,0-1
-2007-04-01,Maritimo,Sp Braga,1-2,1-1
-2007-04-01,Naval,Nacional,0-0,0-0
-2007-04-01,Setubal,Est Amadora,2-0,1-0
-2007-04-02,Sp Lisbon,Beira Mar,2-0,2-0
-2007-04-06,Porto,Setubal,5-1,4-0
-2007-04-07,Aves,Boavista,1-0,0-0
-2007-04-07,Est Amadora,Academica,3-3,2-1
-2007-04-07,Leiria,Belenenses,0-1,0-0
-2007-04-07,Maritimo,Naval,1-1,1-0
-2007-04-07,Pacos Ferreira,Nacional,2-1,0-1
-2007-04-07,Sp Braga,Sp Lisbon,0-1,0-0
-2007-04-09,Beira Mar,Benfica,2-2,1-0
-2007-04-13,Sp Lisbon,Maritimo,4-0,2-0
-2007-04-14,Academica,Porto,1-2,0-1
-2007-04-14,Belenenses,Est Amadora,3-0,3-0
-2007-04-15,Boavista,Leiria,1-1,0-0
-2007-04-15,Nacional,Aves,3-4,1-0
-2007-04-15,Naval,Pacos Ferreira,1-1,1-0
-2007-04-15,Setubal,Beira Mar,1-3,1-0
-2007-04-16,Benfica,Sp Braga,0-0,0-0
-2007-04-20,Est Amadora,Boavista,2-1,0-0
-2007-04-21,Maritimo,Benfica,0-3,0-0
-2007-04-22,Aves,Pacos Ferreira,0-1,0-0
-2007-04-22,Leiria,Nacional,1-0,0-0
-2007-04-22,Porto,Belenenses,3-1,2-0
-2007-04-22,Sp Lisbon,Naval,4-0,2-0
-2007-04-23,Beira Mar,Academica,0-1,0-0
-2007-04-23,Sp Braga,Setubal,0-0,0-0
-2007-04-27,Pacos Ferreira,Leiria,0-0,0-0
-2007-04-28,Belenenses,Beira Mar,2-0,1-0
-2007-04-28,Boavista,Porto,2-1,1-0
-2007-04-29,Benfica,Sp Lisbon,1-1,1-1
-2007-04-29,Nacional,Est Amadora,1-0,0-0
-2007-04-29,Naval,Aves,0-1,0-0
-2007-04-29,Setubal,Maritimo,1-1,0-0
-2007-04-30,Academica,Sp Braga,0-1,0-0
-2007-05-04,Beira Mar,Boavista,1-0,0-0
-2007-05-05,Benfica,Naval,2-1,1-0
-2007-05-05,Maritimo,Academica,0-0,0-0
-2007-05-05,Porto,Nacional,2-0,0-0
-2007-05-06,Est Amadora,Pacos Ferreira,1-0,0-0
-2007-05-06,Leiria,Aves,3-1,0-0
-2007-05-06,Sp Braga,Belenenses,2-1,1-0
-2007-05-06,Sp Lisbon,Setubal,3-1,2-0
-2007-05-12,Belenenses,Maritimo,2-0,1-0
-2007-05-12,Boavista,Sp Braga,0-1,0-1
-2007-05-13,Academica,Sp Lisbon,0-2,0-1
-2007-05-13,Aves,Est Amadora,0-1,0-1
-2007-05-13,Leiria,Naval,2-2,1-2
-2007-05-13,Nacional,Beira Mar,3-0,3-0
-2007-05-13,Pacos Ferreira,Porto,1-1,1-0
-2007-05-13,Setubal,Benfica,0-1,0-0
-2007-05-19,Maritimo,Boavista,1-2,0-1
-2007-05-20,Beira Mar,Pacos Ferreira,1-1,0-1
-2007-05-20,Benfica,Academica,2-0,1-0
-2007-05-20,Est Amadora,Leiria,1-1,0-0
-2007-05-20,Naval,Setubal,1-2,1-2
-2007-05-20,Porto,Aves,4-1,1-1
-2007-05-20,Sp Braga,Nacional,1-1,1-1
-2007-05-20,Sp Lisbon,Belenenses,4-0,2-0
+Round,Date,Team 1,FT,HT,Team 2
+?,(Fri) 25 Aug 2006 (34),Porto (1),2-1,2-0,Leiria (1)
+?,(Sat) 26 Aug 2006 (34),Beira Mar (1),2-2,1-1,Aves (1)
+?,(Sat) 26 Aug 2006 (34),Sp Braga (1),2-1,0-0,Pacos Ferreira (1)
+?,(Sat) 26 Aug 2006 (34),Sp Lisbon (1),3-2,0-1,Boavista (1)
+?,(Sun) 27 Aug 2006 (34),Maritimo (1),1-0,1-0,Nacional (1)
+?,(Sun) 27 Aug 2006 (34),Naval (1),2-0,1-0,Est Amadora (1)
+?,(Mon) 28 Aug 2006 (35),Setubal (1),1-1,0-0,Academica (1)
+?,(Fri) 8 Sep 2006 (36),Aves (2),0-1,0-1,Sp Braga (2)
+?,(Sat) 9 Sep 2006 (36),Boavista (2),3-0,1-0,Benfica (1)
+?,(Sat) 9 Sep 2006 (36),Nacional (2),0-1,0-1,Sp Lisbon (2)
+?,(Sun) 10 Sep 2006 (36),Academica (2),1-2,1-0,Naval (2)
+?,(Sun) 10 Sep 2006 (36),Belenenses (1),2-0,1-0,Setubal (2)
+?,(Sun) 10 Sep 2006 (36),Est Amadora (2),0-3,0-0,Porto (2)
+?,(Sun) 10 Sep 2006 (36),Pacos Ferreira (2),2-1,1-0,Maritimo (2)
+?,(Mon) 11 Sep 2006 (37),Leiria (2),2-2,0-1,Beira Mar (2)
+?,(Sat) 16 Sep 2006 (37),Sp Lisbon (3),0-1,0-1,Pacos Ferreira (3)
+?,(Sun) 17 Sep 2006 (37),Academica (3),1-1,1-1,Belenenses (2)
+?,(Sun) 17 Sep 2006 (37),Beira Mar (3),2-0,1-0,Est Amadora (3)
+?,(Sun) 17 Sep 2006 (37),Benfica (2),1-0,1-0,Nacional (3)
+?,(Sun) 17 Sep 2006 (37),Maritimo (3),0-0,0-0,Aves (3)
+?,(Sun) 17 Sep 2006 (37),Naval (3),0-2,0-2,Porto (3)
+?,(Mon) 18 Sep 2006 (38),Sp Braga (3),0-1,0-1,Leiria (3)
+?,(Tue) 19 Sep 2006 (38),Setubal (3),1-0,0-0,Boavista (3)
+?,(Fri) 22 Sep 2006 (38),Pacos Ferreira (4),1-1,0-1,Benfica (3)
+?,(Fri) 22 Sep 2006 (38),Porto (4),3-0,0-0,Beira Mar (4)
+?,(Sat) 23 Sep 2006 (38),Aves (4),0-2,0-1,Sp Lisbon (4)
+?,(Sat) 23 Sep 2006 (38),Belenenses (3),0-0,0-0,Naval (4)
+?,(Sat) 23 Sep 2006 (38),Est Amadora (4),0-0,0-0,Sp Braga (4)
+?,(Sun) 24 Sep 2006 (38),Boavista (4),2-2,1-1,Academica (4)
+?,(Sun) 24 Sep 2006 (38),Nacional (4),1-0,0-0,Setubal (4)
+?,(Mon) 25 Sep 2006 (39),Leiria (4),1-0,0-0,Maritimo (4)
+?,(Fri) 29 Sep 2006 (39),Naval (5),2-1,0-0,Beira Mar (5)
+?,(Sat) 30 Sep 2006 (39),Belenenses (4),0-2,0-2,Boavista (5)
+?,(Sun) 1 Oct 2006 (39),Academica (5),1-3,1-1,Nacional (5)
+?,(Sun) 1 Oct 2006 (39),Benfica (4),4-1,1-1,Aves (5)
+?,(Sun) 1 Oct 2006 (39),Maritimo (5),2-1,0-0,Est Amadora (5)
+?,(Mon) 2 Oct 2006 (40),Setubal (5),1-1,1-0,Pacos Ferreira (5)
+?,(Mon) 2 Oct 2006 (40),Sp Braga (5),2-1,1-1,Porto (5)
+?,(Mon) 2 Oct 2006 (40),Sp Lisbon (5),2-0,1-0,Leiria (5)
+?,(Fri) 13 Oct 2006 (41),Beira Mar (6),0-3,0-1,Sp Braga (6)
+?,(Sat) 14 Oct 2006 (41),Leiria (6),0-4,0-2,Benfica (5)
+?,(Sat) 14 Oct 2006 (41),Porto (6),3-0,1-0,Maritimo (6)
+?,(Sun) 15 Oct 2006 (41),Aves (6),1-2,0-0,Setubal (6)
+?,(Sun) 15 Oct 2006 (41),Est Amadora (6),0-1,0-1,Sp Lisbon (6)
+?,(Sun) 15 Oct 2006 (41),Nacional (6),2-1,1-1,Belenenses (5)
+?,(Sun) 15 Oct 2006 (41),Pacos Ferreira (6),1-1,0-1,Academica (6)
+?,(Mon) 16 Oct 2006 (42),Boavista (6),0-1,0-0,Naval (6)
+?,(Fri) 20 Oct 2006 (42),Belenenses (6),2-0,2-0,Pacos Ferreira (7)
+?,(Sat) 21 Oct 2006 (42),Boavista (7),0-4,0-2,Nacional (7)
+?,(Sun) 22 Oct 2006 (42),Academica (7),2-0,1-0,Aves (7)
+?,(Sun) 22 Oct 2006 (42),Benfica (6),3-1,1-1,Est Amadora (7)
+?,(Sun) 22 Oct 2006 (42),Maritimo (7),2-1,0-0,Beira Mar (7)
+?,(Sun) 22 Oct 2006 (42),Setubal (7),1-2,1-1,Leiria (7)
+?,(Sun) 22 Oct 2006 (42),Sp Lisbon (7),1-1,1-0,Porto (7)
+?,(Mon) 23 Oct 2006 (43),Naval (7),1-1,0-1,Sp Braga (7)
+?,(Fri) 27 Oct 2006 (43),Beira Mar (8),3-3,1-0,Sp Lisbon (8)
+?,(Sat) 28 Oct 2006 (43),Leiria (8),2-0,1-0,Academica (8)
+?,(Sat) 28 Oct 2006 (43),Porto (8),3-2,2-0,Benfica (7)
+?,(Sun) 29 Oct 2006 (43),Aves (8),0-1,0-0,Belenenses (7)
+?,(Sun) 29 Oct 2006 (43),Est Amadora (8),1-0,0-0,Setubal (8)
+?,(Sun) 29 Oct 2006 (43),Nacional (8),1-1,1-1,Naval (8)
+?,(Sun) 29 Oct 2006 (43),Sp Braga (8),1-4,0-2,Maritimo (8)
+?,(Mon) 30 Oct 2006 (44),Pacos Ferreira (8),2-0,1-0,Boavista (8)
+?,(Fri) 3 Nov 2006 (44),Belenenses (8),0-1,0-1,Leiria (9)
+?,(Sat) 4 Nov 2006 (44),Boavista (9),2-1,0-1,Aves (9)
+?,(Sun) 5 Nov 2006 (44),Academica (9),2-0,0-0,Est Amadora (9)
+?,(Sun) 5 Nov 2006 (44),Benfica (8),3-0,0-0,Beira Mar (9)
+?,(Sun) 5 Nov 2006 (44),Nacional (9),5-1,3-0,Pacos Ferreira (9)
+?,(Sun) 5 Nov 2006 (44),Naval (9),0-1,0-0,Maritimo (9)
+?,(Mon) 6 Nov 2006 (45),Setubal (9),0-3,0-2,Porto (9)
+?,(Mon) 6 Nov 2006 (45),Sp Lisbon (9),3-0,2-0,Sp Braga (9)
+?,(Fri) 17 Nov 2006 (46),Beira Mar (10),1-1,0-0,Setubal (10)
+?,(Sat) 18 Nov 2006 (46),Porto (10),2-1,0-0,Academica (10)
+?,(Sat) 18 Nov 2006 (46),Sp Braga (10),3-1,2-1,Benfica (9)
+?,(Sun) 19 Nov 2006 (46),Aves (10),3-1,1-1,Nacional (10)
+?,(Sun) 19 Nov 2006 (46),Leiria (10),0-0,0-0,Boavista (10)
+?,(Sun) 19 Nov 2006 (46),Maritimo (10),0-1,0-0,Sp Lisbon (10)
+?,(Sun) 19 Nov 2006 (46),Pacos Ferreira (10),1-1,1-0,Naval (10)
+?,(Mon) 20 Nov 2006 (47),Est Amadora (10),1-0,1-0,Belenenses (9)
+?,(Fri) 24 Nov 2006 (47),Boavista (11),1-1,0-1,Est Amadora (11)
+?,(Sat) 25 Nov 2006 (47),Benfica (10),2-1,1-1,Maritimo (11)
+?,(Sun) 26 Nov 2006 (47),Academica (11),3-1,1-1,Beira Mar (11)
+?,(Sun) 26 Nov 2006 (47),Belenenses (10),0-1,0-1,Porto (11)
+?,(Sun) 26 Nov 2006 (47),Nacional (11),2-1,1-0,Leiria (11)
+?,(Sun) 26 Nov 2006 (47),Naval (11),0-1,0-0,Sp Lisbon (11)
+?,(Sun) 26 Nov 2006 (47),Pacos Ferreira (11),2-0,1-0,Aves (11)
+?,(Mon) 27 Nov 2006 (48),Setubal (11),1-2,0-1,Sp Braga (11)
+?,(Fri) 1 Dec 2006 (48),Sp Lisbon (12),0-2,0-2,Benfica (11)
+?,(Sat) 2 Dec 2006 (48),Beira Mar (12),1-2,0-2,Belenenses (11)
+?,(Sat) 2 Dec 2006 (48),Porto (12),2-0,0-0,Boavista (12)
+?,(Sun) 3 Dec 2006 (48),Aves (12),2-0,0-0,Naval (12)
+?,(Sun) 3 Dec 2006 (48),Est Amadora (12),2-0,0-0,Nacional (12)
+?,(Sun) 3 Dec 2006 (48),Leiria (12),0-0,0-0,Pacos Ferreira (12)
+?,(Sun) 3 Dec 2006 (48),Sp Braga (12),4-2,2-0,Academica (12)
+?,(Mon) 4 Dec 2006 (49),Maritimo (12),1-0,0-0,Setubal (12)
+?,(Fri) 8 Dec 2006 (49),Belenenses (12),2-0,1-0,Sp Braga (13)
+?,(Sat) 9 Dec 2006 (49),Boavista (13),3-0,2-0,Beira Mar (13)
+?,(Sat) 9 Dec 2006 (49),Setubal (13),0-3,0-2,Sp Lisbon (13)
+?,(Sun) 10 Dec 2006 (49),Academica (13),1-2,0-1,Maritimo (13)
+?,(Sun) 10 Dec 2006 (49),Aves (13),0-1,0-0,Leiria (13)
+?,(Sun) 10 Dec 2006 (49),Naval (13),0-0,0-0,Benfica (12)
+?,(Sun) 10 Dec 2006 (49),Pacos Ferreira (13),1-1,1-1,Est Amadora (13)
+?,(Mon) 11 Dec 2006 (50),Nacional (13),1-2,1-0,Porto (13)
+?,(Fri) 15 Dec 2006 (50),Maritimo (14),1-4,0-2,Belenenses (13)
+?,(Sat) 16 Dec 2006 (50),Benfica (13),3-0,1-0,Setubal (14)
+?,(Sat) 16 Dec 2006 (50),Sp Lisbon (14),1-0,1-0,Academica (14)
+?,(Sun) 17 Dec 2006 (50),Beira Mar (14),1-1,0-0,Nacional (14)
+?,(Sun) 17 Dec 2006 (50),Est Amadora (14),1-0,1-0,Aves (14)
+?,(Sun) 17 Dec 2006 (50),Naval (14),2-1,0-1,Leiria (14)
+?,(Sun) 17 Dec 2006 (50),Porto (14),4-0,2-0,Pacos Ferreira (14)
+?,(Mon) 18 Dec 2006 (51),Sp Braga (14),2-2,2-1,Boavista (14)
+?,(Thu) 21 Dec 2006 (51),Benfica (14),4-0,2-0,Belenenses (14)
+?,(Fri) 12 Jan 2007 (2),Boavista (15),1-1,1-1,Maritimo (15)
+?,(Sat) 13 Jan 2007 (2),Belenenses (15),0-0,0-0,Sp Lisbon (15)
+?,(Sat) 13 Jan 2007 (2),Nacional (15),0-0,0-0,Sp Braga (15)
+?,(Sun) 14 Jan 2007 (2),Aves (15),0-2,0-1,Porto (15)
+?,(Sun) 14 Jan 2007 (2),Leiria (15),0-0,0-0,Est Amadora (15)
+?,(Sun) 14 Jan 2007 (2),Pacos Ferreira (15),1-0,0-0,Beira Mar (15)
+?,(Sun) 14 Jan 2007 (2),Setubal (15),0-3,0-1,Naval (15)
+?,(Mon) 15 Jan 2007 (3),Academica (15),0-2,0-1,Benfica (15)
+?,(Fri) 26 Jan 2007 (4),Leiria (16),1-0,0-0,Porto (16)
+?,(Sat) 27 Jan 2007 (4),Pacos Ferreira (16),3-2,1-0,Sp Braga (16)
+?,(Sun) 28 Jan 2007 (4),Academica (16),0-1,0-0,Setubal (16)
+?,(Sun) 28 Jan 2007 (4),Aves (16),0-0,0-0,Beira Mar (16)
+?,(Sun) 28 Jan 2007 (4),Belenenses (16),1-2,0-2,Benfica (16)
+?,(Sun) 28 Jan 2007 (4),Boavista (16),1-1,0-0,Sp Lisbon (16)
+?,(Sun) 28 Jan 2007 (4),Est Amadora (16),0-0,0-0,Naval (16)
+?,(Mon) 29 Jan 2007 (5),Nacional (16),3-2,2-0,Maritimo (16)
+?,(Fri) 2 Feb 2007 (5),Benfica (17),0-0,0-0,Boavista (17)
+?,(Sat) 3 Feb 2007 (5),Porto (17),0-1,0-0,Est Amadora (17)
+?,(Sat) 3 Feb 2007 (5),Sp Lisbon (17),5-1,0-1,Nacional (17)
+?,(Sun) 4 Feb 2007 (5),Beira Mar (17),1-0,1-0,Leiria (17)
+?,(Sun) 4 Feb 2007 (5),Maritimo (17),1-1,0-0,Pacos Ferreira (17)
+?,(Sun) 4 Feb 2007 (5),Naval (17),0-1,0-0,Academica (17)
+?,(Sun) 4 Feb 2007 (5),Setubal (17),0-1,0-1,Belenenses (17)
+?,(Sun) 4 Feb 2007 (5),Sp Braga (17),1-0,0-0,Aves (17)
+?,(Fri) 16 Feb 2007 (7),Porto (18),4-0,2-0,Naval (18)
+?,(Sat) 17 Feb 2007 (7),Boavista (18),1-1,0-0,Setubal (18)
+?,(Sat) 17 Feb 2007 (7),Pacos Ferreira (18),1-1,0-0,Sp Lisbon (18)
+?,(Sun) 18 Feb 2007 (7),Aves (18),1-1,1-1,Maritimo (18)
+?,(Sun) 18 Feb 2007 (7),Est Amadora (18),2-2,2-2,Beira Mar (18)
+?,(Sun) 18 Feb 2007 (7),Leiria (18),1-0,0-0,Sp Braga (18)
+?,(Sun) 18 Feb 2007 (7),Nacional (18),0-2,0-0,Benfica (18)
+?,(Mon) 19 Feb 2007 (8),Belenenses (18),1-2,0-0,Academica (18)
+?,(Fri) 23 Feb 2007 (8),Sp Lisbon (19),0-0,0-0,Aves (19)
+?,(Sat) 24 Feb 2007 (8),Academica (19),0-2,0-2,Boavista (19)
+?,(Sat) 24 Feb 2007 (8),Naval (19),2-3,1-2,Belenenses (19)
+?,(Sun) 25 Feb 2007 (8),Beira Mar (19),0-5,0-1,Porto (19)
+?,(Sun) 25 Feb 2007 (8),Setubal (19),1-1,0-0,Nacional (19)
+?,(Mon) 26 Feb 2007 (9),Benfica (19),3-1,2-1,Pacos Ferreira (19)
+?,(Mon) 26 Feb 2007 (9),Maritimo (19),2-1,1-1,Leiria (19)
+?,(Mon) 26 Feb 2007 (9),Sp Braga (19),2-1,1-1,Est Amadora (19)
+?,(Fri) 2 Mar 2007 (9),Pacos Ferreira (20),1-0,1-0,Setubal (20)
+?,(Sat) 3 Mar 2007 (9),Aves (20),0-1,0-0,Benfica (20)
+?,(Sat) 3 Mar 2007 (9),Porto (20),1-0,1-0,Sp Braga (20)
+?,(Sun) 4 Mar 2007 (9),Beira Mar (20),1-3,0-0,Naval (20)
+?,(Sun) 4 Mar 2007 (9),Est Amadora (20),1-0,1-0,Maritimo (20)
+?,(Sun) 4 Mar 2007 (9),Leiria (20),0-0,0-0,Sp Lisbon (20)
+?,(Sun) 4 Mar 2007 (9),Nacional (20),4-0,1-0,Academica (20)
+?,(Mon) 5 Mar 2007 (10),Boavista (20),0-0,0-0,Belenenses (20)
+?,(Fri) 9 Mar 2007 (10),Naval (21),1-1,1-1,Boavista (21)
+?,(Sat) 10 Mar 2007 (10),Belenenses (21),2-0,2-0,Nacional (21)
+?,(Sat) 10 Mar 2007 (10),Sp Lisbon (21),3-1,1-0,Est Amadora (21)
+?,(Sun) 11 Mar 2007 (10),Academica (21),0-2,0-1,Pacos Ferreira (21)
+?,(Sun) 11 Mar 2007 (10),Maritimo (21),1-2,0-2,Porto (21)
+?,(Sun) 11 Mar 2007 (10),Setubal (21),1-1,1-1,Aves (21)
+?,(Sun) 11 Mar 2007 (10),Sp Braga (21),0-0,0-0,Beira Mar (21)
+?,(Mon) 12 Mar 2007 (11),Benfica (21),2-0,1-0,Leiria (21)
+?,(Fri) 16 Mar 2007 (11),Nacional (22),2-0,2-0,Boavista (22)
+?,(Sat) 17 Mar 2007 (11),Porto (22),0-1,0-0,Sp Lisbon (22)
+?,(Sun) 18 Mar 2007 (11),Aves (22),2-2,0-1,Academica (22)
+?,(Sun) 18 Mar 2007 (11),Beira Mar (22),2-2,1-0,Maritimo (22)
+?,(Sun) 18 Mar 2007 (11),Leiria (22),1-1,0-0,Setubal (22)
+?,(Sun) 18 Mar 2007 (11),Pacos Ferreira (22),0-2,0-1,Belenenses (22)
+?,(Mon) 19 Mar 2007 (12),Est Amadora (22),0-1,0-0,Benfica (22)
+?,(Tue) 20 Mar 2007 (12),Sp Braga (22),2-1,1-0,Naval (22)
+?,(Sat) 31 Mar 2007 (13),Belenenses (23),1-0,1-0,Aves (23)
+?,(Sat) 31 Mar 2007 (13),Boavista (23),3-1,1-0,Pacos Ferreira (23)
+?,(Sun) 1 Apr 2007 (13),Academica (23),0-0,0-0,Leiria (23)
+?,(Sun) 1 Apr 2007 (13),Benfica (23),1-1,0-1,Porto (23)
+?,(Sun) 1 Apr 2007 (13),Maritimo (23),1-2,1-1,Sp Braga (23)
+?,(Sun) 1 Apr 2007 (13),Naval (23),0-0,0-0,Nacional (23)
+?,(Sun) 1 Apr 2007 (13),Setubal (23),2-0,1-0,Est Amadora (23)
+?,(Mon) 2 Apr 2007 (14),Sp Lisbon (23),2-0,2-0,Beira Mar (23)
+?,(Fri) 6 Apr 2007 (14),Porto (24),5-1,4-0,Setubal (24)
+?,(Sat) 7 Apr 2007 (14),Aves (24),1-0,0-0,Boavista (24)
+?,(Sat) 7 Apr 2007 (14),Est Amadora (24),3-3,2-1,Academica (24)
+?,(Sat) 7 Apr 2007 (14),Leiria (24),0-1,0-0,Belenenses (24)
+?,(Sat) 7 Apr 2007 (14),Maritimo (24),1-1,1-0,Naval (24)
+?,(Sat) 7 Apr 2007 (14),Pacos Ferreira (24),2-1,0-1,Nacional (24)
+?,(Sat) 7 Apr 2007 (14),Sp Braga (24),0-1,0-0,Sp Lisbon (24)
+?,(Mon) 9 Apr 2007 (15),Beira Mar (24),2-2,1-0,Benfica (24)
+?,(Fri) 13 Apr 2007 (15),Sp Lisbon (25),4-0,2-0,Maritimo (25)
+?,(Sat) 14 Apr 2007 (15),Academica (25),1-2,0-1,Porto (25)
+?,(Sat) 14 Apr 2007 (15),Belenenses (25),3-0,3-0,Est Amadora (25)
+?,(Sun) 15 Apr 2007 (15),Boavista (25),1-1,0-0,Leiria (25)
+?,(Sun) 15 Apr 2007 (15),Nacional (25),3-4,1-0,Aves (25)
+?,(Sun) 15 Apr 2007 (15),Naval (25),1-1,1-0,Pacos Ferreira (25)
+?,(Sun) 15 Apr 2007 (15),Setubal (25),1-3,1-0,Beira Mar (25)
+?,(Mon) 16 Apr 2007 (16),Benfica (25),0-0,0-0,Sp Braga (25)
+?,(Fri) 20 Apr 2007 (16),Est Amadora (26),2-1,0-0,Boavista (26)
+?,(Sat) 21 Apr 2007 (16),Maritimo (26),0-3,0-0,Benfica (26)
+?,(Sun) 22 Apr 2007 (16),Aves (26),0-1,0-0,Pacos Ferreira (26)
+?,(Sun) 22 Apr 2007 (16),Leiria (26),1-0,0-0,Nacional (26)
+?,(Sun) 22 Apr 2007 (16),Porto (26),3-1,2-0,Belenenses (26)
+?,(Sun) 22 Apr 2007 (16),Sp Lisbon (26),4-0,2-0,Naval (26)
+?,(Mon) 23 Apr 2007 (17),Beira Mar (26),0-1,0-0,Academica (26)
+?,(Mon) 23 Apr 2007 (17),Sp Braga (26),0-0,0-0,Setubal (26)
+?,(Fri) 27 Apr 2007 (17),Pacos Ferreira (27),0-0,0-0,Leiria (27)
+?,(Sat) 28 Apr 2007 (17),Belenenses (27),2-0,1-0,Beira Mar (27)
+?,(Sat) 28 Apr 2007 (17),Boavista (27),2-1,1-0,Porto (27)
+?,(Sun) 29 Apr 2007 (17),Benfica (27),1-1,1-1,Sp Lisbon (27)
+?,(Sun) 29 Apr 2007 (17),Nacional (27),1-0,0-0,Est Amadora (27)
+?,(Sun) 29 Apr 2007 (17),Naval (27),0-1,0-0,Aves (27)
+?,(Sun) 29 Apr 2007 (17),Setubal (27),1-1,0-0,Maritimo (27)
+?,(Mon) 30 Apr 2007 (18),Academica (27),0-1,0-0,Sp Braga (27)
+?,(Fri) 4 May 2007 (18),Beira Mar (28),1-0,0-0,Boavista (28)
+?,(Sat) 5 May 2007 (18),Benfica (28),2-1,1-0,Naval (28)
+?,(Sat) 5 May 2007 (18),Maritimo (28),0-0,0-0,Academica (28)
+?,(Sat) 5 May 2007 (18),Porto (28),2-0,0-0,Nacional (28)
+?,(Sun) 6 May 2007 (18),Est Amadora (28),1-0,0-0,Pacos Ferreira (28)
+?,(Sun) 6 May 2007 (18),Leiria (28),3-1,0-0,Aves (28)
+?,(Sun) 6 May 2007 (18),Sp Braga (28),2-1,1-0,Belenenses (28)
+?,(Sun) 6 May 2007 (18),Sp Lisbon (28),3-1,2-0,Setubal (28)
+?,(Sat) 12 May 2007 (19),Belenenses (29),2-0,1-0,Maritimo (29)
+?,(Sat) 12 May 2007 (19),Boavista (29),0-1,0-1,Sp Braga (29)
+?,(Sun) 13 May 2007 (19),Academica (29),0-2,0-1,Sp Lisbon (29)
+?,(Sun) 13 May 2007 (19),Aves (29),0-1,0-1,Est Amadora (29)
+?,(Sun) 13 May 2007 (19),Leiria (29),2-2,1-2,Naval (29)
+?,(Sun) 13 May 2007 (19),Nacional (29),3-0,3-0,Beira Mar (29)
+?,(Sun) 13 May 2007 (19),Pacos Ferreira (29),1-1,1-0,Porto (29)
+?,(Sun) 13 May 2007 (19),Setubal (29),0-1,0-0,Benfica (29)
+?,(Sat) 19 May 2007 (20),Maritimo (30),1-2,0-1,Boavista (30)
+?,(Sun) 20 May 2007 (20),Beira Mar (30),1-1,0-1,Pacos Ferreira (30)
+?,(Sun) 20 May 2007 (20),Benfica (30),2-0,1-0,Academica (30)
+?,(Sun) 20 May 2007 (20),Est Amadora (30),1-1,0-0,Leiria (30)
+?,(Sun) 20 May 2007 (20),Naval (30),1-2,1-2,Setubal (30)
+?,(Sun) 20 May 2007 (20),Porto (30),4-1,1-1,Aves (30)
+?,(Sun) 20 May 2007 (20),Sp Braga (30),1-1,1-1,Nacional (30)
+?,(Sun) 20 May 2007 (20),Sp Lisbon (30),4-0,2-0,Belenenses (30)
