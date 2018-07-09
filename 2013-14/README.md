@@ -7,7 +7,7 @@
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. SL Benfica                    30  12  3  0  30:6    11  2  2  28:12    58:18  +40   74
- 2. Sporting Clube de Portugal    30  10  4  1  28:7    10  3  2  26:13    54:20  +34   67
+ 2. Sporting CP                   30  10  4  1  28:7    10  3  2  26:13    54:20  +34   67
  3. FC Porto                      30  13  1  1  35:6     6  3  6  22:19    57:25  +32   61
  4. Estoril Praia                 30   6  5  4  19:14    9  4  2  23:12    42:26  +16   54
  5. Nacional                      30   7  6  2  23:14    4  6  5  20:19    43:33  +10   45

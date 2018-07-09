@@ -7,7 +7,7 @@
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. FC Porto                      30  13  0  2  38:9     9  3  3  27:11    65:20  +45   69
- 2. Sporting Clube de Portugal    30  11  2  2  35:9     9  6  0  19:6     54:15  +39   68
+ 2. Sporting CP                   30  11  2  2  35:9     9  6  0  19:6     54:15  +39   68
  3. SL Benfica                    30  11  4  0  31:7     9  3  3  24:13    55:20  +35   67
  4. SC Braga                      30   8  4  3  22:17    6  4  5  13:13    35:30   +5   50
  5. Os Belenenses                 30   8  2  5  18:8     7  2  6  18:21    36:29   +7   49

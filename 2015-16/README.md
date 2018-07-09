@@ -7,7 +7,7 @@
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. SL Benfica                    34  15  0  2  52:13   14  1  2  36:9     88:22  +66   88
- 2. Sporting Clube de Portugal    34  13  3  1  39:12   14  2  1  40:9     79:21  +58   86
+ 2. Sporting CP                   34  13  3  1  39:12   14  2  1  40:9     79:21  +58   86
  3. FC Porto                      34  12  2  3  35:13   11  2  4  32:17    67:30  +37   73
  4. SC Braga                      34  11  4  2  41:17    5  6  6  13:18    54:35  +19   58
  5. Arouca                        34   8  6  3  28:18    5  9  3  19:20    47:38   +9   54

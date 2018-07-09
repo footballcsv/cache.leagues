@@ -6,7 +6,7 @@
 ```
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
- 1. Sporting Clube de Portugal    34  13  3  1  37:7     9  6  2  37:18    74:25  +49   75
+ 1. Sporting CP                   34  13  3  1  37:7     9  6  2  37:18    74:25  +49   75
  2. Boavista FC                   34  11  4  2  29:6    10  3  4  24:14    53:20  +33   70
  3. FC Porto                      34  12  3  2  38:16    9  2  6  28:18    66:34  +32   68
  4. SL Benfica                    34  11  5  1  36:16    6  7  4  30:21    66:37  +29   63

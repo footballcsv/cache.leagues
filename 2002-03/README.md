@@ -8,7 +8,7 @@
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. FC Porto                      34  16  1  0  45:12   11  4  2  28:14    73:26  +47   86
  2. SL Benfica                    34  11  4  2  35:10   12  2  3  39:17    74:27  +47   75
- 3. Sporting Clube de Portugal    34   8  5  4  25:15    9  3  5  27:23    52:38  +14   59
+ 3. Sporting CP                   34   8  5  4  25:15    9  3  5  27:23    52:38  +14   59
  4. Vitória de Guimarães          34   7  4  6  25:23    7  4  6  22:23    47:46   +1   50
  5. Leiria                        34   8  5  4  27:22    5  5  7  22:25    49:47   +2   49
  6. FC Paços de Ferreira          34   9  4  4  28:17    3  5  9  12:30    40:47   -7   45

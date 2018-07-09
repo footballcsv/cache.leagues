@@ -7,7 +7,7 @@
                                         - Home -          - Away -            - Total -
                                  Pld   W  D  L   F:A     W  D  L   F:A      F:A   +/-  Pts
  1. FC Porto                      34  15  2  0  40:7    14  2  1  32:8     72:15  +57   91
- 2. Sporting Clube de Portugal    34  12  3  2  30:9    10  6  1  27:13    57:22  +35   75
+ 2. Sporting CP                   34  12  3  2  30:9    10  6  1  27:13    57:22  +35   75
  3. SL Benfica                    34  12  3  2  35:12   10  2  5  26:16    61:28  +33   71
  4. Vitória de Guimarães          34  12  3  2  30:12    4  7  6  24:31    54:43  +11   58
  5. Farense                       34  13  1  3  29:9     3  4 10  15:29    44:38   +6   53
