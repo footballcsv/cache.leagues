@@ -26,7 +26,7 @@
 18. CD Nacional Madeira           34   2  6  9  11:23    2  3 12  11:35    22:58  -36   21
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

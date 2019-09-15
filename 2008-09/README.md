@@ -24,7 +24,7 @@
 16. CD Trofense                   30   3  5  7  14:21    2  3 10  11:21    25:42  -17   23
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

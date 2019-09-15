@@ -26,7 +26,7 @@
 18. Os Belenenses                 34   5  2 10  12:24    0  7 10  10:28    22:52  -30   24
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

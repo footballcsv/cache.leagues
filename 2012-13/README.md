@@ -24,7 +24,7 @@
 16. SC Beira-Mar                  30   3  6  6  21:26    2  2 11  14:29    35:55  -20   23
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

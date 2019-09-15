@@ -26,7 +26,7 @@
 18. Académica de Coimbra          34   3  5  9  17:33    1  4 12  13:38    30:71  -41   21
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

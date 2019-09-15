@@ -24,7 +24,7 @@
 16. Naval 1º de Maio              30   2  5  8  12:24    3  3  9  14:27    26:51  -25   23
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

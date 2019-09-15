@@ -24,7 +24,7 @@
 16. União de Leiria               30   2  4  9  13:23    1  3 11  12:30    25:53  -28   16
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

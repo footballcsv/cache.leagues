@@ -26,7 +26,7 @@
 18. Vitória de Setúbal            34   2  7  8  17:28    4  6  7  23:25    40:53  -13   31
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

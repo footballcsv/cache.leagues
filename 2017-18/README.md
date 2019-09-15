@@ -26,7 +26,7 @@
 18. Estoril Praia                 34   5  3  9  17:29    3  3 11  12:32    29:61  -32   30
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

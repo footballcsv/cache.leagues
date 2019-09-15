@@ -26,7 +26,7 @@
 18. CF Estrela da Amadora         34   3  5  9  14:28    1  0 16   8:46    22:74  -52   17
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

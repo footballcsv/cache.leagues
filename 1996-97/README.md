@@ -26,7 +26,7 @@
 18. Gil Vicente FC                34   3  5  9  18:30    1  2 14  11:44    29:74  -45   19
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

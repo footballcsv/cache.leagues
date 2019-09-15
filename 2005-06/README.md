@@ -26,7 +26,7 @@
 18. FC Penafiel                   34   2  5 10  10:22    0  4 13  11:39    21:61  -40   15
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

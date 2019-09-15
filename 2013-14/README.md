@@ -24,7 +24,7 @@
 16. FC Paços de Ferreira          30   4  2  9  15:29    2  4  9  13:30    28:59  -31   24
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

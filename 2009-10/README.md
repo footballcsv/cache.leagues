@@ -24,7 +24,7 @@
 16. Leixões SC                    30   4  5  6  18:23    1  1 13   7:28    25:51  -26   21
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

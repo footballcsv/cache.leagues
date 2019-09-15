@@ -26,7 +26,7 @@
 18. FC Alverca                    34   6  2  9  21:28    1  4 12  18:39    39:67  -28   27
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

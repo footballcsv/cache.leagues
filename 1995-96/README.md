@@ -26,7 +26,7 @@
 18. FC Tirsense                   34   6  6  5  20:19    1  4 12  10:34    30:53  -23   31
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

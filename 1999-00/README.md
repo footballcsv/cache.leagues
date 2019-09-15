@@ -26,7 +26,7 @@
 18. CD Santa Clara                34   5  7  5  19:22    2  3 12  16:28    35:50  -15   31
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 

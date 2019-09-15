@@ -24,7 +24,7 @@
 16. CD Aves                       30   3  3  9  10:16    2  4  9  12:26    22:42  -20   22
 ```
 
-(Source: [`1-liga.csv`](1-liga.csv))
+(Source: [`pt.1.csv`](pt.1.csv))
 
 
 
