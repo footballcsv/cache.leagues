@@ -1,14 +1,13 @@
-# Cache - Football Reference (FBref)
+# Cache - Football Leagues - Season by Season
 
-A cache for datasets from the Football Reference (FBref) website (fbref.com).
-
+A cache for datasets from the football leagues - season by season from various sources.
 
 
 ## Why Cache the Datasets?
 
 ### What's unchanged?
 
-The club names get copied as is incl. typos.
+The club names get copied  as is incl. typos.
 
 
 ### What's changed?
