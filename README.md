@@ -1,6 +1,6 @@
 # Cache - Football Reference (FBref)
 
-A cache for datasets from the Football Reference (FBref) website (fbref.com) up and running since 2019.
+A cache for datasets from the Football Reference (FBref) website (fbref.com).
 
 
 
