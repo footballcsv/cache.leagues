@@ -1,23 +1,26 @@
-# Portugal
+# Cache - Football Reference (FBref)
 
-Football data for Portugal includes:
-
-- Primeira Liga
+A cache for datasets from the Football Reference (FBref) website (fbref.com) up and running since 2019.
 
 
-Example - [`2013-14/pt.1.csv`](2013-14/pt.1.csv):
 
-```
-2013-08-16,Pacos Ferreira,Sp Braga,0-2,0-1
-2013-08-17,Estoril,Nacional,3-1,2-1
-2013-08-17,Guimaraes,Olhanense,2-0,0-0
-2013-08-18,Belenenses,Rio Ave,0-3,0-1
-2013-08-18,Gil Vicente,Academica,2-0,1-0
-2013-08-18,Maritimo,Benfica,2-1,1-0
-2013-08-18,Setubal,Porto,1-3,1-0
-2013-08-18,Sp Lisbon,Arouca,5-1,2-1
-...
-```
+## Why Cache the Datasets?
+
+### What's unchanged / mirrored?
+
+The club names get copied as is incl. typos.
+
+
+### What's changed?
+
+The league codes get changed to
+the football.db "standard" using two letter ISO codes for countries
+and if no ISO code exists (e.g. for England, Scotland) than the three letter FIFA codes for countries (e.g. ENG, SCO) get used.
+
+The datasets here use the football.csv "standard", that is, one datafile
+per season and league. The league code becomes the file name and the season the
+directory name e.g. `2019-20/eng.1.csv` or `2019-20/at.1.csv`
+
 
 
 ## Questions? Comments?
