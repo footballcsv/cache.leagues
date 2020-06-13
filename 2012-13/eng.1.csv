@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 18 2012,?,West Ham,1-0,?,Aston Villa
+1,Sat Aug 18 2012,?,West Brom,3-0,?,Liverpool
+1,Sat Aug 18 2012,?,Arsenal,0-0,?,Sunderland
+1,Sat Aug 18 2012,?,Fulham,5-0,?,Norwich City
+1,Sat Aug 18 2012,?,Newcastle Utd,2-1,?,Tottenham
+1,Sat Aug 18 2012,?,Reading,1-1,?,Stoke City
+1,Sat Aug 18 2012,?,QPR,0-5,?,Swansea City
+1,Sun Aug 19 2012,?,Wigan Athletic,0-2,?,Chelsea
+1,Sun Aug 19 2012,?,Manchester City,3-2,?,Southampton
+1,Mon Aug 20 2012,?,Everton,1-0,?,Manchester Utd
+3,Wed Aug 22 2012,?,Chelsea,4-2,?,Reading
+2,Sat Aug 25 2012,?,Tottenham,1-1,?,West Brom
+2,Sat Aug 25 2012,?,Swansea City,3-0,?,West Ham
+2,Sat Aug 25 2012,?,Norwich City,1-1,?,QPR
+2,Sat Aug 25 2012,?,Manchester Utd,3-2,?,Fulham
+2,Sat Aug 25 2012,?,Chelsea,2-0,?,Newcastle Utd
+2,Sat Aug 25 2012,?,Aston Villa,1-3,?,Everton
+2,Sat Aug 25 2012,?,Southampton,0-2,?,Wigan Athletic
+2,Sun Aug 26 2012,?,Liverpool,2-2,?,Manchester City
+2,Sun Aug 26 2012,?,Stoke City,0-0,?,Arsenal
+3,Sat Sep 1 2012,?,Swansea City,2-2,?,Sunderland
+3,Sat Sep 1 2012,?,West Ham,3-0,?,Fulham
+3,Sat Sep 1 2012,?,Tottenham,1-1,?,Norwich City
+3,Sat Sep 1 2012,?,Manchester City,3-1,?,QPR
+3,Sat Sep 1 2012,?,Wigan Athletic,2-2,?,Stoke City
+3,Sat Sep 1 2012,?,West Brom,2-0,?,Everton
+3,Sun Sep 2 2012,?,Liverpool,0-2,?,Arsenal
+3,Sun Sep 2 2012,?,Newcastle Utd,1-1,?,Aston Villa
+3,Sun Sep 2 2012,?,Southampton,2-3,?,Manchester Utd
+4,Sat Sep 15 2012,?,Sunderland,1-1,?,Liverpool
+4,Sat Sep 15 2012,?,Manchester Utd,4-0,?,Wigan Athletic
+4,Sat Sep 15 2012,?,Norwich City,0-0,?,West Ham
+4,Sat Sep 15 2012,?,Arsenal,6-1,?,Southampton
+4,Sat Sep 15 2012,?,QPR,0-0,?,Chelsea
+4,Sat Sep 15 2012,?,Stoke City,1-1,?,Manchester City
+4,Sat Sep 15 2012,?,Aston Villa,2-0,?,Swansea City
+4,Sat Sep 15 2012,?,Fulham,3-0,?,West Brom
+4,Sun Sep 16 2012,?,Reading,1-3,?,Tottenham
+4,Mon Sep 17 2012,?,Everton,2-2,?,Newcastle Utd
+5,Sat Sep 22 2012,?,Chelsea,1-0,?,Stoke City
+5,Sat Sep 22 2012,?,West Ham,1-1,?,Sunderland
+5,Sat Sep 22 2012,?,Wigan Athletic,1-2,?,Fulham
+5,Sat Sep 22 2012,?,Swansea City,0-3,?,Everton
+5,Sat Sep 22 2012,?,West Brom,1-0,?,Reading
+5,Sat Sep 22 2012,?,Southampton,4-1,?,Aston Villa
+5,Sun Sep 23 2012,?,Liverpool,1-2,?,Manchester Utd
+5,Sun Sep 23 2012,?,Newcastle Utd,1-0,?,Norwich City
+5,Sun Sep 23 2012,?,Manchester City,1-1,?,Arsenal
+5,Sun Sep 23 2012,?,Tottenham,2-1,?,QPR
+6,Sat Sep 29 2012,?,Stoke City,2-0,?,Swansea City
+6,Sat Sep 29 2012,?,Everton,3-1,?,Southampton
+6,Sat Sep 29 2012,?,Norwich City,2-5,?,Liverpool
+6,Sat Sep 29 2012,?,Sunderland,1-0,?,Wigan Athletic
+6,Sat Sep 29 2012,?,Fulham,1-2,?,Manchester City
+6,Sat Sep 29 2012,?,Arsenal,1-2,?,Chelsea
+6,Sat Sep 29 2012,?,Manchester Utd,2-3,?,Tottenham
+6,Sat Sep 29 2012,?,Reading,2-2,?,Newcastle Utd
+6,Sun Sep 30 2012,?,Aston Villa,1-1,?,West Brom
+6,Mon Oct 1 2012,?,QPR,1-2,?,West Ham
+7,Sat Oct 6 2012,?,Chelsea,4-1,?,Norwich City
+7,Sat Oct 6 2012,?,Manchester City,3-0,?,Sunderland
+7,Sat Oct 6 2012,?,West Brom,3-2,?,QPR
+7,Sat Oct 6 2012,?,Wigan Athletic,2-2,?,Everton
+7,Sat Oct 6 2012,?,Swansea City,2-2,?,Reading
+7,Sat Oct 6 2012,?,West Ham,1-3,?,Arsenal
+7,Sun Oct 7 2012,?,Southampton,2-2,?,Fulham
+7,Sun Oct 7 2012,?,Tottenham,2-0,?,Aston Villa
+7,Sun Oct 7 2012,?,Liverpool,0-0,?,Stoke City
+7,Sun Oct 7 2012,?,Newcastle Utd,0-3,?,Manchester Utd
+8,Sat Oct 20 2012,?,Tottenham,2-4,?,Chelsea
+8,Sat Oct 20 2012,?,Liverpool,1-0,?,Reading
+8,Sat Oct 20 2012,?,West Brom,1-2,?,Manchester City
+8,Sat Oct 20 2012,?,West Ham,4-1,?,Southampton
+8,Sat Oct 20 2012,?,Fulham,1-0,?,Aston Villa
+8,Sat Oct 20 2012,?,Swansea City,2-1,?,Wigan Athletic
+8,Sat Oct 20 2012,?,Manchester Utd,4-2,?,Stoke City
+8,Sat Oct 20 2012,?,Norwich City,1-0,?,Arsenal
+8,Sun Oct 21 2012,?,Sunderland,1-1,?,Newcastle Utd
+8,Sun Oct 21 2012,?,QPR,1-1,?,Everton
+9,Sat Oct 27 2012,?,Arsenal,1-0,?,QPR
+9,Sat Oct 27 2012,?,Wigan Athletic,2-1,?,West Ham
+9,Sat Oct 27 2012,?,Manchester City,1-0,?,Swansea City
+9,Sat Oct 27 2012,?,Stoke City,0-0,?,Sunderland
+9,Sat Oct 27 2012,?,Reading,3-3,?,Fulham
+9,Sat Oct 27 2012,?,Aston Villa,1-1,?,Norwich City
+9,Sun Oct 28 2012,?,Southampton,1-2,?,Tottenham
+9,Sun Oct 28 2012,?,Newcastle Utd,2-1,?,West Brom
+9,Sun Oct 28 2012,?,Everton,2-2,?,Liverpool
+9,Sun Oct 28 2012,?,Chelsea,2-3,?,Manchester Utd
+10,Sat Nov 3 2012,?,Sunderland,0-1,?,Aston Villa
+10,Sat Nov 3 2012,?,Tottenham,0-1,?,Wigan Athletic
+10,Sat Nov 3 2012,?,Fulham,2-2,?,Everton
+10,Sat Nov 3 2012,?,Manchester Utd,2-1,?,Arsenal
+10,Sat Nov 3 2012,?,West Ham,0-0,?,Manchester City
+10,Sat Nov 3 2012,?,Norwich City,1-0,?,Stoke City
+10,Sat Nov 3 2012,?,Swansea City,1-1,?,Chelsea
+10,Sun Nov 4 2012,?,QPR,1-1,?,Reading
+10,Sun Nov 4 2012,?,Liverpool,1-1,?,Newcastle Utd
+10,Mon Nov 5 2012,?,West Brom,2-0,?,Southampton
+11,Sat Nov 10 2012,?,Southampton,1-1,?,Swansea City
+11,Sat Nov 10 2012,?,Arsenal,3-3,?,Fulham
+11,Sat Nov 10 2012,?,Wigan Athletic,1-2,?,West Brom
+11,Sat Nov 10 2012,?,Reading,0-0,?,Norwich City
+11,Sat Nov 10 2012,?,Everton,2-1,?,Sunderland
+11,Sat Nov 10 2012,?,Aston Villa,2-3,?,Manchester Utd
+11,Sat Nov 10 2012,?,Stoke City,1-0,?,QPR
+11,Sun Nov 11 2012,?,Newcastle Utd,0-1,?,West Ham
+11,Sun Nov 11 2012,?,Manchester City,2-1,?,Tottenham
+11,Sun Nov 11 2012,?,Chelsea,1-1,?,Liverpool
+12,Sat Nov 17 2012,?,Norwich City,1-0,?,Manchester Utd
+12,Sat Nov 17 2012,?,QPR,1-3,?,Southampton
+12,Sat Nov 17 2012,?,Reading,2-1,?,Everton
+12,Sat Nov 17 2012,?,West Brom,2-1,?,Chelsea
+12,Sat Nov 17 2012,?,Arsenal,5-2,?,Tottenham
+12,Sat Nov 17 2012,?,Manchester City,5-0,?,Aston Villa
+12,Sat Nov 17 2012,?,Liverpool,3-0,?,Wigan Athletic
+12,Sat Nov 17 2012,?,Newcastle Utd,1-2,?,Swansea City
+12,Sun Nov 18 2012,?,Fulham,1-3,?,Sunderland
+12,Mon Nov 19 2012,?,West Ham,1-1,?,Stoke City
+13,Sat Nov 24 2012,?,Manchester Utd,3-1,?,QPR
+13,Sat Nov 24 2012,?,Wigan Athletic,3-2,?,Reading
+13,Sat Nov 24 2012,?,Everton,1-1,?,Norwich City
+13,Sat Nov 24 2012,?,Sunderland,2-4,?,West Brom
+13,Sat Nov 24 2012,?,Stoke City,1-0,?,Fulham
+13,Sat Nov 24 2012,?,Aston Villa,0-0,?,Arsenal
+13,Sun Nov 25 2012,?,Southampton,2-0,?,Newcastle Utd
+13,Sun Nov 25 2012,?,Tottenham,3-1,?,West Ham
+13,Sun Nov 25 2012,?,Chelsea,0-0,?,Manchester City
+13,Sun Nov 25 2012,?,Swansea City,0-0,?,Liverpool
+14,Tue Nov 27 2012,?,Sunderland,0-0,?,QPR
+14,Tue Nov 27 2012,?,Aston Villa,1-0,?,Reading
+14,Wed Nov 28 2012,?,Swansea City,3-1,?,West Brom
+14,Wed Nov 28 2012,?,Chelsea,0-0,?,Fulham
+14,Wed Nov 28 2012,?,Southampton,1-1,?,Norwich City
+14,Wed Nov 28 2012,?,Everton,1-1,?,Arsenal
+14,Wed Nov 28 2012,?,Wigan Athletic,0-2,?,Manchester City
+14,Wed Nov 28 2012,?,Stoke City,2-1,?,Newcastle Utd
+14,Wed Nov 28 2012,?,Tottenham,2-1,?,Liverpool
+14,Wed Nov 28 2012,?,Manchester Utd,1-0,?,West Ham
+15,Sat Dec 1 2012,?,West Ham,3-1,?,Chelsea
+15,Sat Dec 1 2012,?,Fulham,0-3,?,Tottenham
+15,Sat Dec 1 2012,?,QPR,1-1,?,Aston Villa
+15,Sat Dec 1 2012,?,Manchester City,1-1,?,Everton
+15,Sat Dec 1 2012,?,Liverpool,1-0,?,Southampton
+15,Sat Dec 1 2012,?,West Brom,0-1,?,Stoke City
+15,Sat Dec 1 2012,?,Arsenal,0-2,?,Swansea City
+15,Sat Dec 1 2012,?,Reading,3-4,?,Manchester Utd
+15,Sun Dec 2 2012,?,Norwich City,2-1,?,Sunderland
+15,Mon Dec 3 2012,?,Newcastle Utd,3-0,?,Wigan Athletic
+16,Sat Dec 8 2012,?,Southampton,1-0,?,Reading
+16,Sat Dec 8 2012,?,Aston Villa,0-0,?,Stoke City
+16,Sat Dec 8 2012,?,Sunderland,1-3,?,Chelsea
+16,Sat Dec 8 2012,?,Swansea City,3-4,?,Norwich City
+16,Sat Dec 8 2012,?,Wigan Athletic,2-2,?,QPR
+16,Sat Dec 8 2012,?,Arsenal,2-0,?,West Brom
+16,Sun Dec 9 2012,?,Manchester City,2-3,?,Manchester Utd
+16,Sun Dec 9 2012,?,Everton,2-1,?,Tottenham
+16,Sun Dec 9 2012,?,West Ham,2-3,?,Liverpool
+16,Mon Dec 10 2012,?,Fulham,2-1,?,Newcastle Utd
+2,Tue Dec 11 2012,?,Sunderland,3-0,?,Reading
+17,Sat Dec 15 2012,?,QPR,2-1,?,Fulham
+17,Sat Dec 15 2012,?,Newcastle Utd,1-3,?,Manchester City
+17,Sat Dec 15 2012,?,Norwich City,2-1,?,Wigan Athletic
+17,Sat Dec 15 2012,?,Stoke City,1-1,?,Everton
+17,Sat Dec 15 2012,?,Manchester Utd,3-1,?,Sunderland
+17,Sat Dec 15 2012,?,Liverpool,1-3,?,Aston Villa
+17,Sun Dec 16 2012,?,Tottenham,1-0,?,Swansea City
+17,Sun Dec 16 2012,?,West Brom,0-0,?,West Ham
+17,Mon Dec 17 2012,?,Reading,2-5,?,Arsenal
+18,Sat Dec 22 2012,?,Southampton,0-1,?,Sunderland
+18,Sat Dec 22 2012,?,Manchester City,1-0,?,Reading
+18,Sat Dec 22 2012,?,Liverpool,4-0,?,Fulham
+18,Sat Dec 22 2012,?,West Ham,1-2,?,Everton
+18,Sat Dec 22 2012,?,Newcastle Utd,1-0,?,QPR
+18,Sat Dec 22 2012,?,Wigan Athletic,0-1,?,Arsenal
+18,Sat Dec 22 2012,?,West Brom,2-1,?,Norwich City
+18,Sat Dec 22 2012,?,Tottenham,0-0,?,Stoke City
+18,Sun Dec 23 2012,?,Swansea City,1-1,?,Manchester Utd
+18,Sun Dec 23 2012,?,Chelsea,8-0,?,Aston Villa
+19,Wed Dec 26 2012,?,Stoke City,3-1,?,Liverpool
+19,Wed Dec 26 2012,?,Reading,0-0,?,Swansea City
+19,Wed Dec 26 2012,?,QPR,1-2,?,West Brom
+19,Wed Dec 26 2012,?,Aston Villa,0-4,?,Tottenham
+19,Wed Dec 26 2012,?,Sunderland,1-0,?,Manchester City
+19,Wed Dec 26 2012,?,Norwich City,0-1,?,Chelsea
+19,Wed Dec 26 2012,?,Manchester Utd,4-3,?,Newcastle Utd
+19,Wed Dec 26 2012,?,Fulham,1-1,?,Southampton
+19,Wed Dec 26 2012,?,Everton,2-1,?,Wigan Athletic
+20,Sat Dec 29 2012,?,Norwich City,3-4,?,Manchester City
+20,Sat Dec 29 2012,?,Sunderland,1-2,?,Tottenham
+20,Sat Dec 29 2012,?,Fulham,1-2,?,Swansea City
+20,Sat Dec 29 2012,?,Aston Villa,0-3,?,Wigan Athletic
+20,Sat Dec 29 2012,?,Arsenal,7-3,?,Newcastle Utd
+20,Sat Dec 29 2012,?,Reading,1-0,?,West Ham
+20,Sat Dec 29 2012,?,Manchester Utd,2-0,?,West Brom
+20,Sat Dec 29 2012,?,Stoke City,3-3,?,Southampton
+20,Sun Dec 30 2012,?,QPR,0-3,?,Liverpool
+20,Sun Dec 30 2012,?,Everton,1-2,?,Chelsea
+21,Tue Jan 1 2013,?,West Ham,2-1,?,Norwich City
+21,Tue Jan 1 2013,?,Swansea City,2-2,?,Aston Villa
+21,Tue Jan 1 2013,?,Wigan Athletic,0-4,?,Manchester Utd
+21,Tue Jan 1 2013,?,West Brom,1-2,?,Fulham
+21,Tue Jan 1 2013,?,Manchester City,3-0,?,Stoke City
+21,Tue Jan 1 2013,?,Tottenham,3-1,?,Reading
+21,Tue Jan 1 2013,?,Southampton,1-1,?,Arsenal
+21,Wed Jan 2 2013,?,Liverpool,3-0,?,Sunderland
+21,Wed Jan 2 2013,?,Chelsea,0-1,?,QPR
+21,Wed Jan 2 2013,?,Newcastle Utd,1-2,?,Everton
+22,Sat Jan 12 2013,?,Aston Villa,0-1,?,Southampton
+22,Sat Jan 12 2013,?,QPR,0-0,?,Tottenham
+22,Sat Jan 12 2013,?,Reading,3-2,?,West Brom
+22,Sat Jan 12 2013,?,Everton,0-0,?,Swansea City
+22,Sat Jan 12 2013,?,Norwich City,0-0,?,Newcastle Utd
+22,Sat Jan 12 2013,?,Sunderland,3-0,?,West Ham
+22,Sat Jan 12 2013,?,Stoke City,0-4,?,Chelsea
+22,Sat Jan 12 2013,?,Fulham,1-1,?,Wigan Athletic
+22,Sun Jan 13 2013,?,Arsenal,0-2,?,Manchester City
+22,Sun Jan 13 2013,?,Manchester Utd,2-1,?,Liverpool
+17,Wed Jan 16 2013,?,Chelsea,2-2,?,Southampton
+23,Sat Jan 19 2013,?,Manchester City,2-0,?,Fulham
+23,Sat Jan 19 2013,?,West Ham,1-1,?,QPR
+23,Sat Jan 19 2013,?,Newcastle Utd,1-2,?,Reading
+23,Sat Jan 19 2013,?,West Brom,2-2,?,Aston Villa
+23,Sat Jan 19 2013,?,Wigan Athletic,2-3,?,Sunderland
+23,Sat Jan 19 2013,?,Liverpool,5-0,?,Norwich City
+23,Sat Jan 19 2013,?,Swansea City,3-1,?,Stoke City
+23,Sun Jan 20 2013,?,Tottenham,1-1,?,Manchester Utd
+23,Sun Jan 20 2013,?,Chelsea,2-1,?,Arsenal
+23,Mon Jan 21 2013,?,Southampton,0-0,?,Everton
+19,Wed Jan 23 2013,?,Arsenal,5-1,?,West Ham
+24,Tue Jan 29 2013,?,QPR,0-0,?,Manchester City
+24,Tue Jan 29 2013,?,Sunderland,0-0,?,Swansea City
+24,Tue Jan 29 2013,?,Aston Villa,1-2,?,Newcastle Utd
+24,Tue Jan 29 2013,?,Stoke City,2-2,?,Wigan Athletic
+24,Wed Jan 30 2013,?,Norwich City,1-1,?,Tottenham
+24,Wed Jan 30 2013,?,Manchester Utd,2-1,?,Southampton
+24,Wed Jan 30 2013,?,Arsenal,2-2,?,Liverpool
+24,Wed Jan 30 2013,?,Reading,2-2,?,Chelsea
+24,Wed Jan 30 2013,?,Fulham,3-1,?,West Ham
+24,Wed Jan 30 2013,?,Everton,2-1,?,West Brom
+25,Sat Feb 2 2013,?,Newcastle Utd,3-2,?,Chelsea
+25,Sat Feb 2 2013,?,Reading,2-1,?,Sunderland
+25,Sat Feb 2 2013,?,West Ham,1-0,?,Swansea City
+25,Sat Feb 2 2013,?,Fulham,0-1,?,Manchester Utd
+25,Sat Feb 2 2013,?,Wigan Athletic,2-2,?,Southampton
+25,Sat Feb 2 2013,?,Everton,3-3,?,Aston Villa
+25,Sat Feb 2 2013,?,Arsenal,1-0,?,Stoke City
+25,Sat Feb 2 2013,?,QPR,0-0,?,Norwich City
+25,Sun Feb 3 2013,?,Manchester City,2-2,?,Liverpool
+25,Sun Feb 3 2013,?,West Brom,0-1,?,Tottenham
+26,Sat Feb 9 2013,?,Sunderland,0-1,?,Arsenal
+26,Sat Feb 9 2013,?,Swansea City,4-1,?,QPR
+26,Sat Feb 9 2013,?,Norwich City,0-0,?,Fulham
+26,Sat Feb 9 2013,?,Chelsea,4-1,?,Wigan Athletic
+26,Sat Feb 9 2013,?,Southampton,3-1,?,Manchester City
+26,Sat Feb 9 2013,?,Tottenham,2-1,?,Newcastle Utd
+26,Sat Feb 9 2013,?,Stoke City,2-1,?,Reading
+26,Sun Feb 10 2013,?,Manchester Utd,2-0,?,Everton
+26,Sun Feb 10 2013,?,Aston Villa,2-1,?,West Ham
+26,Mon Feb 11 2013,?,Liverpool,0-2,?,West Brom
+27,Sun Feb 17 2013,?,Liverpool,5-0,?,Swansea City
+27,Sat Feb 23 2013,?,Norwich City,2-1,?,Everton
+27,Sat Feb 23 2013,?,QPR,0-2,?,Manchester Utd
+27,Sat Feb 23 2013,?,West Brom,2-1,?,Sunderland
+27,Sat Feb 23 2013,?,Reading,0-3,?,Wigan Athletic
+27,Sat Feb 23 2013,?,Arsenal,2-1,?,Aston Villa
+27,Sat Feb 23 2013,?,Fulham,1-0,?,Stoke City
+27,Sun Feb 24 2013,?,Manchester City,2-0,?,Chelsea
+27,Sun Feb 24 2013,?,Newcastle Utd,4-2,?,Southampton
+27,Mon Feb 25 2013,?,West Ham,2-3,?,Tottenham
+28,Sat Mar 2 2013,?,Everton,3-1,?,Reading
+28,Sat Mar 2 2013,?,Wigan Athletic,0-4,?,Liverpool
+28,Sat Mar 2 2013,?,Swansea City,1-0,?,Newcastle Utd
+28,Sat Mar 2 2013,?,Sunderland,2-2,?,Fulham
+28,Sat Mar 2 2013,?,Stoke City,0-1,?,West Ham
+28,Sat Mar 2 2013,?,Chelsea,1-0,?,West Brom
+28,Sat Mar 2 2013,?,Southampton,1-2,?,QPR
+28,Sat Mar 2 2013,?,Manchester Utd,4-0,?,Norwich City
+28,Sun Mar 3 2013,?,Tottenham,2-1,?,Arsenal
+28,Mon Mar 4 2013,?,Aston Villa,0-1,?,Manchester City
+29,Sat Mar 9 2013,?,West Brom,2-1,?,Swansea City
+29,Sat Mar 9 2013,?,Reading,1-2,?,Aston Villa
+29,Sat Mar 9 2013,?,QPR,3-1,?,Sunderland
+29,Sat Mar 9 2013,?,Norwich City,0-0,?,Southampton
+29,Sun Mar 10 2013,?,Liverpool,3-2,?,Tottenham
+29,Sun Mar 10 2013,?,Newcastle Utd,2-1,?,Stoke City
+30,Sat Mar 16 2013,?,Aston Villa,3-2,?,QPR
+30,Sat Mar 16 2013,?,Swansea City,0-2,?,Arsenal
+30,Sat Mar 16 2013,?,Manchester Utd,1-0,?,Reading
+30,Sat Mar 16 2013,?,Stoke City,0-0,?,West Brom
+30,Sat Mar 16 2013,?,Southampton,3-1,?,Liverpool
+30,Sat Mar 16 2013,?,Everton,2-0,?,Manchester City
+30,Sun Mar 17 2013,?,Wigan Athletic,2-1,?,Newcastle Utd
+30,Sun Mar 17 2013,?,Tottenham,0-1,?,Fulham
+30,Sun Mar 17 2013,?,Chelsea,2-0,?,West Ham
+30,Sun Mar 17 2013,?,Sunderland,1-1,?,Norwich City
+31,Sat Mar 30 2013,?,West Ham,3-1,?,West Brom
+31,Sat Mar 30 2013,?,Sunderland,0-1,?,Manchester Utd
+31,Sat Mar 30 2013,?,Southampton,2-1,?,Chelsea
+31,Sat Mar 30 2013,?,Arsenal,4-1,?,Reading
+31,Sat Mar 30 2013,?,Manchester City,4-0,?,Newcastle Utd
+31,Sat Mar 30 2013,?,Everton,1-0,?,Stoke City
+31,Sat Mar 30 2013,?,Wigan Athletic,1-0,?,Norwich City
+31,Sat Mar 30 2013,?,Swansea City,1-2,?,Tottenham
+31,Sun Mar 31 2013,?,Aston Villa,1-2,?,Liverpool
+31,Mon Apr 1 2013,?,Fulham,3-2,?,QPR
+32,Sat Apr 6 2013,?,Norwich City,2-2,?,Swansea City
+32,Sat Apr 6 2013,?,Reading,0-2,?,Southampton
+32,Sat Apr 6 2013,?,Stoke City,1-3,?,Aston Villa
+32,Sat Apr 6 2013,?,West Brom,1-2,?,Arsenal
+32,Sun Apr 7 2013,?,Newcastle Utd,1-0,?,Fulham
+32,Sun Apr 7 2013,?,Chelsea,2-1,?,Sunderland
+32,Sun Apr 7 2013,?,QPR,1-1,?,Wigan Athletic
+32,Sun Apr 7 2013,?,Tottenham,2-2,?,Everton
+32,Sun Apr 7 2013,?,Liverpool,0-0,?,West Ham
+32,Mon Apr 8 2013,?,Manchester Utd,1-2,?,Manchester City
+33,Sat Apr 13 2013,?,Southampton,1-1,?,West Ham
+33,Sat Apr 13 2013,?,Reading,0-0,?,Liverpool
+33,Sat Apr 13 2013,?,Everton,2-0,?,QPR
+33,Sat Apr 13 2013,?,Arsenal,3-1,?,Norwich City
+33,Sat Apr 13 2013,?,Aston Villa,1-1,?,Fulham
+33,Sun Apr 14 2013,?,Stoke City,0-2,?,Manchester Utd
+33,Sun Apr 14 2013,?,Newcastle Utd,0-3,?,Sunderland
+29,Tue Apr 16 2013,?,Arsenal,0-0,?,Everton
+29,Wed Apr 17 2013,?,Fulham,0-3,?,Chelsea
+29,Wed Apr 17 2013,?,West Ham,2-2,?,Manchester Utd
+29,Wed Apr 17 2013,?,Manchester City,1-0,?,Wigan Athletic
+34,Sat Apr 20 2013,?,West Brom,1-1,?,Newcastle Utd
+34,Sat Apr 20 2013,?,QPR,0-2,?,Stoke City
+34,Sat Apr 20 2013,?,Swansea City,0-0,?,Southampton
+34,Sat Apr 20 2013,?,Fulham,0-1,?,Arsenal
+34,Sat Apr 20 2013,?,Norwich City,2-1,?,Reading
+34,Sat Apr 20 2013,?,West Ham,2-0,?,Wigan Athletic
+34,Sat Apr 20 2013,?,Sunderland,1-0,?,Everton
+34,Sun Apr 21 2013,?,Tottenham,3-1,?,Manchester City
+34,Sun Apr 21 2013,?,Liverpool,2-2,?,Chelsea
+34,Mon Apr 22 2013,?,Manchester Utd,3-0,?,Aston Villa
+35,Sat Apr 27 2013,?,Manchester City,2-1,?,West Ham
+35,Sat Apr 27 2013,?,Stoke City,1-0,?,Norwich City
+35,Sat Apr 27 2013,?,Newcastle Utd,0-6,?,Liverpool
+35,Sat Apr 27 2013,?,Everton,1-0,?,Fulham
+35,Sat Apr 27 2013,?,Wigan Athletic,2-2,?,Tottenham
+35,Sat Apr 27 2013,?,Southampton,0-3,?,West Brom
+35,Sun Apr 28 2013,?,Arsenal,1-1,?,Manchester Utd
+35,Sun Apr 28 2013,?,Chelsea,2-0,?,Swansea City
+35,Sun Apr 28 2013,?,Reading,0-0,?,QPR
+35,Mon Apr 29 2013,?,Aston Villa,6-1,?,Sunderland
+36,Sat May 4 2013,?,Swansea City,0-0,?,Manchester City
+36,Sat May 4 2013,?,West Brom,2-3,?,Wigan Athletic
+36,Sat May 4 2013,?,Fulham,2-4,?,Reading
+36,Sat May 4 2013,?,West Ham,0-0,?,Newcastle Utd
+36,Sat May 4 2013,?,QPR,0-1,?,Arsenal
+36,Sat May 4 2013,?,Norwich City,1-2,?,Aston Villa
+36,Sat May 4 2013,?,Tottenham,1-0,?,Southampton
+36,Sun May 5 2013,?,Liverpool,0-0,?,Everton
+36,Sun May 5 2013,?,Manchester Utd,0-1,?,Chelsea
+36,Mon May 6 2013,?,Sunderland,1-1,?,Stoke City
+33,Tue May 7 2013,?,Manchester City,1-0,?,West Brom
+33,Tue May 7 2013,?,Wigan Athletic,2-3,?,Swansea City
+33,Wed May 8 2013,?,Chelsea,2-2,?,Tottenham
+37,Sat May 11 2013,?,Aston Villa,1-2,?,Chelsea
+37,Sun May 12 2013,?,Manchester Utd,2-1,?,Swansea City
+37,Sun May 12 2013,?,Sunderland,1-1,?,Southampton
+37,Sun May 12 2013,?,Stoke City,1-2,?,Tottenham
+37,Sun May 12 2013,?,Everton,2-0,?,West Ham
+37,Sun May 12 2013,?,QPR,1-2,?,Newcastle Utd
+37,Sun May 12 2013,?,Norwich City,4-0,?,West Brom
+37,Sun May 12 2013,?,Fulham,1-3,?,Liverpool
+37,Tue May 14 2013,?,Reading,0-2,?,Manchester City
+37,Tue May 14 2013,?,Arsenal,4-1,?,Wigan Athletic
+38,Sun May 19 2013,?,Newcastle Utd,0-1,?,Arsenal
+38,Sun May 19 2013,?,Tottenham,1-0,?,Sunderland
+38,Sun May 19 2013,?,Swansea City,0-3,?,Fulham
+38,Sun May 19 2013,?,West Brom,5-5,?,Manchester Utd
+38,Sun May 19 2013,?,Manchester City,2-3,?,Norwich City
+38,Sun May 19 2013,?,Chelsea,2-1,?,Everton
+38,Sun May 19 2013,?,West Ham,4-2,?,Reading
+38,Sun May 19 2013,?,Southampton,1-1,?,Stoke City
+38,Sun May 19 2013,?,Liverpool,1-0,?,QPR
+38,Sun May 19 2013,?,Wigan Athletic,2-2,?,Aston Villa

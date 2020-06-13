@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 10 2018,20:45,Marseille,4-0,?,Toulouse
+1,Sat Aug 11 2018,17:00,Nantes,1-3,?,Monaco
+1,Sat Aug 11 2018,20:00,Montpellier,1-2,?,Dijon
+1,Sat Aug 11 2018,20:00,Lille,3-1,?,Rennes
+1,Sat Aug 11 2018,20:00,Angers,3-4,?,Nîmes
+1,Sat Aug 11 2018,20:00,Nice,0-1,?,Reims
+1,Sat Aug 11 2018,20:00,Saint-Étienne,2-1,?,Guingamp
+1,Sun Aug 12 2018,15:00,Lyon,2-0,?,Amiens
+1,Sun Aug 12 2018,17:00,Bordeaux,0-2,?,Strasbourg
+1,Sun Aug 12 2018,21:00,Paris S-G,3-0,?,Caen
+2,Fri Aug 17 2018,20:45,Reims,1-0,?,Lyon
+2,Sat Aug 18 2018,17:00,Guingamp,1-3,?,Paris S-G
+2,Sat Aug 18 2018,20:00,Rennes,1-0,?,Angers
+2,Sat Aug 18 2018,20:00,Caen,1-1,?,Nice
+2,Sat Aug 18 2018,20:00,Dijon,2-0,?,Nantes
+2,Sat Aug 18 2018,20:00,Amiens,1-2,?,Montpellier
+2,Sat Aug 18 2018,20:00,Monaco,0-0,?,Lille
+2,Sun Aug 19 2018,15:00,Strasbourg,1-1,?,Saint-Étienne
+2,Sun Aug 19 2018,17:00,Toulouse,2-1,?,Bordeaux
+2,Sun Aug 19 2018,21:00,Nîmes,3-1,?,Marseille
+3,Fri Aug 24 2018,20:45,Lyon,2-0,?,Strasbourg
+3,Sat Aug 25 2018,17:00,Paris S-G,3-1,?,Angers
+3,Sat Aug 25 2018,20:00,Montpellier,0-0,?,Saint-Étienne
+3,Sat Aug 25 2018,20:00,Toulouse,1-0,?,Nîmes
+3,Sat Aug 25 2018,20:00,Amiens,4-1,?,Reims
+3,Sat Aug 25 2018,20:00,Nantes,1-1,?,Caen
+3,Sat Aug 25 2018,20:00,Nice,0-4,?,Dijon
+3,Sun Aug 26 2018,15:00,Lille,3-0,?,Guingamp
+3,Sun Aug 26 2018,17:00,Bordeaux,2-1,?,Monaco
+3,Sun Aug 26 2018,21:00,Marseille,2-2,?,Rennes
+4,Fri Aug 31 2018,20:45,Lyon,0-1,?,Nice
+4,Sat Sep 1 2018,17:00,Nîmes,2-4,?,Paris S-G
+4,Sat Sep 1 2018,20:00,Angers,1-0,?,Lille
+4,Sat Sep 1 2018,20:00,Guingamp,1-2,?,Toulouse
+4,Sat Sep 1 2018,20:00,Strasbourg,2-3,?,Nantes
+4,Sat Sep 1 2018,20:00,Reims,0-1,?,Montpellier
+4,Sat Sep 1 2018,20:00,Dijon,0-2,?,Caen
+4,Sun Sep 2 2018,15:00,Saint-Étienne,0-0,?,Amiens
+4,Sun Sep 2 2018,17:00,Rennes,2-0,?,Bordeaux
+4,Sun Sep 2 2018,21:00,Monaco,2-3,?,Marseille
+5,Fri Sep 14 2018,19:00,Nice,2-1,?,Rennes
+5,Fri Sep 14 2018,20:45,Paris S-G,4-0,?,Saint-Étienne
+5,Sat Sep 15 2018,17:00,Caen,2-2,?,Lyon
+5,Sat Sep 15 2018,20:00,Montpellier,1-1,?,Strasbourg
+5,Sat Sep 15 2018,20:00,Toulouse,1-1,?,Monaco
+5,Sat Sep 15 2018,20:00,Dijon,1-3,?,Angers
+5,Sat Sep 15 2018,20:00,Amiens,2-3,?,Lille
+5,Sun Sep 16 2018,15:00,Nantes,0-0,?,Reims
+5,Sun Sep 16 2018,17:00,Bordeaux,3-3,?,Nîmes
+5,Sun Sep 16 2018,21:00,Marseille,4-0,?,Guingamp
+6,Fri Sep 21 2018,20:45,Monaco,1-1,?,Nîmes
+6,Sat Sep 22 2018,17:00,Lille,2-1,?,Nantes
+6,Sat Sep 22 2018,20:00,Reims,0-0,?,Dijon
+6,Sat Sep 22 2018,20:00,Saint-Étienne,2-1,?,Caen
+6,Sat Sep 22 2018,20:00,Strasbourg,3-1,?,Amiens
+6,Sat Sep 22 2018,20:00,Angers,0-0,?,Toulouse
+6,Sat Sep 22 2018,20:00,Montpellier,1-0,?,Nice
+6,Sun Sep 23 2018,15:00,Rennes,1-3,?,Paris S-G
+6,Sun Sep 23 2018,17:00,Guingamp,1-3,?,Bordeaux
+6,Sun Sep 23 2018,21:00,Lyon,4-2,?,Marseille
+7,Tue Sep 25 2018,19:00,Monaco,0-1,?,Angers
+7,Tue Sep 25 2018,19:00,Nantes,1-2,?,Nice
+7,Tue Sep 25 2018,21:00,Toulouse,2-3,?,Saint-Étienne
+7,Wed Sep 26 2018,19:00,Dijon,0-3,?,Lyon
+7,Wed Sep 26 2018,19:00,Marseille,3-2,?,Strasbourg
+7,Wed Sep 26 2018,19:00,Nîmes,0-0,?,Guingamp
+7,Wed Sep 26 2018,19:00,Caen,2-2,?,Montpellier
+7,Wed Sep 26 2018,19:00,Bordeaux,1-0,?,Lille
+7,Wed Sep 26 2018,19:00,Amiens,2-1,?,Rennes
+7,Wed Sep 26 2018,21:00,Paris S-G,4-1,?,Reims
+8,Fri Sep 28 2018,20:45,Saint-Étienne,2-0,?,Monaco
+8,Sat Sep 29 2018,17:15,Nice,0-3,?,Paris S-G
+8,Sat Sep 29 2018,20:00,Strasbourg,3-0,?,Dijon
+8,Sat Sep 29 2018,20:00,Lyon,1-1,?,Nantes
+8,Sat Sep 29 2018,20:00,Reims,0-0,?,Bordeaux
+8,Sat Sep 29 2018,20:00,Caen,1-0,?,Amiens
+8,Sat Sep 29 2018,20:00,Angers,0-1,?,Guingamp
+8,Sun Sep 30 2018,15:00,Rennes,1-1,?,Toulouse
+8,Sun Sep 30 2018,17:00,Montpellier,3-0,?,Nîmes
+8,Sun Sep 30 2018,21:00,Lille,3-0,?,Marseille
+9,Fri Oct 5 2018,20:45,Toulouse,1-1,?,Nice
+9,Sat Oct 6 2018,17:00,Lille,3-1,?,Saint-Étienne
+9,Sat Oct 6 2018,20:00,Angers,2-2,?,Strasbourg
+9,Sat Oct 6 2018,20:00,Amiens,1-0,?,Dijon
+9,Sat Oct 6 2018,20:00,Nîmes,0-0,?,Reims
+9,Sat Oct 6 2018,20:00,Guingamp,1-1,?,Montpellier
+9,Sun Oct 7 2018,15:00,Bordeaux,3-0,?,Nantes
+9,Sun Oct 7 2018,17:00,Marseille,2-0,?,Caen
+9,Sun Oct 7 2018,17:00,Monaco,1-2,?,Rennes
+9,Sun Oct 7 2018,21:00,Paris S-G,5-0,?,Lyon
+10,Fri Oct 19 2018,20:45,Lyon,2-0,?,Nîmes
+10,Sat Oct 20 2018,17:00,Paris S-G,5-0,?,Amiens
+10,Sat Oct 20 2018,20:00,Nantes,4-0,?,Toulouse
+10,Sat Oct 20 2018,20:00,Caen,0-0,?,Guingamp
+10,Sat Oct 20 2018,20:00,Reims,1-1,?,Angers
+10,Sat Oct 20 2018,20:00,Strasbourg,2-1,?,Monaco
+10,Sat Oct 20 2018,20:00,Dijon,1-2,?,Lille
+10,Sun Oct 21 2018,15:00,Montpellier,2-0,?,Bordeaux
+10,Sun Oct 21 2018,17:00,Saint-Étienne,1-1,?,Rennes
+10,Sun Oct 21 2018,21:00,Nice,0-1,?,Marseille
+11,Fri Oct 26 2018,20:45,Nîmes,1-1,?,Saint-Étienne
+11,Sat Oct 27 2018,17:00,Angers,1-2,?,Lyon
+11,Sat Oct 27 2018,20:00,Guingamp,1-1,?,Strasbourg
+11,Sat Oct 27 2018,20:00,Toulouse,0-3,?,Montpellier
+11,Sat Oct 27 2018,20:00,Amiens,1-2,?,Nantes
+11,Sat Oct 27 2018,20:00,Lille,1-0,?,Caen
+11,Sat Oct 27 2018,20:00,Monaco,2-2,?,Dijon
+11,Sun Oct 28 2018,15:00,Rennes,0-2,?,Reims
+11,Sun Oct 28 2018,17:00,Bordeaux,0-1,?,Nice
+11,Sun Oct 28 2018,21:00,Marseille,0-2,?,Paris S-G
+12,Fri Nov 2 2018,20:45,Paris S-G,2-1,?,Lille
+12,Sat Nov 3 2018,17:00,Lyon,1-1,?,Bordeaux
+12,Sat Nov 3 2018,20:00,Reims,1-0,?,Monaco
+12,Sat Nov 3 2018,20:00,Dijon,0-4,?,Nîmes
+12,Sat Nov 3 2018,20:00,Caen,1-2,?,Rennes
+12,Sat Nov 3 2018,20:00,Nice,1-0,?,Amiens
+12,Sat Nov 3 2018,20:00,Strasbourg,1-1,?,Toulouse
+12,Sun Nov 4 2018,15:00,Nantes,5-0,?,Guingamp
+12,Sun Nov 4 2018,17:00,Saint-Étienne,4-3,?,Angers
+12,Sun Nov 4 2018,21:00,Montpellier,3-0,?,Marseille
+13,Fri Nov 9 2018,20:45,Lille,0-0,?,Strasbourg
+13,Sat Nov 10 2018,17:00,Guingamp,2-4,?,Lyon
+13,Sat Nov 10 2018,20:00,Toulouse,0-1,?,Amiens
+13,Sat Nov 10 2018,20:00,Saint-Étienne,2-0,?,Reims
+13,Sat Nov 10 2018,20:00,Nîmes,0-1,?,Nice
+13,Sat Nov 10 2018,20:00,Angers,1-0,?,Montpellier
+13,Sun Nov 11 2018,15:00,Bordeaux,0-0,?,Caen
+13,Sun Nov 11 2018,17:00,Rennes,1-1,?,Nantes
+13,Sun Nov 11 2018,17:00,Marseille,2-0,?,Dijon
+13,Sun Nov 11 2018,21:00,Monaco,0-4,?,Paris S-G
+14,Fri Nov 23 2018,21:00,Lyon,1-0,?,Saint-Étienne
+14,Sat Nov 24 2018,17:00,Paris S-G,1-0,?,Toulouse
+14,Sat Nov 24 2018,20:00,Strasbourg,0-1,?,Nîmes
+14,Sat Nov 24 2018,20:00,Caen,0-1,?,Monaco
+14,Sat Nov 24 2018,20:00,Dijon,0-0,?,Bordeaux
+14,Sat Nov 24 2018,20:00,Reims,2-1,?,Guingamp
+14,Sat Nov 24 2018,20:00,Nantes,1-1,?,Angers
+14,Sun Nov 25 2018,15:00,Montpellier,2-2,?,Rennes
+14,Sun Nov 25 2018,17:00,Nice,2-0,?,Lille
+14,Sun Nov 25 2018,21:00,Amiens,1-3,?,Marseille
+15,Fri Nov 30 2018,20:45,Saint-Étienne,3-0,?,Nantes
+15,Sat Dec 1 2018,17:00,Lille,2-2,?,Lyon
+15,Sat Dec 1 2018,20:00,Monaco,1-2,?,Montpellier
+15,Sat Dec 1 2018,20:00,Guingamp,0-0,?,Nice
+15,Sat Dec 1 2018,20:00,Nîmes,3-0,?,Amiens
+15,Sat Dec 1 2018,20:00,Angers,1-1,?,Caen
+15,Sun Dec 2 2018,15:00,Toulouse,2-2,?,Dijon
+15,Sun Dec 2 2018,17:00,Rennes,1-4,?,Strasbourg
+15,Sun Dec 2 2018,17:00,Marseille,0-0,?,Reims
+15,Sun Dec 2 2018,21:00,Bordeaux,2-2,?,Paris S-G
+16,Tue Dec 4 2018,19:00,Nice,0-0,?,Angers
+16,Tue Dec 4 2018,19:00,Amiens,0-2,?,Monaco
+16,Tue Dec 4 2018,21:00,Montpellier,0-1,?,Lille
+16,Wed Dec 5 2018,19:00,Lyon,0-2,?,Rennes
+16,Wed Dec 5 2018,19:00,Caen,1-2,?,Nîmes
+16,Wed Dec 5 2018,19:00,Dijon,2-1,?,Guingamp
+16,Wed Dec 5 2018,19:00,Reims,0-1,?,Toulouse
+16,Wed Dec 5 2018,19:00,Bordeaux,3-2,?,Saint-Étienne
+16,Wed Dec 5 2018,19:00,Nantes,3-2,?,Marseille
+16,Wed Dec 5 2018,21:00,Strasbourg,1-1,?,Paris S-G
+17,Sat Dec 8 2018,20:00,Guingamp,1-2,?,Amiens
+17,Sat Dec 8 2018,20:00,Rennes,2-0,?,Dijon
+17,Sun Dec 9 2018,15:00,Strasbourg,2-2,?,Caen
+17,Sun Dec 9 2018,17:00,Lille,1-1,?,Reims
+18,Sat Dec 15 2018,20:00,Reims,2-1,?,Strasbourg
+18,Sun Dec 16 2018,15:00,Nîmes,2-3,?,Lille
+18,Sun Dec 16 2018,17:00,Nice,1-1,?,Saint-Étienne
+18,Sun Dec 16 2018,21:00,Lyon,3-0,?,Monaco
+18,Tue Dec 18 2018,19:30,Caen,2-1,?,Toulouse
+19,Sat Dec 22 2018,21:00,Montpellier,1-1,?,Lyon
+19,Sat Dec 22 2018,21:00,Monaco,0-2,?,Guingamp
+19,Sat Dec 22 2018,21:00,Reims,2-2,?,Caen
+19,Sat Dec 22 2018,21:00,Angers,1-1,?,Marseille
+19,Sat Dec 22 2018,21:00,Rennes,4-0,?,Nîmes
+19,Sat Dec 22 2018,21:00,Paris S-G,1-0,?,Nantes
+19,Sat Dec 22 2018,21:00,Saint-Étienne,3-0,?,Dijon
+19,Sat Dec 22 2018,21:00,Strasbourg,2-0,?,Nice
+19,Sat Dec 22 2018,21:00,Lille,1-2,?,Toulouse
+19,Sun Dec 23 2018,17:00,Bordeaux,1-1,?,Amiens
+18,Tue Jan 8 2019,19:00,Amiens,0-0,?,Angers
+18,Tue Jan 8 2019,19:00,Nantes,2-0,?,Montpellier
+20,Fri Jan 11 2019,19:00,Caen,1-3,?,Lille
+20,Fri Jan 11 2019,20:45,Lyon,1-1,?,Reims
+20,Sat Jan 12 2019,17:00,Amiens,0-3,?,Paris S-G
+20,Sat Jan 12 2019,20:00,Nice,1-0,?,Bordeaux
+20,Sat Jan 12 2019,20:00,Guingamp,0-1,?,Saint-Étienne
+20,Sun Jan 13 2019,15:00,Nantes,0-1,?,Rennes
+20,Sun Jan 13 2019,17:00,Toulouse,1-2,?,Strasbourg
+20,Sun Jan 13 2019,17:00,Dijon,1-1,?,Montpellier
+20,Sun Jan 13 2019,21:00,Marseille,1-1,?,Monaco
+17,Tue Jan 15 2019,19:00,Angers,1-2,?,Bordeaux
+17,Wed Jan 16 2019,19:00,Monaco,1-1,?,Nice
+17,Wed Jan 16 2019,19:00,Nîmes,1-0,?,Nantes
+17,Wed Jan 16 2019,19:00,Toulouse,2-2,?,Lyon
+18,Wed Jan 16 2019,19:00,Guingamp,2-1,?,Rennes
+17,Wed Jan 16 2019,21:00,Saint-Étienne,2-1,?,Marseille
+21,Fri Jan 18 2019,20:45,Lille,2-1,?,Amiens
+21,Sat Jan 19 2019,17:00,Paris S-G,9-0,?,Guingamp
+21,Sat Jan 19 2019,20:00,Nîmes,0-1,?,Toulouse
+21,Sat Jan 19 2019,20:00,Monaco,1-5,?,Strasbourg
+21,Sat Jan 19 2019,20:00,Reims,1-1,?,Nice
+21,Sun Jan 20 2019,15:00,Rennes,0-0,?,Montpellier
+21,Sun Jan 20 2019,17:00,Angers,1-0,?,Nantes
+21,Sun Jan 20 2019,17:00,Caen,0-1,?,Marseille
+21,Sun Jan 20 2019,19:00,Bordeaux,1-0,?,Dijon
+21,Sun Jan 20 2019,21:00,Saint-Étienne,1-2,?,Lyon
+20,Wed Jan 23 2019,19:00,Nîmes,3-1,?,Angers
+22,Fri Jan 25 2019,20:45,Marseille,1-2,?,Lille
+22,Sat Jan 26 2019,20:00,Nice,2-0,?,Nîmes
+22,Sat Jan 26 2019,20:00,Guingamp,0-1,?,Reims
+22,Sat Jan 26 2019,20:00,Dijon,2-0,?,Monaco
+22,Sat Jan 26 2019,20:00,Strasbourg,1-0,?,Bordeaux
+22,Sun Jan 27 2019,15:00,Montpellier,2-0,?,Caen
+22,Sun Jan 27 2019,17:00,Amiens,0-1,?,Lyon
+22,Sun Jan 27 2019,20:00,Toulouse,0-0,?,Angers
+22,Sun Jan 27 2019,21:00,Paris S-G,4-1,?,Rennes
+22,Wed Jan 30 2019,21:00,Nantes,1-1,?,Saint-Étienne
+23,Fri Feb 1 2019,20:45,Lille,4-0,?,Nice
+23,Sat Feb 2 2019,20:00,Angers,1-0,?,Dijon
+23,Sat Feb 2 2019,20:00,Monaco,2-1,?,Toulouse
+23,Sat Feb 2 2019,20:00,Rennes,1-0,?,Amiens
+23,Sat Feb 2 2019,21:00,Reims,2-1,?,Marseille
+23,Sun Feb 3 2019,15:00,Nîmes,1-1,?,Montpellier
+23,Sun Feb 3 2019,21:00,Lyon,2-1,?,Paris S-G
+18,Tue Feb 5 2019,19:00,Marseille,1-0,?,Bordeaux
+24,Fri Feb 8 2019,20:45,Dijon,1-2,?,Marseille
+24,Sat Feb 9 2019,17:00,Paris S-G,1-0,?,Bordeaux
+24,Sat Feb 9 2019,20:00,Amiens,1-0,?,Caen
+24,Sat Feb 9 2019,20:00,Strasbourg,1-2,?,Angers
+24,Sun Feb 10 2019,15:00,Montpellier,2-2,?,Monaco
+24,Sun Feb 10 2019,15:00,Toulouse,1-1,?,Reims
+24,Sun Feb 10 2019,15:00,Nantes,2-4,?,Nîmes
+24,Sun Feb 10 2019,17:00,Rennes,3-0,?,Saint-Étienne
+24,Sun Feb 10 2019,17:00,Guingamp,0-2,?,Lille
+24,Sun Feb 10 2019,21:00,Nice,1-0,?,Lyon
+23,Wed Feb 13 2019,19:00,Saint-Étienne,2-1,?,Strasbourg
+23,Wed Feb 13 2019,19:30,Caen,0-1,?,Nantes
+25,Fri Feb 15 2019,19:00,Nîmes,2-0,?,Dijon
+25,Fri Feb 15 2019,20:45,Lyon,2-1,?,Guingamp
+25,Sat Feb 16 2019,17:00,Marseille,2-0,?,Amiens
+25,Sat Feb 16 2019,20:00,Angers,3-0,?,Nice
+25,Sat Feb 16 2019,20:00,Monaco,1-0,?,Nantes
+25,Sun Feb 17 2019,15:00,Lille,0-0,?,Montpellier
+25,Sun Feb 17 2019,15:00,Caen,0-0,?,Strasbourg
+25,Sun Feb 17 2019,15:00,Bordeaux,2-1,?,Toulouse
+25,Sun Feb 17 2019,17:00,Reims,2-0,?,Rennes
+25,Sun Feb 17 2019,21:00,Saint-Étienne,0-1,?,Paris S-G
+23,Wed Feb 20 2019,19:00,Bordeaux,0-0,?,Guingamp
+17,Wed Feb 20 2019,21:00,Paris S-G,5-1,?,Montpellier
+26,Fri Feb 22 2019,19:00,Dijon,0-1,?,Saint-Étienne
+26,Fri Feb 22 2019,20:45,Strasbourg,1-1,?,Lille
+26,Sat Feb 23 2019,17:00,Paris S-G,3-0,?,Nîmes
+26,Sat Feb 23 2019,20:00,Guingamp,1-0,?,Angers
+26,Sat Feb 23 2019,20:00,Amiens,1-0,?,Nice
+26,Sun Feb 24 2019,15:00,Toulouse,1-1,?,Caen
+26,Sun Feb 24 2019,15:00,Nantes,1-0,?,Bordeaux
+26,Sun Feb 24 2019,15:00,Montpellier,2-4,?,Reims
+26,Sun Feb 24 2019,17:00,Rennes,1-1,?,Marseille
+26,Sun Feb 24 2019,21:00,Monaco,2-0,?,Lyon
+27,Sat Mar 2 2019,17:00,Caen,1-2,?,Paris S-G
+27,Sat Mar 2 2019,20:00,Reims,2-2,?,Amiens
+27,Sat Mar 2 2019,20:00,Angers,2-2,?,Monaco
+27,Sun Mar 3 2019,15:00,Nice,1-0,?,Strasbourg
+27,Sun Mar 3 2019,15:00,Lille,1-0,?,Dijon
+27,Sun Mar 3 2019,15:00,Guingamp,0-0,?,Nantes
+27,Sun Mar 3 2019,17:00,Lyon,5-1,?,Toulouse
+27,Sun Mar 3 2019,21:00,Marseille,2-0,?,Saint-Étienne
+27,Tue Mar 5 2019,19:00,Bordeaux,1-2,?,Montpellier
+28,Sat Mar 9 2019,17:00,Strasbourg,2-2,?,Lyon
+28,Sat Mar 9 2019,20:00,Dijon,1-1,?,Reims
+28,Sat Mar 9 2019,20:00,Monaco,1-1,?,Bordeaux
+28,Sat Mar 9 2019,20:00,Amiens,2-1,?,Nîmes
+28,Sun Mar 10 2019,15:00,Montpellier,2-2,?,Angers
+28,Sun Mar 10 2019,15:00,Toulouse,1-0,?,Guingamp
+28,Sun Mar 10 2019,15:00,Saint-Étienne,0-1,?,Lille
+28,Sun Mar 10 2019,17:00,Rennes,3-1,?,Caen
+28,Sun Mar 10 2019,21:00,Marseille,1-0,?,Nice
+18,Tue Mar 12 2019,19:00,Dijon,0-4,?,Paris S-G
+29,Fri Mar 15 2019,19:00,Nice,1-1,?,Toulouse
+29,Fri Mar 15 2019,20:45,Lille,0-1,?,Monaco
+29,Sat Mar 16 2019,20:00,Caen,0-5,?,Saint-Étienne
+29,Sat Mar 16 2019,20:00,Angers,0-0,?,Amiens
+29,Sat Mar 16 2019,20:00,Guingamp,1-0,?,Dijon
+29,Sat Mar 16 2019,20:00,Nîmes,2-2,?,Strasbourg
+29,Sun Mar 17 2019,14:30,Lyon,3-2,?,Montpellier
+29,Sun Mar 17 2019,15:00,Reims,1-0,?,Nantes
+29,Sun Mar 17 2019,17:00,Bordeaux,1-1,?,Rennes
+29,Sun Mar 17 2019,21:00,Paris S-G,3-1,?,Marseille
+30,Fri Mar 29 2019,20:45,Rennes,0-1,?,Lyon
+30,Sat Mar 30 2019,17:00,Marseille,2-2,?,Angers
+30,Sun Mar 31 2019,15:00,Amiens,0-0,?,Bordeaux
+30,Sun Mar 31 2019,15:00,Dijon,0-1,?,Nice
+30,Sun Mar 31 2019,15:00,Monaco,0-1,?,Caen
+30,Sun Mar 31 2019,17:00,Nantes,2-3,?,Lille
+30,Sun Mar 31 2019,21:00,Toulouse,0-1,?,Paris S-G
+30,Mon Apr 1 2019,20:30,Saint-Étienne,2-1,?,Nîmes
+30,Wed Apr 3 2019,19:00,Strasbourg,4-0,?,Reims
+30,Wed Apr 3 2019,19:00,Montpellier,2-0,?,Guingamp
+31,Fri Apr 5 2019,20:45,Bordeaux,2-0,?,Marseille
+31,Sat Apr 6 2019,17:00,Lyon,1-3,?,Dijon
+31,Sat Apr 6 2019,20:00,Nîmes,2-0,?,Caen
+31,Sat Apr 6 2019,20:00,Amiens,2-2,?,Saint-Étienne
+31,Sat Apr 6 2019,20:00,Angers,3-3,?,Rennes
+31,Sat Apr 6 2019,20:00,Guingamp,1-1,?,Monaco
+31,Sun Apr 7 2019,15:00,Toulouse,1-0,?,Nantes
+31,Sun Apr 7 2019,15:00,Reims,1-1,?,Lille
+31,Sun Apr 7 2019,17:00,Nice,1-0,?,Montpellier
+31,Sun Apr 7 2019,21:00,Paris S-G,2-2,?,Strasbourg
+27,Tue Apr 9 2019,19:00,Nîmes,3-1,?,Rennes
+32,Fri Apr 12 2019,19:00,Dijon,0-0,?,Amiens
+32,Fri Apr 12 2019,20:45,Nantes,2-1,?,Lyon
+32,Sat Apr 13 2019,17:00,Marseille,2-1,?,Nîmes
+32,Sat Apr 13 2019,20:00,Monaco,0-0,?,Reims
+32,Sat Apr 13 2019,20:00,Caen,0-1,?,Angers
+32,Sat Apr 13 2019,20:00,Strasbourg,3-3,?,Guingamp
+32,Sun Apr 14 2019,15:00,Rennes,0-0,?,Nice
+32,Sun Apr 14 2019,15:00,Montpellier,2-1,?,Toulouse
+32,Sun Apr 14 2019,17:00,Saint-Étienne,3-0,?,Bordeaux
+32,Sun Apr 14 2019,21:00,Lille,5-1,?,Paris S-G
+28,Wed Apr 17 2019,19:00,Nantes,3-2,?,Paris S-G
+33,Fri Apr 19 2019,19:00,Dijon,3-2,?,Rennes
+33,Fri Apr 19 2019,20:45,Lyon,2-1,?,Angers
+33,Sat Apr 20 2019,17:00,Guingamp,1-3,?,Marseille
+33,Sat Apr 20 2019,20:00,Nice,0-1,?,Caen
+33,Sat Apr 20 2019,20:00,Strasbourg,1-3,?,Montpellier
+33,Sat Apr 20 2019,20:00,Nîmes,2-1,?,Bordeaux
+33,Sun Apr 21 2019,15:00,Nantes,3-2,?,Amiens
+33,Sun Apr 21 2019,15:00,Toulouse,0-0,?,Lille
+33,Sun Apr 21 2019,17:00,Reims,0-2,?,Saint-Étienne
+33,Sun Apr 21 2019,21:00,Paris S-G,3-1,?,Monaco
+34,Fri Apr 26 2019,20:45,Bordeaux,2-3,?,Lyon
+34,Sun Apr 28 2019,15:00,Nice,3-0,?,Guingamp
+34,Sun Apr 28 2019,15:00,Lille,5-0,?,Nîmes
+34,Sun Apr 28 2019,15:00,Amiens,0-0,?,Strasbourg
+34,Sun Apr 28 2019,15:00,Caen,1-0,?,Dijon
+34,Sun Apr 28 2019,15:00,Angers,1-1,?,Reims
+34,Sun Apr 28 2019,17:00,Saint-Étienne,2-0,?,Toulouse
+34,Sun Apr 28 2019,21:00,Marseille,1-2,?,Nantes
+34,Tue Apr 30 2019,19:00,Montpellier,3-2,?,Paris S-G
+34,Wed May 1 2019,19:00,Rennes,2-2,?,Monaco
+35,Fri May 3 2019,20:45,Strasbourg,1-1,?,Marseille
+35,Sat May 4 2019,17:00,Paris S-G,1-1,?,Nice
+35,Sat May 4 2019,20:00,Reims,0-3,?,Nîmes
+35,Sat May 4 2019,20:00,Guingamp,0-0,?,Caen
+35,Sat May 4 2019,20:00,Bordeaux,0-1,?,Angers
+35,Sun May 5 2019,15:00,Montpellier,1-1,?,Amiens
+35,Sun May 5 2019,15:00,Toulouse,2-2,?,Rennes
+35,Sun May 5 2019,15:00,Nantes,3-0,?,Dijon
+35,Sun May 5 2019,17:00,Monaco,2-3,?,Saint-Étienne
+35,Sun May 5 2019,21:00,Lyon,2-2,?,Lille
+36,Fri May 10 2019,20:45,Saint-Étienne,0-1,?,Montpellier
+36,Sat May 11 2019,17:00,Angers,1-2,?,Paris S-G
+36,Sat May 11 2019,20:00,Amiens,0-0,?,Toulouse
+36,Sat May 11 2019,20:00,Dijon,2-1,?,Strasbourg
+36,Sat May 11 2019,20:00,Caen,3-2,?,Reims
+36,Sat May 11 2019,20:00,Nîmes,1-0,?,Monaco
+36,Sat May 11 2019,20:00,Nice,1-1,?,Nantes
+36,Sun May 12 2019,15:00,Rennes,1-1,?,Guingamp
+36,Sun May 12 2019,17:00,Lille,1-0,?,Bordeaux
+36,Sun May 12 2019,21:00,Marseille,0-3,?,Lyon
+37,Sat May 18 2019,21:00,Strasbourg,0-2,?,Rennes
+37,Sat May 18 2019,21:00,Saint-Étienne,3-0,?,Nice
+37,Sat May 18 2019,21:00,Monaco,2-0,?,Amiens
+37,Sat May 18 2019,21:00,Paris S-G,4-0,?,Dijon
+37,Sat May 18 2019,21:00,Bordeaux,0-1,?,Reims
+37,Sat May 18 2019,21:00,Toulouse,2-5,?,Marseille
+37,Sat May 18 2019,21:00,Montpellier,1-1,?,Nantes
+37,Sat May 18 2019,21:00,Lille,5-0,?,Angers
+37,Sat May 18 2019,21:00,Guingamp,2-2,?,Nîmes
+37,Sat May 18 2019,21:00,Lyon,4-0,?,Caen
+38,Fri May 24 2019,21:05,Dijon,2-1,?,Toulouse
+38,Fri May 24 2019,21:05,Caen,0-1,?,Bordeaux
+38,Fri May 24 2019,21:05,Nîmes,2-3,?,Lyon
+38,Fri May 24 2019,21:05,Reims,3-1,?,Paris S-G
+38,Fri May 24 2019,21:05,Nice,2-0,?,Monaco
+38,Fri May 24 2019,21:05,Angers,1-1,?,Saint-Étienne
+38,Fri May 24 2019,21:05,Marseille,1-0,?,Montpellier
+38,Fri May 24 2019,21:05,Nantes,0-1,?,Strasbourg
+38,Fri May 24 2019,21:05,Amiens,2-1,?,Guingamp
+38,Fri May 24 2019,21:05,Rennes,3-1,?,Lille

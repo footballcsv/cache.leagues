@@ -1,0 +1,307 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 24 2018,20:30,Bayern Munich,3-1,?,Hoffenheim
+1,Sat Aug 25 2018,15:30,Werder Bremen,1-1,?,Hannover 96
+1,Sat Aug 25 2018,15:30,Hertha BSC,1-0,?,Nürnberg
+1,Sat Aug 25 2018,15:30,Wolfsburg,2-1,?,Schalke 04
+1,Sat Aug 25 2018,15:30,Düsseldorf,1-2,?,Augsburg
+1,Sat Aug 25 2018,15:30,Freiburg,0-2,?,Eint Frankfurt
+1,Sat Aug 25 2018,18:30,M'gladbach,2-0,?,Leverkusen
+1,Sun Aug 26 2018,15:30,Mainz 05,1-0,?,Stuttgart
+1,Sun Aug 26 2018,18:00,Dortmund,4-1,?,RB Leipzig
+2,Fri Aug 31 2018,20:30,Hannover 96,0-0,?,Dortmund
+2,Sat Sep 1 2018,15:30,Augsburg,1-1,?,M'gladbach
+2,Sat Sep 1 2018,15:30,Eint Frankfurt,1-2,?,Werder Bremen
+2,Sat Sep 1 2018,15:30,Nürnberg,1-1,?,Mainz 05
+2,Sat Sep 1 2018,15:30,Leverkusen,1-3,?,Wolfsburg
+2,Sat Sep 1 2018,15:30,Hoffenheim,3-1,?,Freiburg
+2,Sat Sep 1 2018,18:30,Stuttgart,0-3,?,Bayern Munich
+2,Sun Sep 2 2018,15:30,RB Leipzig,1-1,?,Düsseldorf
+2,Sun Sep 2 2018,18:00,Schalke 04,0-2,?,Hertha BSC
+3,Fri Sep 14 2018,20:30,Dortmund,3-1,?,Eint Frankfurt
+3,Sat Sep 15 2018,15:30,Bayern Munich,3-1,?,Leverkusen
+3,Sat Sep 15 2018,15:30,Wolfsburg,2-2,?,Hertha BSC
+3,Sat Sep 15 2018,15:30,Düsseldorf,2-1,?,Hoffenheim
+3,Sat Sep 15 2018,15:30,RB Leipzig,3-2,?,Hannover 96
+3,Sat Sep 15 2018,15:30,Mainz 05,2-1,?,Augsburg
+3,Sat Sep 15 2018,18:30,M'gladbach,2-1,?,Schalke 04
+3,Sun Sep 16 2018,15:30,Werder Bremen,1-1,?,Nürnberg
+3,Sun Sep 16 2018,18:00,Freiburg,3-3,?,Stuttgart
+4,Fri Sep 21 2018,20:30,Stuttgart,0-0,?,Düsseldorf
+4,Sat Sep 22 2018,15:30,Augsburg,2-3,?,Werder Bremen
+4,Sat Sep 22 2018,15:30,Hertha BSC,4-2,?,M'gladbach
+4,Sat Sep 22 2018,15:30,Nürnberg,2-0,?,Hannover 96
+4,Sat Sep 22 2018,15:30,Wolfsburg,1-3,?,Freiburg
+4,Sat Sep 22 2018,15:30,Hoffenheim,1-1,?,Dortmund
+4,Sat Sep 22 2018,18:30,Schalke 04,0-2,?,Bayern Munich
+4,Sun Sep 23 2018,15:30,Leverkusen,1-0,?,Mainz 05
+4,Sun Sep 23 2018,18:00,Eint Frankfurt,1-1,?,RB Leipzig
+5,Tue Sep 25 2018,18:30,Werder Bremen,3-1,?,Hertha BSC
+5,Tue Sep 25 2018,20:30,Freiburg,1-0,?,Schalke 04
+5,Tue Sep 25 2018,20:30,Bayern Munich,1-1,?,Augsburg
+5,Tue Sep 25 2018,20:30,Hannover 96,1-3,?,Hoffenheim
+5,Wed Sep 26 2018,18:30,Düsseldorf,1-2,?,Leverkusen
+5,Wed Sep 26 2018,20:30,M'gladbach,3-1,?,Eint Frankfurt
+5,Wed Sep 26 2018,20:30,Mainz 05,0-0,?,Wolfsburg
+5,Wed Sep 26 2018,20:30,RB Leipzig,2-0,?,Stuttgart
+5,Wed Sep 26 2018,20:30,Dortmund,7-0,?,Nürnberg
+6,Fri Sep 28 2018,20:30,Hertha BSC,2-0,?,Bayern Munich
+6,Sat Sep 29 2018,15:30,Schalke 04,1-0,?,Mainz 05
+6,Sat Sep 29 2018,15:30,Hoffenheim,1-2,?,RB Leipzig
+6,Sat Sep 29 2018,15:30,Nürnberg,3-0,?,Düsseldorf
+6,Sat Sep 29 2018,15:30,Stuttgart,2-1,?,Werder Bremen
+6,Sat Sep 29 2018,15:30,Wolfsburg,2-2,?,M'gladbach
+6,Sat Sep 29 2018,18:30,Leverkusen,2-4,?,Dortmund
+6,Sun Sep 30 2018,15:30,Eint Frankfurt,4-1,?,Hannover 96
+6,Sun Sep 30 2018,18:00,Augsburg,4-1,?,Freiburg
+7,Fri Oct 5 2018,20:30,Werder Bremen,2-0,?,Wolfsburg
+7,Sat Oct 6 2018,15:30,Düsseldorf,0-2,?,Schalke 04
+7,Sat Oct 6 2018,15:30,Hannover 96,3-1,?,Stuttgart
+7,Sat Oct 6 2018,15:30,Dortmund,4-3,?,Augsburg
+7,Sat Oct 6 2018,15:30,Mainz 05,0-0,?,Hertha BSC
+7,Sat Oct 6 2018,18:30,Bayern Munich,0-3,?,M'gladbach
+7,Sun Oct 7 2018,13:30,Freiburg,0-0,?,Leverkusen
+7,Sun Oct 7 2018,15:30,Hoffenheim,1-2,?,Eint Frankfurt
+7,Sun Oct 7 2018,18:00,RB Leipzig,6-0,?,Nürnberg
+8,Fri Oct 19 2018,20:30,Eint Frankfurt,7-1,?,Düsseldorf
+8,Sat Oct 20 2018,15:30,Augsburg,0-0,?,RB Leipzig
+8,Sat Oct 20 2018,15:30,Wolfsburg,1-3,?,Bayern Munich
+8,Sat Oct 20 2018,15:30,Leverkusen,2-2,?,Hannover 96
+8,Sat Oct 20 2018,15:30,Nürnberg,1-3,?,Hoffenheim
+8,Sat Oct 20 2018,15:30,Stuttgart,0-4,?,Dortmund
+8,Sat Oct 20 2018,18:30,Schalke 04,0-2,?,Werder Bremen
+8,Sun Oct 21 2018,15:30,Hertha BSC,1-1,?,Freiburg
+8,Sun Oct 21 2018,18:00,M'gladbach,4-0,?,Mainz 05
+9,Fri Oct 26 2018,20:30,Freiburg,3-1,?,M'gladbach
+9,Sat Oct 27 2018,15:30,Hannover 96,1-2,?,Augsburg
+9,Sat Oct 27 2018,15:30,Dortmund,2-2,?,Hertha BSC
+9,Sat Oct 27 2018,15:30,Düsseldorf,0-3,?,Wolfsburg
+9,Sat Oct 27 2018,15:30,Mainz 05,1-2,?,Bayern Munich
+9,Sat Oct 27 2018,18:30,Hoffenheim,4-0,?,Stuttgart
+9,Sun Oct 28 2018,13:30,Nürnberg,1-1,?,Eint Frankfurt
+9,Sun Oct 28 2018,15:30,RB Leipzig,0-0,?,Schalke 04
+9,Sun Oct 28 2018,18:00,Werder Bremen,2-6,?,Leverkusen
+10,Fri Nov 2 2018,20:30,Stuttgart,0-3,?,Eint Frankfurt
+10,Sat Nov 3 2018,15:30,Augsburg,2-2,?,Nürnberg
+10,Sat Nov 3 2018,15:30,Wolfsburg,0-1,?,Dortmund
+10,Sat Nov 3 2018,15:30,Bayern Munich,1-1,?,Freiburg
+10,Sat Nov 3 2018,15:30,Leverkusen,1-4,?,Hoffenheim
+10,Sat Nov 3 2018,15:30,Schalke 04,3-1,?,Hannover 96
+10,Sat Nov 3 2018,18:30,Hertha BSC,0-3,?,RB Leipzig
+10,Sun Nov 4 2018,15:30,M'gladbach,3-0,?,Düsseldorf
+10,Sun Nov 4 2018,18:00,Mainz 05,2-1,?,Werder Bremen
+11,Fri Nov 9 2018,20:30,Hannover 96,2-1,?,Wolfsburg
+11,Sat Nov 10 2018,15:30,Düsseldorf,4-1,?,Hertha BSC
+11,Sat Nov 10 2018,15:30,Freiburg,1-3,?,Mainz 05
+11,Sat Nov 10 2018,15:30,Hoffenheim,2-1,?,Augsburg
+11,Sat Nov 10 2018,15:30,Nürnberg,0-2,?,Stuttgart
+11,Sat Nov 10 2018,15:30,Werder Bremen,1-3,?,M'gladbach
+11,Sat Nov 10 2018,18:30,Dortmund,3-2,?,Bayern Munich
+11,Sun Nov 11 2018,15:30,RB Leipzig,3-0,?,Leverkusen
+11,Sun Nov 11 2018,18:00,Eint Frankfurt,3-0,?,Schalke 04
+12,Fri Nov 23 2018,20:30,Leverkusen,2-0,?,Stuttgart
+12,Sat Nov 24 2018,15:30,Augsburg,1-3,?,Eint Frankfurt
+12,Sat Nov 24 2018,15:30,Wolfsburg,1-0,?,RB Leipzig
+12,Sat Nov 24 2018,15:30,Mainz 05,1-2,?,Dortmund
+12,Sat Nov 24 2018,15:30,Bayern Munich,3-3,?,Düsseldorf
+12,Sat Nov 24 2018,15:30,Hertha BSC,3-3,?,Hoffenheim
+12,Sat Nov 24 2018,18:30,Schalke 04,5-2,?,Nürnberg
+12,Sun Nov 25 2018,15:30,Freiburg,1-1,?,Werder Bremen
+12,Sun Nov 25 2018,18:00,M'gladbach,4-1,?,Hannover 96
+13,Fri Nov 30 2018,20:30,Düsseldorf,0-1,?,Mainz 05
+13,Sat Dec 1 2018,15:30,Dortmund,2-0,?,Freiburg
+13,Sat Dec 1 2018,15:30,Werder Bremen,1-2,?,Bayern Munich
+13,Sat Dec 1 2018,15:30,Stuttgart,1-0,?,Augsburg
+13,Sat Dec 1 2018,15:30,Hannover 96,0-2,?,Hertha BSC
+13,Sat Dec 1 2018,18:30,Hoffenheim,1-1,?,Schalke 04
+13,Sun Dec 2 2018,15:30,RB Leipzig,2-0,?,M'gladbach
+13,Sun Dec 2 2018,18:00,Eint Frankfurt,1-2,?,Wolfsburg
+13,Mon Dec 3 2018,20:30,Nürnberg,1-1,?,Leverkusen
+14,Fri Dec 7 2018,20:30,Werder Bremen,3-1,?,Düsseldorf
+14,Sat Dec 8 2018,15:30,Wolfsburg,2-2,?,Hoffenheim
+14,Sat Dec 8 2018,15:30,Freiburg,3-0,?,RB Leipzig
+14,Sat Dec 8 2018,15:30,Leverkusen,1-0,?,Augsburg
+14,Sat Dec 8 2018,15:30,Schalke 04,1-2,?,Dortmund
+14,Sat Dec 8 2018,15:30,Bayern Munich,3-0,?,Nürnberg
+14,Sat Dec 8 2018,18:30,Hertha BSC,1-0,?,Eint Frankfurt
+14,Sun Dec 9 2018,15:30,Mainz 05,1-1,?,Hannover 96
+14,Sun Dec 9 2018,18:00,M'gladbach,3-0,?,Stuttgart
+15,Fri Dec 14 2018,20:30,Nürnberg,0-2,?,Wolfsburg
+15,Sat Dec 15 2018,15:30,Hoffenheim,0-0,?,M'gladbach
+15,Sat Dec 15 2018,15:30,Düsseldorf,2-0,?,Freiburg
+15,Sat Dec 15 2018,15:30,Hannover 96,0-4,?,Bayern Munich
+15,Sat Dec 15 2018,15:30,Augsburg,1-1,?,Schalke 04
+15,Sat Dec 15 2018,15:30,Stuttgart,2-1,?,Hertha BSC
+15,Sat Dec 15 2018,18:30,Dortmund,2-1,?,Werder Bremen
+15,Sun Dec 16 2018,15:30,RB Leipzig,4-1,?,Mainz 05
+15,Sun Dec 16 2018,18:00,Eint Frankfurt,2-1,?,Leverkusen
+16,Tue Dec 18 2018,18:30,M'gladbach,2-0,?,Nürnberg
+16,Tue Dec 18 2018,20:30,Hertha BSC,2-2,?,Augsburg
+16,Tue Dec 18 2018,20:30,Wolfsburg,2-0,?,Stuttgart
+16,Tue Dec 18 2018,20:30,Düsseldorf,2-1,?,Dortmund
+16,Wed Dec 19 2018,18:30,Schalke 04,1-2,?,Leverkusen
+16,Wed Dec 19 2018,20:30,Werder Bremen,1-1,?,Hoffenheim
+16,Wed Dec 19 2018,20:30,Freiburg,1-1,?,Hannover 96
+16,Wed Dec 19 2018,20:30,Mainz 05,2-2,?,Eint Frankfurt
+16,Wed Dec 19 2018,20:30,Bayern Munich,1-0,?,RB Leipzig
+17,Fri Dec 21 2018,20:30,Dortmund,2-1,?,M'gladbach
+17,Sat Dec 22 2018,15:30,Stuttgart,1-3,?,Schalke 04
+17,Sat Dec 22 2018,15:30,RB Leipzig,3-2,?,Werder Bremen
+17,Sat Dec 22 2018,15:30,Nürnberg,0-1,?,Freiburg
+17,Sat Dec 22 2018,15:30,Leverkusen,3-1,?,Hertha BSC
+17,Sat Dec 22 2018,15:30,Hannover 96,0-1,?,Düsseldorf
+17,Sat Dec 22 2018,18:30,Eint Frankfurt,0-3,?,Bayern Munich
+17,Sun Dec 23 2018,15:30,Augsburg,2-3,?,Wolfsburg
+17,Sun Dec 23 2018,18:00,Hoffenheim,1-1,?,Mainz 05
+18,Fri Jan 18 2019,20:30,Hoffenheim,1-3,?,Bayern Munich
+18,Sat Jan 19 2019,15:30,Eint Frankfurt,3-1,?,Freiburg
+18,Sat Jan 19 2019,15:30,Stuttgart,2-3,?,Mainz 05
+18,Sat Jan 19 2019,15:30,Augsburg,1-2,?,Düsseldorf
+18,Sat Jan 19 2019,15:30,Leverkusen,0-1,?,M'gladbach
+18,Sat Jan 19 2019,15:30,Hannover 96,0-1,?,Werder Bremen
+18,Sat Jan 19 2019,18:30,RB Leipzig,0-1,?,Dortmund
+18,Sun Jan 20 2019,15:30,Nürnberg,1-3,?,Hertha BSC
+18,Sun Jan 20 2019,18:00,Schalke 04,2-1,?,Wolfsburg
+19,Fri Jan 25 2019,20:30,Hertha BSC,2-2,?,Schalke 04
+19,Sat Jan 26 2019,15:30,Dortmund,5-1,?,Hannover 96
+19,Sat Jan 26 2019,15:30,Wolfsburg,0-3,?,Leverkusen
+19,Sat Jan 26 2019,15:30,M'gladbach,2-0,?,Augsburg
+19,Sat Jan 26 2019,15:30,Mainz 05,2-1,?,Nürnberg
+19,Sat Jan 26 2019,15:30,Freiburg,2-4,?,Hoffenheim
+19,Sat Jan 26 2019,18:30,Werder Bremen,2-2,?,Eint Frankfurt
+19,Sun Jan 27 2019,15:30,Bayern Munich,4-1,?,Stuttgart
+19,Sun Jan 27 2019,18:00,Düsseldorf,0-4,?,RB Leipzig
+20,Fri Feb 1 2019,20:30,Hannover 96,0-3,?,RB Leipzig
+20,Sat Feb 2 2019,15:30,Leverkusen,3-1,?,Bayern Munich
+20,Sat Feb 2 2019,15:30,Hoffenheim,1-1,?,Düsseldorf
+20,Sat Feb 2 2019,15:30,Eint Frankfurt,1-1,?,Dortmund
+20,Sat Feb 2 2019,15:30,Nürnberg,1-1,?,Werder Bremen
+20,Sat Feb 2 2019,15:30,Hertha BSC,0-1,?,Wolfsburg
+20,Sat Feb 2 2019,18:30,Schalke 04,0-2,?,M'gladbach
+20,Sun Feb 3 2019,15:30,Augsburg,3-0,?,Mainz 05
+20,Sun Feb 3 2019,18:00,Stuttgart,2-2,?,Freiburg
+21,Fri Feb 8 2019,20:30,Mainz 05,1-5,?,Leverkusen
+21,Sat Feb 9 2019,15:30,Dortmund,3-3,?,Hoffenheim
+21,Sat Feb 9 2019,15:30,RB Leipzig,0-0,?,Eint Frankfurt
+21,Sat Feb 9 2019,15:30,M'gladbach,0-3,?,Hertha BSC
+21,Sat Feb 9 2019,15:30,Freiburg,3-3,?,Wolfsburg
+21,Sat Feb 9 2019,15:30,Hannover 96,2-0,?,Nürnberg
+21,Sat Feb 9 2019,18:30,Bayern Munich,3-1,?,Schalke 04
+21,Sun Feb 10 2019,15:30,Werder Bremen,4-0,?,Augsburg
+21,Sun Feb 10 2019,18:00,Düsseldorf,3-0,?,Stuttgart
+22,Fri Feb 15 2019,20:30,Augsburg,2-3,?,Bayern Munich
+22,Sat Feb 16 2019,15:30,Schalke 04,0-0,?,Freiburg
+22,Sat Feb 16 2019,15:30,Wolfsburg,3-0,?,Mainz 05
+22,Sat Feb 16 2019,15:30,Hoffenheim,3-0,?,Hannover 96
+22,Sat Feb 16 2019,15:30,Stuttgart,1-3,?,RB Leipzig
+22,Sat Feb 16 2019,18:30,Hertha BSC,1-1,?,Werder Bremen
+22,Sun Feb 17 2019,15:30,Eint Frankfurt,1-1,?,M'gladbach
+22,Sun Feb 17 2019,18:00,Leverkusen,2-0,?,Düsseldorf
+22,Mon Feb 18 2019,20:30,Nürnberg,0-0,?,Dortmund
+23,Fri Feb 22 2019,20:30,Werder Bremen,1-1,?,Stuttgart
+23,Sat Feb 23 2019,15:30,Mainz 05,3-0,?,Schalke 04
+23,Sat Feb 23 2019,15:30,Freiburg,5-1,?,Augsburg
+23,Sat Feb 23 2019,15:30,M'gladbach,0-3,?,Wolfsburg
+23,Sat Feb 23 2019,15:30,Bayern Munich,1-0,?,Hertha BSC
+23,Sat Feb 23 2019,18:30,Düsseldorf,2-1,?,Nürnberg
+23,Sun Feb 24 2019,15:30,Hannover 96,0-3,?,Eint Frankfurt
+23,Sun Feb 24 2019,18:00,Dortmund,3-2,?,Leverkusen
+23,Mon Feb 25 2019,20:30,RB Leipzig,1-1,?,Hoffenheim
+24,Fri Mar 1 2019,20:30,Augsburg,2-1,?,Dortmund
+24,Sat Mar 2 2019,15:30,Hertha BSC,2-1,?,Mainz 05
+24,Sat Mar 2 2019,15:30,Leverkusen,2-0,?,Freiburg
+24,Sat Mar 2 2019,15:30,Nürnberg,0-1,?,RB Leipzig
+24,Sat Mar 2 2019,15:30,Eint Frankfurt,3-2,?,Hoffenheim
+24,Sat Mar 2 2019,15:30,Schalke 04,0-4,?,Düsseldorf
+24,Sat Mar 2 2019,18:30,M'gladbach,1-5,?,Bayern Munich
+24,Sun Mar 3 2019,15:30,Stuttgart,5-1,?,Hannover 96
+24,Sun Mar 3 2019,18:00,Wolfsburg,1-1,?,Werder Bremen
+25,Fri Mar 8 2019,20:30,Werder Bremen,4-2,?,Schalke 04
+25,Sat Mar 9 2019,15:30,Freiburg,2-1,?,Hertha BSC
+25,Sat Mar 9 2019,15:30,Bayern Munich,6-0,?,Wolfsburg
+25,Sat Mar 9 2019,15:30,Dortmund,3-1,?,Stuttgart
+25,Sat Mar 9 2019,15:30,RB Leipzig,0-0,?,Augsburg
+25,Sat Mar 9 2019,18:30,Mainz 05,0-1,?,M'gladbach
+25,Sun Mar 10 2019,15:30,Hoffenheim,2-1,?,Nürnberg
+25,Sun Mar 10 2019,18:00,Hannover 96,2-3,?,Leverkusen
+25,Mon Mar 11 2019,20:30,Düsseldorf,0-3,?,Eint Frankfurt
+26,Fri Mar 15 2019,20:30,M'gladbach,1-1,?,Freiburg
+26,Sat Mar 16 2019,15:30,Augsburg,3-1,?,Hannover 96
+26,Sat Mar 16 2019,15:30,Wolfsburg,5-2,?,Düsseldorf
+26,Sat Mar 16 2019,15:30,Stuttgart,1-1,?,Hoffenheim
+26,Sat Mar 16 2019,15:30,Schalke 04,0-1,?,RB Leipzig
+26,Sat Mar 16 2019,18:30,Hertha BSC,2-3,?,Dortmund
+26,Sun Mar 17 2019,13:30,Leverkusen,1-3,?,Werder Bremen
+26,Sun Mar 17 2019,15:30,Eint Frankfurt,1-0,?,Nürnberg
+26,Sun Mar 17 2019,18:00,Bayern Munich,6-0,?,Mainz 05
+27,Fri Mar 29 2019,20:30,Hoffenheim,4-1,?,Leverkusen
+27,Sat Mar 30 2019,15:30,Freiburg,1-1,?,Bayern Munich
+27,Sat Mar 30 2019,15:30,Werder Bremen,3-1,?,Mainz 05
+27,Sat Mar 30 2019,15:30,Nürnberg,3-0,?,Augsburg
+27,Sat Mar 30 2019,15:30,Düsseldorf,3-1,?,M'gladbach
+27,Sat Mar 30 2019,15:30,Dortmund,2-0,?,Wolfsburg
+27,Sat Mar 30 2019,18:30,RB Leipzig,5-0,?,Hertha BSC
+27,Sun Mar 31 2019,15:30,Hannover 96,0-1,?,Schalke 04
+27,Sun Mar 31 2019,18:00,Eint Frankfurt,3-0,?,Stuttgart
+28,Fri Apr 5 2019,20:30,Mainz 05,5-0,?,Freiburg
+28,Sat Apr 6 2019,15:30,Hertha BSC,1-2,?,Düsseldorf
+28,Sat Apr 6 2019,15:30,Schalke 04,1-2,?,Eint Frankfurt
+28,Sat Apr 6 2019,15:30,Leverkusen,2-4,?,RB Leipzig
+28,Sat Apr 6 2019,15:30,Wolfsburg,3-1,?,Hannover 96
+28,Sat Apr 6 2019,15:30,Stuttgart,1-1,?,Nürnberg
+28,Sat Apr 6 2019,18:30,Bayern Munich,5-0,?,Dortmund
+28,Sun Apr 7 2019,15:30,Augsburg,0-4,?,Hoffenheim
+28,Sun Apr 7 2019,18:00,M'gladbach,1-1,?,Werder Bremen
+29,Fri Apr 12 2019,20:30,Nürnberg,1-1,?,Schalke 04
+29,Sat Apr 13 2019,15:30,Werder Bremen,2-1,?,Freiburg
+29,Sat Apr 13 2019,15:30,Hannover 96,0-1,?,M'gladbach
+29,Sat Apr 13 2019,15:30,RB Leipzig,2-0,?,Wolfsburg
+29,Sat Apr 13 2019,15:30,Stuttgart,0-1,?,Leverkusen
+29,Sat Apr 13 2019,18:30,Dortmund,2-1,?,Mainz 05
+29,Sun Apr 14 2019,13:30,Hoffenheim,2-0,?,Hertha BSC
+29,Sun Apr 14 2019,15:30,Düsseldorf,1-4,?,Bayern Munich
+29,Sun Apr 14 2019,18:00,Eint Frankfurt,1-3,?,Augsburg
+30,Sat Apr 20 2019,15:30,Bayern Munich,1-0,?,Werder Bremen
+30,Sat Apr 20 2019,15:30,Mainz 05,3-1,?,Düsseldorf
+30,Sat Apr 20 2019,15:30,Augsburg,6-0,?,Stuttgart
+30,Sat Apr 20 2019,15:30,Leverkusen,2-0,?,Nürnberg
+30,Sat Apr 20 2019,18:30,M'gladbach,1-2,?,RB Leipzig
+30,Sat Apr 20 2019,20:30,Schalke 04,2-5,?,Hoffenheim
+30,Sun Apr 21 2019,15:30,Freiburg,0-4,?,Dortmund
+30,Sun Apr 21 2019,18:00,Hertha BSC,0-0,?,Hannover 96
+30,Mon Apr 22 2019,20:30,Wolfsburg,1-1,?,Eint Frankfurt
+31,Fri Apr 26 2019,20:30,Augsburg,1-4,?,Leverkusen
+31,Sat Apr 27 2019,15:30,Dortmund,2-4,?,Schalke 04
+31,Sat Apr 27 2019,15:30,Hannover 96,1-0,?,Mainz 05
+31,Sat Apr 27 2019,15:30,RB Leipzig,2-1,?,Freiburg
+31,Sat Apr 27 2019,15:30,Eint Frankfurt,0-0,?,Hertha BSC
+31,Sat Apr 27 2019,15:30,Düsseldorf,4-1,?,Werder Bremen
+31,Sat Apr 27 2019,18:30,Stuttgart,1-0,?,M'gladbach
+31,Sun Apr 28 2019,15:30,Hoffenheim,1-4,?,Wolfsburg
+31,Sun Apr 28 2019,18:00,Nürnberg,1-1,?,Bayern Munich
+32,Fri May 3 2019,20:30,Mainz 05,3-3,?,RB Leipzig
+32,Sat May 4 2019,15:30,Wolfsburg,2-0,?,Nürnberg
+32,Sat May 4 2019,15:30,M'gladbach,2-2,?,Hoffenheim
+32,Sat May 4 2019,15:30,Hertha BSC,3-1,?,Stuttgart
+32,Sat May 4 2019,15:30,Bayern Munich,3-1,?,Hannover 96
+32,Sat May 4 2019,18:30,Werder Bremen,2-2,?,Dortmund
+32,Sun May 5 2019,13:30,Schalke 04,0-0,?,Augsburg
+32,Sun May 5 2019,15:30,Freiburg,1-1,?,Düsseldorf
+32,Sun May 5 2019,18:00,Leverkusen,6-1,?,Eint Frankfurt
+33,Sat May 11 2019,15:30,Hoffenheim,0-1,?,Werder Bremen
+33,Sat May 11 2019,15:30,Stuttgart,3-0,?,Wolfsburg
+33,Sat May 11 2019,15:30,Leverkusen,1-1,?,Schalke 04
+33,Sat May 11 2019,15:30,Nürnberg,0-4,?,M'gladbach
+33,Sat May 11 2019,15:30,Hannover 96,3-0,?,Freiburg
+33,Sat May 11 2019,15:30,Augsburg,3-4,?,Hertha BSC
+33,Sat May 11 2019,15:30,RB Leipzig,0-0,?,Bayern Munich
+33,Sat May 11 2019,15:30,Dortmund,3-2,?,Düsseldorf
+33,Sun May 12 2019,18:00,Eint Frankfurt,0-2,?,Mainz 05
+34,Sat May 18 2019,15:30,Schalke 04,0-0,?,Stuttgart
+34,Sat May 18 2019,15:30,Werder Bremen,2-1,?,RB Leipzig
+34,Sat May 18 2019,15:30,Freiburg,5-1,?,Nürnberg
+34,Sat May 18 2019,15:30,Bayern Munich,5-1,?,Eint Frankfurt
+34,Sat May 18 2019,15:30,Hertha BSC,1-5,?,Leverkusen
+34,Sat May 18 2019,15:30,M'gladbach,0-2,?,Dortmund
+34,Sat May 18 2019,15:30,Mainz 05,4-2,?,Hoffenheim
+34,Sat May 18 2019,15:30,Düsseldorf,2-1,?,Hannover 96
+34,Sat May 18 2019,15:30,Wolfsburg,8-1,?,Augsburg
