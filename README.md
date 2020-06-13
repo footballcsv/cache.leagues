@@ -6,7 +6,7 @@ A cache for datasets from the Football Reference (FBref) website (fbref.com) up 
 
 ## Why Cache the Datasets?
 
-### What's unchanged / mirrored?
+### What's unchanged?
 
 The club names get copied as is incl. typos.
 
