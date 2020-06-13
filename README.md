@@ -1,6 +1,6 @@
 # Cache - Football Leagues - Season by Season
 
-A cache for datasets from the football leagues - season by season from various sources.
+A cache for datasets for football leagues - season by season from various sources.
 
 
 ## Why Cache the Datasets?
