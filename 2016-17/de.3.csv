@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Jul 29 2016,20:30,MSV Duisburg,1-0,?,Paderborn 07
+1,Sat Jul 30 2016,14:00,Jahn R'burg,2-0,?,Hansa Rostock
+1,Sat Jul 30 2016,14:00,Rot-Weiß Erfurt,0-3,?,Hallescher
+1,Sat Jul 30 2016,14:00,Holstein Kiel,1-1,?,FSV Frankfurt
+1,Sat Jul 30 2016,14:00,Chemnitzer FC,0-0,?,Großaspach
+1,Sat Jul 30 2016,14:00,Wehen,1-2,?,Aalen
+1,Sat Jul 30 2016,14:00,Mainz 05 II,2-2,?,Zwickau
+1,Sun Jul 31 2016,14:00,Wrd Bremen II,0-3,?,Lotte
+1,Sun Jul 31 2016,14:00,Preußen Münster,0-1,?,Osnabrück
+1,Sun Jul 31 2016,14:00,Magdeburg,0-3,?,Fortuna Köln
+2,Fri Aug 5 2016,19:00,Hansa Rostock,1-0,?,Preußen Münster
+2,Fri Aug 5 2016,19:00,Fortuna Köln,2-0,?,Wrd Bremen II
+2,Sat Aug 6 2016,14:00,FSV Frankfurt,0-1,?,Rot-Weiß Erfurt
+2,Sat Aug 6 2016,14:00,Lotte,0-0,?,Wehen
+2,Sat Aug 6 2016,14:00,Paderborn 07,3-1,?,Mainz 05 II
+2,Sat Aug 6 2016,14:00,Aalen,1-0,?,Holstein Kiel
+2,Sat Aug 6 2016,14:00,Hallescher,1-1,?,Chemnitzer FC
+2,Sun Aug 7 2016,14:00,Osnabrück,1-1,?,MSV Duisburg
+2,Sun Aug 7 2016,14:00,Großaspach,3-4,?,Jahn R'burg
+3,Tue Aug 9 2016,18:30,Rot-Weiß Erfurt,0-0,?,Aalen
+3,Tue Aug 9 2016,19:00,Holstein Kiel,3-1,?,Lotte
+3,Tue Aug 9 2016,19:00,Wehen,3-0,?,Fortuna Köln
+3,Tue Aug 9 2016,19:00,Magdeburg,3-0,?,Paderborn 07
+3,Wed Aug 10 2016,18:30,Wrd Bremen II,1-3,?,Zwickau
+3,Wed Aug 10 2016,19:00,Chemnitzer FC,2-1,?,FSV Frankfurt
+3,Wed Aug 10 2016,19:00,Mainz 05 II,2-2,?,Osnabrück
+3,Wed Aug 10 2016,19:00,Preußen Münster,1-1,?,MSV Duisburg
+3,Wed Aug 10 2016,19:00,Hansa Rostock,0-0,?,Großaspach
+3,Wed Aug 10 2016,19:00,Jahn R'burg,2-0,?,Hallescher
+4,Fri Aug 12 2016,19:00,Lotte,2-2,?,Rot-Weiß Erfurt
+4,Sat Aug 13 2016,14:00,Osnabrück,3-2,?,Magdeburg
+4,Sat Aug 13 2016,14:00,FSV Frankfurt,1-1,?,Jahn R'burg
+4,Sat Aug 13 2016,14:00,Zwickau,0-3,?,Wehen
+4,Sat Aug 13 2016,14:00,Großaspach,2-0,?,Preußen Münster
+4,Sat Aug 13 2016,14:00,Hallescher,0-0,?,Hansa Rostock
+4,Sat Aug 13 2016,14:00,Fortuna Köln,1-0,?,Holstein Kiel
+4,Sat Aug 13 2016,14:00,MSV Duisburg,4-0,?,Mainz 05 II
+4,Sat Aug 13 2016,14:00,Paderborn 07,1-2,?,Wrd Bremen II
+4,Sun Aug 14 2016,14:00,Aalen,2-2,?,Chemnitzer FC
+5,Fri Aug 26 2016,18:30,Magdeburg,1-2,?,MSV Duisburg
+5,Fri Aug 26 2016,19:00,Wrd Bremen II,4-2,?,Osnabrück
+5,Sat Aug 27 2016,14:00,Großaspach,3-0,?,Hallescher
+5,Sat Aug 27 2016,14:00,Chemnitzer FC,0-1,?,Lotte
+5,Sat Aug 27 2016,14:00,Wehen,1-2,?,Paderborn 07
+5,Sat Aug 27 2016,14:00,Rot-Weiß Erfurt,3-0,?,Fortuna Köln
+5,Sat Aug 27 2016,14:00,Jahn R'burg,0-2,?,Aalen
+5,Sat Aug 27 2016,14:00,Holstein Kiel,3-0,?,Zwickau
+5,Sat Aug 27 2016,14:00,Preußen Münster,1-0,?,Mainz 05 II
+5,Sat Aug 27 2016,14:00,Hansa Rostock,1-1,?,FSV Frankfurt
+2,Thu Sep 1 2016,19:00,Zwickau,0-0,?,Magdeburg
+6,Fri Sep 9 2016,18:00,Aalen,1-1,?,Hansa Rostock
+6,Fri Sep 9 2016,18:30,Hallescher,2-1,?,Preußen Münster
+6,Fri Sep 9 2016,19:00,Osnabrück,1-0,?,Wehen
+6,Sat Sep 10 2016,14:00,Fortuna Köln,1-0,?,Chemnitzer FC
+6,Sat Sep 10 2016,14:00,MSV Duisburg,1-0,?,Wrd Bremen II
+6,Sat Sep 10 2016,14:00,Mainz 05 II,1-0,?,Magdeburg
+6,Sat Sep 10 2016,14:00,Lotte,3-2,?,Jahn R'burg
+6,Sat Sep 10 2016,14:00,FSV Frankfurt,1-3,?,Großaspach
+6,Sun Sep 11 2016,14:00,Zwickau,1-2,?,Rot-Weiß Erfurt
+6,Sun Sep 11 2016,14:00,Paderborn 07,1-3,?,Holstein Kiel
+7,Fri Sep 16 2016,19:00,Chemnitzer FC,1-0,?,Zwickau
+7,Fri Sep 16 2016,19:00,Wehen,3-0,?,MSV Duisburg
+7,Fri Sep 16 2016,19:00,Holstein Kiel,0-1,?,Osnabrück
+7,Sat Sep 17 2016,14:00,Preußen Münster,2-3,?,Magdeburg
+7,Sat Sep 17 2016,14:00,Großaspach,2-2,?,Aalen
+7,Sat Sep 17 2016,14:00,Jahn R'burg,2-2,?,Fortuna Köln
+7,Sat Sep 17 2016,14:00,Hansa Rostock,1-3,?,Lotte
+7,Sat Sep 17 2016,14:00,Rot-Weiß Erfurt,1-3,?,Paderborn 07
+7,Sat Sep 17 2016,14:00,Hallescher,1-1,?,FSV Frankfurt
+7,Sat Sep 17 2016,14:00,Wrd Bremen II,2-1,?,Mainz 05 II
+8,Tue Sep 20 2016,18:30,Osnabrück,3-0,?,Rot-Weiß Erfurt
+8,Tue Sep 20 2016,18:30,Aalen,1-1,?,Hallescher
+8,Tue Sep 20 2016,18:30,Zwickau,4-0,?,Jahn R'burg
+8,Tue Sep 20 2016,19:00,MSV Duisburg,0-0,?,Holstein Kiel
+8,Wed Sep 21 2016,18:30,Magdeburg,2-0,?,Wrd Bremen II
+8,Wed Sep 21 2016,18:30,Paderborn 07,4-2,?,Chemnitzer FC
+8,Wed Sep 21 2016,19:00,FSV Frankfurt,4-1,?,Preußen Münster
+8,Wed Sep 21 2016,19:00,Fortuna Köln,0-2,?,Hansa Rostock
+8,Wed Sep 21 2016,19:00,Lotte,2-1,?,Großaspach
+8,Wed Sep 21 2016,19:00,Mainz 05 II,1-2,?,Wehen
+9,Sat Sep 24 2016,14:00,Großaspach,2-3,?,Fortuna Köln
+9,Sat Sep 24 2016,14:00,Holstein Kiel,3-0,?,Mainz 05 II
+9,Sat Sep 24 2016,14:00,FSV Frankfurt,2-1,?,Aalen
+9,Sat Sep 24 2016,14:00,Chemnitzer FC,3-0,?,Osnabrück
+9,Sat Sep 24 2016,14:00,Hallescher,2-0,?,Lotte
+9,Sat Sep 24 2016,14:00,Jahn R'burg,3-0,?,Paderborn 07
+9,Sat Sep 24 2016,14:00,Preußen Münster,4-0,?,Wrd Bremen II
+9,Sun Sep 25 2016,14:00,Rot-Weiß Erfurt,0-1,?,MSV Duisburg
+9,Sun Sep 25 2016,14:00,Hansa Rostock,5-0,?,Zwickau
+9,Sun Sep 25 2016,14:00,Wehen,0-3,?,Magdeburg
+10,Fri Sep 30 2016,19:00,Paderborn 07,0-3,?,Hansa Rostock
+10,Fri Sep 30 2016,20:30,Zwickau,0-2,?,Großaspach
+10,Sat Oct 1 2016,14:00,MSV Duisburg,1-0,?,Chemnitzer FC
+10,Sat Oct 1 2016,14:00,Aalen,1-0,?,Preußen Münster
+10,Sat Oct 1 2016,14:00,Magdeburg,1-0,?,Holstein Kiel
+10,Sat Oct 1 2016,14:00,Osnabrück,1-2,?,Jahn R'burg
+10,Sat Oct 1 2016,14:00,Fortuna Köln,1-1,?,Hallescher
+10,Sat Oct 1 2016,14:00,Wrd Bremen II,0-1,?,Wehen
+10,Sat Oct 1 2016,14:00,Lotte,0-1,?,FSV Frankfurt
+10,Sun Oct 2 2016,14:00,Mainz 05 II,1-1,?,Rot-Weiß Erfurt
+11,Fri Oct 14 2016,19:00,Großaspach,2-3,?,Paderborn 07
+11,Sat Oct 15 2016,14:00,Hansa Rostock,1-2,?,Osnabrück
+11,Sat Oct 15 2016,14:00,Aalen,1-1,?,Lotte
+11,Sat Oct 15 2016,14:00,Jahn R'burg,1-2,?,MSV Duisburg
+11,Sat Oct 15 2016,14:00,Rot-Weiß Erfurt,1-0,?,Magdeburg
+11,Sat Oct 15 2016,14:00,Holstein Kiel,3-1,?,Wrd Bremen II
+11,Sat Oct 15 2016,14:00,Preußen Münster,2-2,?,Wehen
+11,Sat Oct 15 2016,14:00,Hallescher,3-2,?,Zwickau
+11,Sun Oct 16 2016,14:00,FSV Frankfurt,6-0,?,Fortuna Köln
+11,Sun Oct 16 2016,14:00,Chemnitzer FC,4-1,?,Mainz 05 II
+12,Sat Oct 22 2016,14:00,Lotte,1-0,?,Preußen Münster
+12,Sat Oct 22 2016,14:00,Zwickau,1-1,?,FSV Frankfurt
+12,Sat Oct 22 2016,14:00,Paderborn 07,0-0,?,Hallescher
+12,Sat Oct 22 2016,14:00,Osnabrück,1-0,?,Großaspach
+12,Sat Oct 22 2016,14:00,MSV Duisburg,0-1,?,Hansa Rostock
+12,Sat Oct 22 2016,14:00,Wehen,0-0,?,Holstein Kiel
+12,Sat Oct 22 2016,14:00,Fortuna Köln,0-2,?,Aalen
+12,Sat Oct 22 2016,14:00,Magdeburg,2-4,?,Chemnitzer FC
+12,Sun Oct 23 2016,14:00,Mainz 05 II,2-0,?,Jahn R'burg
+12,Sun Oct 23 2016,14:00,Wrd Bremen II,1-0,?,Rot-Weiß Erfurt
+13,Fri Oct 28 2016,19:00,Aalen,0-1,?,Zwickau
+13,Sat Oct 29 2016,14:00,Rot-Weiß Erfurt,1-0,?,Wehen
+13,Sat Oct 29 2016,14:00,Hansa Rostock,1-1,?,Mainz 05 II
+13,Sat Oct 29 2016,14:00,Jahn R'burg,1-1,?,Magdeburg
+13,Sat Oct 29 2016,14:00,Chemnitzer FC,1-1,?,Wrd Bremen II
+13,Sat Oct 29 2016,14:00,Preußen Münster,1-1,?,Holstein Kiel
+13,Sat Oct 29 2016,14:00,Großaspach,0-0,?,MSV Duisburg
+13,Sat Oct 29 2016,14:00,Lotte,0-1,?,Fortuna Köln
+13,Sat Oct 29 2016,14:00,FSV Frankfurt,3-0,?,Paderborn 07
+13,Sat Oct 29 2016,14:00,Hallescher,1-0,?,Osnabrück
+14,Sat Nov 5 2016,14:00,Zwickau,1-1,?,Lotte
+14,Sat Nov 5 2016,14:00,MSV Duisburg,0-0,?,Hallescher
+14,Sat Nov 5 2016,14:00,Magdeburg,1-1,?,Hansa Rostock
+14,Sat Nov 5 2016,14:00,Osnabrück,1-1,?,FSV Frankfurt
+14,Sat Nov 5 2016,14:00,Holstein Kiel,0-0,?,Rot-Weiß Erfurt
+14,Sat Nov 5 2016,14:00,Wehen,0-3,?,Chemnitzer FC
+14,Sat Nov 5 2016,14:00,Mainz 05 II,0-2,?,Großaspach
+14,Sat Nov 5 2016,14:00,Wrd Bremen II,3-1,?,Jahn R'burg
+14,Sat Nov 5 2016,14:00,Fortuna Köln,0-1,?,Preußen Münster
+14,Sat Nov 5 2016,14:00,Paderborn 07,0-0,?,Aalen
+15,Fri Nov 18 2016,19:00,Aalen,1-1,?,Osnabrück
+15,Fri Nov 18 2016,19:00,Preußen Münster,4-0,?,Rot-Weiß Erfurt
+15,Fri Nov 18 2016,19:00,Fortuna Köln,2-1,?,Zwickau
+15,Sat Nov 19 2016,14:00,Chemnitzer FC,2-2,?,Holstein Kiel
+15,Sat Nov 19 2016,14:00,Hallescher,2-0,?,Mainz 05 II
+15,Sat Nov 19 2016,14:00,Hansa Rostock,1-1,?,Wrd Bremen II
+15,Sat Nov 19 2016,14:00,FSV Frankfurt,0-0,?,MSV Duisburg
+15,Sat Nov 19 2016,14:00,Jahn R'burg,3-1,?,Wehen
+15,Sat Nov 19 2016,14:00,Lotte,6-0,?,Paderborn 07
+15,Sat Nov 19 2016,14:00,Großaspach,1-3,?,Magdeburg
+16,Fri Nov 25 2016,19:00,Wehen,1-1,?,Hansa Rostock
+16,Sat Nov 26 2016,14:00,Osnabrück,3-0,?,Lotte
+16,Sat Nov 26 2016,14:00,Holstein Kiel,2-1,?,Jahn R'burg
+16,Sat Nov 26 2016,14:00,Rot-Weiß Erfurt,1-2,?,Chemnitzer FC
+16,Sat Nov 26 2016,14:00,MSV Duisburg,2-2,?,Aalen
+16,Sat Nov 26 2016,14:00,Magdeburg,1-0,?,Hallescher
+16,Sat Nov 26 2016,14:00,Paderborn 07,1-1,?,Fortuna Köln
+16,Sat Nov 26 2016,14:00,Wrd Bremen II,1-0,?,Großaspach
+16,Sun Nov 27 2016,14:00,Mainz 05 II,1-0,?,FSV Frankfurt
+16,Sun Nov 27 2016,14:00,Zwickau,0-1,?,Preußen Münster
+17,Fri Dec 2 2016,18:30,Jahn R'burg,0-1,?,Rot-Weiß Erfurt
+17,Fri Dec 2 2016,19:00,Preußen Münster,1-0,?,Chemnitzer FC
+17,Fri Dec 2 2016,19:00,Großaspach,2-1,?,Wehen
+17,Sat Dec 3 2016,14:00,Zwickau,3-0,?,Paderborn 07
+17,Sat Dec 3 2016,14:00,Aalen,0-0,?,Mainz 05 II
+17,Sat Dec 3 2016,14:00,Hallescher,2-0,?,Wrd Bremen II
+17,Sat Dec 3 2016,14:00,Fortuna Köln,1-1,?,Osnabrück
+17,Sat Dec 3 2016,14:00,Hansa Rostock,1-4,?,Holstein Kiel
+17,Sun Dec 4 2016,14:00,FSV Frankfurt,0-1,?,Magdeburg
+17,Sun Dec 4 2016,14:00,Lotte,0-2,?,MSV Duisburg
+18,Sat Dec 10 2016,14:00,Osnabrück,1-0,?,Zwickau
+18,Sat Dec 10 2016,14:00,Chemnitzer FC,0-3,?,Jahn R'burg
+18,Sat Dec 10 2016,14:00,Magdeburg,3-0,?,Aalen
+18,Sat Dec 10 2016,14:00,Wrd Bremen II,0-0,?,FSV Frankfurt
+18,Sat Dec 10 2016,14:00,Preußen Münster,0-1,?,Paderborn 07
+18,Sat Dec 10 2016,14:00,Rot-Weiß Erfurt,1-2,?,Hansa Rostock
+18,Sat Dec 10 2016,14:00,MSV Duisburg,2-0,?,Fortuna Köln
+18,Sat Dec 10 2016,14:00,Holstein Kiel,1-2,?,Großaspach
+18,Sat Dec 10 2016,14:00,Wehen,1-1,?,Hallescher
+18,Sun Dec 11 2016,14:00,Mainz 05 II,0-2,?,Lotte
+19,Fri Dec 16 2016,19:00,Großaspach,2-1,?,Rot-Weiß Erfurt
+19,Sat Dec 17 2016,14:00,Hallescher,0-0,?,Holstein Kiel
+19,Sat Dec 17 2016,14:00,Aalen,3-0,?,Wrd Bremen II
+19,Sat Dec 17 2016,14:00,FSV Frankfurt,3-1,?,Wehen
+19,Sat Dec 17 2016,14:00,Paderborn 07,3-1,?,Osnabrück
+19,Sat Dec 17 2016,14:00,Jahn R'burg,3-1,?,Preußen Münster
+19,Sat Dec 17 2016,14:00,Fortuna Köln,1-0,?,Mainz 05 II
+19,Sat Dec 17 2016,14:00,Hansa Rostock,1-3,?,Chemnitzer FC
+19,Sat Dec 17 2016,14:00,Lotte,1-3,?,Magdeburg
+19,Sun Dec 18 2016,14:00,Zwickau,1-1,?,MSV Duisburg
+20,Sat Jan 28 2017,14:00,Paderborn 07,0-1,?,MSV Duisburg
+20,Sat Jan 28 2017,14:00,Fortuna Köln,2-1,?,Magdeburg
+20,Sat Jan 28 2017,14:00,Hansa Rostock,0-0,?,Jahn R'burg
+20,Sat Jan 28 2017,14:00,Lotte,1-2,?,Wrd Bremen II
+20,Sat Jan 28 2017,14:00,Osnabrück,3-0,?,Preußen Münster
+20,Sat Jan 28 2017,14:00,FSV Frankfurt,0-0,?,Holstein Kiel
+20,Sat Jan 28 2017,14:00,Großaspach,2-2,?,Chemnitzer FC
+20,Sat Jan 28 2017,14:00,Zwickau,1-0,?,Mainz 05 II
+20,Sat Jan 28 2017,14:00,Aalen,1-1,?,Wehen
+20,Sat Jan 28 2017,14:00,Hallescher,1-0,?,Rot-Weiß Erfurt
+21,Sat Feb 4 2017,14:00,Holstein Kiel,2-2,?,Aalen
+21,Sat Feb 4 2017,14:00,MSV Duisburg,2-2,?,Osnabrück
+21,Sat Feb 4 2017,14:00,Chemnitzer FC,1-1,?,Hallescher
+21,Sat Feb 4 2017,14:00,Jahn R'burg,1-1,?,Großaspach
+21,Sat Feb 4 2017,14:00,Mainz 05 II,0-1,?,Paderborn 07
+21,Sat Feb 4 2017,14:00,Wehen,0-3,?,Lotte
+21,Sat Feb 4 2017,14:00,Rot-Weiß Erfurt,1-0,?,FSV Frankfurt
+21,Sun Feb 5 2017,14:00,Preußen Münster,3-1,?,Hansa Rostock
+21,Sun Feb 5 2017,14:00,Magdeburg,1-1,?,Zwickau
+21,Sun Feb 5 2017,14:00,Wrd Bremen II,1-1,?,Fortuna Köln
+22,Fri Feb 10 2017,19:00,Osnabrück,1-2,?,Mainz 05 II
+22,Fri Feb 10 2017,19:00,Aalen,1-1,?,Rot-Weiß Erfurt
+22,Sat Feb 11 2017,14:00,Paderborn 07,1-1,?,Magdeburg
+22,Sat Feb 11 2017,14:00,Großaspach,1-1,?,Hansa Rostock
+22,Sat Feb 11 2017,14:00,Fortuna Köln,0-0,?,Wehen
+22,Sat Feb 11 2017,14:00,Zwickau,2-1,?,Wrd Bremen II
+22,Sat Feb 11 2017,14:00,Hallescher,1-1,?,Jahn R'burg
+22,Sat Feb 11 2017,14:00,FSV Frankfurt,0-3,?,Chemnitzer FC
+22,Sun Feb 12 2017,14:00,MSV Duisburg,3-2,?,Preußen Münster
+23,Fri Feb 17 2017,19:00,Mainz 05 II,0-2,?,MSV Duisburg
+23,Sat Feb 18 2017,14:00,Preußen Münster,3-0,?,Großaspach
+23,Sat Feb 18 2017,14:00,Jahn R'burg,2-1,?,FSV Frankfurt
+23,Sat Feb 18 2017,14:00,Wehen,3-0,?,Zwickau
+23,Sat Feb 18 2017,14:00,Wrd Bremen II,1-0,?,Paderborn 07
+23,Sat Feb 18 2017,14:00,Chemnitzer FC,0-1,?,Aalen
+23,Sat Feb 18 2017,14:00,Magdeburg,3-0,?,Osnabrück
+23,Sat Feb 18 2017,14:00,Rot-Weiß Erfurt,0-3,?,Lotte
+23,Sat Feb 18 2017,14:00,Holstein Kiel,5-1,?,Fortuna Köln
+23,Sun Feb 19 2017,14:00,Hansa Rostock,1-0,?,Hallescher
+24,Fri Feb 24 2017,18:30,MSV Duisburg,0-0,?,Magdeburg
+24,Fri Feb 24 2017,19:00,Osnabrück,0-1,?,Wrd Bremen II
+24,Fri Feb 24 2017,19:00,Paderborn 07,0-1,?,Wehen
+24,Sat Feb 25 2017,14:00,Fortuna Köln,0-1,?,Rot-Weiß Erfurt
+24,Sat Feb 25 2017,14:00,Hallescher,0-1,?,Großaspach
+24,Sat Feb 25 2017,14:00,Aalen,1-2,?,Jahn R'burg
+24,Sat Feb 25 2017,14:00,FSV Frankfurt,0-0,?,Hansa Rostock
+24,Sat Feb 25 2017,14:00,Mainz 05 II,3-1,?,Preußen Münster
+24,Sun Feb 26 2017,14:00,Zwickau,1-0,?,Holstein Kiel
+25,Fri Mar 3 2017,19:00,Chemnitzer FC,3-1,?,Fortuna Köln
+25,Sat Mar 4 2017,14:00,Hansa Rostock,1-1,?,Aalen
+25,Sat Mar 4 2017,14:00,Rot-Weiß Erfurt,1-3,?,Zwickau
+25,Sat Mar 4 2017,14:00,Großaspach,3-1,?,FSV Frankfurt
+25,Sat Mar 4 2017,14:00,Wehen,2-1,?,Osnabrück
+25,Sat Mar 4 2017,14:00,Magdeburg,1-2,?,Mainz 05 II
+25,Sat Mar 4 2017,14:00,Jahn R'burg,2-0,?,Lotte
+25,Sat Mar 4 2017,14:00,Preußen Münster,1-1,?,Hallescher
+25,Sat Mar 4 2017,14:00,Holstein Kiel,2-1,?,Paderborn 07
+25,Sun Mar 5 2017,14:00,Wrd Bremen II,0-0,?,MSV Duisburg
+24,Wed Mar 8 2017,19:00,Lotte,3-0,?,Chemnitzer FC
+26,Fri Mar 10 2017,18:30,Magdeburg,1-0,?,Preußen Münster
+26,Fri Mar 10 2017,19:00,Osnabrück,2-1,?,Holstein Kiel
+26,Sat Mar 11 2017,14:00,Fortuna Köln,2-2,?,Jahn R'burg
+26,Sat Mar 11 2017,14:00,FSV Frankfurt,0-1,?,Hallescher
+26,Sat Mar 11 2017,14:00,Paderborn 07,0-1,?,Rot-Weiß Erfurt
+26,Sat Mar 11 2017,14:00,Aalen,2-0,?,Großaspach
+26,Sat Mar 11 2017,14:00,Mainz 05 II,0-1,?,Wrd Bremen II
+26,Sat Mar 11 2017,14:00,Lotte,2-0,?,Hansa Rostock
+26,Sat Mar 11 2017,14:00,MSV Duisburg,0-1,?,Wehen
+26,Sun Mar 12 2017,14:00,Zwickau,1-0,?,Chemnitzer FC
+27,Tue Mar 14 2017,18:00,Wrd Bremen II,0-1,?,Magdeburg
+27,Tue Mar 14 2017,19:00,Hallescher,1-4,?,Aalen
+27,Tue Mar 14 2017,19:00,Preußen Münster,2-1,?,FSV Frankfurt
+27,Tue Mar 14 2017,19:00,Rot-Weiß Erfurt,1-0,?,Osnabrück
+27,Tue Mar 14 2017,19:00,Holstein Kiel,2-0,?,MSV Duisburg
+27,Wed Mar 15 2017,19:00,Wehen,0-2,?,Mainz 05 II
+27,Wed Mar 15 2017,19:00,Chemnitzer FC,2-1,?,Paderborn 07
+27,Wed Mar 15 2017,19:00,Hansa Rostock,1-1,?,Fortuna Köln
+27,Wed Mar 15 2017,19:00,Jahn R'burg,1-2,?,Zwickau
+28,Fri Mar 17 2017,19:00,Wrd Bremen II,0-1,?,Preußen Münster
+28,Sat Mar 18 2017,14:00,Mainz 05 II,0-3,?,Holstein Kiel
+28,Sat Mar 18 2017,14:00,Fortuna Köln,2-0,?,Großaspach
+28,Sat Mar 18 2017,14:00,Paderborn 07,0-2,?,Jahn R'burg
+28,Sat Mar 18 2017,14:00,Aalen,2-0,?,FSV Frankfurt
+28,Sat Mar 18 2017,14:00,MSV Duisburg,3-2,?,Rot-Weiß Erfurt
+28,Sat Mar 18 2017,14:00,Osnabrück,3-0,?,Chemnitzer FC
+28,Sun Mar 19 2017,14:00,Magdeburg,0-0,?,Wehen
+28,Sun Mar 19 2017,14:00,Lotte,0-0,?,Hallescher
+28,Mon Mar 20 2017,20:30,Zwickau,2-2,?,Hansa Rostock
+27,Wed Mar 22 2017,19:00,Großaspach,2-0,?,Lotte
+29,Sat Mar 25 2017,14:00,Chemnitzer FC,2-3,?,MSV Duisburg
+29,Sat Mar 25 2017,14:00,Jahn R'burg,1-2,?,Osnabrück
+29,Sat Mar 25 2017,14:00,Preußen Münster,2-1,?,Aalen
+29,Sat Mar 25 2017,14:00,Hansa Rostock,1-1,?,Paderborn 07
+29,Sat Mar 25 2017,14:00,Großaspach,1-2,?,Zwickau
+29,Sat Mar 25 2017,14:00,Rot-Weiß Erfurt,0-0,?,Mainz 05 II
+29,Sat Mar 25 2017,14:00,FSV Frankfurt,2-0,?,Lotte
+29,Sat Mar 25 2017,14:00,Holstein Kiel,1-1,?,Magdeburg
+29,Sat Mar 25 2017,14:00,Hallescher,0-0,?,Fortuna Köln
+22,Tue Mar 28 2017,19:00,Lotte,0-0,?,Holstein Kiel
+30,Fri Mar 31 2017,18:30,Mainz 05 II,0-1,?,Chemnitzer FC
+30,Sat Apr 1 2017,14:00,Paderborn 07,1-2,?,Großaspach
+30,Sat Apr 1 2017,14:00,MSV Duisburg,1-1,?,Jahn R'burg
+30,Sat Apr 1 2017,14:00,Lotte,0-2,?,Aalen
+30,Sat Apr 1 2017,14:00,Fortuna Köln,0-0,?,FSV Frankfurt
+30,Sat Apr 1 2017,14:00,Wrd Bremen II,0-2,?,Holstein Kiel
+30,Sat Apr 1 2017,14:00,Magdeburg,2-0,?,Rot-Weiß Erfurt
+30,Sun Apr 2 2017,14:00,Zwickau,2-0,?,Hallescher
+30,Sun Apr 2 2017,14:00,Wehen,1-0,?,Preußen Münster
+30,Sun Apr 2 2017,14:00,Osnabrück,2-1,?,Hansa Rostock
+31,Tue Apr 4 2017,19:00,Rot-Weiß Erfurt,1-1,?,Wrd Bremen II
+31,Tue Apr 4 2017,19:00,Jahn R'burg,2-1,?,Mainz 05 II
+31,Tue Apr 4 2017,19:00,Aalen,3-0,?,Fortuna Köln
+31,Tue Apr 4 2017,20:30,Chemnitzer FC,1-1,?,Magdeburg
+31,Wed Apr 5 2017,18:00,FSV Frankfurt,0-1,?,Zwickau
+31,Wed Apr 5 2017,19:00,Großaspach,1-0,?,Osnabrück
+31,Wed Apr 5 2017,19:00,Preußen Münster,1-0,?,Lotte
+31,Wed Apr 5 2017,19:00,Holstein Kiel,3-0,?,Wehen
+31,Wed Apr 5 2017,19:00,Hallescher,1-1,?,Paderborn 07
+31,Wed Apr 5 2017,19:00,Hansa Rostock,1-0,?,MSV Duisburg
+32,Sat Apr 8 2017,14:00,Osnabrück,1-2,?,Hallescher
+32,Sat Apr 8 2017,14:00,Fortuna Köln,3-0,?,Lotte
+32,Sat Apr 8 2017,14:00,MSV Duisburg,2-1,?,Großaspach
+32,Sat Apr 8 2017,14:00,Wehen,0-0,?,Rot-Weiß Erfurt
+32,Sat Apr 8 2017,14:00,Wrd Bremen II,0-0,?,Chemnitzer FC
+32,Sat Apr 8 2017,14:00,Zwickau,2-1,?,Aalen
+32,Sat Apr 8 2017,14:00,Paderborn 07,3-0,?,FSV Frankfurt
+32,Sun Apr 9 2017,14:00,Holstein Kiel,0-0,?,Preußen Münster
+32,Sun Apr 9 2017,14:00,Magdeburg,1-2,?,Jahn R'burg
+32,Sun Apr 9 2017,14:00,Mainz 05 II,2-4,?,Hansa Rostock
+33,Sat Apr 15 2017,14:00,Aalen,4-0,?,Paderborn 07
+33,Sat Apr 15 2017,14:00,Hansa Rostock,1-1,?,Magdeburg
+33,Sat Apr 15 2017,14:00,Großaspach,2-1,?,Mainz 05 II
+33,Sat Apr 15 2017,14:00,Jahn R'burg,3-1,?,Wrd Bremen II
+33,Sat Apr 15 2017,14:00,Chemnitzer FC,4-2,?,Wehen
+33,Sat Apr 15 2017,14:00,Hallescher,1-1,?,MSV Duisburg
+33,Sat Apr 15 2017,14:00,Lotte,2-1,?,Zwickau
+33,Sat Apr 15 2017,14:00,Rot-Weiß Erfurt,1-1,?,Holstein Kiel
+33,Sat Apr 15 2017,14:00,Preußen Münster,4-2,?,Fortuna Köln
+33,Sun Apr 16 2017,14:00,FSV Frankfurt,1-1,?,Osnabrück
+29,Wed Apr 19 2017,19:00,Wehen,2-0,?,Wrd Bremen II
+34,Sat Apr 22 2017,14:00,Paderborn 07,3-1,?,Lotte
+34,Sat Apr 22 2017,14:00,Mainz 05 II,3-2,?,Hallescher
+34,Sat Apr 22 2017,14:00,Wrd Bremen II,0-2,?,Hansa Rostock
+34,Sat Apr 22 2017,14:00,Osnabrück,1-0,?,Aalen
+34,Sat Apr 22 2017,14:00,Wehen,1-1,?,Jahn R'burg
+34,Sat Apr 22 2017,14:00,Holstein Kiel,2-0,?,Chemnitzer FC
+34,Sat Apr 22 2017,14:00,MSV Duisburg,3-2,?,FSV Frankfurt
+34,Sat Apr 22 2017,14:00,Magdeburg,2-1,?,Großaspach
+34,Sun Apr 23 2017,14:00,Zwickau,2-1,?,Fortuna Köln
+34,Sun Apr 23 2017,14:00,Rot-Weiß Erfurt,0-0,?,Preußen Münster
+35,Fri Apr 28 2017,19:00,Fortuna Köln,0-1,?,Paderborn 07
+35,Sat Apr 29 2017,14:00,Großaspach,0-0,?,Wrd Bremen II
+35,Sat Apr 29 2017,14:00,Aalen,2-1,?,MSV Duisburg
+35,Sat Apr 29 2017,14:00,Hallescher,1-1,?,Magdeburg
+35,Sat Apr 29 2017,14:00,Hansa Rostock,1-3,?,Wehen
+35,Sat Apr 29 2017,14:00,Chemnitzer FC,1-1,?,Rot-Weiß Erfurt
+35,Sat Apr 29 2017,14:00,FSV Frankfurt,1-2,?,Mainz 05 II
+35,Sat Apr 29 2017,14:00,Jahn R'burg,0-3,?,Holstein Kiel
+35,Sat Apr 29 2017,14:00,Lotte,0-0,?,Osnabrück
+35,Sun Apr 30 2017,14:00,Preußen Münster,5-1,?,Zwickau
+36,Fri May 5 2017,19:00,Rot-Weiß Erfurt,1-4,?,Jahn R'burg
+36,Fri May 5 2017,19:00,Wrd Bremen II,1-1,?,Hallescher
+36,Sat May 6 2017,14:00,Holstein Kiel,2-1,?,Hansa Rostock
+36,Sat May 6 2017,14:00,Paderborn 07,1-1,?,Zwickau
+36,Sat May 6 2017,14:00,Osnabrück,1-2,?,Fortuna Köln
+36,Sat May 6 2017,14:00,Magdeburg,1-1,?,FSV Frankfurt
+36,Sat May 6 2017,14:00,MSV Duisburg,1-1,?,Lotte
+36,Sat May 6 2017,14:00,Wehen,0-0,?,Großaspach
+36,Sat May 6 2017,14:00,Mainz 05 II,2-0,?,Aalen
+36,Sun May 7 2017,14:00,Chemnitzer FC,0-3,?,Preußen Münster
+37,Sat May 13 2017,13:30,Jahn R'burg,3-2,?,Chemnitzer FC
+37,Sat May 13 2017,13:30,FSV Frankfurt,0-4,?,Wrd Bremen II
+37,Sat May 13 2017,13:30,Zwickau,1-0,?,Osnabrück
+37,Sat May 13 2017,13:30,Hansa Rostock,1-2,?,Rot-Weiß Erfurt
+37,Sat May 13 2017,13:30,Fortuna Köln,0-3,?,MSV Duisburg
+37,Sat May 13 2017,13:30,Hallescher,0-3,?,Wehen
+37,Sat May 13 2017,13:30,Paderborn 07,1-0,?,Preußen Münster
+37,Sat May 13 2017,13:30,Großaspach,0-1,?,Holstein Kiel
+37,Sat May 13 2017,13:30,Lotte,3-3,?,Mainz 05 II
+37,Sat May 13 2017,13:30,Aalen,2-2,?,Magdeburg
+38,Sat May 20 2017,13:30,Holstein Kiel,3-0,?,Hallescher
+38,Sat May 20 2017,13:30,Wrd Bremen II,1-0,?,Aalen
+38,Sat May 20 2017,13:30,Osnabrück,0-0,?,Paderborn 07
+38,Sat May 20 2017,13:30,Preußen Münster,0-1,?,Jahn R'burg
+38,Sat May 20 2017,13:30,MSV Duisburg,5-1,?,Zwickau
+38,Sat May 20 2017,13:30,Rot-Weiß Erfurt,4-1,?,Großaspach
+38,Sat May 20 2017,13:30,Chemnitzer FC,2-0,?,Hansa Rostock
+38,Sat May 20 2017,13:30,Mainz 05 II,4-0,?,Fortuna Köln
+38,Sat May 20 2017,13:30,Magdeburg,2-0,?,Lotte
+38,Sat May 20 2017,13:30,Wehen,4-1,?,FSV Frankfurt

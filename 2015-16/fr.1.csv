@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 7 2015,20:30,Lille,0-1,?,Paris S-G
+1,Sat Aug 8 2015,21:00,Marseille,0-1,?,Caen
+1,Sat Aug 8 2015,21:00,Troyes,0-0,?,Gazélec Ajaccio
+1,Sat Aug 8 2015,21:00,Montpellier,0-2,?,Angers
+1,Sat Aug 8 2015,21:00,Nice,1-2,?,Monaco
+1,Sat Aug 8 2015,21:00,Bastia,2-1,?,Rennes
+1,Sat Aug 8 2015,21:00,Nantes,1-0,?,Guingamp
+1,Sun Aug 9 2015,17:00,Toulouse,2-1,?,Saint-Étienne
+1,Sun Aug 9 2015,17:00,Bordeaux,1-2,?,Reims
+1,Sun Aug 9 2015,21:00,Lyon,0-0,?,Lorient
+2,Fri Aug 14 2015,20:30,Monaco,0-0,?,Lille
+2,Sat Aug 15 2015,17:00,Saint-Étienne,1-1,?,Bordeaux
+2,Sat Aug 15 2015,20:00,Troyes,3-3,?,Nice
+2,Sat Aug 15 2015,20:00,Caen,1-0,?,Toulouse
+2,Sat Aug 15 2015,20:00,Angers,0-0,?,Nantes
+2,Sat Aug 15 2015,20:00,Guingamp,0-1,?,Lyon
+2,Sat Aug 15 2015,20:00,Rennes,1-0,?,Montpellier
+2,Sun Aug 16 2015,14:00,Reims,1-0,?,Marseille
+2,Sun Aug 16 2015,17:00,Lorient,1-1,?,Bastia
+2,Sun Aug 16 2015,21:00,Paris S-G,2-0,?,Gazélec Ajaccio
+3,Fri Aug 21 2015,20:30,Montpellier,0-1,?,Paris S-G
+3,Sat Aug 22 2015,17:00,Lyon,1-2,?,Rennes
+3,Sat Aug 22 2015,20:00,Toulouse,1-1,?,Monaco
+3,Sat Aug 22 2015,20:00,Nantes,1-0,?,Reims
+3,Sat Aug 22 2015,20:00,Gazélec Ajaccio,0-2,?,Angers
+3,Sat Aug 22 2015,20:00,Bastia,3-0,?,Guingamp
+3,Sat Aug 22 2015,20:00,Nice,2-1,?,Caen
+3,Sun Aug 23 2015,14:00,Lille,0-0,?,Bordeaux
+3,Sun Aug 23 2015,17:00,Lorient,0-1,?,Saint-Étienne
+3,Sun Aug 23 2015,21:00,Marseille,6-0,?,Troyes
+4,Fri Aug 28 2015,20:30,Guingamp,2-0,?,Marseille
+4,Sat Aug 29 2015,17:00,Caen,0-4,?,Lyon
+4,Sat Aug 29 2015,20:00,Lille,1-0,?,Gazélec Ajaccio
+4,Sat Aug 29 2015,20:00,Reims,4-1,?,Lorient
+4,Sat Aug 29 2015,20:00,Rennes,3-1,?,Toulouse
+4,Sat Aug 29 2015,20:00,Troyes,0-0,?,Montpellier
+4,Sat Aug 29 2015,20:00,Angers,1-1,?,Nice
+4,Sun Aug 30 2015,14:00,Saint-Étienne,2-1,?,Bastia
+4,Sun Aug 30 2015,17:00,Bordeaux,2-0,?,Nantes
+4,Sun Aug 30 2015,21:00,Monaco,0-3,?,Paris S-G
+5,Fri Sep 11 2015,20:30,Paris S-G,2-2,?,Bordeaux
+5,Sat Sep 12 2015,17:00,Lyon,0-0,?,Lille
+5,Sat Sep 12 2015,20:00,Montpellier,1-2,?,Saint-Étienne
+5,Sat Sep 12 2015,20:00,Lorient,3-1,?,Angers
+5,Sat Sep 12 2015,20:00,Toulouse,2-2,?,Reims
+5,Sat Sep 12 2015,20:00,Troyes,1-3,?,Caen
+5,Sat Sep 12 2015,20:00,Nice,0-1,?,Guingamp
+5,Sun Sep 13 2015,14:00,Gazélec Ajaccio,0-1,?,Monaco
+5,Sun Sep 13 2015,17:00,Nantes,0-2,?,Rennes
+5,Sun Sep 13 2015,21:00,Marseille,4-1,?,Bastia
+6,Fri Sep 18 2015,20:30,Rennes,1-1,?,Lille
+6,Sat Sep 19 2015,17:30,Reims,1-1,?,Paris S-G
+6,Sat Sep 19 2015,20:00,Guingamp,2-1,?,Gazélec Ajaccio
+6,Sat Sep 19 2015,20:00,Angers,1-0,?,Troyes
+6,Sat Sep 19 2015,20:00,Bastia,1-3,?,Nice
+6,Sat Sep 19 2015,20:00,Caen,2-1,?,Montpellier
+6,Sun Sep 20 2015,14:00,Bordeaux,1-1,?,Toulouse
+6,Sun Sep 20 2015,17:00,Monaco,2-3,?,Lorient
+6,Sun Sep 20 2015,17:00,Saint-Étienne,2-0,?,Nantes
+6,Sun Sep 20 2015,21:00,Marseille,1-1,?,Lyon
+7,Tue Sep 22 2015,19:00,Angers,0-0,?,Reims
+7,Tue Sep 22 2015,21:00,Paris S-G,3-0,?,Guingamp
+7,Wed Sep 23 2015,19:00,Lyon,2-0,?,Bastia
+7,Wed Sep 23 2015,19:00,Gazélec Ajaccio,1-1,?,Rennes
+7,Wed Sep 23 2015,19:00,Nice,6-1,?,Bordeaux
+7,Wed Sep 23 2015,19:00,Troyes,0-1,?,Saint-Étienne
+7,Wed Sep 23 2015,19:00,Lorient,2-0,?,Caen
+7,Wed Sep 23 2015,21:00,Toulouse,1-1,?,Marseille
+7,Thu Sep 24 2015,18:55,Montpellier,2-3,?,Monaco
+8,Fri Sep 25 2015,20:30,Reims,1-0,?,Lille
+8,Sat Sep 26 2015,17:30,Nantes,1-4,?,Paris S-G
+8,Sat Sep 26 2015,20:00,Rennes,1-1,?,Troyes
+8,Sat Sep 26 2015,20:00,Bastia,3-0,?,Toulouse
+8,Sat Sep 26 2015,20:00,Bordeaux,3-1,?,Lyon
+8,Sat Sep 26 2015,20:00,Caen,2-0,?,Gazélec Ajaccio
+8,Sun Sep 27 2015,14:00,Marseille,1-2,?,Angers
+8,Sun Sep 27 2015,17:00,Guingamp,3-3,?,Monaco
+8,Sun Sep 27 2015,17:00,Montpellier,2-1,?,Lorient
+8,Sun Sep 27 2015,21:00,Saint-Étienne,1-4,?,Nice
+7,Tue Sep 29 2015,18:30,Lille,0-1,?,Nantes
+9,Fri Oct 2 2015,20:30,Lille,2-0,?,Montpellier
+9,Sat Oct 3 2015,17:30,Lyon,1-0,?,Reims
+9,Sat Oct 3 2015,20:00,Gazélec Ajaccio,2-2,?,Toulouse
+9,Sat Oct 3 2015,20:00,Troyes,0-1,?,Guingamp
+9,Sat Oct 3 2015,20:00,Angers,1-0,?,Bastia
+9,Sun Oct 4 2015,14:00,Monaco,1-1,?,Rennes
+9,Sun Oct 4 2015,17:00,Lorient,3-2,?,Bordeaux
+9,Sun Oct 4 2015,17:00,Caen,1-0,?,Saint-Étienne
+9,Sun Oct 4 2015,21:00,Paris S-G,2-1,?,Marseille
+10,Fri Oct 16 2015,20:30,Monaco,1-1,?,Lyon
+10,Sat Oct 17 2015,17:00,Bastia,0-2,?,Paris S-G
+10,Sat Oct 17 2015,20:00,Reims,0-1,?,Caen
+10,Sat Oct 17 2015,20:00,Toulouse,1-2,?,Angers
+10,Sat Oct 17 2015,20:00,Nantes,3-0,?,Troyes
+10,Sat Oct 17 2015,20:00,Saint-Étienne,2-0,?,Gazélec Ajaccio
+10,Sat Oct 17 2015,20:00,Guingamp,1-1,?,Lille
+10,Sun Oct 18 2015,14:00,Marseille,1-1,?,Lorient
+10,Sun Oct 18 2015,17:00,Bordeaux,0-0,?,Montpellier
+10,Sun Oct 18 2015,21:00,Rennes,1-4,?,Nice
+11,Fri Oct 23 2015,18:30,Caen,0-2,?,Nantes
+11,Fri Oct 23 2015,20:30,Lyon,3-0,?,Toulouse
+11,Sat Oct 24 2015,17:00,Lorient,1-1,?,Rennes
+11,Sat Oct 24 2015,20:00,Angers,0-0,?,Guingamp
+11,Sat Oct 24 2015,20:00,Montpellier,2-0,?,Bastia
+11,Sat Oct 24 2015,20:00,Gazélec Ajaccio,3-1,?,Nice
+11,Sun Oct 25 2015,14:00,Reims,0-1,?,Monaco
+11,Sun Oct 25 2015,17:00,Bordeaux,1-0,?,Troyes
+11,Sun Oct 25 2015,17:00,Lille,1-2,?,Marseille
+11,Sun Oct 25 2015,21:00,Paris S-G,4-1,?,Saint-Étienne
+12,Fri Oct 30 2015,20:30,Rennes,0-1,?,Paris S-G
+12,Sat Oct 31 2015,17:00,Saint-Étienne,3-0,?,Reims
+12,Sat Oct 31 2015,20:00,Bastia,1-0,?,Caen
+12,Sat Oct 31 2015,20:00,Toulouse,1-1,?,Montpellier
+12,Sat Oct 31 2015,20:00,Guingamp,2-2,?,Lorient
+12,Sat Oct 31 2015,20:00,Gazélec Ajaccio,2-0,?,Bordeaux
+12,Sat Oct 31 2015,20:00,Troyes,0-1,?,Lyon
+12,Sun Nov 1 2015,14:00,Nice,0-0,?,Lille
+12,Sun Nov 1 2015,17:00,Monaco,1-0,?,Angers
+12,Sun Nov 1 2015,21:00,Nantes,0-1,?,Marseille
+9,Wed Nov 4 2015,18:30,Nice,1-2,?,Nantes
+13,Fri Nov 6 2015,20:30,Angers,0-2,?,Rennes
+13,Sat Nov 7 2015,17:00,Paris S-G,5-0,?,Toulouse
+13,Sat Nov 7 2015,20:00,Reims,1-2,?,Gazélec Ajaccio
+13,Sat Nov 7 2015,20:00,Caen,2-1,?,Guingamp
+13,Sat Nov 7 2015,20:00,Lille,1-1,?,Bastia
+13,Sat Nov 7 2015,20:00,Montpellier,2-1,?,Nantes
+13,Sat Nov 7 2015,20:00,Lorient,4-1,?,Troyes
+13,Sun Nov 8 2015,17:00,Marseille,0-1,?,Nice
+13,Sun Nov 8 2015,21:00,Bordeaux,3-1,?,Monaco
+13,Sun Nov 8 2015,21:00,Lyon,3-0,?,Saint-Étienne
+14,Fri Nov 20 2015,20:30,Nice,3-0,?,Lyon
+14,Sat Nov 21 2015,17:00,Lorient,1-2,?,Paris S-G
+14,Sat Nov 21 2015,20:00,Monaco,1-0,?,Nantes
+14,Sat Nov 21 2015,20:00,Montpellier,3-1,?,Reims
+14,Sat Nov 21 2015,20:00,Troyes,1-1,?,Lille
+14,Sat Nov 21 2015,20:00,Guingamp,2-0,?,Toulouse
+14,Sun Nov 22 2015,14:00,Caen,0-0,?,Angers
+14,Sun Nov 22 2015,14:00,Bastia,1-2,?,Gazélec Ajaccio
+14,Sun Nov 22 2015,17:00,Rennes,2-2,?,Bordeaux
+14,Sun Nov 22 2015,21:00,Saint-Étienne,0-2,?,Marseille
+15,Fri Nov 27 2015,20:30,Lyon,2-4,?,Montpellier
+15,Sat Nov 28 2015,17:00,Paris S-G,4-1,?,Troyes
+15,Sat Nov 28 2015,20:00,Reims,2-2,?,Rennes
+15,Sat Nov 28 2015,20:00,Nantes,0-0,?,Bastia
+15,Sat Nov 28 2015,20:00,Angers,2-0,?,Lille
+15,Sat Nov 28 2015,20:00,Toulouse,2-0,?,Nice
+15,Sat Nov 28 2015,20:00,Gazélec Ajaccio,1-1,?,Lorient
+15,Sun Nov 29 2015,14:00,Saint-Étienne,3-0,?,Guingamp
+15,Sun Nov 29 2015,17:00,Bordeaux,1-4,?,Caen
+15,Sun Nov 29 2015,21:00,Marseille,3-3,?,Monaco
+16,Tue Dec 1 2015,19:00,Lorient,0-0,?,Nice
+16,Tue Dec 1 2015,19:00,Angers,0-0,?,Paris S-G
+16,Tue Dec 1 2015,21:00,Nantes,0-0,?,Lyon
+16,Wed Dec 2 2015,19:00,Monaco,1-1,?,Caen
+16,Wed Dec 2 2015,19:00,Montpellier,0-2,?,Gazélec Ajaccio
+16,Wed Dec 2 2015,19:00,Guingamp,1-2,?,Reims
+16,Wed Dec 2 2015,19:00,Troyes,0-3,?,Toulouse
+16,Wed Dec 2 2015,19:00,Bastia,1-0,?,Bordeaux
+16,Wed Dec 2 2015,21:00,Lille,1-0,?,Saint-Étienne
+16,Thu Dec 3 2015,21:00,Rennes,0-1,?,Marseille
+17,Fri Dec 4 2015,20:30,Nice,0-3,?,Paris S-G
+17,Sat Dec 5 2015,17:00,Lyon,0-2,?,Angers
+17,Sat Dec 5 2015,20:00,Gazélec Ajaccio,1-1,?,Nantes
+17,Sat Dec 5 2015,20:00,Toulouse,2-3,?,Lorient
+17,Sat Dec 5 2015,20:00,Reims,1-1,?,Troyes
+17,Sat Dec 5 2015,20:00,Bastia,1-2,?,Monaco
+17,Sat Dec 5 2015,20:00,Caen,1-2,?,Lille
+17,Sun Dec 6 2015,14:00,Marseille,2-2,?,Montpellier
+17,Sun Dec 6 2015,17:00,Bordeaux,1-0,?,Guingamp
+17,Sun Dec 6 2015,21:00,Saint-Étienne,1-1,?,Rennes
+18,Fri Dec 11 2015,20:30,Rennes,1-1,?,Caen
+18,Sat Dec 12 2015,16:00,Reims,1-1,?,Nice
+18,Sat Dec 12 2015,20:00,Lille,3-0,?,Lorient
+18,Sat Dec 12 2015,20:00,Troyes,1-1,?,Bastia
+18,Sat Dec 12 2015,20:00,Nantes,1-1,?,Toulouse
+18,Sat Dec 12 2015,20:00,Montpellier,2-1,?,Guingamp
+18,Sun Dec 13 2015,14:00,Monaco,1-0,?,Saint-Étienne
+18,Sun Dec 13 2015,17:00,Marseille,1-1,?,Gazélec Ajaccio
+18,Sun Dec 13 2015,17:00,Angers,1-1,?,Bordeaux
+18,Sun Dec 13 2015,21:00,Paris S-G,5-1,?,Lyon
+19,Fri Dec 18 2015,20:30,Nice,1-0,?,Montpellier
+19,Sat Dec 19 2015,17:00,Caen,0-3,?,Paris S-G
+19,Sat Dec 19 2015,20:00,Bastia,2-0,?,Reims
+19,Sat Dec 19 2015,20:00,Toulouse,1-1,?,Lille
+19,Sat Dec 19 2015,20:00,Troyes,0-0,?,Monaco
+19,Sat Dec 19 2015,20:00,Guingamp,0-2,?,Rennes
+19,Sat Dec 19 2015,20:00,Lorient,0-0,?,Nantes
+19,Sun Dec 20 2015,14:00,Saint-Étienne,1-0,?,Angers
+19,Sun Dec 20 2015,17:00,Gazélec Ajaccio,2-1,?,Lyon
+19,Sun Dec 20 2015,21:00,Bordeaux,1-1,?,Marseille
+20,Fri Jan 8 2016,20:30,Paris S-G,2-0,?,Bastia
+20,Sat Jan 9 2016,17:00,Lyon,4-1,?,Troyes
+20,Sat Jan 9 2016,20:00,Monaco,2-2,?,Gazélec Ajaccio
+20,Sat Jan 9 2016,20:00,Montpellier,0-1,?,Bordeaux
+20,Sat Jan 9 2016,20:00,Reims,1-3,?,Toulouse
+20,Sat Jan 9 2016,20:00,Angers,2-0,?,Caen
+20,Sat Jan 9 2016,20:00,Rennes,2-2,?,Lorient
+20,Sun Jan 10 2016,14:00,Nantes,2-1,?,Saint-Étienne
+20,Sun Jan 10 2016,17:00,Lille,1-1,?,Nice
+20,Sun Jan 10 2016,21:00,Marseille,0-0,?,Guingamp
+21,Fri Jan 15 2016,20:30,Nice,2-1,?,Angers
+21,Sat Jan 16 2016,17:00,Toulouse,0-1,?,Paris S-G
+21,Sat Jan 16 2016,20:00,Guingamp,2-2,?,Nantes
+21,Sat Jan 16 2016,20:00,Gazélec Ajaccio,2-2,?,Reims
+21,Sat Jan 16 2016,20:00,Bastia,1-0,?,Montpellier
+21,Sat Jan 16 2016,20:00,Troyes,2-4,?,Rennes
+21,Sat Jan 16 2016,20:00,Bordeaux,1-0,?,Lille
+21,Sun Jan 17 2016,14:00,Lorient,0-2,?,Monaco
+21,Sun Jan 17 2016,17:00,Caen,1-3,?,Marseille
+21,Sun Jan 17 2016,21:00,Saint-Étienne,1-0,?,Lyon
+22,Fri Jan 22 2016,20:30,Rennes,1-0,?,Gazélec Ajaccio
+22,Sat Jan 23 2016,17:00,Paris S-G,5-1,?,Angers
+22,Sat Jan 23 2016,20:00,Guingamp,1-0,?,Bastia
+22,Sat Jan 23 2016,20:00,Montpellier,1-2,?,Caen
+22,Sat Jan 23 2016,20:00,Nantes,2-2,?,Bordeaux
+22,Sat Jan 23 2016,20:00,Nice,2-1,?,Lorient
+22,Sat Jan 23 2016,20:00,Lille,1-3,?,Troyes
+22,Sun Jan 24 2016,14:00,Monaco,4-0,?,Toulouse
+22,Sun Jan 24 2016,17:00,Reims,1-1,?,Saint-Étienne
+22,Sun Jan 24 2016,21:00,Lyon,1-1,?,Marseille
+23,Fri Jan 29 2016,20:30,Marseille,1-1,?,Lille
+23,Sat Jan 30 2016,17:00,Angers,3-0,?,Monaco
+23,Sat Jan 30 2016,20:00,Bastia,1-0,?,Lyon
+23,Sat Jan 30 2016,20:00,Lorient,2-0,?,Reims
+23,Sat Jan 30 2016,20:00,Toulouse,1-2,?,Guingamp
+23,Sat Jan 30 2016,20:00,Troyes,0-1,?,Nantes
+23,Sat Jan 30 2016,20:00,Gazélec Ajaccio,0-4,?,Montpellier
+23,Sun Jan 31 2016,14:00,Caen,2-0,?,Nice
+23,Sun Jan 31 2016,17:00,Bordeaux,4-0,?,Rennes
+23,Sun Jan 31 2016,21:00,Saint-Étienne,0-2,?,Paris S-G
+24,Tue Feb 2 2016,19:00,Monaco,2-0,?,Bastia
+24,Tue Feb 2 2016,21:00,Montpellier,0-1,?,Marseille
+24,Wed Feb 3 2016,19:00,Nice,1-0,?,Toulouse
+24,Wed Feb 3 2016,19:00,Reims,2-1,?,Angers
+24,Wed Feb 3 2016,19:00,Lille,1-0,?,Caen
+24,Wed Feb 3 2016,19:00,Guingamp,4-0,?,Troyes
+24,Wed Feb 3 2016,19:00,Lyon,3-0,?,Bordeaux
+24,Wed Feb 3 2016,19:00,Nantes,3-1,?,Gazélec Ajaccio
+24,Wed Feb 3 2016,21:00,Paris S-G,3-1,?,Lorient
+24,Thu Feb 4 2016,21:00,Rennes,0-1,?,Saint-Étienne
+25,Sat Feb 6 2016,14:00,Monaco,1-0,?,Nice
+25,Sat Feb 6 2016,17:00,Angers,0-3,?,Lyon
+25,Sat Feb 6 2016,20:00,Lorient,1-1,?,Montpellier
+25,Sat Feb 6 2016,20:00,Toulouse,0-0,?,Nantes
+25,Sat Feb 6 2016,20:00,Gazélec Ajaccio,0-0,?,Guingamp
+25,Sat Feb 6 2016,20:00,Caen,0-2,?,Reims
+25,Sat Feb 6 2016,20:00,Bastia,2-0,?,Troyes
+25,Sun Feb 7 2016,14:00,Lille,1-1,?,Rennes
+25,Sun Feb 7 2016,17:00,Bordeaux,1-4,?,Saint-Étienne
+25,Sun Feb 7 2016,21:00,Marseille,1-2,?,Paris S-G
+26,Fri Feb 12 2016,20:30,Rennes,1-0,?,Angers
+26,Sat Feb 13 2016,17:00,Paris S-G,0-0,?,Lille
+26,Sat Feb 13 2016,20:00,Montpellier,2-0,?,Toulouse
+26,Sat Feb 13 2016,20:00,Reims,0-1,?,Bastia
+26,Sat Feb 13 2016,20:00,Guingamp,2-4,?,Bordeaux
+26,Sat Feb 13 2016,20:00,Gazélec Ajaccio,2-3,?,Troyes
+26,Sat Feb 13 2016,20:00,Nantes,2-1,?,Lorient
+26,Sun Feb 14 2016,14:00,Lyon,4-1,?,Caen
+26,Sun Feb 14 2016,17:00,Saint-Étienne,1-1,?,Monaco
+26,Sun Feb 14 2016,21:00,Nice,1-1,?,Marseille
+27,Fri Feb 19 2016,20:30,Bordeaux,0-0,?,Nice
+27,Sat Feb 20 2016,17:00,Paris S-G,4-1,?,Reims
+27,Sat Feb 20 2016,20:00,Toulouse,1-1,?,Gazélec Ajaccio
+27,Sat Feb 20 2016,20:00,Lorient,4-3,?,Guingamp
+27,Sat Feb 20 2016,20:00,Monaco,3-1,?,Troyes
+27,Sat Feb 20 2016,20:00,Angers,2-3,?,Montpellier
+27,Sun Feb 21 2016,14:00,Marseille,1-1,?,Saint-Étienne
+27,Sun Feb 21 2016,17:00,Caen,1-0,?,Rennes
+27,Sun Feb 21 2016,21:00,Lille,1-0,?,Lyon
+28,Fri Feb 26 2016,20:30,Nice,0-2,?,Bastia
+28,Sat Feb 27 2016,17:00,Montpellier,3-0,?,Lille
+28,Sat Feb 27 2016,20:00,Reims,4-1,?,Bordeaux
+28,Sat Feb 27 2016,20:00,Troyes,0-1,?,Lorient
+28,Sat Feb 27 2016,20:00,Toulouse,1-2,?,Rennes
+28,Sat Feb 27 2016,20:00,Guingamp,2-2,?,Angers
+28,Sun Feb 28 2016,14:00,Nantes,0-0,?,Monaco
+28,Sun Feb 28 2016,17:00,Saint-Étienne,1-2,?,Caen
+28,Sun Feb 28 2016,21:00,Lyon,2-1,?,Paris S-G
+29,Fri Mar 4 2016,20:30,Caen,2-2,?,Monaco
+29,Sat Mar 5 2016,17:00,Paris S-G,0-0,?,Montpellier
+29,Sat Mar 5 2016,20:00,Bastia,0-0,?,Lorient
+29,Sat Mar 5 2016,20:00,Lille,2-0,?,Reims
+29,Sat Mar 5 2016,20:00,Bordeaux,1-1,?,Gazélec Ajaccio
+29,Sat Mar 5 2016,20:00,Nice,2-1,?,Troyes
+29,Sat Mar 5 2016,20:00,Angers,0-0,?,Saint-Étienne
+29,Sun Mar 6 2016,14:00,Marseille,1-1,?,Toulouse
+29,Sun Mar 6 2016,17:00,Rennes,4-1,?,Nantes
+29,Sun Mar 6 2016,21:00,Lyon,5-1,?,Guingamp
+27,Wed Mar 9 2016,18:30,Bastia,0-0,?,Nantes
+28,Wed Mar 9 2016,18:30,Gazélec Ajaccio,1-1,?,Marseille
+30,Fri Mar 11 2016,20:30,Monaco,2-2,?,Reims
+30,Sat Mar 12 2016,17:00,Lorient,1-1,?,Marseille
+30,Sat Mar 12 2016,20:00,Gazélec Ajaccio,1-0,?,Caen
+30,Sat Mar 12 2016,20:00,Guingamp,2-0,?,Saint-Étienne
+30,Sat Mar 12 2016,20:00,Toulouse,4-0,?,Bordeaux
+30,Sat Mar 12 2016,20:00,Bastia,1-2,?,Lille
+30,Sat Mar 12 2016,20:00,Montpellier,0-2,?,Nice
+30,Sun Mar 13 2016,14:00,Troyes,0-9,?,Paris S-G
+30,Sun Mar 13 2016,17:00,Nantes,2-0,?,Angers
+30,Sun Mar 13 2016,21:00,Rennes,2-2,?,Lyon
+31,Fri Mar 18 2016,20:30,Marseille,2-5,?,Rennes
+31,Sat Mar 19 2016,17:00,Saint-Étienne,3-0,?,Montpellier
+31,Sat Mar 19 2016,20:00,Lille,1-0,?,Toulouse
+31,Sat Mar 19 2016,20:00,Reims,0-1,?,Guingamp
+31,Sat Mar 19 2016,20:00,Angers,5-1,?,Lorient
+31,Sat Mar 19 2016,20:00,Caen,2-1,?,Troyes
+31,Sat Mar 19 2016,21:00,Lyon,2-0,?,Nantes
+31,Sun Mar 20 2016,14:00,Bordeaux,1-1,?,Bastia
+31,Sun Mar 20 2016,17:00,Nice,3-0,?,Gazélec Ajaccio
+31,Sun Mar 20 2016,21:00,Paris S-G,0-2,?,Monaco
+32,Fri Apr 1 2016,20:30,Monaco,1-2,?,Bordeaux
+32,Sat Apr 2 2016,17:00,Paris S-G,4-1,?,Nice
+32,Sat Apr 2 2016,20:00,Rennes,3-1,?,Reims
+32,Sat Apr 2 2016,20:00,Troyes,0-1,?,Angers
+32,Sat Apr 2 2016,20:00,Guingamp,2-2,?,Montpellier
+32,Sat Apr 2 2016,20:00,Toulouse,2-0,?,Caen
+32,Sat Apr 2 2016,20:00,Gazélec Ajaccio,0-2,?,Saint-Étienne
+32,Sun Apr 3 2016,14:00,Nantes,0-3,?,Lille
+32,Sun Apr 3 2016,17:00,Bastia,2-1,?,Marseille
+32,Sun Apr 3 2016,21:00,Lorient,1-3,?,Lyon
+33,Fri Apr 8 2016,20:30,Montpellier,0-2,?,Lyon
+33,Sat Apr 9 2016,17:00,Guingamp,0-2,?,Paris S-G
+33,Sat Apr 9 2016,20:00,Saint-Étienne,1-0,?,Troyes
+33,Sat Apr 9 2016,20:00,Caen,1-2,?,Lorient
+33,Sat Apr 9 2016,20:00,Reims,2-1,?,Nantes
+33,Sat Apr 9 2016,20:00,Toulouse,4-0,?,Bastia
+33,Sat Apr 9 2016,20:00,Angers,0-0,?,Gazélec Ajaccio
+33,Sun Apr 10 2016,14:00,Lille,4-1,?,Monaco
+33,Sun Apr 10 2016,17:00,Nice,3-0,?,Rennes
+33,Sun Apr 10 2016,21:00,Marseille,0-0,?,Bordeaux
+34,Fri Apr 15 2016,20:30,Lyon,1-1,?,Nice
+34,Sat Apr 16 2016,17:00,Paris S-G,6-0,?,Caen
+34,Sat Apr 16 2016,20:00,Lorient,1-1,?,Toulouse
+34,Sat Apr 16 2016,20:00,Troyes,2-1,?,Reims
+34,Sat Apr 16 2016,20:00,Gazélec Ajaccio,2-4,?,Lille
+34,Sat Apr 16 2016,20:00,Bordeaux,1-3,?,Angers
+34,Sat Apr 16 2016,20:00,Bastia,0-1,?,Saint-Étienne
+34,Sun Apr 17 2016,14:00,Nantes,0-2,?,Montpellier
+34,Sun Apr 17 2016,17:00,Rennes,0-3,?,Guingamp
+34,Sun Apr 17 2016,21:00,Monaco,2-1,?,Marseille
+35,Fri Apr 22 2016,20:30,Nice,2-0,?,Reims
+35,Sat Apr 23 2016,17:30,Toulouse,2-3,?,Lyon
+35,Sun Apr 24 2016,14:00,Marseille,1-1,?,Nantes
+35,Sun Apr 24 2016,17:00,Montpellier,4-1,?,Troyes
+35,Sun Apr 24 2016,17:00,Saint-Étienne,2-0,?,Lorient
+35,Sun Apr 24 2016,17:00,Gazélec Ajaccio,3-2,?,Bastia
+35,Sun Apr 24 2016,17:00,Guingamp,1-1,?,Caen
+35,Sun Apr 24 2016,21:00,Rennes,1-1,?,Monaco
+35,Wed Apr 27 2016,18:30,Lille,0-0,?,Angers
+36,Fri Apr 29 2016,20:30,Paris S-G,4-0,?,Rennes
+36,Sat Apr 30 2016,14:00,Nantes,1-0,?,Nice
+36,Sat Apr 30 2016,17:00,Saint-Étienne,0-0,?,Toulouse
+36,Sat Apr 30 2016,19:00,Monaco,3-2,?,Guingamp
+36,Sat Apr 30 2016,19:00,Reims,2-3,?,Montpellier
+36,Sat Apr 30 2016,19:00,Caen,0-0,?,Bastia
+36,Sat Apr 30 2016,19:00,Lorient,0-1,?,Lille
+36,Sat Apr 30 2016,19:00,Troyes,2-4,?,Bordeaux
+36,Sat Apr 30 2016,21:00,Lyon,2-1,?,Gazélec Ajaccio
+36,Sun May 1 2016,17:00,Angers,0-1,?,Marseille
+37,Sat May 7 2016,21:00,Toulouse,1-0,?,Troyes
+37,Sat May 7 2016,21:00,Nantes,1-2,?,Caen
+37,Sat May 7 2016,21:00,Bordeaux,3-0,?,Lorient
+37,Sat May 7 2016,21:00,Montpellier,2-0,?,Rennes
+37,Sat May 7 2016,21:00,Lille,0-0,?,Guingamp
+37,Sat May 7 2016,21:00,Nice,2-0,?,Saint-Étienne
+37,Sat May 7 2016,21:00,Marseille,1-0,?,Reims
+37,Sat May 7 2016,21:00,Lyon,6-1,?,Monaco
+37,Sat May 7 2016,21:00,Gazélec Ajaccio,0-4,?,Paris S-G
+37,Sat May 7 2016,21:00,Bastia,1-0,?,Angers
+35,Wed May 11 2016,20:30,Bordeaux,1-1,?,Paris S-G
+38,Sat May 14 2016,21:00,Angers,2-3,?,Toulouse
+38,Sat May 14 2016,21:00,Caen,1-0,?,Bordeaux
+38,Sat May 14 2016,21:00,Paris S-G,4-0,?,Nantes
+38,Sat May 14 2016,21:00,Guingamp,2-3,?,Nice
+38,Sat May 14 2016,21:00,Reims,4-1,?,Lyon
+38,Sat May 14 2016,21:00,Saint-Étienne,0-1,?,Lille
+38,Sat May 14 2016,21:00,Lorient,1-0,?,Gazélec Ajaccio
+38,Sat May 14 2016,21:00,Monaco,2-0,?,Montpellier
+38,Sat May 14 2016,21:00,Rennes,1-2,?,Bastia
+38,Sat May 14 2016,21:00,Troyes,1-1,?,Marseille

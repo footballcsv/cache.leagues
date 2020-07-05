@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 17 2002,?,Leeds United,3-0,?,Manchester City
+1,Sat Aug 17 2002,?,Fulham,4-1,?,Bolton
+1,Sat Aug 17 2002,?,Southampton,0-0,?,Middlesbrough
+1,Sat Aug 17 2002,?,Everton,2-2,?,Tottenham
+1,Sat Aug 17 2002,?,Blackburn,0-0,?,Sunderland
+1,Sat Aug 17 2002,?,Charlton Ath,2-3,?,Chelsea
+1,Sat Aug 17 2002,?,Manchester Utd,1-0,?,West Brom
+1,Sun Aug 18 2002,?,Aston Villa,0-1,?,Liverpool
+1,Sun Aug 18 2002,?,Arsenal,2-0,?,Birmingham City
+1,Mon Aug 19 2002,?,Newcastle Utd,4-0,?,West Ham
+2,Fri Aug 23 2002,?,Chelsea,2-2,?,Manchester Utd
+2,Sat Aug 24 2002,?,Bolton,1-2,?,Charlton Ath
+2,Sat Aug 24 2002,?,Manchester City,1-0,?,Newcastle Utd
+2,Sat Aug 24 2002,?,West Ham,2-2,?,Arsenal
+2,Sat Aug 24 2002,?,West Brom,1-3,?,Leeds United
+2,Sat Aug 24 2002,?,Sunderland,0-1,?,Everton
+2,Sat Aug 24 2002,?,Birmingham City,0-1,?,Blackburn
+2,Sat Aug 24 2002,?,Middlesbrough,2-2,?,Fulham
+2,Sat Aug 24 2002,?,Liverpool,3-0,?,Southampton
+2,Sat Aug 24 2002,?,Tottenham,1-0,?,Aston Villa
+3,Tue Aug 27 2002,?,Charlton Ath,0-1,?,Tottenham
+3,Tue Aug 27 2002,?,Arsenal,5-2,?,West Brom
+3,Wed Aug 28 2002,?,Blackburn,2-2,?,Liverpool
+3,Wed Aug 28 2002,?,Southampton,1-1,?,Chelsea
+3,Wed Aug 28 2002,?,Aston Villa,1-0,?,Manchester City
+3,Wed Aug 28 2002,?,Everton,1-1,?,Birmingham City
+3,Wed Aug 28 2002,?,Leeds United,0-1,?,Sunderland
+4,Sat Aug 31 2002,?,Sunderland,1-1,?,Manchester Utd
+4,Sat Aug 31 2002,?,Middlesbrough,1-0,?,Blackburn
+4,Sat Aug 31 2002,?,West Brom,1-0,?,Fulham
+4,Sat Aug 31 2002,?,Manchester City,3-1,?,Everton
+4,Sat Aug 31 2002,?,Tottenham,2-1,?,Southampton
+4,Sat Aug 31 2002,?,West Ham,0-2,?,Charlton Ath
+4,Sat Aug 31 2002,?,Birmingham City,2-1,?,Leeds United
+4,Sun Sep 1 2002,?,Chelsea,1-1,?,Arsenal
+4,Sun Sep 1 2002,?,Bolton,1-0,?,Aston Villa
+4,Mon Sep 2 2002,?,Liverpool,2-2,?,Newcastle Utd
+3,Tue Sep 3 2002,?,Manchester Utd,1-0,?,Middlesbrough
+5,Tue Sep 10 2002,?,Middlesbrough,3-0,?,Sunderland
+5,Tue Sep 10 2002,?,Arsenal,2-1,?,Manchester City
+5,Wed Sep 11 2002,?,West Ham,0-1,?,West Brom
+5,Wed Sep 11 2002,?,Newcastle Utd,0-2,?,Leeds United
+5,Wed Sep 11 2002,?,Aston Villa,2-0,?,Charlton Ath
+5,Wed Sep 11 2002,?,Manchester Utd,0-1,?,Bolton
+5,Wed Sep 11 2002,?,Fulham,3-2,?,Tottenham
+5,Wed Sep 11 2002,?,Southampton,1-0,?,Everton
+5,Wed Sep 11 2002,?,Blackburn,2-3,?,Chelsea
+5,Wed Sep 11 2002,?,Liverpool,2-2,?,Birmingham City
+6,Sat Sep 14 2002,?,Leeds United,1-0,?,Manchester Utd
+6,Sat Sep 14 2002,?,West Brom,1-0,?,Southampton
+6,Sat Sep 14 2002,?,Bolton,2-3,?,Liverpool
+6,Sat Sep 14 2002,?,Chelsea,3-0,?,Newcastle Utd
+6,Sat Sep 14 2002,?,Charlton Ath,0-3,?,Arsenal
+6,Sat Sep 14 2002,?,Sunderland,0-3,?,Fulham
+6,Sat Sep 14 2002,?,Everton,2-1,?,Middlesbrough
+6,Sun Sep 15 2002,?,Manchester City,2-2,?,Blackburn
+6,Sun Sep 15 2002,?,Tottenham,3-2,?,West Ham
+6,Mon Sep 16 2002,?,Birmingham City,3-0,?,Aston Villa
+7,Sat Sep 21 2002,?,Southampton,0-0,?,Charlton Ath
+7,Sat Sep 21 2002,?,Liverpool,2-0,?,West Brom
+7,Sat Sep 21 2002,?,West Ham,0-0,?,Manchester City
+7,Sat Sep 21 2002,?,Middlesbrough,1-0,?,Birmingham City
+7,Sat Sep 21 2002,?,Newcastle Utd,2-0,?,Sunderland
+7,Sat Sep 21 2002,?,Manchester Utd,1-0,?,Tottenham
+7,Sat Sep 21 2002,?,Arsenal,2-1,?,Bolton
+7,Sun Sep 22 2002,?,Blackburn,1-0,?,Leeds United
+7,Sun Sep 22 2002,?,Aston Villa,3-2,?,Everton
+7,Mon Sep 23 2002,?,Fulham,0-0,?,Chelsea
+8,Sat Sep 28 2002,?,Manchester City,0-3,?,Liverpool
+8,Sat Sep 28 2002,?,Chelsea,2-3,?,West Ham
+8,Sat Sep 28 2002,?,Everton,2-0,?,Fulham
+8,Sat Sep 28 2002,?,Bolton,1-1,?,Southampton
+8,Sat Sep 28 2002,?,Birmingham City,0-2,?,Newcastle Utd
+8,Sat Sep 28 2002,?,Sunderland,1-0,?,Aston Villa
+8,Sat Sep 28 2002,?,Tottenham,0-3,?,Middlesbrough
+8,Sat Sep 28 2002,?,Leeds United,1-4,?,Arsenal
+8,Sat Sep 28 2002,?,Charlton Ath,1-3,?,Manchester Utd
+8,Mon Sep 30 2002,?,West Brom,0-2,?,Blackburn
+9,Sat Oct 5 2002,?,Middlesbrough,2-0,?,Bolton
+9,Sat Oct 5 2002,?,Newcastle Utd,2-1,?,West Brom
+9,Sat Oct 5 2002,?,Southampton,2-0,?,Manchester City
+9,Sat Oct 5 2002,?,West Ham,1-2,?,Birmingham City
+9,Sun Oct 6 2002,?,Aston Villa,0-0,?,Leeds United
+9,Sun Oct 6 2002,?,Liverpool,1-0,?,Chelsea
+9,Sun Oct 6 2002,?,Blackburn,1-2,?,Tottenham
+9,Sun Oct 6 2002,?,Fulham,1-0,?,Charlton Ath
+9,Sun Oct 6 2002,?,Arsenal,3-1,?,Sunderland
+9,Mon Oct 7 2002,?,Manchester Utd,3-0,?,Everton
+10,Sat Oct 19 2002,?,Everton,2-1,?,Arsenal
+10,Sat Oct 19 2002,?,Fulham,1-1,?,Manchester Utd
+10,Sat Oct 19 2002,?,West Brom,1-1,?,Birmingham City
+10,Sat Oct 19 2002,?,Sunderland,0-1,?,West Ham
+10,Sat Oct 19 2002,?,Leeds United,0-1,?,Liverpool
+10,Sat Oct 19 2002,?,Manchester City,0-3,?,Chelsea
+10,Sat Oct 19 2002,?,Blackburn,5-2,?,Newcastle Utd
+10,Sun Oct 20 2002,?,Charlton Ath,1-0,?,Middlesbrough
+10,Sun Oct 20 2002,?,Tottenham,3-1,?,Bolton
+10,Mon Oct 21 2002,?,Aston Villa,0-1,?,Southampton
+3,Wed Oct 23 2002,?,Fulham,0-1,?,West Ham
+11,Sat Oct 26 2002,?,Middlesbrough,2-2,?,Leeds United
+11,Sat Oct 26 2002,?,Birmingham City,0-2,?,Manchester City
+11,Sat Oct 26 2002,?,Liverpool,2-1,?,Tottenham
+11,Sat Oct 26 2002,?,Manchester Utd,1-1,?,Aston Villa
+11,Sat Oct 26 2002,?,Chelsea,2-0,?,West Brom
+11,Sat Oct 26 2002,?,Newcastle Utd,2-1,?,Charlton Ath
+11,Sat Oct 26 2002,?,Arsenal,1-2,?,Blackburn
+11,Sun Oct 27 2002,?,Southampton,4-2,?,Fulham
+11,Sun Oct 27 2002,?,West Ham,0-1,?,Everton
+11,Mon Oct 28 2002,?,Bolton,1-1,?,Sunderland
+12,Sat Nov 2 2002,?,Manchester Utd,2-1,?,Southampton
+12,Sat Nov 2 2002,?,Birmingham City,3-1,?,Bolton
+12,Sat Nov 2 2002,?,Liverpool,2-0,?,West Ham
+12,Sat Nov 2 2002,?,West Brom,1-2,?,Manchester City
+12,Sun Nov 3 2002,?,Charlton Ath,1-1,?,Sunderland
+12,Sun Nov 3 2002,?,Tottenham,0-0,?,Chelsea
+12,Sun Nov 3 2002,?,Leeds United,0-1,?,Everton
+12,Sun Nov 3 2002,?,Fulham,0-1,?,Arsenal
+12,Sun Nov 3 2002,?,Blackburn,0-0,?,Aston Villa
+12,Mon Nov 4 2002,?,Newcastle Utd,2-0,?,Middlesbrough
+13,Sat Nov 9 2002,?,Chelsea,3-0,?,Birmingham City
+13,Sat Nov 9 2002,?,Southampton,1-1,?,Blackburn
+13,Sat Nov 9 2002,?,Middlesbrough,1-0,?,Liverpool
+13,Sat Nov 9 2002,?,Bolton,1-1,?,West Brom
+13,Sat Nov 9 2002,?,Arsenal,1-0,?,Newcastle Utd
+13,Sat Nov 9 2002,?,Everton,1-0,?,Charlton Ath
+13,Sat Nov 9 2002,?,Manchester City,3-1,?,Manchester Utd
+13,Sat Nov 9 2002,?,Aston Villa,3-1,?,Fulham
+13,Sun Nov 10 2002,?,Sunderland,2-0,?,Tottenham
+13,Sun Nov 10 2002,?,West Ham,3-4,?,Leeds United
+14,Sat Nov 16 2002,?,Manchester City,0-1,?,Charlton Ath
+14,Sat Nov 16 2002,?,West Brom,0-0,?,Aston Villa
+14,Sat Nov 16 2002,?,Newcastle Utd,2-1,?,Southampton
+14,Sat Nov 16 2002,?,Arsenal,3-0,?,Tottenham
+14,Sat Nov 16 2002,?,Chelsea,1-0,?,Middlesbrough
+14,Sun Nov 17 2002,?,Blackburn,0-1,?,Everton
+14,Sun Nov 17 2002,?,Liverpool,0-0,?,Sunderland
+14,Sun Nov 17 2002,?,Leeds United,2-4,?,Bolton
+14,Sun Nov 17 2002,?,West Ham,1-1,?,Manchester Utd
+14,Sun Nov 17 2002,?,Birmingham City,0-0,?,Fulham
+15,Sat Nov 23 2002,?,Middlesbrough,3-1,?,Manchester City
+15,Sat Nov 23 2002,?,Sunderland,0-1,?,Birmingham City
+15,Sat Nov 23 2002,?,Manchester Utd,5-3,?,Newcastle Utd
+15,Sat Nov 23 2002,?,Bolton,1-1,?,Chelsea
+15,Sat Nov 23 2002,?,Aston Villa,4-1,?,West Ham
+15,Sat Nov 23 2002,?,Everton,1-0,?,West Brom
+15,Sat Nov 23 2002,?,Southampton,3-2,?,Arsenal
+15,Sat Nov 23 2002,?,Fulham,3-2,?,Liverpool
+15,Sun Nov 24 2002,?,Charlton Ath,3-1,?,Blackburn
+15,Sun Nov 24 2002,?,Tottenham,2-0,?,Leeds United
+16,Sat Nov 30 2002,?,Blackburn,2-1,?,Fulham
+16,Sat Nov 30 2002,?,Manchester City,2-0,?,Bolton
+16,Sat Nov 30 2002,?,West Brom,1-0,?,Middlesbrough
+16,Sat Nov 30 2002,?,Birmingham City,1-1,?,Tottenham
+16,Sat Nov 30 2002,?,Chelsea,3-0,?,Sunderland
+16,Sat Nov 30 2002,?,Arsenal,3-1,?,Aston Villa
+16,Sun Dec 1 2002,?,Newcastle Utd,2-1,?,Everton
+16,Sun Dec 1 2002,?,Liverpool,1-2,?,Manchester Utd
+16,Sun Dec 1 2002,?,Leeds United,1-2,?,Charlton Ath
+16,Mon Dec 2 2002,?,West Ham,0-1,?,Southampton
+17,Sat Dec 7 2002,?,Fulham,1-0,?,Leeds United
+17,Sat Dec 7 2002,?,Everton,1-3,?,Chelsea
+17,Sat Dec 7 2002,?,Manchester Utd,2-0,?,Arsenal
+17,Sat Dec 7 2002,?,Aston Villa,0-1,?,Newcastle Utd
+17,Sat Dec 7 2002,?,Middlesbrough,2-2,?,West Ham
+17,Sat Dec 7 2002,?,Charlton Ath,2-0,?,Liverpool
+17,Sat Dec 7 2002,?,Bolton,1-1,?,Blackburn
+17,Sat Dec 7 2002,?,Southampton,2-0,?,Birmingham City
+17,Sun Dec 8 2002,?,Tottenham,3-1,?,West Brom
+17,Mon Dec 9 2002,?,Sunderland,0-3,?,Manchester City
+18,Sat Dec 14 2002,?,Middlesbrough,1-1,?,Chelsea
+18,Sat Dec 14 2002,?,Manchester Utd,3-0,?,West Ham
+18,Sat Dec 14 2002,?,Southampton,1-1,?,Newcastle Utd
+18,Sat Dec 14 2002,?,Everton,2-1,?,Blackburn
+18,Sat Dec 14 2002,?,Charlton Ath,2-2,?,Manchester City
+18,Sat Dec 14 2002,?,Aston Villa,2-1,?,West Brom
+18,Sun Dec 15 2002,?,Sunderland,2-1,?,Liverpool
+18,Sun Dec 15 2002,?,Fulham,0-1,?,Birmingham City
+18,Sun Dec 15 2002,?,Tottenham,1-1,?,Arsenal
+18,Mon Dec 16 2002,?,Bolton,0-3,?,Leeds United
+19,Sat Dec 21 2002,?,Birmingham City,1-1,?,Charlton Ath
+19,Sat Dec 21 2002,?,Leeds United,1-1,?,Southampton
+19,Sat Dec 21 2002,?,Newcastle Utd,2-0,?,Fulham
+19,Sat Dec 21 2002,?,West Ham,1-1,?,Bolton
+19,Sat Dec 21 2002,?,West Brom,2-2,?,Sunderland
+19,Sat Dec 21 2002,?,Chelsea,2-0,?,Aston Villa
+19,Sat Dec 21 2002,?,Arsenal,2-0,?,Middlesbrough
+19,Sun Dec 22 2002,?,Liverpool,0-0,?,Everton
+19,Sun Dec 22 2002,?,Blackburn,1-0,?,Manchester Utd
+19,Mon Dec 23 2002,?,Manchester City,2-3,?,Tottenham
+20,Thu Dec 26 2002,?,Chelsea,0-0,?,Southampton
+20,Thu Dec 26 2002,?,Bolton,4-3,?,Newcastle Utd
+20,Thu Dec 26 2002,?,Sunderland,1-2,?,Leeds United
+20,Thu Dec 26 2002,?,West Brom,1-2,?,Arsenal
+20,Thu Dec 26 2002,?,Tottenham,2-2,?,Charlton Ath
+20,Thu Dec 26 2002,?,West Ham,1-1,?,Fulham
+20,Thu Dec 26 2002,?,Manchester City,3-1,?,Aston Villa
+20,Thu Dec 26 2002,?,Birmingham City,1-1,?,Everton
+20,Thu Dec 26 2002,?,Middlesbrough,3-1,?,Manchester Utd
+20,Thu Dec 26 2002,?,Liverpool,1-1,?,Blackburn
+21,Sat Dec 28 2002,?,Charlton Ath,1-0,?,West Brom
+21,Sat Dec 28 2002,?,Everton,0-0,?,Bolton
+21,Sat Dec 28 2002,?,Manchester Utd,2-0,?,Birmingham City
+21,Sat Dec 28 2002,?,Southampton,2-1,?,Sunderland
+21,Sat Dec 28 2002,?,Leeds United,2-0,?,Chelsea
+21,Sat Dec 28 2002,?,Aston Villa,1-0,?,Middlesbrough
+21,Sat Dec 28 2002,?,Blackburn,2-2,?,West Ham
+21,Sat Dec 28 2002,?,Fulham,0-1,?,Manchester City
+21,Sun Dec 29 2002,?,Newcastle Utd,2-1,?,Tottenham
+21,Sun Dec 29 2002,?,Arsenal,1-1,?,Liverpool
+22,Wed Jan 1 2003,?,Aston Villa,2-0,?,Bolton
+22,Wed Jan 1 2003,?,Blackburn,1-0,?,Middlesbrough
+22,Wed Jan 1 2003,?,Manchester Utd,2-1,?,Sunderland
+22,Wed Jan 1 2003,?,Leeds United,2-0,?,Birmingham City
+22,Wed Jan 1 2003,?,Everton,2-2,?,Manchester City
+22,Wed Jan 1 2003,?,Newcastle Utd,1-0,?,Liverpool
+22,Wed Jan 1 2003,?,Southampton,1-0,?,Tottenham
+22,Wed Jan 1 2003,?,Arsenal,3-2,?,Chelsea
+23,Sat Jan 11 2003,?,Manchester City,2-1,?,Leeds United
+23,Sat Jan 11 2003,?,Middlesbrough,2-2,?,Southampton
+23,Sat Jan 11 2003,?,Chelsea,4-1,?,Charlton Ath
+23,Sat Jan 11 2003,?,West Brom,1-3,?,Manchester Utd
+23,Sat Jan 11 2003,?,Sunderland,0-0,?,Blackburn
+23,Sat Jan 11 2003,?,Liverpool,1-1,?,Aston Villa
+23,Sat Jan 11 2003,?,Bolton,0-0,?,Fulham
+23,Sat Jan 11 2003,?,West Ham,2-2,?,Newcastle Utd
+23,Sun Jan 12 2003,?,Tottenham,4-3,?,Everton
+23,Sun Jan 12 2003,?,Birmingham City,0-4,?,Arsenal
+24,Sat Jan 18 2003,?,Aston Villa,0-1,?,Tottenham
+24,Sat Jan 18 2003,?,Everton,2-1,?,Sunderland
+24,Sat Jan 18 2003,?,Leeds United,0-0,?,West Brom
+24,Sat Jan 18 2003,?,Charlton Ath,1-1,?,Bolton
+24,Sat Jan 18 2003,?,Blackburn,1-1,?,Birmingham City
+24,Sat Jan 18 2003,?,Newcastle Utd,2-0,?,Manchester City
+24,Sat Jan 18 2003,?,Southampton,0-1,?,Liverpool
+24,Sat Jan 18 2003,?,Manchester Utd,2-1,?,Chelsea
+24,Sun Jan 19 2003,?,Arsenal,3-1,?,West Ham
+24,Sun Jan 19 2003,?,Fulham,1-0,?,Middlesbrough
+3,Wed Jan 22 2003,?,Newcastle Utd,1-0,?,Bolton
+22,Wed Jan 22 2003,?,Charlton Ath,4-2,?,West Ham
+25,Tue Jan 28 2003,?,Middlesbrough,2-5,?,Aston Villa
+25,Tue Jan 28 2003,?,Chelsea,3-2,?,Leeds United
+25,Tue Jan 28 2003,?,Bolton,1-2,?,Everton
+25,Tue Jan 28 2003,?,Sunderland,0-1,?,Southampton
+25,Wed Jan 29 2003,?,Liverpool,2-2,?,Arsenal
+25,Wed Jan 29 2003,?,Tottenham,0-1,?,Newcastle Utd
+25,Wed Jan 29 2003,?,Manchester City,4-1,?,Fulham
+25,Wed Jan 29 2003,?,West Ham,2-1,?,Blackburn
+25,Wed Jan 29 2003,?,West Brom,0-1,?,Charlton Ath
+26,Sat Feb 1 2003,?,Sunderland,1-3,?,Charlton Ath
+26,Sat Feb 1 2003,?,Arsenal,2-1,?,Fulham
+26,Sat Feb 1 2003,?,Chelsea,1-1,?,Tottenham
+26,Sat Feb 1 2003,?,Bolton,4-2,?,Birmingham City
+26,Sat Feb 1 2003,?,Southampton,0-2,?,Manchester Utd
+26,Sat Feb 1 2003,?,Manchester City,1-2,?,West Brom
+26,Sat Feb 1 2003,?,Everton,2-0,?,Leeds United
+26,Sun Feb 2 2003,?,West Ham,0-3,?,Liverpool
+26,Sun Feb 2 2003,?,Aston Villa,3-0,?,Blackburn
+25,Tue Feb 4 2003,?,Birmingham City,0-1,?,Manchester Utd
+27,Sat Feb 8 2003,?,Tottenham,4-1,?,Sunderland
+27,Sat Feb 8 2003,?,West Brom,1-1,?,Bolton
+27,Sat Feb 8 2003,?,Leeds United,1-0,?,West Ham
+27,Sat Feb 8 2003,?,Liverpool,1-1,?,Middlesbrough
+27,Sat Feb 8 2003,?,Birmingham City,1-3,?,Chelsea
+27,Sat Feb 8 2003,?,Fulham,2-1,?,Aston Villa
+27,Sat Feb 8 2003,?,Blackburn,1-0,?,Southampton
+27,Sat Feb 8 2003,?,Charlton Ath,2-1,?,Everton
+27,Sun Feb 9 2003,?,Newcastle Utd,1-1,?,Arsenal
+27,Sun Feb 9 2003,?,Manchester Utd,1-1,?,Manchester City
+22,Wed Feb 19 2003,?,Fulham,3-0,?,West Brom
+28,Sat Feb 22 2003,?,Everton,2-1,?,Southampton
+28,Sat Feb 22 2003,?,Leeds United,0-3,?,Newcastle Utd
+28,Sat Feb 22 2003,?,Sunderland,1-3,?,Middlesbrough
+28,Sat Feb 22 2003,?,Charlton Ath,3-0,?,Aston Villa
+28,Sat Feb 22 2003,?,Manchester City,1-5,?,Arsenal
+28,Sat Feb 22 2003,?,Bolton,1-1,?,Manchester Utd
+28,Sat Feb 22 2003,?,Chelsea,1-2,?,Blackburn
+28,Sun Feb 23 2003,?,Birmingham City,2-1,?,Liverpool
+28,Sun Feb 23 2003,?,West Brom,1-2,?,West Ham
+28,Mon Feb 24 2003,?,Tottenham,1-1,?,Fulham
+29,Sat Mar 1 2003,?,Fulham,1-0,?,Sunderland
+29,Sat Mar 1 2003,?,Middlesbrough,1-1,?,Everton
+29,Sat Mar 1 2003,?,Blackburn,1-0,?,Manchester City
+29,Sat Mar 1 2003,?,West Ham,2-0,?,Tottenham
+29,Sat Mar 1 2003,?,Southampton,1-0,?,West Brom
+29,Sat Mar 1 2003,?,Newcastle Utd,2-1,?,Chelsea
+29,Sun Mar 2 2003,?,Arsenal,2-0,?,Charlton Ath
+29,Mon Mar 3 2003,?,Aston Villa,0-2,?,Birmingham City
+26,Wed Mar 5 2003,?,Middlesbrough,1-0,?,Newcastle Utd
+29,Wed Mar 5 2003,?,Manchester Utd,2-1,?,Leeds United
+29,Sat Mar 8 2003,?,Liverpool,2-0,?,Bolton
+30,Sat Mar 15 2003,?,Aston Villa,0-1,?,Manchester Utd
+30,Sat Mar 15 2003,?,Leeds United,2-3,?,Middlesbrough
+30,Sat Mar 15 2003,?,Fulham,2-2,?,Southampton
+30,Sat Mar 15 2003,?,Charlton Ath,0-2,?,Newcastle Utd
+30,Sat Mar 15 2003,?,Sunderland,0-2,?,Bolton
+30,Sat Mar 15 2003,?,Everton,0-0,?,West Ham
+30,Sat Mar 15 2003,?,Blackburn,2-0,?,Arsenal
+30,Sun Mar 16 2003,?,West Brom,0-2,?,Chelsea
+30,Sun Mar 16 2003,?,Tottenham,2-3,?,Liverpool
+30,Sun Mar 16 2003,?,Manchester City,1-0,?,Birmingham City
+31,Sat Mar 22 2003,?,Chelsea,5-0,?,Manchester City
+31,Sat Mar 22 2003,?,Newcastle Utd,5-1,?,Blackburn
+31,Sat Mar 22 2003,?,Manchester Utd,3-0,?,Fulham
+31,Sat Mar 22 2003,?,Southampton,2-2,?,Aston Villa
+31,Sat Mar 22 2003,?,Middlesbrough,1-1,?,Charlton Ath
+31,Sat Mar 22 2003,?,Birmingham City,1-0,?,West Brom
+31,Sat Mar 22 2003,?,West Ham,2-0,?,Sunderland
+31,Sun Mar 23 2003,?,Liverpool,3-1,?,Leeds United
+31,Sun Mar 23 2003,?,Arsenal,2-1,?,Everton
+31,Mon Mar 24 2003,?,Bolton,1-0,?,Tottenham
+32,Sat Apr 5 2003,?,Bolton,2-0,?,Manchester City
+32,Sat Apr 5 2003,?,Manchester Utd,4-0,?,Liverpool
+32,Sat Apr 5 2003,?,Sunderland,1-2,?,Chelsea
+32,Sat Apr 5 2003,?,Middlesbrough,3-0,?,West Brom
+32,Sat Apr 5 2003,?,Charlton Ath,1-6,?,Leeds United
+32,Sat Apr 5 2003,?,Tottenham,2-1,?,Birmingham City
+32,Sat Apr 5 2003,?,Aston Villa,1-1,?,Arsenal
+32,Sat Apr 5 2003,?,Southampton,1-1,?,West Ham
+32,Sun Apr 6 2003,?,Everton,2-1,?,Newcastle Utd
+32,Mon Apr 7 2003,?,Fulham,0-4,?,Blackburn
+33,Sat Apr 12 2003,?,Birmingham City,2-0,?,Sunderland
+33,Sat Apr 12 2003,?,Blackburn,1-0,?,Charlton Ath
+33,Sat Apr 12 2003,?,Leeds United,2-2,?,Tottenham
+33,Sat Apr 12 2003,?,Manchester City,0-0,?,Middlesbrough
+33,Sat Apr 12 2003,?,West Brom,1-2,?,Everton
+33,Sat Apr 12 2003,?,Liverpool,2-0,?,Fulham
+33,Sat Apr 12 2003,?,Newcastle Utd,2-6,?,Manchester Utd
+33,Sat Apr 12 2003,?,West Ham,2-2,?,Aston Villa
+33,Sat Apr 12 2003,?,Chelsea,1-0,?,Bolton
+35,Wed Apr 16 2003,?,Arsenal,2-2,?,Manchester Utd
+34,Fri Apr 18 2003,?,Tottenham,0-2,?,Manchester City
+34,Sat Apr 19 2003,?,Charlton Ath,0-2,?,Birmingham City
+34,Sat Apr 19 2003,?,Southampton,3-2,?,Leeds United
+34,Sat Apr 19 2003,?,Everton,1-2,?,Liverpool
+34,Sat Apr 19 2003,?,Manchester Utd,3-1,?,Blackburn
+34,Sat Apr 19 2003,?,Fulham,2-1,?,Newcastle Utd
+34,Sat Apr 19 2003,?,Middlesbrough,0-2,?,Arsenal
+34,Sat Apr 19 2003,?,Aston Villa,2-1,?,Chelsea
+34,Sat Apr 19 2003,?,Sunderland,1-2,?,West Brom
+34,Sat Apr 19 2003,?,Bolton,1-0,?,West Ham
+35,Mon Apr 21 2003,?,West Brom,2-3,?,Tottenham
+35,Mon Apr 21 2003,?,Chelsea,4-1,?,Everton
+35,Mon Apr 21 2003,?,Birmingham City,3-2,?,Southampton
+35,Mon Apr 21 2003,?,Blackburn,0-0,?,Bolton
+35,Mon Apr 21 2003,?,Manchester City,3-0,?,Sunderland
+35,Mon Apr 21 2003,?,Newcastle Utd,1-1,?,Aston Villa
+35,Mon Apr 21 2003,?,Liverpool,2-1,?,Charlton Ath
+35,Mon Apr 21 2003,?,West Ham,1-0,?,Middlesbrough
+35,Tue Apr 22 2003,?,Leeds United,2-0,?,Fulham
+36,Sat Apr 26 2003,?,Bolton,2-2,?,Arsenal
+36,Sat Apr 26 2003,?,Everton,2-1,?,Aston Villa
+36,Sat Apr 26 2003,?,West Brom,0-6,?,Liverpool
+36,Sat Apr 26 2003,?,Charlton Ath,2-1,?,Southampton
+36,Sat Apr 26 2003,?,Chelsea,1-1,?,Fulham
+36,Sat Apr 26 2003,?,Birmingham City,3-0,?,Middlesbrough
+36,Sat Apr 26 2003,?,Leeds United,2-3,?,Blackburn
+36,Sat Apr 26 2003,?,Sunderland,0-1,?,Newcastle Utd
+36,Sun Apr 27 2003,?,Tottenham,0-2,?,Manchester Utd
+36,Sun Apr 27 2003,?,Manchester City,0-1,?,West Ham
+37,Sat May 3 2003,?,Liverpool,1-2,?,Manchester City
+37,Sat May 3 2003,?,Middlesbrough,5-1,?,Tottenham
+37,Sat May 3 2003,?,Southampton,0-0,?,Bolton
+37,Sat May 3 2003,?,West Ham,1-0,?,Chelsea
+37,Sat May 3 2003,?,Newcastle Utd,1-0,?,Birmingham City
+37,Sat May 3 2003,?,Manchester Utd,4-1,?,Charlton Ath
+37,Sat May 3 2003,?,Fulham,2-0,?,Everton
+37,Sat May 3 2003,?,Aston Villa,1-0,?,Sunderland
+37,Sat May 3 2003,?,Blackburn,1-1,?,West Brom
+37,Sun May 4 2003,?,Arsenal,2-3,?,Leeds United
+33,Wed May 7 2003,?,Arsenal,6-1,?,Southampton
+38,Sun May 11 2003,?,Birmingham City,2-2,?,West Ham
+38,Sun May 11 2003,?,Everton,1-2,?,Manchester Utd
+38,Sun May 11 2003,?,Bolton,2-1,?,Middlesbrough
+38,Sun May 11 2003,?,Sunderland,0-4,?,Arsenal
+38,Sun May 11 2003,?,Tottenham,0-4,?,Blackburn
+38,Sun May 11 2003,?,Charlton Ath,0-1,?,Fulham
+38,Sun May 11 2003,?,Manchester City,0-1,?,Southampton
+38,Sun May 11 2003,?,West Brom,2-2,?,Newcastle Utd
+38,Sun May 11 2003,?,Leeds United,3-1,?,Aston Villa
+38,Sun May 11 2003,?,Chelsea,2-1,?,Liverpool

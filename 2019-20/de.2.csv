@@ -1,0 +1,307 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Jul 26 2019,20:30,Stuttgart,2-1,?,Hannover 96
+1,Sat Jul 27 2019,13:00,Dynamo Dres,0-1,?,Nürnberg
+1,Sat Jul 27 2019,15:30,Holstein Kiel,1-1,?,Sandhausen
+1,Sat Jul 27 2019,15:30,Osnabrück,1-3,?,Heidenheim
+1,Sun Jul 28 2019,13:30,Hamburger SV,1-1,?,Darmstadt 98
+1,Sun Jul 28 2019,15:30,Jahn R'burg,3-1,?,Bochum
+1,Sun Jul 28 2019,15:30,Wehen,1-2,?,Karlsruher
+1,Sun Jul 28 2019,15:30,Greuther Fürth,0-2,?,Erzgebirge Aue
+1,Mon Jul 29 2019,20:30,Arminia,1-1,?,St. Pauli
+2,Fri Aug 2 2019,18:30,Bochum,3-3,?,Arminia
+2,Fri Aug 2 2019,18:30,Sandhausen,0-1,?,Osnabrück
+2,Fri Aug 2 2019,20:30,St. Pauli,1-3,?,Greuther Fürth
+2,Sat Aug 3 2019,13:00,Karlsruher,4-2,?,Dynamo Dres
+2,Sat Aug 3 2019,15:30,Hannover 96,1-1,?,Jahn R'burg
+2,Sun Aug 4 2019,13:30,Heidenheim,2-2,?,Stuttgart
+2,Sun Aug 4 2019,15:30,Erzgebirge Aue,3-2,?,Wehen
+2,Sun Aug 4 2019,15:30,Darmstadt 98,2-0,?,Holstein Kiel
+2,Mon Aug 5 2019,20:30,Nürnberg,0-4,?,Hamburger SV
+3,Fri Aug 16 2019,18:30,Sandhausen,3-2,?,Nürnberg
+3,Fri Aug 16 2019,18:30,Hamburger SV,1-0,?,Bochum
+3,Sat Aug 17 2019,13:00,Arminia,3-1,?,Erzgebirge Aue
+3,Sat Aug 17 2019,13:00,Wehen,0-3,?,Hannover 96
+3,Sat Aug 17 2019,13:00,Stuttgart,2-1,?,St. Pauli
+3,Sun Aug 18 2019,13:30,Greuther Fürth,1-0,?,Jahn R'burg
+3,Sun Aug 18 2019,13:30,Dynamo Dres,2-1,?,Heidenheim
+3,Sun Aug 18 2019,13:30,Holstein Kiel,2-1,?,Karlsruher
+3,Mon Aug 19 2019,20:30,Osnabrück,4-0,?,Darmstadt 98
+4,Fri Aug 23 2019,18:30,Erzgebirge Aue,0-0,?,Stuttgart
+4,Fri Aug 23 2019,18:30,Darmstadt 98,0-0,?,Dynamo Dres
+4,Sat Aug 24 2019,13:00,Jahn R'burg,1-3,?,Arminia
+4,Sat Aug 24 2019,13:00,Bochum,3-3,?,Wehen
+4,Sat Aug 24 2019,13:00,Hannover 96,1-1,?,Greuther Fürth
+4,Sun Aug 25 2019,13:30,Heidenheim,0-2,?,Sandhausen
+4,Sun Aug 25 2019,13:30,Nürnberg,1-0,?,Osnabrück
+4,Sun Aug 25 2019,13:30,Karlsruher,2-4,?,Hamburger SV
+4,Mon Aug 26 2019,20:30,St. Pauli,2-1,?,Holstein Kiel
+5,Fri Aug 30 2019,18:30,Sandhausen,1-0,?,Darmstadt 98
+5,Fri Aug 30 2019,18:30,Nürnberg,2-2,?,Heidenheim
+5,Sat Aug 31 2019,13:00,Arminia,2-2,?,Greuther Fürth
+5,Sat Aug 31 2019,13:00,Dynamo Dres,3-3,?,St. Pauli
+5,Sat Aug 31 2019,13:00,Wehen,0-5,?,Jahn R'burg
+5,Sun Sep 1 2019,13:30,Holstein Kiel,1-1,?,Erzgebirge Aue
+5,Sun Sep 1 2019,13:30,Hamburger SV,3-0,?,Hannover 96
+5,Sun Sep 1 2019,13:30,Osnabrück,3-0,?,Karlsruher
+5,Mon Sep 2 2019,20:30,Stuttgart,2-1,?,Bochum
+6,Fri Sep 13 2019,18:30,Karlsruher,1-0,?,Sandhausen
+6,Fri Sep 13 2019,18:30,Greuther Fürth,2-1,?,Wehen
+6,Sat Sep 14 2019,13:00,Jahn R'burg,2-3,?,Stuttgart
+6,Sat Sep 14 2019,13:00,Hannover 96,0-2,?,Arminia
+6,Sat Sep 14 2019,13:00,Heidenheim,3-0,?,Holstein Kiel
+6,Sun Sep 15 2019,13:30,Darmstadt 98,3-3,?,Nürnberg
+6,Sun Sep 15 2019,13:30,Bochum,2-2,?,Dynamo Dres
+6,Sun Sep 15 2019,13:30,Erzgebirge Aue,1-0,?,Osnabrück
+6,Mon Sep 16 2019,20:30,St. Pauli,2-0,?,Hamburger SV
+7,Fri Sep 20 2019,18:30,Holstein Kiel,1-2,?,Hannover 96
+7,Fri Sep 20 2019,18:30,Heidenheim,1-0,?,Darmstadt 98
+7,Sat Sep 21 2019,13:00,Sandhausen,1-1,?,Bochum
+7,Sat Sep 21 2019,13:00,Wehen,2-5,?,Arminia
+7,Sat Sep 21 2019,13:00,Nürnberg,1-1,?,Karlsruher
+7,Sat Sep 21 2019,13:00,Stuttgart,2-0,?,Greuther Fürth
+7,Sun Sep 22 2019,13:30,Dynamo Dres,2-1,?,Jahn R'burg
+7,Sun Sep 22 2019,13:30,Hamburger SV,4-0,?,Erzgebirge Aue
+7,Sun Sep 22 2019,13:30,Osnabrück,1-1,?,St. Pauli
+8,Fri Sep 27 2019,18:30,Wehen,2-0,?,Osnabrück
+8,Fri Sep 27 2019,18:30,Arminia,0-1,?,Stuttgart
+8,Sat Sep 28 2019,13:00,Karlsruher,1-1,?,Heidenheim
+8,Sat Sep 28 2019,13:00,Bochum,2-2,?,Darmstadt 98
+8,Sat Sep 28 2019,13:00,Jahn R'burg,2-2,?,Hamburger SV
+8,Sun Sep 29 2019,13:30,Erzgebirge Aue,4-1,?,Dynamo Dres
+8,Sun Sep 29 2019,13:30,St. Pauli,2-0,?,Sandhausen
+8,Sun Sep 29 2019,13:30,Greuther Fürth,0-3,?,Holstein Kiel
+8,Mon Sep 30 2019,20:30,Hannover 96,0-4,?,Nürnberg
+9,Fri Oct 4 2019,18:30,Stuttgart,1-2,?,Wehen
+9,Fri Oct 4 2019,18:30,Darmstadt 98,1-1,?,Karlsruher
+9,Sat Oct 5 2019,13:00,Sandhausen,2-2,?,Erzgebirge Aue
+9,Sat Oct 5 2019,13:00,Dynamo Dres,0-2,?,Hannover 96
+9,Sat Oct 5 2019,13:00,Hamburger SV,2-0,?,Greuther Fürth
+9,Sun Oct 6 2019,13:30,Holstein Kiel,1-2,?,Jahn R'burg
+9,Sun Oct 6 2019,13:30,Heidenheim,2-3,?,Bochum
+9,Sun Oct 6 2019,13:30,Nürnberg,1-1,?,St. Pauli
+9,Mon Oct 7 2019,20:30,Osnabrück,0-1,?,Arminia
+10,Fri Oct 18 2019,18:30,Erzgebirge Aue,4-3,?,Nürnberg
+10,Fri Oct 18 2019,18:30,Greuther Fürth,2-0,?,Dynamo Dres
+10,Sat Oct 19 2019,13:00,Wehen,0-0,?,Heidenheim
+10,Sat Oct 19 2019,13:00,St. Pauli,0-1,?,Darmstadt 98
+10,Sat Oct 19 2019,13:00,Jahn R'burg,1-0,?,Sandhausen
+10,Sun Oct 20 2019,13:30,Stuttgart,0-1,?,Holstein Kiel
+10,Sun Oct 20 2019,13:30,Bochum,3-3,?,Karlsruher
+10,Sun Oct 20 2019,13:30,Hannover 96,0-0,?,Osnabrück
+10,Mon Oct 21 2019,20:30,Arminia,1-1,?,Hamburger SV
+11,Fri Oct 25 2019,18:30,Holstein Kiel,2-1,?,Bochum
+11,Fri Oct 25 2019,18:30,Darmstadt 98,1-0,?,Erzgebirge Aue
+11,Sat Oct 26 2019,13:00,Dynamo Dres,0-1,?,Arminia
+11,Sat Oct 26 2019,13:00,Karlsruher,3-3,?,Hannover 96
+11,Sat Oct 26 2019,13:00,Hamburger SV,6-2,?,Stuttgart
+11,Sun Oct 27 2019,13:30,Osnabrück,0-0,?,Greuther Fürth
+11,Sun Oct 27 2019,13:30,Nürnberg,1-1,?,Jahn R'burg
+11,Sun Oct 27 2019,13:30,Heidenheim,1-0,?,St. Pauli
+11,Mon Oct 28 2019,20:30,Sandhausen,0-0,?,Wehen
+12,Fri Nov 1 2019,18:30,Hannover 96,1-1,?,Sandhausen
+12,Fri Nov 1 2019,18:30,Jahn R'burg,3-3,?,Osnabrück
+12,Sat Nov 2 2019,13:00,Greuther Fürth,3-1,?,Darmstadt 98
+12,Sat Nov 2 2019,13:00,St. Pauli,2-2,?,Karlsruher
+12,Sat Nov 2 2019,13:00,Erzgebirge Aue,1-1,?,Heidenheim
+12,Sun Nov 3 2019,13:30,Wehen,1-1,?,Hamburger SV
+12,Sun Nov 3 2019,13:30,Arminia,2-1,?,Holstein Kiel
+12,Sun Nov 3 2019,13:30,Stuttgart,3-1,?,Dynamo Dres
+12,Mon Nov 4 2019,20:30,Bochum,3-1,?,Nürnberg
+13,Fri Nov 8 2019,18:30,Dynamo Dres,1-0,?,Wehen
+13,Fri Nov 8 2019,18:30,St. Pauli,1-1,?,Bochum
+13,Sat Nov 9 2019,13:00,Sandhausen,3-2,?,Greuther Fürth
+13,Sat Nov 9 2019,13:00,Holstein Kiel,1-1,?,Hamburger SV
+13,Sat Nov 9 2019,13:00,Osnabrück,1-0,?,Stuttgart
+13,Sun Nov 10 2019,13:30,Heidenheim,4-0,?,Hannover 96
+13,Sun Nov 10 2019,13:30,Nürnberg,1-5,?,Arminia
+13,Sun Nov 10 2019,13:30,Darmstadt 98,2-2,?,Jahn R'burg
+13,Mon Nov 11 2019,20:30,Karlsruher,1-1,?,Erzgebirge Aue
+14,Fri Nov 22 2019,18:30,Erzgebirge Aue,3-1,?,St. Pauli
+14,Fri Nov 22 2019,18:30,Bochum,1-1,?,Osnabrück
+14,Sat Nov 23 2019,13:00,Wehen,3-6,?,Holstein Kiel
+14,Sat Nov 23 2019,13:00,Hamburger SV,2-1,?,Dynamo Dres
+14,Sat Nov 23 2019,13:00,Arminia,1-1,?,Sandhausen
+14,Sun Nov 24 2019,13:30,Jahn R'burg,3-1,?,Heidenheim
+14,Sun Nov 24 2019,13:30,Greuther Fürth,0-0,?,Nürnberg
+14,Sun Nov 24 2019,13:30,Stuttgart,3-0,?,Karlsruher
+14,Mon Nov 25 2019,20:30,Hannover 96,1-2,?,Darmstadt 98
+15,Fri Nov 29 2019,18:30,Karlsruher,4-1,?,Jahn R'burg
+15,Fri Nov 29 2019,18:30,Osnabrück,2-1,?,Hamburger SV
+15,Sat Nov 30 2019,13:00,Nürnberg,0-2,?,Wehen
+15,Sat Nov 30 2019,13:00,St. Pauli,0-1,?,Hannover 96
+15,Sat Nov 30 2019,13:00,Bochum,2-0,?,Erzgebirge Aue
+15,Sat Nov 30 2019,13:00,Dynamo Dres,1-2,?,Holstein Kiel
+15,Sun Dec 1 2019,13:30,Darmstadt 98,1-3,?,Arminia
+15,Sun Dec 1 2019,13:30,Sandhausen,2-1,?,Stuttgart
+15,Sun Dec 1 2019,13:30,Heidenheim,1-0,?,Greuther Fürth
+16,Fri Dec 6 2019,18:30,Arminia,2-2,?,Karlsruher
+16,Fri Dec 6 2019,18:30,Hamburger SV,0-1,?,Heidenheim
+16,Sat Dec 7 2019,13:00,Greuther Fürth,3-1,?,Bochum
+16,Sat Dec 7 2019,13:00,Holstein Kiel,2-4,?,Osnabrück
+16,Sat Dec 7 2019,13:00,Hannover 96,3-2,?,Erzgebirge Aue
+16,Sun Dec 8 2019,13:30,Wehen,0-0,?,Darmstadt 98
+16,Sun Dec 8 2019,13:30,Dynamo Dres,1-1,?,Sandhausen
+16,Sun Dec 8 2019,13:30,Jahn R'burg,1-0,?,St. Pauli
+16,Mon Dec 9 2019,20:30,Stuttgart,3-1,?,Nürnberg
+17,Fri Dec 13 2019,18:30,Bochum,2-1,?,Hannover 96
+17,Fri Dec 13 2019,18:30,Erzgebirge Aue,1-0,?,Jahn R'burg
+17,Sat Dec 14 2019,13:00,Heidenheim,0-0,?,Arminia
+17,Sat Dec 14 2019,13:00,Karlsruher,1-5,?,Greuther Fürth
+17,Sat Dec 14 2019,13:00,St. Pauli,3-1,?,Wehen
+17,Sun Dec 15 2019,13:30,Nürnberg,2-2,?,Holstein Kiel
+17,Sun Dec 15 2019,13:30,Osnabrück,3-0,?,Dynamo Dres
+17,Sun Dec 15 2019,13:30,Sandhausen,1-1,?,Hamburger SV
+17,Mon Dec 16 2019,20:30,Darmstadt 98,1-1,?,Stuttgart
+18,Fri Dec 20 2019,18:30,Karlsruher,0-1,?,Wehen
+18,Fri Dec 20 2019,18:30,Nürnberg,2-0,?,Dynamo Dres
+18,Sat Dec 21 2019,13:00,Erzgebirge Aue,3-1,?,Greuther Fürth
+18,Sat Dec 21 2019,13:00,St. Pauli,3-0,?,Arminia
+18,Sat Dec 21 2019,13:00,Hannover 96,2-2,?,Stuttgart
+18,Sat Dec 21 2019,13:00,Darmstadt 98,2-2,?,Hamburger SV
+18,Sun Dec 22 2019,13:30,Bochum,2-3,?,Jahn R'burg
+18,Sun Dec 22 2019,13:30,Heidenheim,3-1,?,Osnabrück
+18,Sun Dec 22 2019,13:30,Sandhausen,2-2,?,Holstein Kiel
+19,Tue Jan 28 2020,18:30,Arminia,2-0,?,Bochum
+19,Tue Jan 28 2020,20:30,Wehen,1-0,?,Erzgebirge Aue
+19,Tue Jan 28 2020,20:30,Greuther Fürth,3-0,?,St. Pauli
+19,Tue Jan 28 2020,20:30,Jahn R'burg,1-0,?,Hannover 96
+19,Wed Jan 29 2020,18:30,Stuttgart,3-0,?,Heidenheim
+19,Wed Jan 29 2020,20:30,Holstein Kiel,1-1,?,Darmstadt 98
+19,Wed Jan 29 2020,20:30,Osnabrück,1-3,?,Sandhausen
+19,Wed Jan 29 2020,20:30,Dynamo Dres,1-0,?,Karlsruher
+19,Thu Jan 30 2020,20:30,Hamburger SV,4-1,?,Nürnberg
+20,Fri Jan 31 2020,18:30,Jahn R'burg,0-2,?,Greuther Fürth
+20,Fri Jan 31 2020,18:30,Erzgebirge Aue,0-0,?,Arminia
+20,Sat Feb 1 2020,13:00,Hannover 96,2-2,?,Wehen
+20,Sat Feb 1 2020,13:00,St. Pauli,1-1,?,Stuttgart
+20,Sat Feb 1 2020,13:00,Karlsruher,0-2,?,Holstein Kiel
+20,Sun Feb 2 2020,13:30,Nürnberg,2-0,?,Sandhausen
+20,Sun Feb 2 2020,13:30,Darmstadt 98,2-2,?,Osnabrück
+20,Sun Feb 2 2020,13:30,Heidenheim,0-0,?,Dynamo Dres
+20,Mon Feb 3 2020,20:30,Bochum,1-3,?,Hamburger SV
+21,Fri Feb 7 2020,18:30,Sandhausen,0-1,?,Heidenheim
+21,Fri Feb 7 2020,18:30,Dynamo Dres,2-3,?,Darmstadt 98
+21,Sat Feb 8 2020,13:00,Hamburger SV,2-0,?,Karlsruher
+21,Sat Feb 8 2020,13:00,Osnabrück,0-1,?,Nürnberg
+21,Sat Feb 8 2020,13:00,Stuttgart,3-0,?,Erzgebirge Aue
+21,Sun Feb 9 2020,13:30,Greuther Fürth,1-3,?,Hannover 96
+21,Sun Feb 9 2020,13:30,Arminia,6-0,?,Jahn R'burg
+21,Sun Feb 9 2020,13:30,Wehen,0-1,?,Bochum
+21,Mon Feb 10 2020,20:30,Holstein Kiel,2-1,?,St. Pauli
+22,Fri Feb 14 2020,18:30,Heidenheim,2-2,?,Nürnberg
+22,Fri Feb 14 2020,18:30,St. Pauli,0-0,?,Dynamo Dres
+22,Sat Feb 15 2020,13:00,Greuther Fürth,2-4,?,Arminia
+22,Sat Feb 15 2020,13:00,Jahn R'burg,1-0,?,Wehen
+22,Sat Feb 15 2020,13:00,Hannover 96,1-1,?,Hamburger SV
+22,Sun Feb 16 2020,13:30,Darmstadt 98,1-0,?,Sandhausen
+22,Sun Feb 16 2020,13:30,Karlsruher,1-1,?,Osnabrück
+22,Sun Feb 16 2020,13:30,Erzgebirge Aue,1-2,?,Holstein Kiel
+22,Mon Feb 17 2020,20:30,Bochum,0-1,?,Stuttgart
+23,Fri Feb 21 2020,18:30,Osnabrück,0-0,?,Erzgebirge Aue
+23,Fri Feb 21 2020,18:30,Wehen,1-1,?,Greuther Fürth
+23,Sat Feb 22 2020,13:00,Dynamo Dres,1-2,?,Bochum
+23,Sat Feb 22 2020,13:00,Hamburger SV,0-2,?,St. Pauli
+23,Sat Feb 22 2020,13:00,Stuttgart,2-0,?,Jahn R'burg
+23,Sat Feb 22 2020,13:00,Holstein Kiel,0-1,?,Heidenheim
+23,Sun Feb 23 2020,13:30,Nürnberg,1-2,?,Darmstadt 98
+23,Sun Feb 23 2020,13:30,Sandhausen,0-2,?,Karlsruher
+23,Sun Feb 23 2020,14:00,Arminia,1-0,?,Hannover 96
+24,Fri Feb 28 2020,18:30,Karlsruher,0-1,?,Nürnberg
+24,Fri Feb 28 2020,18:30,Jahn R'burg,1-2,?,Dynamo Dres
+24,Sat Feb 29 2020,13:00,Greuther Fürth,2-0,?,Stuttgart
+24,Sat Feb 29 2020,13:00,Darmstadt 98,2-0,?,Heidenheim
+24,Sat Feb 29 2020,13:00,Erzgebirge Aue,3-0,?,Hamburger SV
+24,Sun Mar 1 2020,13:30,St. Pauli,3-1,?,Osnabrück
+24,Sun Mar 1 2020,13:30,Bochum,4-4,?,Sandhausen
+24,Sun Mar 1 2020,13:30,Arminia,1-0,?,Wehen
+24,Mon Mar 2 2020,20:30,Hannover 96,3-1,?,Holstein Kiel
+25,Fri Mar 6 2020,18:30,Nürnberg,0-3,?,Hannover 96
+25,Fri Mar 6 2020,18:30,Osnabrück,2-6,?,Wehen
+25,Sat Mar 7 2020,13:00,Hamburger SV,2-1,?,Jahn R'burg
+25,Sat Mar 7 2020,13:00,Darmstadt 98,0-0,?,Bochum
+25,Sat Mar 7 2020,13:00,Heidenheim,3-1,?,Karlsruher
+25,Sun Mar 8 2020,13:30,Holstein Kiel,1-1,?,Greuther Fürth
+25,Sun Mar 8 2020,13:30,Sandhausen,2-2,?,St. Pauli
+25,Sun Mar 8 2020,13:30,Dynamo Dres,2-1,?,Erzgebirge Aue
+25,Mon Mar 9 2020,20:30,Stuttgart,1-1,?,Arminia
+26,Sat May 16 2020,13:00,Bochum,3-0,?,Heidenheim
+26,Sat May 16 2020,13:00,Erzgebirge Aue,3-1,?,Sandhausen
+26,Sat May 16 2020,13:00,Karlsruher,2-0,?,Darmstadt 98
+26,Sat May 16 2020,13:00,Jahn R'burg,2-2,?,Holstein Kiel
+26,Sun May 17 2020,13:30,St. Pauli,1-0,?,Nürnberg
+26,Sun May 17 2020,13:30,Wehen,2-1,?,Stuttgart
+26,Sun May 17 2020,13:30,Arminia,1-1,?,Osnabrück
+26,Sun May 17 2020,13:30,Greuther Fürth,2-2,?,Hamburger SV
+27,Fri May 22 2020,18:30,Nürnberg,1-1,?,Erzgebirge Aue
+27,Fri May 22 2020,18:30,Heidenheim,1-0,?,Wehen
+27,Sat May 23 2020,13:00,Sandhausen,0-0,?,Jahn R'burg
+27,Sat May 23 2020,13:00,Osnabrück,2-4,?,Hannover 96
+27,Sat May 23 2020,13:00,Darmstadt 98,4-0,?,St. Pauli
+27,Sun May 24 2020,13:30,Holstein Kiel,3-2,?,Stuttgart
+27,Sun May 24 2020,13:30,Karlsruher,0-0,?,Bochum
+27,Sun May 24 2020,13:30,Hamburger SV,0-0,?,Arminia
+28,Tue May 26 2020,18:30,Jahn R'burg,2-2,?,Nürnberg
+28,Tue May 26 2020,18:30,Wehen,0-1,?,Sandhausen
+28,Tue May 26 2020,18:30,Greuther Fürth,0-2,?,Osnabrück
+28,Tue May 26 2020,18:30,Erzgebirge Aue,1-3,?,Darmstadt 98
+28,Wed May 27 2020,18:30,Bochum,2-1,?,Holstein Kiel
+28,Wed May 27 2020,18:30,Hannover 96,1-1,?,Karlsruher
+28,Wed May 27 2020,18:30,St. Pauli,0-0,?,Heidenheim
+28,Thu May 28 2020,20:30,Stuttgart,3-2,?,Hamburger SV
+29,Fri May 29 2020,18:30,Darmstadt 98,1-1,?,Greuther Fürth
+29,Fri May 29 2020,18:30,Osnabrück,2-2,?,Jahn R'burg
+29,Sat May 30 2020,13:00,Nürnberg,0-0,?,Bochum
+29,Sat May 30 2020,13:00,Karlsruher,1-1,?,St. Pauli
+29,Sat May 30 2020,13:00,Holstein Kiel,1-2,?,Arminia
+29,Sat May 30 2020,13:00,Sandhausen,3-1,?,Hannover 96
+29,Sun May 31 2020,13:30,Hamburger SV,3-2,?,Wehen
+29,Sun May 31 2020,13:30,Dynamo Dres,0-2,?,Stuttgart
+29,Sun May 31 2020,13:30,Heidenheim,3-0,?,Erzgebirge Aue
+26,Wed Jun 3 2020,18:30,Hannover 96,3-0,?,Dynamo Dres
+30,Fri Jun 5 2020,18:30,Bochum,2-0,?,St. Pauli
+30,Fri Jun 5 2020,18:30,Greuther Fürth,1-2,?,Sandhausen
+30,Sat Jun 6 2020,13:00,Arminia,1-1,?,Nürnberg
+30,Sat Jun 6 2020,13:00,Jahn R'burg,3-0,?,Darmstadt 98
+30,Sat Jun 6 2020,13:00,Wehen,2-3,?,Dynamo Dres
+30,Sun Jun 7 2020,13:30,Erzgebirge Aue,1-0,?,Karlsruher
+30,Sun Jun 7 2020,13:30,Hannover 96,2-1,?,Heidenheim
+30,Sun Jun 7 2020,13:30,Stuttgart,0-0,?,Osnabrück
+30,Mon Jun 8 2020,20:30,Hamburger SV,3-3,?,Holstein Kiel
+27,Tue Jun 9 2020,18:30,Dynamo Dres,1-1,?,Greuther Fürth
+31,Fri Jun 12 2020,18:30,Sandhausen,0-0,?,Arminia
+31,Fri Jun 12 2020,18:30,Dynamo Dres,0-1,?,Hamburger SV
+31,Sat Jun 13 2020,13:00,Heidenheim,4-1,?,Jahn R'burg
+31,Sat Jun 13 2020,13:00,Nürnberg,0-1,?,Greuther Fürth
+31,Sat Jun 13 2020,13:00,Holstein Kiel,1-2,?,Wehen
+31,Sat Jun 13 2020,13:00,Osnabrück,0-2,?,Bochum
+31,Sun Jun 14 2020,13:30,St. Pauli,2-1,?,Erzgebirge Aue
+31,Sun Jun 14 2020,13:30,Karlsruher,2-1,?,Stuttgart
+31,Sun Jun 14 2020,13:30,Darmstadt 98,3-2,?,Hannover 96
+28,Mon Jun 15 2020,20:30,Arminia,4-0,?,Dynamo Dres
+32,Tue Jun 16 2020,18:30,Hamburger SV,1-1,?,Osnabrück
+32,Tue Jun 16 2020,18:30,Greuther Fürth,0-0,?,Heidenheim
+32,Tue Jun 16 2020,18:30,Wehen,0-6,?,Nürnberg
+32,Wed Jun 17 2020,18:30,Jahn R'burg,2-1,?,Karlsruher
+32,Wed Jun 17 2020,18:30,Stuttgart,5-1,?,Sandhausen
+32,Wed Jun 17 2020,18:30,Hannover 96,4-0,?,St. Pauli
+32,Wed Jun 17 2020,18:30,Erzgebirge Aue,1-2,?,Bochum
+32,Thu Jun 18 2020,18:30,Holstein Kiel,2-0,?,Dynamo Dres
+32,Thu Jun 18 2020,20:30,Arminia,1-0,?,Darmstadt 98
+33,Sun Jun 21 2020,15:30,Osnabrück,4-1,?,Holstein Kiel
+33,Sun Jun 21 2020,15:30,Erzgebirge Aue,2-1,?,Hannover 96
+33,Sun Jun 21 2020,15:30,Sandhausen,0-1,?,Dynamo Dres
+33,Sun Jun 21 2020,15:30,Karlsruher,3-3,?,Arminia
+33,Sun Jun 21 2020,15:30,Nürnberg,0-6,?,Stuttgart
+33,Sun Jun 21 2020,15:30,St. Pauli,1-1,?,Jahn R'burg
+33,Sun Jun 21 2020,15:30,Bochum,2-2,?,Greuther Fürth
+33,Sun Jun 21 2020,15:30,Darmstadt 98,3-1,?,Wehen
+33,Sun Jun 21 2020,15:30,Heidenheim,2-1,?,Hamburger SV
+34,Sun Jun 28 2020,15:30,Arminia,3-0,?,Heidenheim
+34,Sun Jun 28 2020,15:30,Stuttgart,1-3,?,Darmstadt 98
+34,Sun Jun 28 2020,15:30,Holstein Kiel,1-1,?,Nürnberg
+34,Sun Jun 28 2020,15:30,Hannover 96,2-0,?,Bochum
+34,Sun Jun 28 2020,15:30,Dynamo Dres,2-2,?,Osnabrück
+34,Sun Jun 28 2020,15:30,Hamburger SV,1-5,?,Sandhausen
+34,Sun Jun 28 2020,15:30,Jahn R'burg,1-2,?,Erzgebirge Aue
+34,Sun Jun 28 2020,15:30,Wehen,5-3,?,St. Pauli
+34,Sun Jun 28 2020,15:30,Greuther Fürth,1-2,?,Karlsruher

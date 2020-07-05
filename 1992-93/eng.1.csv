@@ -1,0 +1,463 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 15 1992,?,Arsenal,2-4,?,Norwich City
+1,Sat Aug 15 1992,?,Leeds United,2-1,?,Wimbledon
+1,Sat Aug 15 1992,?,Coventry City,2-1,?,Middlesbrough
+1,Sat Aug 15 1992,?,Ipswich Town,1-1,?,Aston Villa
+1,Sat Aug 15 1992,?,Crystal Palace,3-3,?,Blackburn
+1,Sat Aug 15 1992,?,Southampton,0-0,?,Tottenham
+1,Sat Aug 15 1992,?,Chelsea,1-1,?,Oldham Athletic
+1,Sat Aug 15 1992,?,Sheffield Utd,2-1,?,Manchester Utd
+1,Sat Aug 15 1992,?,Everton,1-1,?,Sheffield Weds
+1,Sun Aug 16 1992,?,Nott'ham Forest,1-0,?,Liverpool
+1,Mon Aug 17 1992,?,Manchester City,1-1,?,QPR
+2,Tue Aug 18 1992,?,Blackburn,1-0,?,Arsenal
+2,Tue Aug 18 1992,?,Wimbledon,0-1,?,Ipswich Town
+2,Wed Aug 19 1992,?,Sheffield Weds,2-0,?,Nott'ham Forest
+2,Wed Aug 19 1992,?,Norwich City,2-1,?,Chelsea
+2,Wed Aug 19 1992,?,Manchester Utd,0-3,?,Everton
+2,Wed Aug 19 1992,?,Liverpool,2-1,?,Sheffield Utd
+2,Wed Aug 19 1992,?,Middlesbrough,2-0,?,Manchester City
+2,Wed Aug 19 1992,?,Oldham Athletic,1-1,?,Crystal Palace
+2,Wed Aug 19 1992,?,Aston Villa,1-1,?,Leeds United
+2,Wed Aug 19 1992,?,Tottenham,0-2,?,Coventry City
+2,Wed Aug 19 1992,?,QPR,3-1,?,Southampton
+3,Sat Aug 22 1992,?,QPR,3-2,?,Sheffield Utd
+3,Sat Aug 22 1992,?,Manchester Utd,1-1,?,Ipswich Town
+3,Sat Aug 22 1992,?,Wimbledon,1-2,?,Coventry City
+3,Sat Aug 22 1992,?,Aston Villa,1-1,?,Southampton
+3,Sat Aug 22 1992,?,Tottenham,2-2,?,Crystal Palace
+3,Sat Aug 22 1992,?,Blackburn,1-0,?,Manchester City
+3,Sat Aug 22 1992,?,Oldham Athletic,5-3,?,Nott'ham Forest
+3,Sat Aug 22 1992,?,Sheffield Weds,3-3,?,Chelsea
+3,Sat Aug 22 1992,?,Middlesbrough,4-1,?,Leeds United
+3,Sat Aug 22 1992,?,Norwich City,1-1,?,Everton
+3,Sun Aug 23 1992,?,Liverpool,0-2,?,Arsenal
+4,Mon Aug 24 1992,?,Southampton,0-1,?,Manchester Utd
+4,Tue Aug 25 1992,?,Crystal Palace,1-1,?,Sheffield Weds
+4,Tue Aug 25 1992,?,Leeds United,5-0,?,Tottenham
+4,Tue Aug 25 1992,?,Sheffield Utd,2-2,?,Wimbledon
+4,Tue Aug 25 1992,?,Everton,1-0,?,Aston Villa
+4,Tue Aug 25 1992,?,Ipswich Town,2-2,?,Liverpool
+4,Wed Aug 26 1992,?,Coventry City,0-1,?,QPR
+4,Wed Aug 26 1992,?,Arsenal,2-0,?,Oldham Athletic
+4,Wed Aug 26 1992,?,Chelsea,0-0,?,Blackburn
+4,Wed Aug 26 1992,?,Manchester City,3-1,?,Norwich City
+5,Sat Aug 29 1992,?,Crystal Palace,1-2,?,Norwich City
+5,Sat Aug 29 1992,?,Sheffield Utd,0-2,?,Aston Villa
+5,Sat Aug 29 1992,?,Chelsea,1-0,?,QPR
+5,Sat Aug 29 1992,?,Manchester City,3-3,?,Oldham Athletic
+5,Sat Aug 29 1992,?,Nott'ham Forest,0-2,?,Manchester Utd
+5,Sat Aug 29 1992,?,Coventry City,0-2,?,Blackburn
+5,Sat Aug 29 1992,?,Leeds United,2-2,?,Liverpool
+5,Sat Aug 29 1992,?,Arsenal,2-1,?,Sheffield Weds
+5,Sat Aug 29 1992,?,Everton,0-0,?,Wimbledon
+5,Sat Aug 29 1992,?,Southampton,2-1,?,Middlesbrough
+5,Sun Aug 30 1992,?,Ipswich Town,1-1,?,Tottenham
+6,Mon Aug 31 1992,?,Norwich City,3-1,?,Nott'ham Forest
+6,Tue Sep 1 1992,?,Liverpool,1-1,?,Southampton
+6,Tue Sep 1 1992,?,Wimbledon,0-1,?,Manchester City
+6,Tue Sep 1 1992,?,Middlesbrough,2-2,?,Ipswich Town
+6,Tue Sep 1 1992,?,Oldham Athletic,2-2,?,Leeds United
+6,Wed Sep 2 1992,?,Aston Villa,1-3,?,Chelsea
+6,Wed Sep 2 1992,?,Manchester Utd,1-0,?,Crystal Palace
+6,Wed Sep 2 1992,?,Tottenham,2-0,?,Sheffield Utd
+6,Wed Sep 2 1992,?,QPR,0-0,?,Arsenal
+6,Wed Sep 2 1992,?,Sheffield Weds,1-2,?,Coventry City
+7,Sat Sep 5 1992,?,Aston Villa,3-0,?,Crystal Palace
+7,Sat Sep 5 1992,?,Middlesbrough,2-0,?,Sheffield Utd
+7,Sat Sep 5 1992,?,Tottenham,2-1,?,Everton
+7,Sat Sep 5 1992,?,Wimbledon,3-2,?,Arsenal
+7,Sat Sep 5 1992,?,Liverpool,2-1,?,Chelsea
+7,Sat Sep 5 1992,?,Sheffield Weds,0-3,?,Manchester City
+7,Sat Sep 5 1992,?,Norwich City,1-0,?,Southampton
+7,Sat Sep 5 1992,?,Blackburn,4-1,?,Nott'ham Forest
+7,Sat Sep 5 1992,?,Oldham Athletic,0-1,?,Coventry City
+7,Sat Sep 5 1992,?,QPR,0-0,?,Ipswich Town
+7,Sun Sep 6 1992,?,Manchester Utd,2-0,?,Leeds United
+8,Sat Sep 12 1992,?,Nott'ham Forest,1-2,?,Sheffield Weds
+8,Sat Sep 12 1992,?,Arsenal,0-1,?,Blackburn
+8,Sat Sep 12 1992,?,Southampton,1-2,?,QPR
+8,Sat Sep 12 1992,?,Chelsea,2-3,?,Norwich City
+8,Sat Sep 12 1992,?,Sheffield Utd,1-0,?,Liverpool
+8,Sat Sep 12 1992,?,Crystal Palace,2-2,?,Oldham Athletic
+8,Sat Sep 12 1992,?,Manchester City,0-1,?,Middlesbrough
+8,Sat Sep 12 1992,?,Everton,0-2,?,Manchester Utd
+8,Sat Sep 12 1992,?,Ipswich Town,2-1,?,Wimbledon
+8,Sun Sep 13 1992,?,Leeds United,1-1,?,Aston Villa
+8,Mon Sep 14 1992,?,Coventry City,1-0,?,Tottenham
+6,Tue Sep 15 1992,?,Blackburn,2-3,?,Everton
+9,Sat Sep 19 1992,?,Aston Villa,4-2,?,Liverpool
+9,Sat Sep 19 1992,?,Everton,0-2,?,Crystal Palace
+9,Sat Sep 19 1992,?,Norwich City,1-0,?,Sheffield Weds
+9,Sat Sep 19 1992,?,Oldham Athletic,4-2,?,Ipswich Town
+9,Sat Sep 19 1992,?,QPR,3-3,?,Middlesbrough
+9,Sat Sep 19 1992,?,Tottenham,1-1,?,Manchester Utd
+9,Sat Sep 19 1992,?,Sheffield Utd,1-1,?,Arsenal
+9,Sat Sep 19 1992,?,Southampton,1-1,?,Leeds United
+9,Sat Sep 19 1992,?,Wimbledon,1-1,?,Blackburn
+9,Sun Sep 20 1992,?,Manchester City,0-1,?,Chelsea
+9,Mon Sep 21 1992,?,Nott'ham Forest,1-1,?,Coventry City
+10,Sat Sep 26 1992,?,Liverpool,2-3,?,Wimbledon
+10,Sat Sep 26 1992,?,Ipswich Town,0-0,?,Sheffield Utd
+10,Sat Sep 26 1992,?,Coventry City,1-1,?,Norwich City
+10,Sat Sep 26 1992,?,Chelsea,0-0,?,Nott'ham Forest
+10,Sat Sep 26 1992,?,Manchester Utd,0-0,?,QPR
+10,Sat Sep 26 1992,?,Leeds United,2-0,?,Everton
+10,Sat Sep 26 1992,?,Middlesbrough,2-3,?,Aston Villa
+10,Sat Sep 26 1992,?,Crystal Palace,1-2,?,Southampton
+10,Sat Sep 26 1992,?,Blackburn,2-0,?,Oldham Athletic
+10,Sun Sep 27 1992,?,Sheffield Weds,2-0,?,Tottenham
+10,Mon Sep 28 1992,?,Arsenal,1-0,?,Manchester City
+11,Sat Oct 3 1992,?,Ipswich Town,4-2,?,Leeds United
+11,Sat Oct 3 1992,?,Wimbledon,2-3,?,Aston Villa
+11,Sat Oct 3 1992,?,Middlesbrough,1-1,?,Manchester Utd
+11,Sat Oct 3 1992,?,Arsenal,2-1,?,Chelsea
+11,Sat Oct 3 1992,?,QPR,4-1,?,Tottenham
+11,Sat Oct 3 1992,?,Coventry City,2-2,?,Crystal Palace
+11,Sat Oct 3 1992,?,Sheffield Utd,2-0,?,Southampton
+11,Sat Oct 3 1992,?,Blackburn,7-1,?,Norwich City
+11,Sat Oct 3 1992,?,Manchester City,2-2,?,Nott'ham Forest
+11,Sat Oct 3 1992,?,Liverpool,1-0,?,Sheffield Weds
+11,Sun Oct 4 1992,?,Oldham Athletic,1-0,?,Everton
+12,Sat Oct 17 1992,?,Crystal Palace,0-0,?,Manchester City
+12,Sat Oct 17 1992,?,Everton,1-1,?,Coventry City
+12,Sat Oct 17 1992,?,Nott'ham Forest,0-1,?,Arsenal
+12,Sat Oct 17 1992,?,Leeds United,3-1,?,Sheffield Utd
+12,Sat Oct 17 1992,?,Chelsea,2-1,?,Ipswich Town
+12,Sat Oct 17 1992,?,Norwich City,2-1,?,QPR
+12,Sat Oct 17 1992,?,Southampton,2-2,?,Wimbledon
+12,Sat Oct 17 1992,?,Sheffield Weds,2-1,?,Oldham Athletic
+12,Sat Oct 17 1992,?,Tottenham,2-2,?,Middlesbrough
+12,Sun Oct 18 1992,?,Manchester Utd,2-2,?,Liverpool
+12,Mon Oct 19 1992,?,Aston Villa,0-0,?,Blackburn
+4,Wed Oct 21 1992,?,Nott'ham Forest,1-0,?,Middlesbrough
+13,Sat Oct 24 1992,?,Middlesbrough,1-1,?,Sheffield Weds
+13,Sat Oct 24 1992,?,Sheffield Utd,0-0,?,Nott'ham Forest
+13,Sat Oct 24 1992,?,Ipswich Town,2-2,?,Crystal Palace
+13,Sat Oct 24 1992,?,Arsenal,2-0,?,Everton
+13,Sat Oct 24 1992,?,Coventry City,1-2,?,Chelsea
+13,Sat Oct 24 1992,?,Wimbledon,1-1,?,Tottenham
+13,Sat Oct 24 1992,?,Oldham Athletic,1-1,?,Aston Villa
+13,Sat Oct 24 1992,?,QPR,2-1,?,Leeds United
+13,Sat Oct 24 1992,?,Blackburn,0-0,?,Manchester Utd
+13,Sat Oct 24 1992,?,Manchester City,1-0,?,Southampton
+13,Sun Oct 25 1992,?,Liverpool,4-1,?,Norwich City
+14,Sat Oct 31 1992,?,Norwich City,1-1,?,Middlesbrough
+14,Sat Oct 31 1992,?,Manchester Utd,0-1,?,Wimbledon
+14,Sat Oct 31 1992,?,Sheffield Weds,0-0,?,Blackburn
+14,Sat Oct 31 1992,?,Chelsea,1-2,?,Sheffield Utd
+14,Sat Oct 31 1992,?,Southampton,1-0,?,Oldham Athletic
+14,Sat Oct 31 1992,?,Leeds United,2-2,?,Coventry City
+14,Sat Oct 31 1992,?,Nott'ham Forest,0-1,?,Ipswich Town
+14,Sat Oct 31 1992,?,Tottenham,2-0,?,Liverpool
+14,Sat Oct 31 1992,?,Everton,1-3,?,Manchester City
+14,Sun Nov 1 1992,?,Aston Villa,2-0,?,QPR
+14,Mon Nov 2 1992,?,Crystal Palace,1-2,?,Arsenal
+15,Sat Nov 7 1992,?,Chelsea,3-1,?,Crystal Palace
+15,Sat Nov 7 1992,?,Blackburn,0-2,?,Tottenham
+15,Sat Nov 7 1992,?,Wimbledon,0-2,?,QPR
+15,Sat Nov 7 1992,?,Aston Villa,1-0,?,Manchester Utd
+15,Sat Nov 7 1992,?,Manchester City,4-0,?,Leeds United
+15,Sat Nov 7 1992,?,Liverpool,4-1,?,Middlesbrough
+15,Sat Nov 7 1992,?,Ipswich Town,0-0,?,Southampton
+15,Sat Nov 7 1992,?,Arsenal,3-0,?,Coventry City
+15,Sat Nov 7 1992,?,Nott'ham Forest,0-1,?,Everton
+15,Sun Nov 8 1992,?,Sheffield Utd,1-1,?,Sheffield Weds
+15,Mon Nov 9 1992,?,Oldham Athletic,2-3,?,Norwich City
+16,Sat Nov 21 1992,?,Coventry City,2-3,?,Manchester City
+16,Sat Nov 21 1992,?,Manchester Utd,3-0,?,Oldham Athletic
+16,Sat Nov 21 1992,?,Tottenham,0-0,?,Aston Villa
+16,Sat Nov 21 1992,?,Everton,0-1,?,Chelsea
+16,Sat Nov 21 1992,?,Norwich City,2-1,?,Sheffield Utd
+16,Sat Nov 21 1992,?,Leeds United,3-0,?,Arsenal
+16,Sat Nov 21 1992,?,Sheffield Weds,1-1,?,Ipswich Town
+16,Sat Nov 21 1992,?,Middlesbrough,2-0,?,Wimbledon
+16,Sat Nov 21 1992,?,Crystal Palace,1-1,?,Nott'ham Forest
+16,Sun Nov 22 1992,?,QPR,0-1,?,Liverpool
+16,Sun Nov 22 1992,?,Southampton,1-1,?,Blackburn
+17,Sat Nov 28 1992,?,Liverpool,5-0,?,Crystal Palace
+17,Sat Nov 28 1992,?,Arsenal,0-1,?,Manchester Utd
+17,Sat Nov 28 1992,?,Ipswich Town,1-0,?,Everton
+17,Sat Nov 28 1992,?,Wimbledon,1-1,?,Sheffield Weds
+17,Sat Nov 28 1992,?,Sheffield Utd,1-1,?,Coventry City
+17,Sat Nov 28 1992,?,Oldham Athletic,4-1,?,Middlesbrough
+17,Sat Nov 28 1992,?,Aston Villa,2-3,?,Norwich City
+17,Sat Nov 28 1992,?,Manchester City,0-1,?,Tottenham
+17,Sat Nov 28 1992,?,Nott'ham Forest,1-2,?,Southampton
+17,Sat Nov 28 1992,?,Blackburn,1-0,?,QPR
+17,Sun Nov 29 1992,?,Chelsea,1-0,?,Leeds United
+18,Sat Dec 5 1992,?,Norwich City,2-1,?,Wimbledon
+18,Sat Dec 5 1992,?,Sheffield Weds,1-2,?,Aston Villa
+18,Sat Dec 5 1992,?,Tottenham,1-2,?,Chelsea
+18,Sat Dec 5 1992,?,Coventry City,2-2,?,Ipswich Town
+18,Sat Dec 5 1992,?,QPR,3-2,?,Oldham Athletic
+18,Sat Dec 5 1992,?,Leeds United,1-4,?,Nott'ham Forest
+18,Sat Dec 5 1992,?,Middlesbrough,3-2,?,Blackburn
+18,Sat Dec 5 1992,?,Southampton,2-0,?,Arsenal
+18,Sat Dec 5 1992,?,Crystal Palace,2-0,?,Sheffield Utd
+18,Sun Dec 6 1992,?,Manchester Utd,2-1,?,Manchester City
+18,Mon Dec 7 1992,?,Everton,2-1,?,Liverpool
+19,Fri Dec 11 1992,?,Middlesbrough,0-0,?,Chelsea
+19,Sat Dec 12 1992,?,Manchester Utd,1-0,?,Norwich City
+19,Sat Dec 12 1992,?,Sheffield Utd,1-0,?,Everton
+19,Sat Dec 12 1992,?,QPR,1-3,?,Crystal Palace
+19,Sat Dec 12 1992,?,Wimbledon,5-2,?,Oldham Athletic
+19,Sat Dec 12 1992,?,Tottenham,1-0,?,Arsenal
+19,Sat Dec 12 1992,?,Leeds United,3-1,?,Sheffield Weds
+19,Sat Dec 12 1992,?,Ipswich Town,3-1,?,Manchester City
+19,Sat Dec 12 1992,?,Southampton,2-2,?,Coventry City
+19,Sat Dec 12 1992,?,Aston Villa,2-1,?,Nott'ham Forest
+19,Sun Dec 13 1992,?,Liverpool,2-1,?,Blackburn
+20,Sat Dec 19 1992,?,Sheffield Weds,1-0,?,QPR
+20,Sat Dec 19 1992,?,Manchester City,1-1,?,Aston Villa
+20,Sat Dec 19 1992,?,Coventry City,5-1,?,Liverpool
+20,Sat Dec 19 1992,?,Chelsea,1-1,?,Manchester Utd
+20,Sat Dec 19 1992,?,Oldham Athletic,2-1,?,Tottenham
+20,Sat Dec 19 1992,?,Everton,2-1,?,Southampton
+20,Sat Dec 19 1992,?,Arsenal,1-1,?,Middlesbrough
+20,Sat Dec 19 1992,?,Blackburn,1-0,?,Sheffield Utd
+20,Sun Dec 20 1992,?,Crystal Palace,1-0,?,Leeds United
+20,Sun Dec 20 1992,?,Nott'ham Forest,1-1,?,Wimbledon
+20,Mon Dec 21 1992,?,Norwich City,0-2,?,Ipswich Town
+21,Sat Dec 26 1992,?,Everton,2-2,?,Middlesbrough
+21,Sat Dec 26 1992,?,Manchester City,2-0,?,Sheffield Utd
+21,Sat Dec 26 1992,?,Blackburn,3-1,?,Leeds United
+21,Sat Dec 26 1992,?,Norwich City,0-0,?,Tottenham
+21,Sat Dec 26 1992,?,Crystal Palace,2-0,?,Wimbledon
+21,Sat Dec 26 1992,?,Coventry City,3-0,?,Aston Villa
+21,Sat Dec 26 1992,?,Sheffield Weds,3-3,?,Manchester Utd
+21,Sat Dec 26 1992,?,Arsenal,0-0,?,Ipswich Town
+21,Sat Dec 26 1992,?,Chelsea,1-1,?,Southampton
+22,Mon Dec 28 1992,?,Manchester Utd,5-0,?,Coventry City
+22,Mon Dec 28 1992,?,Wimbledon,0-0,?,Chelsea
+22,Mon Dec 28 1992,?,Southampton,1-2,?,Sheffield Weds
+22,Mon Dec 28 1992,?,Aston Villa,1-0,?,Arsenal
+22,Mon Dec 28 1992,?,Tottenham,2-1,?,Nott'ham Forest
+22,Mon Dec 28 1992,?,QPR,4-2,?,Everton
+22,Mon Dec 28 1992,?,Leeds United,0-0,?,Norwich City
+22,Mon Dec 28 1992,?,Middlesbrough,0-1,?,Crystal Palace
+22,Mon Dec 28 1992,?,Liverpool,1-1,?,Manchester City
+22,Mon Dec 28 1992,?,Ipswich Town,2-1,?,Blackburn
+23,Sat Jan 9 1993,?,Ipswich Town,1-2,?,Oldham Athletic
+23,Sat Jan 9 1993,?,Liverpool,1-2,?,Aston Villa
+23,Sat Jan 9 1993,?,Chelsea,2-4,?,Manchester City
+23,Sat Jan 9 1993,?,Coventry City,0-1,?,Nott'ham Forest
+23,Sat Jan 9 1993,?,Leeds United,2-1,?,Southampton
+23,Sat Jan 9 1993,?,Blackburn,0-0,?,Wimbledon
+23,Sat Jan 9 1993,?,Middlesbrough,0-1,?,QPR
+23,Sat Jan 9 1993,?,Arsenal,1-1,?,Sheffield Utd
+23,Sat Jan 9 1993,?,Crystal Palace,0-2,?,Everton
+23,Sat Jan 9 1993,?,Manchester Utd,4-1,?,Tottenham
+23,Sun Jan 10 1993,?,Sheffield Weds,1-0,?,Norwich City
+24,Sat Jan 16 1993,?,Southampton,1-0,?,Crystal Palace
+24,Sat Jan 16 1993,?,Tottenham,0-2,?,Sheffield Weds
+24,Sat Jan 16 1993,?,Manchester City,0-1,?,Arsenal
+24,Sat Jan 16 1993,?,Sheffield Utd,3-0,?,Ipswich Town
+24,Sat Jan 16 1993,?,Oldham Athletic,0-1,?,Blackburn
+24,Sat Jan 16 1993,?,Everton,2-0,?,Leeds United
+24,Sat Jan 16 1993,?,Wimbledon,2-0,?,Liverpool
+24,Sat Jan 16 1993,?,Nott'ham Forest,3-0,?,Chelsea
+24,Sat Jan 16 1993,?,Norwich City,1-1,?,Coventry City
+24,Sun Jan 17 1993,?,Aston Villa,5-1,?,Middlesbrough
+24,Mon Jan 18 1993,?,QPR,1-3,?,Manchester Utd
+28,Sat Jan 23 1993,?,Coventry City,3-0,?,Oldham Athletic
+25,Tue Jan 26 1993,?,Wimbledon,1-3,?,Everton
+25,Tue Jan 26 1993,?,Blackburn,2-5,?,Coventry City
+25,Tue Jan 26 1993,?,Middlesbrough,2-1,?,Southampton
+25,Tue Jan 26 1993,?,Oldham Athletic,0-1,?,Manchester City
+25,Wed Jan 27 1993,?,Norwich City,4-2,?,Crystal Palace
+25,Wed Jan 27 1993,?,Manchester Utd,2-0,?,Nott'ham Forest
+25,Wed Jan 27 1993,?,Aston Villa,3-1,?,Sheffield Utd
+25,Wed Jan 27 1993,?,Tottenham,0-2,?,Ipswich Town
+25,Wed Jan 27 1993,?,QPR,1-1,?,Chelsea
+26,Sat Jan 30 1993,?,Coventry City,0-2,?,Wimbledon
+26,Sat Jan 30 1993,?,Leeds United,3-0,?,Middlesbrough
+26,Sat Jan 30 1993,?,Nott'ham Forest,2-0,?,Oldham Athletic
+26,Sat Jan 30 1993,?,Sheffield Utd,1-2,?,QPR
+26,Sat Jan 30 1993,?,Ipswich Town,2-1,?,Manchester Utd
+26,Sat Jan 30 1993,?,Chelsea,0-2,?,Sheffield Weds
+26,Sat Jan 30 1993,?,Southampton,2-0,?,Aston Villa
+26,Sat Jan 30 1993,?,Crystal Palace,1-3,?,Tottenham
+26,Sat Jan 30 1993,?,Everton,0-1,?,Norwich City
+26,Sat Jan 30 1993,?,Manchester City,3-2,?,Blackburn
+26,Sun Jan 31 1993,?,Arsenal,0-1,?,Liverpool
+27,Tue Feb 2 1993,?,Blackburn,1-2,?,Crystal Palace
+27,Sat Feb 6 1993,?,QPR,1-1,?,Manchester City
+27,Sat Feb 6 1993,?,Liverpool,0-0,?,Nott'ham Forest
+27,Sat Feb 6 1993,?,Middlesbrough,0-2,?,Coventry City
+27,Sat Feb 6 1993,?,Sheffield Weds,3-1,?,Everton
+27,Sat Feb 6 1993,?,Manchester Utd,2-1,?,Sheffield Utd
+27,Sat Feb 6 1993,?,Aston Villa,2-0,?,Ipswich Town
+27,Sat Feb 6 1993,?,Oldham Athletic,3-1,?,Chelsea
+27,Sat Feb 6 1993,?,Wimbledon,1-0,?,Leeds United
+27,Sun Feb 7 1993,?,Tottenham,4-2,?,Southampton
+28,Mon Feb 8 1993,?,Leeds United,0-0,?,Manchester Utd
+28,Tue Feb 9 1993,?,Ipswich Town,1-1,?,QPR
+28,Tue Feb 9 1993,?,Sheffield Utd,2-0,?,Middlesbrough
+28,Wed Feb 10 1993,?,Arsenal,0-1,?,Wimbledon
+28,Wed Feb 10 1993,?,Southampton,3-0,?,Norwich City
+28,Wed Feb 10 1993,?,Everton,1-2,?,Tottenham
+28,Wed Feb 10 1993,?,Chelsea,0-0,?,Liverpool
+28,Wed Feb 10 1993,?,Crystal Palace,1-0,?,Aston Villa
+29,Sat Feb 13 1993,?,Chelsea,0-1,?,Aston Villa
+29,Sat Feb 13 1993,?,Southampton,2-1,?,Liverpool
+29,Sat Feb 13 1993,?,Leeds United,2-0,?,Oldham Athletic
+30,Sat Feb 20 1993,?,Manchester Utd,2-1,?,Southampton
+30,Sat Feb 20 1993,?,Middlesbrough,1-2,?,Nott'ham Forest
+30,Sat Feb 20 1993,?,Tottenham,4-0,?,Leeds United
+30,Sat Feb 20 1993,?,Liverpool,0-0,?,Ipswich Town
+30,Sat Feb 20 1993,?,Wimbledon,2-0,?,Sheffield Utd
+30,Sat Feb 20 1993,?,QPR,2-0,?,Coventry City
+30,Sat Feb 20 1993,?,Norwich City,2-1,?,Manchester City
+30,Sat Feb 20 1993,?,Aston Villa,2-1,?,Everton
+30,Sat Feb 20 1993,?,Sheffield Weds,2-1,?,Crystal Palace
+30,Sat Feb 20 1993,?,Oldham Athletic,0-1,?,Arsenal
+30,Sun Feb 21 1993,?,Blackburn,2-0,?,Chelsea
+22,Mon Feb 22 1993,?,Sheffield Utd,2-0,?,Oldham Athletic
+28,Tue Feb 23 1993,?,Manchester City,1-2,?,Sheffield Weds
+21,Wed Feb 24 1993,?,Nott'ham Forest,1-0,?,QPR
+33,Wed Feb 24 1993,?,Arsenal,0-0,?,Leeds United
+31,Sat Feb 27 1993,?,Southampton,3-2,?,Sheffield Utd
+31,Sat Feb 27 1993,?,Sheffield Weds,1-1,?,Liverpool
+31,Sat Feb 27 1993,?,Nott'ham Forest,0-2,?,Manchester City
+31,Sat Feb 27 1993,?,Crystal Palace,0-0,?,Coventry City
+31,Sat Feb 27 1993,?,Tottenham,3-2,?,QPR
+31,Sat Feb 27 1993,?,Everton,2-2,?,Oldham Athletic
+31,Sat Feb 27 1993,?,Leeds United,1-0,?,Ipswich Town
+31,Sat Feb 27 1993,?,Aston Villa,1-0,?,Wimbledon
+31,Sat Feb 27 1993,?,Manchester Utd,3-0,?,Middlesbrough
+31,Sun Feb 28 1993,?,Norwich City,0-0,?,Blackburn
+31,Mon Mar 1 1993,?,Chelsea,1-0,?,Arsenal
+29,Tue Mar 2 1993,?,Sheffield Utd,6-0,?,Tottenham
+29,Tue Mar 2 1993,?,Ipswich Town,0-1,?,Middlesbrough
+27,Wed Mar 3 1993,?,Norwich City,1-1,?,Arsenal
+29,Wed Mar 3 1993,?,Coventry City,1-0,?,Sheffield Weds
+29,Wed Mar 3 1993,?,Everton,2-1,?,Blackburn
+33,Wed Mar 3 1993,?,Nott'ham Forest,1-1,?,Crystal Palace
+32,Sat Mar 6 1993,?,Liverpool,1-2,?,Manchester Utd
+32,Sat Mar 6 1993,?,QPR,3-1,?,Norwich City
+32,Sat Mar 6 1993,?,Wimbledon,1-2,?,Southampton
+32,Sun Mar 7 1993,?,Coventry City,0-1,?,Everton
+33,Tue Mar 9 1993,?,Wimbledon,2-0,?,Middlesbrough
+33,Tue Mar 9 1993,?,Blackburn,0-0,?,Southampton
+33,Tue Mar 9 1993,?,Oldham Athletic,1-0,?,Manchester Utd
+33,Wed Mar 10 1993,?,Ipswich Town,0-1,?,Sheffield Weds
+33,Wed Mar 10 1993,?,Liverpool,1-0,?,QPR
+33,Wed Mar 10 1993,?,Manchester City,1-0,?,Coventry City
+33,Wed Mar 10 1993,?,Aston Villa,0-0,?,Tottenham
+33,Wed Mar 10 1993,?,Chelsea,2-1,?,Everton
+33,Wed Mar 10 1993,?,Sheffield Utd,0-1,?,Norwich City
+34,Sat Mar 13 1993,?,Southampton,4-3,?,Ipswich Town
+34,Sat Mar 13 1993,?,Leeds United,1-0,?,Manchester City
+34,Sat Mar 13 1993,?,Coventry City,0-2,?,Arsenal
+34,Sat Mar 13 1993,?,Middlesbrough,1-2,?,Liverpool
+34,Sat Mar 13 1993,?,Norwich City,1-0,?,Oldham Athletic
+34,Sat Mar 13 1993,?,Everton,3-0,?,Nott'ham Forest
+34,Sat Mar 13 1993,?,QPR,1-2,?,Wimbledon
+34,Sun Mar 14 1993,?,Manchester Utd,1-1,?,Aston Villa
+34,Mon Mar 15 1993,?,Crystal Palace,1-1,?,Chelsea
+29,Wed Mar 17 1993,?,Nott'ham Forest,0-3,?,Norwich City
+35,Sat Mar 20 1993,?,Chelsea,1-1,?,Tottenham
+35,Sat Mar 20 1993,?,Manchester City,1-1,?,Manchester Utd
+35,Sat Mar 20 1993,?,Liverpool,1-0,?,Everton
+35,Sat Mar 20 1993,?,Blackburn,1-1,?,Middlesbrough
+35,Sat Mar 20 1993,?,Sheffield Utd,0-1,?,Crystal Palace
+35,Sat Mar 20 1993,?,Ipswich Town,0-0,?,Coventry City
+35,Sat Mar 20 1993,?,Oldham Athletic,2-2,?,QPR
+35,Sat Mar 20 1993,?,Arsenal,4-3,?,Southampton
+35,Sat Mar 20 1993,?,Wimbledon,3-0,?,Norwich City
+35,Sat Mar 20 1993,?,Aston Villa,2-0,?,Sheffield Weds
+35,Sun Mar 21 1993,?,Nott'ham Forest,1-1,?,Leeds United
+36,Mon Mar 22 1993,?,Middlesbrough,2-3,?,Oldham Athletic
+36,Tue Mar 23 1993,?,Crystal Palace,1-1,?,Liverpool
+36,Wed Mar 24 1993,?,Norwich City,1-0,?,Aston Villa
+36,Wed Mar 24 1993,?,Leeds United,1-1,?,Chelsea
+36,Wed Mar 24 1993,?,Tottenham,3-1,?,Manchester City
+36,Wed Mar 24 1993,?,Coventry City,1-3,?,Sheffield Utd
+36,Wed Mar 24 1993,?,QPR,0-3,?,Blackburn
+36,Wed Mar 24 1993,?,Sheffield Weds,1-1,?,Wimbledon
+36,Wed Mar 24 1993,?,Everton,3-0,?,Ipswich Town
+36,Wed Mar 24 1993,?,Manchester Utd,0-0,?,Arsenal
+36,Wed Mar 24 1993,?,Southampton,1-2,?,Nott'ham Forest
+37,Sat Apr 3 1993,?,Oldham Athletic,6-2,?,Wimbledon
+37,Sat Apr 3 1993,?,Manchester City,3-1,?,Ipswich Town
+37,Sat Apr 3 1993,?,Chelsea,4-0,?,Middlesbrough
+37,Sat Apr 3 1993,?,Blackburn,4-1,?,Liverpool
+37,Sat Apr 3 1993,?,Crystal Palace,1-1,?,QPR
+37,Sat Apr 3 1993,?,Coventry City,2-0,?,Southampton
+37,Sun Apr 4 1993,?,Nott'ham Forest,0-1,?,Aston Villa
+37,Mon Apr 5 1993,?,Norwich City,1-3,?,Manchester Utd
+32,Tue Apr 6 1993,?,Ipswich Town,1-1,?,Chelsea
+32,Tue Apr 6 1993,?,Sheffield Utd,2-1,?,Leeds United
+40,Tue Apr 6 1993,?,Middlesbrough,1-0,?,Arsenal
+28,Wed Apr 7 1993,?,Nott'ham Forest,1-3,?,Blackburn
+32,Wed Apr 7 1993,?,Oldham Athletic,1-1,?,Sheffield Weds
+38,Fri Apr 9 1993,?,Sheffield Utd,1-1,?,Manchester City
+38,Fri Apr 9 1993,?,Tottenham,5-1,?,Norwich City
+38,Fri Apr 9 1993,?,Wimbledon,4-0,?,Crystal Palace
+38,Sat Apr 10 1993,?,Aston Villa,0-0,?,Coventry City
+38,Sat Apr 10 1993,?,Liverpool,1-0,?,Oldham Athletic
+38,Sat Apr 10 1993,?,QPR,4-3,?,Nott'ham Forest
+38,Sat Apr 10 1993,?,Leeds United,5-2,?,Blackburn
+38,Sat Apr 10 1993,?,Southampton,1-0,?,Chelsea
+38,Sat Apr 10 1993,?,Manchester Utd,2-1,?,Sheffield Weds
+38,Sat Apr 10 1993,?,Middlesbrough,1-2,?,Everton
+38,Sat Apr 10 1993,?,Ipswich Town,1-2,?,Arsenal
+39,Mon Apr 12 1993,?,Coventry City,0-1,?,Manchester Utd
+39,Mon Apr 12 1993,?,Crystal Palace,4-1,?,Middlesbrough
+39,Mon Apr 12 1993,?,Nott'ham Forest,2-1,?,Tottenham
+39,Mon Apr 12 1993,?,Chelsea,4-2,?,Wimbledon
+39,Mon Apr 12 1993,?,Arsenal,0-1,?,Aston Villa
+39,Mon Apr 12 1993,?,Manchester City,1-1,?,Liverpool
+39,Mon Apr 12 1993,?,Everton,3-5,?,QPR
+39,Mon Apr 12 1993,?,Sheffield Weds,5-2,?,Southampton
+39,Mon Apr 12 1993,?,Blackburn,2-1,?,Ipswich Town
+39,Wed Apr 14 1993,?,Oldham Athletic,1-1,?,Sheffield Utd
+39,Wed Apr 14 1993,?,Norwich City,4-2,?,Leeds United
+40,Sat Apr 17 1993,?,Liverpool,4-0,?,Coventry City
+40,Sat Apr 17 1993,?,Southampton,0-0,?,Everton
+40,Sat Apr 17 1993,?,Leeds United,0-0,?,Crystal Palace
+40,Sat Apr 17 1993,?,Sheffield Utd,1-3,?,Blackburn
+40,Sat Apr 17 1993,?,Tottenham,4-1,?,Oldham Athletic
+40,Sat Apr 17 1993,?,Manchester Utd,3-0,?,Chelsea
+40,Sat Apr 17 1993,?,Wimbledon,1-0,?,Nott'ham Forest
+40,Sun Apr 18 1993,?,Aston Villa,3-1,?,Manchester City
+40,Mon Apr 19 1993,?,Ipswich Town,3-1,?,Norwich City
+32,Tue Apr 20 1993,?,Middlesbrough,3-0,?,Tottenham
+25,Wed Apr 21 1993,?,Liverpool,2-0,?,Leeds United
+29,Wed Apr 21 1993,?,Manchester City,1-1,?,Wimbledon
+29,Wed Apr 21 1993,?,Crystal Palace,0-2,?,Manchester Utd
+32,Wed Apr 21 1993,?,Blackburn,3-0,?,Aston Villa
+32,Wed Apr 21 1993,?,Arsenal,1-1,?,Nott'ham Forest
+34,Wed Apr 21 1993,?,Sheffield Weds,1-1,?,Sheffield Utd
+41,Sat May 1 1993,?,Leeds United,1-1,?,QPR
+41,Sat May 1 1993,?,Sheffield Weds,2-3,?,Middlesbrough
+41,Sat May 1 1993,?,Southampton,0-1,?,Manchester City
+41,Sat May 1 1993,?,Tottenham,1-1,?,Wimbledon
+41,Sat May 1 1993,?,Crystal Palace,3-1,?,Ipswich Town
+41,Sat May 1 1993,?,Nott'ham Forest,0-2,?,Sheffield Utd
+41,Sat May 1 1993,?,Norwich City,1-0,?,Liverpool
+41,Sat May 1 1993,?,Chelsea,2-1,?,Coventry City
+41,Sat May 1 1993,?,Everton,0-0,?,Arsenal
+41,Sun May 2 1993,?,Aston Villa,0-1,?,Oldham Athletic
+41,Mon May 3 1993,?,Manchester Utd,3-1,?,Blackburn
+29,Tue May 4 1993,?,Arsenal,0-0,?,QPR
+37,Tue May 4 1993,?,Sheffield Weds,1-1,?,Leeds United
+37,Tue May 4 1993,?,Everton,0-2,?,Sheffield Utd
+21,Wed May 5 1993,?,Oldham Athletic,3-2,?,Liverpool
+32,Wed May 5 1993,?,Manchester City,0-0,?,Crystal Palace
+34,Wed May 5 1993,?,Tottenham,1-2,?,Blackburn
+25,Thu May 6 1993,?,Sheffield Weds,1-0,?,Arsenal
+42,Sat May 8 1993,?,Manchester City,2-5,?,Everton
+42,Sat May 8 1993,?,Oldham Athletic,4-3,?,Southampton
+42,Sat May 8 1993,?,Coventry City,3-3,?,Leeds United
+42,Sat May 8 1993,?,Liverpool,6-2,?,Tottenham
+42,Sat May 8 1993,?,Middlesbrough,3-3,?,Norwich City
+42,Sat May 8 1993,?,Sheffield Utd,4-2,?,Chelsea
+42,Sat May 8 1993,?,Ipswich Town,2-1,?,Nott'ham Forest
+42,Sat May 8 1993,?,Blackburn,1-0,?,Sheffield Weds
+42,Sat May 8 1993,?,Arsenal,3-0,?,Crystal Palace
+42,Sun May 9 1993,?,Wimbledon,1-2,?,Manchester Utd
+42,Sun May 9 1993,?,QPR,2-1,?,Aston Villa
+37,Tue May 11 1993,?,Arsenal,1-3,?,Tottenham
+40,Tue May 11 1993,?,QPR,3-1,?,Sheffield Weds

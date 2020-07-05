@@ -1,0 +1,463 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 17 2019,18:00,Santander,0-1,?,Málaga
+1,Sat Aug 17 2019,18:00,Lugo,0-0,?,Extremadura UD
+1,Sat Aug 17 2019,19:00,Almería,3-0,?,Albacete
+1,Sat Aug 17 2019,20:00,Elche,0-2,?,Fuenlabrada
+1,Sat Aug 17 2019,21:00,Rayo Vallecano,2-2,?,CD Mirandés
+1,Sat Aug 17 2019,21:00,Zaragoza,2-0,?,Tenerife
+1,Sun Aug 18 2019,18:00,Numancia,0-1,?,Alcorcón
+1,Sun Aug 18 2019,18:00,La Coruña,3-2,?,Oviedo
+1,Sun Aug 18 2019,18:30,Girona,1-1,?,Sporting Gijón
+1,Sun Aug 18 2019,19:00,Las Palmas,0-1,?,Huesca
+1,Sun Aug 18 2019,20:00,Cádiz,3-1,?,Ponferradina
+2,Fri Aug 23 2019,22:00,Albacete,1-0,?,Girona
+2,Sat Aug 24 2019,18:00,Oviedo,1-1,?,Lugo
+2,Sat Aug 24 2019,18:00,Santander,1-1,?,Almería
+2,Sat Aug 24 2019,19:00,CD Mirandés,1-2,?,Cádiz
+2,Sat Aug 24 2019,20:00,Alcorcón,1-2,?,Elche
+2,Sat Aug 24 2019,21:00,Málaga,1-1,?,Las Palmas
+2,Sun Aug 25 2019,18:00,Ponferradina,1-1,?,Zaragoza
+2,Sun Aug 25 2019,18:00,Sporting Gijón,1-1,?,Rayo Vallecano
+2,Sun Aug 25 2019,19:00,Huesca,3-1,?,La Coruña
+2,Sun Aug 25 2019,19:00,Tenerife,3-2,?,Numancia
+2,Sun Aug 25 2019,21:00,Extremadura UD,1-2,?,Fuenlabrada
+3,Fri Aug 30 2019,21:00,Zaragoza,1-0,?,Elche
+3,Sat Aug 31 2019,18:00,Numancia,2-0,?,CD Mirandés
+3,Sat Aug 31 2019,18:00,Fuenlabrada,2-1,?,Oviedo
+3,Sat Aug 31 2019,20:00,Almería,1-0,?,Huesca
+3,Sat Aug 31 2019,20:00,Las Palmas,2-2,?,Santander
+3,Sun Sep 1 2019,18:00,Lugo,2-4,?,Alcorcón
+3,Sun Sep 1 2019,18:00,Rayo Vallecano,3-1,?,La Coruña
+3,Sun Sep 1 2019,18:00,Sporting Gijón,2-0,?,Albacete
+3,Sun Sep 1 2019,19:00,Girona,1-0,?,Málaga
+3,Sun Sep 1 2019,20:00,Ponferradina,4-0,?,Tenerife
+3,Sun Sep 1 2019,21:00,Cádiz,2-1,?,Extremadura UD
+4,Fri Sep 6 2019,21:00,Santander,1-2,?,Cádiz
+4,Sat Sep 7 2019,16:00,La Coruña,0-1,?,Albacete
+4,Sat Sep 7 2019,18:00,Málaga,0-1,?,Almería
+4,Sat Sep 7 2019,20:00,Extremadura UD,0-0,?,Numancia
+4,Sat Sep 7 2019,20:00,Fuenlabrada,1-1,?,Ponferradina
+4,Sat Sep 7 2019,20:00,Tenerife,0-0,?,Las Palmas
+4,Sun Sep 8 2019,12:00,Huesca,1-0,?,Sporting Gijón
+4,Sun Sep 8 2019,16:00,Girona,3-1,?,Rayo Vallecano
+4,Sun Sep 8 2019,18:00,CD Mirandés,2-1,?,Oviedo
+4,Sun Sep 8 2019,18:00,Elche,1-1,?,Lugo
+4,Sun Sep 8 2019,18:30,Alcorcón,0-3,?,Zaragoza
+5,Fri Sep 13 2019,21:00,Rayo Vallecano,2-0,?,Santander
+5,Sat Sep 14 2019,16:00,Numancia,1-0,?,Huesca
+5,Sat Sep 14 2019,16:00,CD Mirandés,1-1,?,Málaga
+5,Sat Sep 14 2019,17:30,Las Palmas,0-3,?,Almería
+5,Sat Sep 14 2019,20:30,Cádiz,2-0,?,Girona
+5,Sat Sep 14 2019,20:30,Ponferradina,1-1,?,Alcorcón
+5,Sun Sep 15 2019,12:00,Albacete,0-4,?,Tenerife
+5,Sun Sep 15 2019,16:00,Oviedo,0-2,?,Elche
+5,Sun Sep 15 2019,18:00,Zaragoza,3-1,?,Extremadura UD
+5,Sun Sep 15 2019,20:00,Lugo,2-0,?,Fuenlabrada
+5,Sun Sep 15 2019,21:00,Sporting Gijón,1-1,?,La Coruña
+6,Tue Sep 17 2019,19:00,Málaga,1-1,?,Rayo Vallecano
+6,Tue Sep 17 2019,19:00,Almería,3-1,?,Girona
+6,Tue Sep 17 2019,19:00,Santander,4-0,?,CD Mirandés
+6,Tue Sep 17 2019,21:00,Alcorcón,3-0,?,Cádiz
+6,Wed Sep 18 2019,19:00,Lugo,2-2,?,Ponferradina
+6,Wed Sep 18 2019,19:00,Huesca,0-1,?,Albacete
+6,Wed Sep 18 2019,21:00,La Coruña,3-3,?,Numancia
+6,Thu Sep 19 2019,19:00,Elche,1-1,?,Tenerife
+6,Thu Sep 19 2019,19:00,Oviedo,1-1,?,Extremadura UD
+6,Thu Sep 19 2019,21:00,Las Palmas,1-0,?,Sporting Gijón
+7,Fri Sep 20 2019,21:00,CD Mirandés,2-2,?,Alcorcón
+7,Sat Sep 21 2019,16:00,Cádiz,0-0,?,La Coruña
+7,Sat Sep 21 2019,18:00,Zaragoza,0-0,?,Lugo
+7,Sat Sep 21 2019,20:00,Rayo Vallecano,1-1,?,Almería
+7,Sat Sep 21 2019,20:30,Albacete,1-0,?,Málaga
+7,Sun Sep 22 2019,12:00,Ponferradina,2-1,?,Oviedo
+7,Sun Sep 22 2019,16:00,Girona,1-0,?,Las Palmas
+7,Sun Sep 22 2019,18:00,Sporting Gijón,1-1,?,Santander
+7,Sun Sep 22 2019,18:00,Numancia,1-1,?,Elche
+7,Sun Sep 22 2019,19:00,Tenerife,0-1,?,Fuenlabrada
+7,Sun Sep 22 2019,20:00,Extremadura UD,0-1,?,Huesca
+8,Fri Sep 27 2019,20:00,Las Palmas,3-2,?,Albacete
+8,Sat Sep 28 2019,16:00,Fuenlabrada,2-2,?,Rayo Vallecano
+8,Sat Sep 28 2019,18:00,Huesca,1-0,?,Girona
+8,Sat Sep 28 2019,18:00,Alcorcón,0-2,?,Extremadura UD
+8,Sat Sep 28 2019,20:00,Elche,1-0,?,Ponferradina
+8,Sat Sep 28 2019,20:00,Santander,0-0,?,Numancia
+8,Sun Sep 29 2019,12:00,Málaga,0-0,?,Sporting Gijón
+8,Sun Sep 29 2019,16:00,Almería,1-2,?,Cádiz
+8,Sun Sep 29 2019,18:30,Oviedo,2-2,?,Zaragoza
+8,Sun Sep 29 2019,21:00,La Coruña,1-1,?,CD Mirandés
+8,Sun Sep 29 2019,21:00,Lugo,1-4,?,Tenerife
+9,Tue Oct 1 2019,19:00,Albacete,0-0,?,Santander
+9,Tue Oct 1 2019,19:00,Numancia,1-0,?,Fuenlabrada
+9,Tue Oct 1 2019,19:00,Extremadura UD,2-0,?,Elche
+9,Tue Oct 1 2019,21:00,Rayo Vallecano,1-1,?,Alcorcón
+9,Wed Oct 2 2019,19:00,Cádiz,1-0,?,Huesca
+9,Wed Oct 2 2019,19:00,CD Mirandés,1-1,?,Lugo
+9,Wed Oct 2 2019,20:00,Tenerife,0-1,?,Oviedo
+9,Wed Oct 2 2019,21:00,Ponferradina,0-2,?,Las Palmas
+9,Thu Oct 3 2019,19:00,Sporting Gijón,4-2,?,Almería
+9,Thu Oct 3 2019,19:00,Zaragoza,2-2,?,Málaga
+9,Thu Oct 3 2019,21:00,Girona,3-1,?,La Coruña
+10,Fri Oct 4 2019,21:00,Alcorcón,0-1,?,Albacete
+10,Sat Oct 5 2019,16:00,Lugo,0-2,?,Las Palmas
+10,Sat Oct 5 2019,18:00,Elche,1-1,?,Rayo Vallecano
+10,Sat Oct 5 2019,20:00,Ponferradina,2-0,?,CD Mirandés
+10,Sat Oct 5 2019,19:30,Tenerife,1-2,?,Extremadura UD
+10,Sun Oct 6 2019,12:00,Fuenlabrada,2-0,?,Sporting Gijón
+10,Sun Oct 6 2019,16:00,Zaragoza,0-2,?,Cádiz
+10,Sun Oct 6 2019,16:00,Oviedo,1-1,?,Numancia
+10,Sun Oct 6 2019,18:30,La Coruña,0-0,?,Almería
+10,Sun Oct 6 2019,20:00,Huesca,2-0,?,Málaga
+10,Sun Oct 6 2019,20:30,Santander,0-3,?,Girona
+11,Fri Oct 11 2019,21:00,Rayo Vallecano,2-1,?,Tenerife
+11,Sat Oct 12 2019,12:00,Girona,0-2,?,Elche
+11,Sat Oct 12 2019,16:00,Sporting Gijón,1-3,?,Alcorcón
+11,Sat Oct 12 2019,16:00,Almería,0-0,?,Lugo
+11,Sat Oct 12 2019,18:00,Extremadura UD,1-1,?,Ponferradina
+11,Sat Oct 12 2019,18:00,Málaga,1-2,?,Cádiz
+11,Sun Oct 13 2019,12:00,CD Mirandés,2-1,?,Fuenlabrada
+11,Sun Oct 13 2019,16:00,Numancia,0-1,?,Zaragoza
+11,Sun Oct 13 2019,18:00,Albacete,1-2,?,Oviedo
+11,Sun Oct 13 2019,18:00,Huesca,1-1,?,Santander
+11,Sun Oct 13 2019,20:00,Las Palmas,3-0,?,La Coruña
+6,Wed Oct 16 2019,21:00,Fuenlabrada,2-1,?,Zaragoza
+12,Fri Oct 18 2019,21:00,Cádiz,2-0,?,Las Palmas
+12,Sat Oct 19 2019,16:00,Ponferradina,1-1,?,Numancia
+12,Sat Oct 19 2019,16:00,Alcorcón,2-2,?,Almería
+12,Sat Oct 19 2019,18:00,Elche,0-1,?,Sporting Gijón
+12,Sat Oct 19 2019,18:00,Lugo,3-2,?,Huesca
+12,Sat Oct 19 2019,20:00,Extremadura UD,0-3,?,Rayo Vallecano
+12,Sun Oct 20 2019,12:00,Fuenlabrada,0-1,?,Albacete
+12,Sun Oct 20 2019,16:00,La Coruña,0-2,?,Málaga
+12,Sun Oct 20 2019,17:00,Tenerife,3-3,?,Santander
+12,Sun Oct 20 2019,18:00,Oviedo,4-2,?,Girona
+12,Sun Oct 20 2019,21:00,Zaragoza,1-2,?,CD Mirandés
+13,Fri Oct 25 2019,21:00,Albacete,1-0,?,Cádiz
+13,Sat Oct 26 2019,16:00,Rayo Vallecano,1-3,?,Ponferradina
+13,Sat Oct 26 2019,18:00,CD Mirandés,0-0,?,Tenerife
+13,Sat Oct 26 2019,18:00,Santander,1-1,?,La Coruña
+13,Sat Oct 26 2019,20:00,Numancia,3-1,?,Lugo
+13,Sat Oct 26 2019,20:00,Málaga,2-1,?,Oviedo
+13,Sun Oct 27 2019,12:00,Girona,0-0,?,Alcorcón
+13,Sun Oct 27 2019,16:00,Sporting Gijón,4-0,?,Zaragoza
+13,Sun Oct 27 2019,17:00,Las Palmas,1-3,?,Fuenlabrada
+13,Sun Oct 27 2019,18:00,Huesca,2-0,?,Elche
+13,Sun Oct 27 2019,21:00,Almería,3-2,?,Extremadura UD
+14,Fri Nov 1 2019,12:00,Numancia,1-0,?,Albacete
+14,Fri Nov 1 2019,16:00,Cádiz,3-1,?,Sporting Gijón
+14,Fri Nov 1 2019,18:30,Ponferradina,1-0,?,Málaga
+14,Fri Nov 1 2019,21:00,Oviedo,0-0,?,Almería
+14,Sat Nov 2 2019,16:00,Fuenlabrada,1-1,?,La Coruña
+14,Sat Nov 2 2019,18:00,Alcorcón,1-0,?,Santander
+14,Sat Nov 2 2019,19:00,Tenerife,0-0,?,Huesca
+14,Sun Nov 3 2019,12:00,Extremadura UD,1-3,?,Girona
+14,Sun Nov 3 2019,16:00,Lugo,1-0,?,Rayo Vallecano
+14,Sun Nov 3 2019,18:30,Zaragoza,3-0,?,Las Palmas
+14,Sun Nov 3 2019,20:00,Elche,4-2,?,CD Mirandés
+15,Fri Nov 8 2019,21:00,Girona,1-0,?,Tenerife
+15,Sat Nov 9 2019,16:00,Huesca,3-1,?,Oviedo
+15,Sat Nov 9 2019,16:00,CD Mirandés,2-0,?,Extremadura UD
+15,Sat Nov 9 2019,18:00,Sporting Gijón,0-1,?,Numancia
+15,Sat Nov 9 2019,18:00,Albacete,0-1,?,Lugo
+15,Sat Nov 9 2019,19:00,Las Palmas,1-1,?,Alcorcón
+15,Sun Nov 10 2019,12:00,La Coruña,1-3,?,Elche
+15,Sun Nov 10 2019,16:00,Almería,1-1,?,Zaragoza
+15,Sun Nov 10 2019,18:00,Santander,2-2,?,Ponferradina
+15,Sun Nov 10 2019,18:00,Málaga,0-0,?,Fuenlabrada
+15,Sun Nov 10 2019,21:00,Rayo Vallecano,1-1,?,Cádiz
+16,Sat Nov 16 2019,13:00,Fuenlabrada,3-2,?,Huesca
+16,Sat Nov 16 2019,16:00,Extremadura UD,2-0,?,La Coruña
+16,Sat Nov 16 2019,18:30,Elche,1-1,?,Almería
+16,Sat Nov 16 2019,18:30,Numancia,2-2,?,Rayo Vallecano
+16,Sat Nov 16 2019,21:00,Zaragoza,0-1,?,Albacete
+16,Sun Nov 17 2019,12:00,Ponferradina,1-1,?,Girona
+16,Sun Nov 17 2019,14:00,Alcorcón,1-0,?,Málaga
+16,Sun Nov 17 2019,16:00,Oviedo,0-0,?,Sporting Gijón
+16,Sun Nov 17 2019,18:30,Lugo,1-1,?,Santander
+16,Sun Nov 17 2019,18:30,CD Mirandés,2-1,?,Las Palmas
+16,Sun Nov 17 2019,20:00,Tenerife,1-1,?,Cádiz
+17,Fri Nov 22 2019,21:00,Sporting Gijón,0-2,?,Tenerife
+17,Sat Nov 23 2019,16:00,Rayo Vallecano,0-1,?,Zaragoza
+17,Sat Nov 23 2019,18:00,Santander,3-0,?,Extremadura UD
+17,Sat Nov 23 2019,18:00,La Coruña,0-0,?,Alcorcón
+17,Sat Nov 23 2019,20:00,Huesca,2-0,?,Ponferradina
+17,Sun Nov 24 2019,12:00,Almería,2-0,?,Numancia
+17,Sun Nov 24 2019,16:00,Albacete,1-2,?,CD Mirandés
+17,Sun Nov 24 2019,16:00,Málaga,3-3,?,Elche
+17,Sun Nov 24 2019,17:00,Las Palmas,3-1,?,Oviedo
+17,Sun Nov 24 2019,18:00,Girona,2-0,?,Fuenlabrada
+17,Sun Nov 24 2019,21:00,Cádiz,2-1,?,Lugo
+18,Fri Nov 29 2019,21:00,Numancia,0-0,?,Málaga
+18,Sat Nov 30 2019,16:00,Alcorcón,0-2,?,Huesca
+18,Sat Nov 30 2019,16:00,CD Mirandés,0-0,?,Sporting Gijón
+18,Sat Nov 30 2019,17:00,Tenerife,1-3,?,Almería
+18,Sat Nov 30 2019,18:00,Ponferradina,1-1,?,Albacete
+18,Sat Nov 30 2019,21:00,Zaragoza,3-3,?,Girona
+18,Sun Dec 1 2019,12:00,Fuenlabrada,1-0,?,Cádiz
+18,Sun Dec 1 2019,16:00,Oviedo,2-1,?,Rayo Vallecano
+18,Sun Dec 1 2019,18:00,Lugo,0-0,?,La Coruña
+18,Sun Dec 1 2019,18:00,Elche,2-0,?,Santander
+18,Sun Dec 1 2019,20:00,Extremadura UD,0-1,?,Las Palmas
+19,Fri Dec 6 2019,12:00,Albacete,1-1,?,Extremadura UD
+19,Fri Dec 6 2019,16:00,Santander,2-2,?,Fuenlabrada
+19,Fri Dec 6 2019,18:30,Alcorcón,1-3,?,Oviedo
+19,Fri Dec 6 2019,21:00,Málaga,2-0,?,Tenerife
+19,Sat Dec 7 2019,16:00,Huesca,0-2,?,Rayo Vallecano
+19,Sat Dec 7 2019,18:00,Sporting Gijón,1-0,?,Ponferradina
+19,Sat Dec 7 2019,20:00,Almería,3-1,?,CD Mirandés
+19,Sun Dec 8 2019,12:00,Girona,3-1,?,Lugo
+19,Sun Dec 8 2019,16:00,La Coruña,1-3,?,Zaragoza
+19,Sun Dec 8 2019,17:00,Las Palmas,3-1,?,Numancia
+19,Sun Dec 8 2019,21:00,Cádiz,0-0,?,Elche
+20,Fri Dec 13 2019,21:00,Numancia,2-0,?,Girona
+20,Sat Dec 14 2019,16:00,CD Mirandés,2-0,?,Huesca
+20,Sat Dec 14 2019,17:00,Tenerife,0-0,?,Alcorcón
+20,Sat Dec 14 2019,18:00,Ponferradina,2-0,?,La Coruña
+20,Sat Dec 14 2019,21:00,Zaragoza,2-0,?,Santander
+20,Sun Dec 15 2019,12:00,Extremadura UD,0-0,?,Málaga
+20,Sun Dec 15 2019,16:00,Oviedo,0-2,?,Cádiz
+20,Sun Dec 15 2019,18:00,Lugo,1-2,?,Sporting Gijón
+20,Sun Dec 15 2019,18:00,Elche,2-3,?,Las Palmas
+20,Sun Dec 15 2019,20:00,Fuenlabrada,2-2,?,Almería
+21,Fri Dec 20 2019,21:00,La Coruña,2-1,?,Tenerife
+21,Sat Dec 21 2019,16:00,Albacete,0-1,?,Elche
+21,Sat Dec 21 2019,16:00,Málaga,1-1,?,Lugo
+21,Sat Dec 21 2019,17:00,Las Palmas,1-1,?,Rayo Vallecano
+21,Sat Dec 21 2019,18:00,Sporting Gijón,0-1,?,Extremadura UD
+21,Sat Dec 21 2019,20:00,Santander,1-1,?,Oviedo
+21,Sat Dec 21 2019,21:00,Cádiz,2-4,?,Numancia
+21,Sun Dec 22 2019,12:00,Almería,2-3,?,Ponferradina
+21,Sun Dec 22 2019,16:00,Huesca,2-1,?,Zaragoza
+21,Sun Dec 22 2019,18:00,Alcorcón,1-1,?,Fuenlabrada
+21,Sun Dec 22 2019,20:00,Girona,0-3,?,CD Mirandés
+22,Fri Jan 3 2020,19:00,Extremadura UD,0-0,?,Alcorcón
+22,Sat Jan 4 2020,13:00,Fuenlabrada,0-0,?,Las Palmas
+22,Sat Jan 4 2020,16:00,Ponferradina,0-0,?,Cádiz
+22,Sat Jan 4 2020,17:00,Tenerife,4-2,?,Albacete
+22,Sat Jan 4 2020,18:00,Lugo,0-4,?,Almería
+22,Sat Jan 4 2020,20:00,CD Mirandés,0-0,?,Santander
+22,Sat Jan 4 2020,20:00,Elche,1-1,?,Huesca
+22,Sun Jan 5 2020,12:00,Numancia,0-1,?,La Coruña
+22,Sun Jan 5 2020,16:00,Rayo Vallecano,1-0,?,Girona
+22,Sun Jan 5 2020,21:00,Oviedo,1-1,?,Málaga
+22,Tue Jan 7 2020,21:00,Zaragoza,2-0,?,Sporting Gijón
+23,Tue Jan 14 2020,19:00,Albacete,1-1,?,Fuenlabrada
+23,Tue Jan 14 2020,19:00,Sporting Gijón,1-0,?,Elche
+23,Tue Jan 14 2020,20:00,Málaga,1-0,?,Ponferradina
+23,Tue Jan 14 2020,20:30,Las Palmas,0-1,?,Zaragoza
+23,Wed Jan 15 2020,19:00,Huesca,2-1,?,Tenerife
+23,Wed Jan 15 2020,19:00,Alcorcón,2-2,?,Numancia
+23,Wed Jan 15 2020,20:00,Rayo Vallecano,1-0,?,Lugo
+23,Wed Jan 15 2020,21:00,Cádiz,3-3,?,CD Mirandés
+23,Thu Jan 16 2020,19:00,La Coruña,2-1,?,Santander
+23,Thu Jan 16 2020,20:00,Girona,3-1,?,Extremadura UD
+23,Thu Jan 16 2020,21:00,Almería,2-0,?,Oviedo
+24,Fri Jan 17 2020,21:00,Fuenlabrada,0-0,?,Málaga
+24,Sat Jan 18 2020,16:00,Numancia,2-0,?,Sporting Gijón
+24,Sat Jan 18 2020,18:15,Lugo,1-0,?,Albacete
+24,Sat Jan 18 2020,18:15,Ponferradina,1-1,?,Rayo Vallecano
+24,Sun Jan 19 2020,12:00,Elche,1-1,?,Alcorcón
+24,Sun Jan 19 2020,16:00,La Coruña,1-0,?,Cádiz
+24,Sun Jan 19 2020,18:15,Santander,1-1,?,Las Palmas
+24,Sun Jan 19 2020,18:15,Oviedo,1-1,?,Huesca
+24,Sun Jan 19 2020,19:30,Tenerife,1-0,?,Girona
+24,Sun Jan 19 2020,20:30,Extremadura UD,1-2,?,Almería
+25,Fri Jan 24 2020,21:00,Cádiz,1-0,?,Santander
+25,Sat Jan 25 2020,16:00,Sporting Gijón,1-0,?,Fuenlabrada
+25,Sat Jan 25 2020,16:00,Huesca,2-1,?,Lugo
+25,Sat Jan 25 2020,17:15,Las Palmas,0-0,?,Tenerife
+25,Sat Jan 25 2020,21:00,Zaragoza,1-0,?,Numancia
+25,Sun Jan 26 2020,12:00,Málaga,2-2,?,CD Mirandés
+25,Sun Jan 26 2020,16:00,Albacete,0-1,?,La Coruña
+25,Sun Jan 26 2020,16:00,Almería,0-2,?,Elche
+25,Sun Jan 26 2020,18:15,Alcorcón,3-1,?,Ponferradina
+25,Sun Jan 26 2020,18:15,Rayo Vallecano,1-1,?,Extremadura UD
+25,Sun Jan 26 2020,20:30,Girona,1-1,?,Oviedo
+26,Fri Jan 31 2020,20:00,Tenerife,2-1,?,Sporting Gijón
+26,Sat Feb 1 2020,16:00,Extremadura UD,1-0,?,Lugo
+26,Sat Feb 1 2020,18:15,La Coruña,2-1,?,Las Palmas
+26,Sat Feb 1 2020,18:15,Ponferradina,3-1,?,Huesca
+26,Sat Feb 1 2020,21:00,Elche,2-0,?,Málaga
+26,Sun Feb 2 2020,12:00,Fuenlabrada,0-1,?,Girona
+26,Sun Feb 2 2020,16:00,Cádiz,1-1,?,Zaragoza
+26,Sun Feb 2 2020,18:15,Numancia,1-1,?,Almería
+26,Sun Feb 2 2020,18:15,CD Mirandés,0-0,?,Rayo Vallecano
+26,Sun Feb 2 2020,20:30,Santander,1-1,?,Alcorcón
+26,Sun Feb 2 2020,20:30,Oviedo,3-1,?,Albacete
+27,Fri Feb 7 2020,21:00,Almería,0-1,?,Santander
+27,Sat Feb 8 2020,16:00,Girona,1-0,?,Huesca
+27,Sat Feb 8 2020,16:00,Extremadura UD,2-4,?,Tenerife
+27,Sat Feb 8 2020,17:15,Las Palmas,1-2,?,Cádiz
+27,Sat Feb 8 2020,21:00,Zaragoza,0-0,?,Fuenlabrada
+27,Sun Feb 9 2020,12:00,Albacete,1-1,?,Ponferradina
+27,Sun Feb 9 2020,12:00,Alcorcón,0-1,?,La Coruña
+27,Sun Feb 9 2020,16:00,Sporting Gijón,2-2,?,CD Mirandés
+27,Sun Feb 9 2020,18:15,Rayo Vallecano,1-1,?,Oviedo
+27,Sun Feb 9 2020,18:15,Lugo,2-2,?,Elche
+27,Sun Feb 9 2020,20:30,Málaga,2-1,?,Numancia
+28,Fri Feb 14 2020,21:00,La Coruña,2-2,?,Girona
+28,Sat Feb 15 2020,16:00,Huesca,3-2,?,Almería
+28,Sat Feb 15 2020,18:15,Numancia,1-1,?,Las Palmas
+28,Sat Feb 15 2020,18:15,Oviedo,1-2,?,Alcorcón
+28,Sat Feb 15 2020,21:00,Elche,1-2,?,Zaragoza
+28,Sun Feb 16 2020,12:00,CD Mirandés,1-1,?,Albacete
+28,Sun Feb 16 2020,12:00,Fuenlabrada,0-1,?,Lugo
+28,Sun Feb 16 2020,16:00,Cádiz,0-1,?,Málaga
+28,Sun Feb 16 2020,18:15,Santander,0-2,?,Sporting Gijón
+28,Sun Feb 16 2020,18:15,Ponferradina,0-0,?,Extremadura UD
+28,Sun Feb 16 2020,19:30,Tenerife,0-0,?,Rayo Vallecano
+24,Wed Feb 19 2020,21:00,CD Mirandés,1-1,?,Zaragoza
+29,Fri Feb 21 2020,21:00,Sporting Gijón,1-0,?,Cádiz
+29,Sat Feb 22 2020,16:00,Almería,0-0,?,Fuenlabrada
+29,Sat Feb 22 2020,16:00,Alcorcón,1-1,?,Las Palmas
+29,Sat Feb 22 2020,17:15,Tenerife,1-0,?,Elche
+29,Sat Feb 22 2020,18:15,Girona,2-0,?,Ponferradina
+29,Sat Feb 22 2020,20:30,Albacete,2-1,?,Numancia
+29,Sun Feb 23 2020,12:00,Lugo,1-0,?,Oviedo
+29,Sun Feb 23 2020,16:00,Zaragoza,3-1,?,La Coruña
+29,Sun Feb 23 2020,18:15,Málaga,2-0,?,Santander
+29,Sun Feb 23 2020,18:15,Extremadura UD,3-2,?,CD Mirandés
+29,Sun Feb 23 2020,21:00,Rayo Vallecano,2-0,?,Huesca
+30,Fri Feb 28 2020,20:00,Las Palmas,1-1,?,Málaga
+30,Sat Feb 29 2020,16:00,Huesca,2-2,?,Extremadura UD
+30,Sat Feb 29 2020,16:00,Ponferradina,1-0,?,Sporting Gijón
+30,Sat Feb 29 2020,18:15,Cádiz,2-1,?,Almería
+30,Sat Feb 29 2020,20:30,Albacete,1-1,?,Rayo Vallecano
+30,Sat Feb 29 2020,21:00,Santander,2-2,?,Zaragoza
+30,Sun Mar 1 2020,12:00,CD Mirandés,1-1,?,Girona
+30,Sun Mar 1 2020,16:00,La Coruña,0-0,?,Lugo
+30,Sun Mar 1 2020,16:00,Elche,2-0,?,Numancia
+30,Sun Mar 1 2020,18:15,Oviedo,1-0,?,Tenerife
+30,Sun Mar 1 2020,18:15,Fuenlabrada,3-4,?,Alcorcón
+31,Fri Mar 6 2020,21:00,Lugo,1-1,?,Cádiz
+31,Sat Mar 7 2020,16:00,Girona,1-1,?,Albacete
+31,Sat Mar 7 2020,16:00,Extremadura UD,1-2,?,Oviedo
+31,Sat Mar 7 2020,18:15,Numancia,1-2,?,Santander
+31,Sat Mar 7 2020,18:15,Huesca,2-0,?,Fuenlabrada
+31,Sat Mar 7 2020,21:00,Almería,4-0,?,La Coruña
+31,Sun Mar 8 2020,12:00,Rayo Vallecano,2-3,?,Elche
+31,Sun Mar 8 2020,16:00,Málaga,0-1,?,Zaragoza
+31,Sun Mar 8 2020,18:15,Alcorcón,1-2,?,CD Mirandés
+31,Sun Mar 8 2020,18:15,Sporting Gijón,4-0,?,Las Palmas
+31,Sun Mar 8 2020,19:30,Tenerife,1-0,?,Ponferradina
+20,Wed Jun 10 2020,20:00,Rayo Vallecano,1-0,?,Albacete
+32,Fri Jun 12 2020,19:30,Elche,1-1,?,Extremadura UD
+32,Fri Jun 12 2020,19:30,Málaga,1-3,?,Huesca
+32,Fri Jun 12 2020,19:30,Fuenlabrada,1-0,?,Tenerife
+32,Fri Jun 12 2020,21:45,Oviedo,0-0,?,Ponferradina
+32,Sat Jun 13 2020,17:00,Santander,1-2,?,Lugo
+32,Sat Jun 13 2020,18:30,Las Palmas,0-0,?,Girona
+32,Sat Jun 13 2020,21:30,Zaragoza,1-3,?,Alcorcón
+32,Sun Jun 14 2020,17:00,La Coruña,0-0,?,Sporting Gijón
+32,Sun Jun 14 2020,17:00,CD Mirandés,2-1,?,Numancia
+32,Sun Jun 14 2020,19:30,Albacete,0-1,?,Almería
+32,Sun Jun 14 2020,21:30,Cádiz,1-1,?,Rayo Vallecano
+33,Mon Jun 15 2020,19:30,Ponferradina,2-1,?,Elche
+33,Mon Jun 15 2020,20:30,Tenerife,0-0,?,Málaga
+33,Tue Jun 16 2020,19:30,Lugo,1-3,?,Zaragoza
+33,Tue Jun 16 2020,21:45,Girona,0-0,?,Santander
+33,Wed Jun 17 2020,19:30,Extremadura UD,0-1,?,Albacete
+33,Wed Jun 17 2020,19:30,Almería,0-1,?,Las Palmas
+33,Wed Jun 17 2020,19:30,Oviedo,2-2,?,La Coruña
+33,Wed Jun 17 2020,21:45,Rayo Vallecano,1-0,?,Fuenlabrada
+33,Thu Jun 18 2020,19:30,Huesca,1-2,?,CD Mirandés
+33,Thu Jun 18 2020,19:30,Numancia,1-2,?,Cádiz
+33,Thu Jun 18 2020,21:45,Alcorcón,0-2,?,Sporting Gijón
+34,Fri Jun 19 2020,19:30,Elche,1-0,?,Girona
+34,Sat Jun 20 2020,17:00,La Coruña,3-3,?,Rayo Vallecano
+34,Sat Jun 20 2020,18:30,Las Palmas,1-0,?,Lugo
+34,Sat Jun 20 2020,19:30,Zaragoza,0-2,?,Almería
+34,Sat Jun 20 2020,21:45,Málaga,1-1,?,Extremadura UD
+34,Sun Jun 21 2020,17:00,CD Mirandés,1-2,?,Ponferradina
+34,Sun Jun 21 2020,17:00,Santander,1-2,?,Tenerife
+34,Sun Jun 21 2020,19:30,Cádiz,1-1,?,Alcorcón
+34,Sun Jun 21 2020,19:30,Albacete,2-2,?,Huesca
+34,Sun Jun 21 2020,21:45,Fuenlabrada,2-0,?,Numancia
+34,Mon Jun 22 2020,21:45,Sporting Gijón,0-1,?,Oviedo
+35,Tue Jun 23 2020,19:30,Lugo,0-0,?,Málaga
+35,Tue Jun 23 2020,19:30,Elche,0-1,?,La Coruña
+35,Tue Jun 23 2020,21:45,Extremadura UD,1-2,?,Zaragoza
+35,Wed Jun 24 2020,18:30,Tenerife,4-1,?,CD Mirandés
+35,Wed Jun 24 2020,19:30,Girona,2-0,?,Numancia
+35,Wed Jun 24 2020,19:30,Huesca,1-1,?,Cádiz
+35,Wed Jun 24 2020,21:45,Ponferradina,1-1,?,Santander
+35,Wed Jun 24 2020,21:45,Albacete,0-0,?,Las Palmas
+35,Thu Jun 25 2020,19:30,Rayo Vallecano,1-1,?,Sporting Gijón
+35,Thu Jun 25 2020,19:30,Almería,0-1,?,Alcorcón
+35,Thu Jun 25 2020,21:45,Oviedo,0-0,?,Fuenlabrada
+36,Sat Jun 27 2020,17:00,La Coruña,,,Ponferradina
+36,Sat Jun 27 2020,18:30,Las Palmas,,,Elche
+36,Sat Jun 27 2020,19:30,Cádiz,,,Tenerife
+36,Sat Jun 27 2020,21:45,Santander,,,Albacete
+36,Sun Jun 28 2020,17:00,CD Mirandés,,,Almería
+36,Sun Jun 28 2020,17:00,Sporting Gijón,,,Lugo
+36,Sun Jun 28 2020,19:30,Numancia,,,Oviedo
+36,Sun Jun 28 2020,19:30,Málaga,,,Girona
+36,Sun Jun 28 2020,21:45,Fuenlabrada,,,Extremadura UD
+36,Mon Jun 29 2020,19:30,Alcorcón,,,Rayo Vallecano
+36,Mon Jun 29 2020,21:45,Zaragoza,,,Huesca
+37,Tue Jun 30 2020,18:30,Tenerife,,,La Coruña
+37,Tue Jun 30 2020,21:45,Elche,,,Cádiz
+37,Wed Jul 1 2020,19:30,Almería,,,Sporting Gijón
+37,Wed Jul 1 2020,19:30,Oviedo,,,CD Mirandés
+37,Wed Jul 1 2020,19:30,Lugo,,,Numancia
+37,Wed Jul 1 2020,21:45,Extremadura UD,,,Santander
+37,Wed Jul 1 2020,21:45,Ponferradina,,,Fuenlabrada
+37,Thu Jul 2 2020,19:30,Albacete,,,Alcorcón
+37,Thu Jul 2 2020,19:30,Huesca,,,Las Palmas
+37,Thu Jul 2 2020,21:45,Rayo Vallecano,,,Málaga
+37,Fri Jul 3 2020,19:30,Girona,,,Zaragoza
+38,Sat Jul 4 2020,17:00,Numancia,,,Extremadura UD
+38,Sat Jul 4 2020,17:00,Santander,,,Elche
+38,Sat Jul 4 2020,19:30,Almería,,,Tenerife
+38,Sat Jul 4 2020,21:45,Fuenlabrada,,,CD Mirandés
+38,Sat Jul 4 2020,21:45,Cádiz,,,Oviedo
+38,Sun Jul 5 2020,17:00,La Coruña,,,Huesca
+38,Sun Jul 5 2020,18:30,Las Palmas,,,Ponferradina
+38,Sun Jul 5 2020,19:30,Málaga,,,Albacete
+38,Sun Jul 5 2020,21:45,Alcorcón,,,Lugo
+38,Mon Jul 6 2020,19:30,Sporting Gijón,,,Girona
+38,Mon Jul 6 2020,21:45,Zaragoza,,,Rayo Vallecano
+39,Wed Jul 8 2020,?,Fuenlabrada,,,Santander
+39,Wed Jul 8 2020,?,CD Mirandés,,,Elche
+39,Wed Jul 8 2020,?,Ponferradina,,,Lugo
+39,Wed Jul 8 2020,?,Albacete,,,Sporting Gijón
+39,Wed Jul 8 2020,?,Málaga,,,La Coruña
+39,Wed Jul 8 2020,?,Extremadura UD,,,Cádiz
+39,Wed Jul 8 2020,?,Huesca,,,Alcorcón
+39,Wed Jul 8 2020,?,Rayo Vallecano,,,Numancia
+39,Wed Jul 8 2020,?,Tenerife,,,Zaragoza
+39,Wed Jul 8 2020,?,Girona,,,Almería
+39,Wed Jul 8 2020,?,Oviedo,,,Las Palmas
+40,Sun Jul 12 2020,?,Numancia,,,Ponferradina
+40,Sun Jul 12 2020,?,Las Palmas,,,CD Mirandés
+40,Sun Jul 12 2020,?,Elche,,,Albacete
+40,Sun Jul 12 2020,?,Santander,,,Huesca
+40,Sun Jul 12 2020,?,Sporting Gijón,,,Málaga
+40,Sun Jul 12 2020,?,Alcorcón,,,Tenerife
+40,Sun Jul 12 2020,?,Zaragoza,,,Oviedo
+40,Sun Jul 12 2020,?,Cádiz,,,Fuenlabrada
+40,Sun Jul 12 2020,?,Almería,,,Rayo Vallecano
+40,Sun Jul 12 2020,?,La Coruña,,,Extremadura UD
+40,Sun Jul 12 2020,?,Lugo,,,Girona
+41,Wed Jul 15 2020,?,Extremadura UD,,,Sporting Gijón
+41,Wed Jul 15 2020,?,Girona,,,Cádiz
+41,Wed Jul 15 2020,?,Rayo Vallecano,,,Las Palmas
+41,Wed Jul 15 2020,?,CD Mirandés,,,La Coruña
+41,Wed Jul 15 2020,?,Tenerife,,,Lugo
+41,Wed Jul 15 2020,?,Ponferradina,,,Almería
+41,Wed Jul 15 2020,?,Oviedo,,,Santander
+41,Wed Jul 15 2020,?,Málaga,,,Alcorcón
+41,Wed Jul 15 2020,?,Huesca,,,Numancia
+41,Wed Jul 15 2020,?,Fuenlabrada,,,Elche
+41,Wed Jul 15 2020,?,Albacete,,,Zaragoza
+42,Sun Jul 19 2020,?,La Coruña,,,Fuenlabrada
+42,Sun Jul 19 2020,?,Almería,,,Málaga
+42,Sun Jul 19 2020,?,Cádiz,,,Albacete
+42,Sun Jul 19 2020,?,Zaragoza,,,Ponferradina
+42,Sun Jul 19 2020,?,Sporting Gijón,,,Huesca
+42,Sun Jul 19 2020,?,Elche,,,Oviedo
+42,Sun Jul 19 2020,?,Santander,,,Rayo Vallecano
+42,Sun Jul 19 2020,?,Numancia,,,Tenerife
+42,Sun Jul 19 2020,?,Lugo,,,CD Mirandés
+42,Sun Jul 19 2020,?,Alcorcón,,,Girona
+42,Sun Jul 19 2020,?,Las Palmas,,,Extremadura UD

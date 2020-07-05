@@ -1,0 +1,307 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 3 2018,20:30,Hamburger SV,0-3,?,Holstein Kiel
+1,Sat Aug 4 2018,13:00,Bochum,0-2,?,Köln
+1,Sat Aug 4 2018,15:30,Jahn R'burg,2-1,?,Ingolstadt 04
+1,Sat Aug 4 2018,15:30,Greuther Fürth,3-1,?,Sandhausen
+1,Sun Aug 5 2018,13:30,Magdeburg,1-2,?,St. Pauli
+1,Sun Aug 5 2018,15:30,Union Berlin,1-0,?,Erzgebirge Aue
+1,Sun Aug 5 2018,15:30,Heidenheim,1-1,?,Arminia
+1,Sun Aug 5 2018,15:30,Darmstadt 98,1-0,?,Paderborn 07
+1,Mon Aug 6 2018,20:30,Dynamo Dres,1-0,?,MSV Duisburg
+2,Fri Aug 10 2018,18:30,Ingolstadt 04,1-1,?,Greuther Fürth
+2,Fri Aug 10 2018,18:30,Paderborn 07,2-0,?,Jahn R'burg
+2,Fri Aug 10 2018,20:30,St. Pauli,2-0,?,Darmstadt 98
+2,Sat Aug 11 2018,13:00,MSV Duisburg,0-2,?,Bochum
+2,Sat Aug 11 2018,15:30,Arminia,2-1,?,Dynamo Dres
+2,Sun Aug 12 2018,13:30,Sandhausen,0-3,?,Hamburger SV
+2,Sun Aug 12 2018,15:30,Erzgebirge Aue,0-0,?,Magdeburg
+2,Sun Aug 12 2018,15:30,Holstein Kiel,1-1,?,Heidenheim
+2,Mon Aug 13 2018,20:30,Köln,1-1,?,Union Berlin
+3,Fri Aug 24 2018,18:30,Darmstadt 98,3-0,?,MSV Duisburg
+3,Fri Aug 24 2018,18:30,Bochum,1-0,?,Sandhausen
+3,Sat Aug 25 2018,13:00,Köln,3-1,?,Erzgebirge Aue
+3,Sat Aug 25 2018,13:00,Greuther Fürth,2-2,?,Paderborn 07
+3,Sat Aug 25 2018,13:00,Magdeburg,1-1,?,Ingolstadt 04
+3,Sun Aug 26 2018,13:30,Union Berlin,4-1,?,St. Pauli
+3,Sun Aug 26 2018,13:30,Jahn R'burg,0-0,?,Holstein Kiel
+3,Sun Aug 26 2018,13:30,Dynamo Dres,1-3,?,Heidenheim
+3,Mon Aug 27 2018,20:30,Hamburger SV,3-0,?,Arminia
+4,Fri Aug 31 2018,18:30,Paderborn 07,2-2,?,Bochum
+4,Fri Aug 31 2018,18:30,Ingolstadt 04,3-2,?,Erzgebirge Aue
+4,Sat Sep 1 2018,13:00,Arminia,5-3,?,Jahn R'burg
+4,Sat Sep 1 2018,13:00,MSV Duisburg,0-1,?,Greuther Fürth
+4,Sun Sep 2 2018,13:30,Heidenheim,0-1,?,Darmstadt 98
+4,Sun Sep 2 2018,13:30,St. Pauli,3-5,?,Köln
+4,Sun Sep 2 2018,13:30,Sandhausen,0-0,?,Union Berlin
+4,Mon Sep 3 2018,20:30,Holstein Kiel,2-1,?,Magdeburg
+5,Fri Sep 14 2018,18:30,Union Berlin,2-2,?,MSV Duisburg
+5,Fri Sep 14 2018,18:30,Jahn R'burg,0-2,?,Dynamo Dres
+5,Sat Sep 15 2018,13:00,Darmstadt 98,1-1,?,Sandhausen
+5,Sat Sep 15 2018,13:00,Hamburger SV,3-2,?,Heidenheim
+5,Sat Sep 15 2018,13:00,Greuther Fürth,4-1,?,Holstein Kiel
+5,Sun Sep 16 2018,13:30,Köln,3-5,?,Paderborn 07
+5,Sun Sep 16 2018,13:30,Bochum,6-0,?,Ingolstadt 04
+5,Sun Sep 16 2018,13:30,Erzgebirge Aue,3-1,?,St. Pauli
+5,Mon Sep 17 2018,20:30,Magdeburg,0-0,?,Arminia
+4,Tue Sep 18 2018,18:30,Dynamo Dres,0-1,?,Hamburger SV
+6,Fri Sep 21 2018,18:30,Sandhausen,0-2,?,Köln
+6,Fri Sep 21 2018,18:30,Ingolstadt 04,0-1,?,St. Pauli
+6,Sat Sep 22 2018,13:00,Holstein Kiel,2-2,?,Bochum
+6,Sat Sep 22 2018,13:00,Dynamo Dres,4-1,?,Darmstadt 98
+6,Sat Sep 22 2018,13:00,Arminia,1-1,?,Union Berlin
+6,Sun Sep 23 2018,13:30,Hamburger SV,0-5,?,Jahn R'burg
+6,Sun Sep 23 2018,13:30,MSV Duisburg,1-2,?,Erzgebirge Aue
+6,Sun Sep 23 2018,13:30,Heidenheim,2-0,?,Greuther Fürth
+6,Sun Sep 23 2018,13:30,Paderborn 07,4-4,?,Magdeburg
+7,Tue Sep 25 2018,18:30,Darmstadt 98,1-2,?,Arminia
+7,Tue Sep 25 2018,18:30,Köln,2-1,?,Ingolstadt 04
+7,Tue Sep 25 2018,18:30,Union Berlin,2-0,?,Holstein Kiel
+7,Tue Sep 25 2018,18:30,Bochum,0-1,?,Dynamo Dres
+7,Wed Sep 26 2018,18:30,Jahn R'burg,2-1,?,Heidenheim
+7,Wed Sep 26 2018,18:30,Magdeburg,3-3,?,MSV Duisburg
+7,Wed Sep 26 2018,18:30,St. Pauli,2-1,?,Paderborn 07
+7,Wed Sep 26 2018,18:30,Erzgebirge Aue,0-2,?,Sandhausen
+7,Thu Sep 27 2018,20:30,Greuther Fürth,0-0,?,Hamburger SV
+8,Fri Sep 28 2018,18:30,Holstein Kiel,4-2,?,Darmstadt 98
+8,Fri Sep 28 2018,18:30,Arminia,1-3,?,Köln
+8,Sat Sep 29 2018,13:00,Heidenheim,3-2,?,Bochum
+8,Sat Sep 29 2018,13:00,MSV Duisburg,1-3,?,Jahn R'burg
+8,Sat Sep 29 2018,13:00,Paderborn 07,1-0,?,Erzgebirge Aue
+8,Sun Sep 30 2018,13:30,Dynamo Dres,0-1,?,Greuther Fürth
+8,Sun Sep 30 2018,13:30,Hamburger SV,0-0,?,St. Pauli
+8,Sun Sep 30 2018,13:30,Sandhausen,0-1,?,Magdeburg
+8,Mon Oct 1 2018,20:30,Ingolstadt 04,1-2,?,Union Berlin
+9,Fri Oct 5 2018,18:30,Darmstadt 98,1-2,?,Hamburger SV
+9,Fri Oct 5 2018,18:30,Bochum,1-0,?,Arminia
+9,Sat Oct 6 2018,13:00,Erzgebirge Aue,2-1,?,Holstein Kiel
+9,Sat Oct 6 2018,13:00,Greuther Fürth,1-1,?,Jahn R'burg
+9,Sat Oct 6 2018,13:00,Magdeburg,2-2,?,Dynamo Dres
+9,Sun Oct 7 2018,13:30,Union Berlin,1-1,?,Heidenheim
+9,Sun Oct 7 2018,13:30,Ingolstadt 04,1-2,?,Paderborn 07
+9,Sun Oct 7 2018,13:30,St. Pauli,3-1,?,Sandhausen
+9,Mon Oct 8 2018,20:30,Köln,1-2,?,MSV Duisburg
+10,Fri Oct 19 2018,18:30,Sandhausen,4-0,?,Ingolstadt 04
+10,Fri Oct 19 2018,18:30,Dynamo Dres,1-1,?,Erzgebirge Aue
+10,Sat Oct 20 2018,13:00,Heidenheim,3-0,?,Magdeburg
+10,Sat Oct 20 2018,13:00,Holstein Kiel,1-1,?,Köln
+10,Sat Oct 20 2018,13:00,Arminia,2-3,?,Greuther Fürth
+10,Sun Oct 21 2018,13:30,Hamburger SV,0-0,?,Bochum
+10,Sun Oct 21 2018,13:30,Jahn R'burg,1-1,?,Darmstadt 98
+10,Sun Oct 21 2018,13:30,Paderborn 07,0-0,?,Union Berlin
+10,Mon Oct 22 2018,20:30,MSV Duisburg,0-1,?,St. Pauli
+11,Fri Oct 26 2018,18:30,Magdeburg,0-1,?,Hamburger SV
+11,Fri Oct 26 2018,18:30,Darmstadt 98,2-0,?,Greuther Fürth
+11,Sat Oct 27 2018,13:00,Köln,1-1,?,Heidenheim
+11,Sat Oct 27 2018,13:00,Paderborn 07,3-3,?,Sandhausen
+11,Sat Oct 27 2018,13:00,Erzgebirge Aue,1-0,?,Arminia
+11,Sun Oct 28 2018,13:30,Ingolstadt 04,1-1,?,MSV Duisburg
+11,Sun Oct 28 2018,13:30,Union Berlin,0-0,?,Dynamo Dres
+11,Sun Oct 28 2018,13:30,St. Pauli,0-1,?,Holstein Kiel
+11,Mon Oct 29 2018,20:30,Bochum,3-3,?,Jahn R'burg
+12,Fri Nov 2 2018,18:30,Dynamo Dres,3-1,?,Sandhausen
+12,Fri Nov 2 2018,18:30,Greuther Fürth,2-2,?,Bochum
+12,Sat Nov 3 2018,13:00,Darmstadt 98,3-1,?,Magdeburg
+12,Sat Nov 3 2018,13:00,Holstein Kiel,2-2,?,Ingolstadt 04
+12,Sat Nov 3 2018,13:00,MSV Duisburg,2-0,?,Paderborn 07
+12,Sun Nov 4 2018,13:30,Heidenheim,1-0,?,Erzgebirge Aue
+12,Sun Nov 4 2018,13:30,Arminia,1-2,?,St. Pauli
+12,Sun Nov 4 2018,13:30,Jahn R'burg,1-1,?,Union Berlin
+12,Mon Nov 5 2018,20:30,Hamburger SV,1-0,?,Köln
+13,Fri Nov 9 2018,18:30,Paderborn 07,4-4,?,Holstein Kiel
+13,Fri Nov 9 2018,18:30,Sandhausen,0-0,?,MSV Duisburg
+13,Sat Nov 10 2018,13:00,Köln,8-1,?,Dynamo Dres
+13,Sat Nov 10 2018,13:00,Erzgebirge Aue,1-3,?,Hamburger SV
+13,Sat Nov 10 2018,13:00,St. Pauli,1-1,?,Heidenheim
+13,Sun Nov 11 2018,13:30,Union Berlin,4-0,?,Greuther Fürth
+13,Sun Nov 11 2018,13:30,Magdeburg,2-3,?,Jahn R'burg
+13,Sun Nov 11 2018,13:30,Ingolstadt 04,1-1,?,Arminia
+13,Mon Nov 12 2018,20:30,Bochum,1-0,?,Darmstadt 98
+14,Fri Nov 23 2018,18:30,Greuther Fürth,3-2,?,Magdeburg
+14,Fri Nov 23 2018,18:30,Arminia,0-1,?,MSV Duisburg
+14,Sat Nov 24 2018,13:00,Holstein Kiel,2-1,?,Sandhausen
+14,Sat Nov 24 2018,13:00,Darmstadt 98,0-3,?,Köln
+14,Sat Nov 24 2018,13:00,Bochum,2-1,?,Erzgebirge Aue
+14,Sun Nov 25 2018,13:30,Dynamo Dres,2-0,?,Ingolstadt 04
+14,Sun Nov 25 2018,13:30,Jahn R'burg,1-1,?,St. Pauli
+14,Sun Nov 25 2018,13:30,Heidenheim,1-5,?,Paderborn 07
+14,Mon Nov 26 2018,20:30,Hamburger SV,2-2,?,Union Berlin
+15,Fri Nov 30 2018,18:30,Erzgebirge Aue,1-1,?,Jahn R'burg
+15,Fri Nov 30 2018,18:30,Paderborn 07,2-2,?,Arminia
+15,Sat Dec 1 2018,13:00,Union Berlin,3-1,?,Darmstadt 98
+15,Sat Dec 1 2018,13:00,Köln,4-0,?,Greuther Fürth
+15,Sat Dec 1 2018,13:00,Ingolstadt 04,1-2,?,Hamburger SV
+15,Sat Dec 1 2018,13:00,St. Pauli,1-1,?,Dynamo Dres
+15,Sun Dec 2 2018,13:30,Sandhausen,1-2,?,Heidenheim
+15,Sun Dec 2 2018,13:30,Magdeburg,0-0,?,Bochum
+15,Sun Dec 2 2018,13:30,MSV Duisburg,0-4,?,Holstein Kiel
+16,Fri Dec 7 2018,18:30,Jahn R'burg,1-3,?,Köln
+16,Fri Dec 7 2018,18:30,Hamburger SV,1-0,?,Paderborn 07
+16,Sat Dec 8 2018,13:00,Heidenheim,4-1,?,MSV Duisburg
+16,Sat Dec 8 2018,13:00,Darmstadt 98,1-1,?,Ingolstadt 04
+16,Sat Dec 8 2018,13:00,Greuther Fürth,0-5,?,Erzgebirge Aue
+16,Sun Dec 9 2018,13:30,Dynamo Dres,0-2,?,Holstein Kiel
+16,Sun Dec 9 2018,13:30,Magdeburg,1-1,?,Union Berlin
+16,Sun Dec 9 2018,13:30,Arminia,1-1,?,Sandhausen
+16,Mon Dec 10 2018,20:30,Bochum,1-3,?,St. Pauli
+17,Fri Dec 14 2018,18:30,MSV Duisburg,1-2,?,Hamburger SV
+17,Fri Dec 14 2018,18:30,Holstein Kiel,1-2,?,Arminia
+17,Sat Dec 15 2018,13:00,Union Berlin,2-0,?,Bochum
+17,Sat Dec 15 2018,13:00,Paderborn 07,3-0,?,Dynamo Dres
+17,Sat Dec 15 2018,13:00,St. Pauli,2-0,?,Greuther Fürth
+17,Sun Dec 16 2018,13:30,Erzgebirge Aue,2-2,?,Darmstadt 98
+17,Sun Dec 16 2018,13:30,Sandhausen,2-2,?,Jahn R'burg
+17,Sun Dec 16 2018,13:30,Ingolstadt 04,1-1,?,Heidenheim
+17,Mon Dec 17 2018,20:30,Köln,3-0,?,Magdeburg
+18,Fri Dec 21 2018,18:30,Sandhausen,0-0,?,Greuther Fürth
+18,Fri Dec 21 2018,18:30,Köln,2-3,?,Bochum
+18,Sat Dec 22 2018,13:00,Arminia,1-2,?,Heidenheim
+18,Sat Dec 22 2018,13:00,Ingolstadt 04,1-2,?,Jahn R'burg
+18,Sat Dec 22 2018,13:00,St. Pauli,4-1,?,Magdeburg
+18,Sun Dec 23 2018,13:30,MSV Duisburg,1-3,?,Dynamo Dres
+18,Sun Dec 23 2018,13:30,Erzgebirge Aue,3-0,?,Union Berlin
+18,Sun Dec 23 2018,13:30,Paderborn 07,6-2,?,Darmstadt 98
+18,Sun Dec 23 2018,13:30,Holstein Kiel,3-1,?,Hamburger SV
+19,Tue Jan 29 2019,18:30,Bochum,2-1,?,MSV Duisburg
+19,Tue Jan 29 2019,20:30,Greuther Fürth,0-1,?,Ingolstadt 04
+19,Tue Jan 29 2019,20:30,Darmstadt 98,2-1,?,St. Pauli
+19,Tue Jan 29 2019,20:30,Magdeburg,1-0,?,Erzgebirge Aue
+19,Wed Jan 30 2019,18:30,Jahn R'burg,2-0,?,Paderborn 07
+19,Wed Jan 30 2019,20:30,Heidenheim,2-2,?,Holstein Kiel
+19,Wed Jan 30 2019,20:30,Hamburger SV,2-1,?,Sandhausen
+19,Wed Jan 30 2019,20:30,Dynamo Dres,3-4,?,Arminia
+19,Thu Jan 31 2019,20:30,Union Berlin,2-0,?,Köln
+20,Fri Feb 1 2019,18:30,MSV Duisburg,3-2,?,Darmstadt 98
+20,Fri Feb 1 2019,18:30,Ingolstadt 04,0-1,?,Magdeburg
+20,Sat Feb 2 2019,13:00,Paderborn 07,6-0,?,Greuther Fürth
+20,Sat Feb 2 2019,13:00,Heidenheim,1-0,?,Dynamo Dres
+20,Sat Feb 2 2019,13:00,Arminia,2-0,?,Hamburger SV
+20,Sun Feb 3 2019,13:30,Holstein Kiel,2-0,?,Jahn R'burg
+20,Sun Feb 3 2019,13:30,Sandhausen,3-0,?,Bochum
+20,Mon Feb 4 2019,20:30,St. Pauli,3-2,?,Union Berlin
+21,Fri Feb 8 2019,18:30,Jahn R'burg,0-3,?,Arminia
+21,Fri Feb 8 2019,18:30,Köln,4-1,?,St. Pauli
+21,Sat Feb 9 2019,13:00,Union Berlin,2-0,?,Sandhausen
+21,Sat Feb 9 2019,13:00,Bochum,1-2,?,Paderborn 07
+21,Sat Feb 9 2019,13:00,Greuther Fürth,1-0,?,MSV Duisburg
+21,Sun Feb 10 2019,13:30,Darmstadt 98,1-2,?,Heidenheim
+21,Sun Feb 10 2019,13:30,Erzgebirge Aue,0-3,?,Ingolstadt 04
+21,Sun Feb 10 2019,13:30,Magdeburg,1-1,?,Holstein Kiel
+21,Mon Feb 11 2019,20:30,Hamburger SV,1-0,?,Dynamo Dres
+22,Fri Feb 15 2019,18:30,Sandhausen,1-1,?,Darmstadt 98
+22,Fri Feb 15 2019,18:30,Paderborn 07,3-2,?,Köln
+22,Sat Feb 16 2019,13:00,St. Pauli,1-2,?,Erzgebirge Aue
+22,Sat Feb 16 2019,13:00,Ingolstadt 04,2-1,?,Bochum
+22,Sat Feb 16 2019,13:00,MSV Duisburg,2-3,?,Union Berlin
+22,Sat Feb 16 2019,13:00,Heidenheim,2-2,?,Hamburger SV
+22,Sun Feb 17 2019,13:30,Dynamo Dres,0-0,?,Jahn R'burg
+22,Sun Feb 17 2019,13:30,Arminia,1-3,?,Magdeburg
+22,Sun Feb 17 2019,13:30,Holstein Kiel,2-2,?,Greuther Fürth
+23,Fri Feb 22 2019,18:30,Greuther Fürth,0-0,?,Heidenheim
+23,Fri Feb 22 2019,18:30,Union Berlin,1-1,?,Arminia
+23,Sat Feb 23 2019,13:00,Köln,3-1,?,Sandhausen
+23,Sat Feb 23 2019,13:00,Bochum,1-3,?,Holstein Kiel
+23,Sat Feb 23 2019,13:00,St. Pauli,1-0,?,Ingolstadt 04
+23,Sat Feb 23 2019,13:00,Darmstadt 98,2-0,?,Dynamo Dres
+23,Sun Feb 24 2019,13:30,Jahn R'burg,2-1,?,Hamburger SV
+23,Sun Feb 24 2019,13:30,Magdeburg,1-1,?,Paderborn 07
+23,Sun Feb 24 2019,13:30,Erzgebirge Aue,0-0,?,MSV Duisburg
+20,Wed Feb 27 2019,19:30,Erzgebirge Aue,0-1,?,Köln
+24,Fri Mar 1 2019,18:30,Holstein Kiel,0-2,?,Union Berlin
+24,Fri Mar 1 2019,18:30,MSV Duisburg,1-0,?,Magdeburg
+24,Sat Mar 2 2019,13:00,Heidenheim,1-2,?,Jahn R'burg
+24,Sat Mar 2 2019,13:00,Sandhausen,0-3,?,Erzgebirge Aue
+24,Sat Mar 2 2019,13:00,Paderborn 07,0-1,?,St. Pauli
+24,Sun Mar 3 2019,13:30,Dynamo Dres,2-2,?,Bochum
+24,Sun Mar 3 2019,13:30,Arminia,1-0,?,Darmstadt 98
+24,Sun Mar 3 2019,13:30,Ingolstadt 04,1-2,?,Köln
+24,Mon Mar 4 2019,20:30,Hamburger SV,1-0,?,Greuther Fürth
+25,Fri Mar 8 2019,18:30,Union Berlin,2-0,?,Ingolstadt 04
+25,Fri Mar 8 2019,18:30,Bochum,1-0,?,Heidenheim
+25,Sat Mar 9 2019,13:00,Jahn R'burg,1-1,?,MSV Duisburg
+25,Sat Mar 9 2019,13:00,Darmstadt 98,3-2,?,Holstein Kiel
+25,Sat Mar 9 2019,13:00,Köln,5-1,?,Arminia
+25,Sat Mar 9 2019,13:00,Erzgebirge Aue,2-1,?,Paderborn 07
+25,Sun Mar 10 2019,13:30,Magdeburg,0-1,?,Sandhausen
+25,Sun Mar 10 2019,13:30,St. Pauli,0-4,?,Hamburger SV
+26,Fri Mar 15 2019,18:30,Heidenheim,2-1,?,Union Berlin
+26,Fri Mar 15 2019,18:30,Holstein Kiel,5-1,?,Erzgebirge Aue
+26,Sat Mar 16 2019,13:00,Dynamo Dres,1-1,?,Magdeburg
+26,Sat Mar 16 2019,13:00,Hamburger SV,2-3,?,Darmstadt 98
+26,Sat Mar 16 2019,13:00,Sandhausen,4-0,?,St. Pauli
+26,Sun Mar 17 2019,13:30,Paderborn 07,3-1,?,Ingolstadt 04
+26,Sun Mar 17 2019,13:30,Arminia,3-1,?,Bochum
+26,Mon Mar 18 2019,20:30,Jahn R'burg,0-2,?,Greuther Fürth
+27,Fri Mar 29 2019,18:30,Magdeburg,0-0,?,Heidenheim
+27,Fri Mar 29 2019,18:30,St. Pauli,0-0,?,MSV Duisburg
+27,Sat Mar 30 2019,13:00,Union Berlin,1-3,?,Paderborn 07
+27,Sat Mar 30 2019,13:00,Darmstadt 98,1-1,?,Jahn R'burg
+27,Sat Mar 30 2019,13:00,Bochum,0-0,?,Hamburger SV
+27,Sun Mar 31 2019,13:30,Ingolstadt 04,1-2,?,Sandhausen
+27,Sun Mar 31 2019,13:30,Greuther Fürth,2-2,?,Arminia
+27,Sun Mar 31 2019,13:30,Köln,4-0,?,Holstein Kiel
+27,Mon Apr 1 2019,20:30,Erzgebirge Aue,1-3,?,Dynamo Dres
+25,Thu Apr 4 2019,19:00,Greuther Fürth,0-0,?,Dynamo Dres
+28,Fri Apr 5 2019,18:30,Arminia,2-1,?,Erzgebirge Aue
+28,Fri Apr 5 2019,18:30,Jahn R'burg,2-1,?,Bochum
+28,Sat Apr 6 2019,13:00,MSV Duisburg,2-4,?,Ingolstadt 04
+28,Sat Apr 6 2019,13:00,Holstein Kiel,2-1,?,St. Pauli
+28,Sat Apr 6 2019,13:00,Sandhausen,1-1,?,Paderborn 07
+28,Sun Apr 7 2019,13:30,Heidenheim,0-2,?,Köln
+28,Sun Apr 7 2019,13:30,Greuther Fürth,2-1,?,Darmstadt 98
+28,Sun Apr 7 2019,13:30,Dynamo Dres,0-0,?,Union Berlin
+28,Mon Apr 8 2019,20:30,Hamburger SV,1-2,?,Magdeburg
+26,Wed Apr 10 2019,18:30,MSV Duisburg,4-4,?,Köln
+29,Fri Apr 12 2019,18:30,Erzgebirge Aue,0-1,?,Heidenheim
+29,Fri Apr 12 2019,18:30,Union Berlin,2-2,?,Jahn R'burg
+29,Sat Apr 13 2019,13:00,Magdeburg,0-1,?,Darmstadt 98
+29,Sat Apr 13 2019,13:00,Sandhausen,3-1,?,Dynamo Dres
+29,Sat Apr 13 2019,13:00,Paderborn 07,4-0,?,MSV Duisburg
+29,Sun Apr 14 2019,13:30,St. Pauli,1-1,?,Arminia
+29,Sun Apr 14 2019,13:30,Bochum,3-2,?,Greuther Fürth
+29,Sun Apr 14 2019,13:30,Ingolstadt 04,1-1,?,Holstein Kiel
+29,Mon Apr 15 2019,20:30,Köln,1-1,?,Hamburger SV
+30,Sat Apr 20 2019,13:00,Holstein Kiel,1-2,?,Paderborn 07
+30,Sat Apr 20 2019,13:00,Greuther Fürth,1-1,?,Union Berlin
+30,Sat Apr 20 2019,13:00,Hamburger SV,1-1,?,Erzgebirge Aue
+30,Sat Apr 20 2019,13:00,MSV Duisburg,2-2,?,Sandhausen
+30,Sun Apr 21 2019,13:30,Dynamo Dres,3-0,?,Köln
+30,Sun Apr 21 2019,13:30,Jahn R'burg,1-0,?,Magdeburg
+30,Sun Apr 21 2019,13:30,Arminia,1-3,?,Ingolstadt 04
+30,Sun Apr 21 2019,13:30,Darmstadt 98,0-0,?,Bochum
+30,Sun Apr 21 2019,13:30,Heidenheim,3-0,?,St. Pauli
+31,Fri Apr 26 2019,18:30,Köln,1-2,?,Darmstadt 98
+31,Fri Apr 26 2019,18:30,Ingolstadt 04,1-0,?,Dynamo Dres
+31,Sat Apr 27 2019,13:00,Magdeburg,2-1,?,Greuther Fürth
+31,Sat Apr 27 2019,13:00,St. Pauli,4-3,?,Jahn R'burg
+31,Sat Apr 27 2019,13:00,Sandhausen,3-2,?,Holstein Kiel
+31,Sun Apr 28 2019,13:30,Erzgebirge Aue,3-2,?,Bochum
+31,Sun Apr 28 2019,13:30,Union Berlin,2-0,?,Hamburger SV
+31,Sun Apr 28 2019,13:30,Paderborn 07,3-1,?,Heidenheim
+31,Mon Apr 29 2019,20:30,MSV Duisburg,2-2,?,Arminia
+32,Fri May 3 2019,18:30,Arminia,2-0,?,Paderborn 07
+32,Fri May 3 2019,18:30,Dynamo Dres,2-1,?,St. Pauli
+32,Sat May 4 2019,13:00,Heidenheim,2-3,?,Sandhausen
+32,Sat May 4 2019,13:00,Hamburger SV,0-3,?,Ingolstadt 04
+32,Sat May 4 2019,13:00,Bochum,4-2,?,Magdeburg
+32,Sun May 5 2019,13:30,Darmstadt 98,2-1,?,Union Berlin
+32,Sun May 5 2019,13:30,Jahn R'burg,1-3,?,Erzgebirge Aue
+32,Sun May 5 2019,13:30,Holstein Kiel,0-2,?,MSV Duisburg
+32,Mon May 6 2019,20:30,Greuther Fürth,0-4,?,Köln
+33,Sun May 12 2019,15:30,Union Berlin,3-0,?,Magdeburg
+33,Sun May 12 2019,15:30,Holstein Kiel,3-0,?,Dynamo Dres
+33,Sun May 12 2019,15:30,Erzgebirge Aue,1-1,?,Greuther Fürth
+33,Sun May 12 2019,15:30,Paderborn 07,4-1,?,Hamburger SV
+33,Sun May 12 2019,15:30,St. Pauli,0-0,?,Bochum
+33,Sun May 12 2019,15:30,Köln,3-5,?,Jahn R'burg
+33,Sun May 12 2019,15:30,Ingolstadt 04,3-0,?,Darmstadt 98
+33,Sun May 12 2019,15:30,MSV Duisburg,3-4,?,Heidenheim
+33,Sun May 12 2019,15:30,Sandhausen,0-3,?,Arminia
+34,Sun May 19 2019,15:30,Darmstadt 98,1-0,?,Erzgebirge Aue
+34,Sun May 19 2019,15:30,Hamburger SV,3-0,?,MSV Duisburg
+34,Sun May 19 2019,15:30,Bochum,2-2,?,Union Berlin
+34,Sun May 19 2019,15:30,Heidenheim,4-2,?,Ingolstadt 04
+34,Sun May 19 2019,15:30,Dynamo Dres,3-1,?,Paderborn 07
+34,Sun May 19 2019,15:30,Greuther Fürth,2-1,?,St. Pauli
+34,Sun May 19 2019,15:30,Jahn R'burg,2-2,?,Sandhausen
+34,Sun May 19 2019,15:30,Magdeburg,1-1,?,Köln
+34,Sun May 19 2019,15:30,Arminia,1-0,?,Holstein Kiel

@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 21 2015,20:30,Málaga,0-0,?,Sevilla
+1,Sat Aug 22 2015,18:30,La Coruña,0-0,?,Real Sociedad
+1,Sat Aug 22 2015,18:30,Espanyol,1-0,?,Getafe
+1,Sat Aug 22 2015,20:30,Atlético Madrid,1-0,?,Las Palmas
+1,Sat Aug 22 2015,22:30,Rayo Vallecano,0-0,?,Valencia
+1,Sun Aug 23 2015,18:30,Athletic Club,0-1,?,Barcelona
+1,Sun Aug 23 2015,20:30,Sporting Gijón,0-0,?,Real Madrid
+1,Sun Aug 23 2015,22:00,Levante,1-2,?,Celta Vigo
+1,Sun Aug 23 2015,22:30,Betis,1-1,?,Villarreal
+1,Mon Aug 24 2015,20:30,Granada,1-3,?,Eibar
+2,Fri Aug 28 2015,20:30,Villarreal,3-1,?,Espanyol
+2,Sat Aug 29 2015,18:30,Real Sociedad,0-0,?,Sporting Gijón
+2,Sat Aug 29 2015,20:30,Barcelona,1-0,?,Málaga
+2,Sat Aug 29 2015,22:00,Celta Vigo,3-0,?,Rayo Vallecano
+2,Sat Aug 29 2015,22:30,Real Madrid,5-0,?,Betis
+2,Sun Aug 30 2015,18:30,Eibar,2-0,?,Athletic Club
+2,Sun Aug 30 2015,20:30,Valencia,1-1,?,La Coruña
+2,Sun Aug 30 2015,20:30,Sevilla,0-3,?,Atlético Madrid
+2,Sun Aug 30 2015,21:30,Las Palmas,0-0,?,Levante
+2,Sun Aug 30 2015,22:30,Getafe,1-2,?,Granada
+3,Fri Sep 11 2015,20:30,Levante,1-1,?,Sevilla
+3,Sat Sep 12 2015,16:00,Espanyol,0-6,?,Real Madrid
+3,Sat Sep 12 2015,18:15,Sporting Gijón,0-1,?,Valencia
+3,Sat Sep 12 2015,20:30,Atlético Madrid,1-2,?,Barcelona
+3,Sat Sep 12 2015,22:00,Betis,1-0,?,Real Sociedad
+3,Sun Sep 13 2015,12:00,Granada,1-3,?,Villarreal
+3,Sun Sep 13 2015,16:00,Athletic Club,3-1,?,Getafe
+3,Sun Sep 13 2015,18:15,Celta Vigo,3-3,?,Las Palmas
+3,Sun Sep 13 2015,20:30,Málaga,0-0,?,Eibar
+3,Mon Sep 14 2015,20:30,Rayo Vallecano,1-3,?,La Coruña
+4,Fri Sep 18 2015,20:30,Getafe,1-0,?,Málaga
+4,Sat Sep 19 2015,16:00,Real Madrid,1-0,?,Granada
+4,Sat Sep 19 2015,18:15,Valencia,0-0,?,Betis
+4,Sat Sep 19 2015,20:30,Eibar,0-2,?,Atlético Madrid
+4,Sat Sep 19 2015,22:00,Real Sociedad,2-3,?,Espanyol
+4,Sun Sep 20 2015,12:00,Sevilla,1-2,?,Celta Vigo
+4,Sun Sep 20 2015,16:00,La Coruña,2-3,?,Sporting Gijón
+4,Sun Sep 20 2015,18:15,Villarreal,3-1,?,Athletic Club
+4,Sun Sep 20 2015,19:30,Las Palmas,0-1,?,Rayo Vallecano
+4,Sun Sep 20 2015,20:30,Barcelona,4-1,?,Levante
+5,Tue Sep 22 2015,20:00,Espanyol,1-0,?,Valencia
+5,Tue Sep 22 2015,20:00,Atlético Madrid,2-0,?,Getafe
+5,Tue Sep 22 2015,22:00,Granada,0-3,?,Real Sociedad
+5,Wed Sep 23 2015,20:00,Rayo Vallecano,2-1,?,Sporting Gijón
+5,Wed Sep 23 2015,20:00,Celta Vigo,4-1,?,Barcelona
+5,Wed Sep 23 2015,20:00,Levante,2-2,?,Eibar
+5,Wed Sep 23 2015,21:00,Athletic Club,1-2,?,Real Madrid
+5,Wed Sep 23 2015,21:00,Las Palmas,2-0,?,Sevilla
+5,Wed Sep 23 2015,22:00,Málaga,0-1,?,Villarreal
+5,Thu Sep 24 2015,22:00,Betis,1-2,?,La Coruña
+6,Fri Sep 25 2015,20:30,Valencia,1-0,?,Granada
+6,Sat Sep 26 2015,16:00,Barcelona,2-1,?,Las Palmas
+6,Sat Sep 26 2015,18:15,Real Madrid,0-0,?,Málaga
+6,Sat Sep 26 2015,20:30,Villarreal,1-0,?,Atlético Madrid
+6,Sat Sep 26 2015,20:30,Sevilla,3-2,?,Rayo Vallecano
+6,Sat Sep 26 2015,22:00,Eibar,1-1,?,Celta Vigo
+6,Sun Sep 27 2015,12:00,Sporting Gijón,1-2,?,Betis
+6,Sun Sep 27 2015,16:00,La Coruña,3-0,?,Espanyol
+6,Sun Sep 27 2015,18:15,Getafe,3-0,?,Levante
+6,Sun Sep 27 2015,20:30,Real Sociedad,0-0,?,Athletic Club
+7,Fri Oct 2 2015,20:30,Celta Vigo,0-0,?,Getafe
+7,Sat Oct 3 2015,16:00,Sevilla,2-1,?,Barcelona
+7,Sat Oct 3 2015,18:15,Granada,1-1,?,La Coruña
+7,Sat Oct 3 2015,20:30,Espanyol,1-2,?,Sporting Gijón
+7,Sat Oct 3 2015,21:00,Las Palmas,0-2,?,Eibar
+7,Sat Oct 3 2015,22:05,Málaga,3-1,?,Real Sociedad
+7,Sun Oct 4 2015,12:00,Rayo Vallecano,0-2,?,Betis
+7,Sun Oct 4 2015,16:00,Athletic Club,3-1,?,Valencia
+7,Sun Oct 4 2015,18:15,Levante,1-0,?,Villarreal
+7,Sun Oct 4 2015,20:30,Atlético Madrid,1-1,?,Real Madrid
+8,Sat Oct 17 2015,16:00,Real Madrid,3-0,?,Levante
+8,Sat Oct 17 2015,18:15,Eibar,1-1,?,Sevilla
+8,Sat Oct 17 2015,20:30,Barcelona,5-2,?,Rayo Vallecano
+8,Sat Oct 17 2015,22:00,Valencia,3-0,?,Málaga
+8,Sat Oct 17 2015,22:05,Betis,1-3,?,Espanyol
+8,Sun Oct 18 2015,12:00,Villarreal,1-2,?,Celta Vigo
+8,Sun Oct 18 2015,16:00,Real Sociedad,0-2,?,Atlético Madrid
+8,Sun Oct 18 2015,18:15,Getafe,4-0,?,Las Palmas
+8,Sun Oct 18 2015,20:30,La Coruña,2-2,?,Athletic Club
+8,Mon Oct 19 2015,20:30,Sporting Gijón,3-3,?,Granada
+9,Fri Oct 23 2015,20:30,Rayo Vallecano,3-0,?,Espanyol
+9,Sat Oct 24 2015,16:00,Celta Vigo,1-3,?,Real Madrid
+9,Sat Oct 24 2015,18:15,Granada,1-1,?,Betis
+9,Sat Oct 24 2015,20:30,Sevilla,5-0,?,Getafe
+9,Sat Oct 24 2015,22:05,Málaga,2-0,?,La Coruña
+9,Sun Oct 25 2015,12:00,Levante,0-4,?,Real Sociedad
+9,Sun Oct 25 2015,15:00,Las Palmas,0-0,?,Villarreal
+9,Sun Oct 25 2015,18:15,Barcelona,3-1,?,Eibar
+9,Sun Oct 25 2015,20:30,Atlético Madrid,2-1,?,Valencia
+9,Mon Oct 26 2015,20:30,Athletic Club,3-0,?,Sporting Gijón
+10,Fri Oct 30 2015,20:30,La Coruña,1-1,?,Atlético Madrid
+10,Sat Oct 31 2015,16:00,Real Madrid,3-1,?,Las Palmas
+10,Sat Oct 31 2015,18:15,Villarreal,2-1,?,Sevilla
+10,Sat Oct 31 2015,18:15,Valencia,3-0,?,Levante
+10,Sat Oct 31 2015,20:30,Getafe,0-2,?,Barcelona
+10,Sat Oct 31 2015,22:05,Real Sociedad,2-3,?,Celta Vigo
+10,Sun Nov 1 2015,12:00,Eibar,1-0,?,Rayo Vallecano
+10,Sun Nov 1 2015,16:00,Espanyol,1-1,?,Granada
+10,Sun Nov 1 2015,18:15,Sporting Gijón,1-0,?,Málaga
+10,Sun Nov 1 2015,20:30,Betis,1-3,?,Athletic Club
+11,Fri Nov 6 2015,19:30,Las Palmas,2-0,?,Real Sociedad
+11,Sat Nov 7 2015,16:00,Celta Vigo,1-5,?,Valencia
+11,Sat Nov 7 2015,18:15,Levante,1-1,?,La Coruña
+11,Sat Nov 7 2015,20:30,Eibar,3-1,?,Getafe
+11,Sat Nov 7 2015,20:30,Rayo Vallecano,2-1,?,Granada
+11,Sat Nov 7 2015,22:05,Málaga,0-1,?,Betis
+11,Sun Nov 8 2015,12:00,Athletic Club,2-1,?,Espanyol
+11,Sun Nov 8 2015,16:00,Barcelona,3-0,?,Villarreal
+11,Sun Nov 8 2015,18:15,Atlético Madrid,1-0,?,Sporting Gijón
+11,Sun Nov 8 2015,20:30,Sevilla,3-2,?,Real Madrid
+12,Sat Nov 21 2015,16:00,Real Sociedad,2-0,?,Sevilla
+12,Sat Nov 21 2015,18:15,Real Madrid,0-4,?,Barcelona
+12,Sat Nov 21 2015,20:30,Espanyol,2-0,?,Málaga
+12,Sat Nov 21 2015,22:00,Valencia,1-1,?,Las Palmas
+12,Sat Nov 21 2015,22:05,La Coruña,2-0,?,Celta Vigo
+12,Sun Nov 22 2015,12:00,Sporting Gijón,0-3,?,Levante
+12,Sun Nov 22 2015,16:00,Villarreal,1-1,?,Eibar
+12,Sun Nov 22 2015,18:15,Granada,2-0,?,Athletic Club
+12,Sun Nov 22 2015,20:30,Betis,0-1,?,Atlético Madrid
+12,Mon Nov 23 2015,20:30,Getafe,1-1,?,Rayo Vallecano
+13,Fri Nov 27 2015,20:30,Levante,0-1,?,Betis
+13,Sat Nov 28 2015,16:00,Barcelona,4-0,?,Real Sociedad
+13,Sat Nov 28 2015,18:15,Atlético Madrid,1-0,?,Espanyol
+13,Sat Nov 28 2015,20:30,Málaga,2-2,?,Granada
+13,Sat Nov 28 2015,21:00,Las Palmas,0-2,?,La Coruña
+13,Sat Nov 28 2015,22:05,Celta Vigo,2-1,?,Sporting Gijón
+13,Sun Nov 29 2015,12:00,Getafe,2-0,?,Villarreal
+13,Sun Nov 29 2015,16:00,Eibar,0-2,?,Real Madrid
+13,Sun Nov 29 2015,18:15,Rayo Vallecano,0-3,?,Athletic Club
+13,Sun Nov 29 2015,20:30,Sevilla,1-0,?,Valencia
+14,Sat Dec 5 2015,16:00,Real Madrid,4-1,?,Getafe
+14,Sat Dec 5 2015,18:15,Granada,0-2,?,Atlético Madrid
+14,Sat Dec 5 2015,20:30,Valencia,1-1,?,Barcelona
+14,Sat Dec 5 2015,22:00,La Coruña,1-1,?,Sevilla
+14,Sat Dec 5 2015,22:05,Betis,1-1,?,Celta Vigo
+14,Sun Dec 6 2015,12:00,Real Sociedad,2-1,?,Eibar
+14,Sun Dec 6 2015,16:00,Villarreal,2-1,?,Rayo Vallecano
+14,Sun Dec 6 2015,18:15,Sporting Gijón,3-1,?,Las Palmas
+14,Sun Dec 6 2015,20:30,Athletic Club,0-0,?,Málaga
+14,Mon Dec 7 2015,20:30,Espanyol,1-1,?,Levante
+15,Fri Dec 11 2015,20:30,Getafe,1-1,?,Real Sociedad
+15,Sat Dec 12 2015,16:00,Barcelona,2-2,?,La Coruña
+15,Sat Dec 12 2015,18:15,Levante,1-2,?,Granada
+15,Sat Dec 12 2015,18:15,Celta Vigo,1-0,?,Espanyol
+15,Sat Dec 12 2015,20:30,Sevilla,2-0,?,Sporting Gijón
+15,Sat Dec 12 2015,21:05,Las Palmas,1-0,?,Betis
+15,Sun Dec 13 2015,12:00,Rayo Vallecano,1-2,?,Málaga
+15,Sun Dec 13 2015,16:00,Eibar,1-1,?,Valencia
+15,Sun Dec 13 2015,18:15,Atlético Madrid,2-1,?,Athletic Club
+15,Sun Dec 13 2015,20:30,Villarreal,1-0,?,Real Madrid
+16,Sat Dec 19 2015,16:00,Valencia,2-2,?,Getafe
+16,Sat Dec 19 2015,18:15,Espanyol,1-0,?,Las Palmas
+16,Sat Dec 19 2015,20:30,Betis,0-0,?,Sevilla
+16,Sat Dec 19 2015,22:05,La Coruña,2-0,?,Eibar
+16,Sun Dec 20 2015,16:00,Real Madrid,10-2,?,Rayo Vallecano
+16,Sun Dec 20 2015,18:15,Athletic Club,2-0,?,Levante
+16,Sun Dec 20 2015,18:15,Real Sociedad,0-2,?,Villarreal
+16,Sun Dec 20 2015,18:15,Granada,0-2,?,Celta Vigo
+16,Sun Dec 20 2015,20:30,Málaga,1-0,?,Atlético Madrid
+17,Wed Dec 30 2015,16:00,Real Madrid,3-1,?,Real Sociedad
+17,Wed Dec 30 2015,16:00,Levante,0-1,?,Málaga
+17,Wed Dec 30 2015,18:15,Sevilla,2-0,?,Espanyol
+17,Wed Dec 30 2015,18:15,Rayo Vallecano,0-2,?,Atlético Madrid
+17,Wed Dec 30 2015,18:30,Eibar,2-0,?,Sporting Gijón
+17,Wed Dec 30 2015,20:30,Barcelona,4-0,?,Betis
+17,Wed Dec 30 2015,20:30,Celta Vigo,0-1,?,Athletic Club
+17,Wed Dec 30 2015,20:30,Getafe,0-0,?,La Coruña
+17,Wed Dec 30 2015,20:00,Las Palmas,4-1,?,Granada
+17,Thu Dec 31 2015,16:00,Villarreal,1-0,?,Valencia
+18,Sat Jan 2 2016,16:00,Espanyol,0-0,?,Barcelona
+18,Sat Jan 2 2016,20:30,Atlético Madrid,1-0,?,Levante
+18,Sat Jan 2 2016,22:05,Málaga,2-0,?,Celta Vigo
+18,Sun Jan 3 2016,12:00,Rayo Vallecano,2-2,?,Real Sociedad
+18,Sun Jan 3 2016,16:00,Granada,2-1,?,Sevilla
+18,Sun Jan 3 2016,16:00,Betis,0-4,?,Eibar
+18,Sun Jan 3 2016,18:15,Athletic Club,2-2,?,Las Palmas
+18,Sun Jan 3 2016,18:15,La Coruña,1-2,?,Villarreal
+18,Sun Jan 3 2016,20:30,Valencia,2-2,?,Real Madrid
+18,Mon Jan 4 2016,20:30,Sporting Gijón,1-2,?,Getafe
+19,Sat Jan 9 2016,16:00,Barcelona,4-0,?,Granada
+19,Sat Jan 9 2016,18:15,Getafe,1-0,?,Betis
+19,Sat Jan 9 2016,18:15,Sevilla,2-0,?,Athletic Club
+19,Sat Jan 9 2016,20:30,Real Madrid,5-0,?,La Coruña
+19,Sat Jan 9 2016,22:05,Levante,2-1,?,Rayo Vallecano
+19,Sun Jan 10 2016,12:00,Villarreal,2-0,?,Sporting Gijón
+19,Sun Jan 10 2016,16:00,Real Sociedad,2-0,?,Valencia
+19,Sun Jan 10 2016,17:15,Las Palmas,1-1,?,Málaga
+19,Sun Jan 10 2016,18:15,Eibar,2-1,?,Espanyol
+19,Sun Jan 10 2016,20:30,Celta Vigo,0-2,?,Atlético Madrid
+20,Sat Jan 16 2016,16:00,Sevilla,2-1,?,Málaga
+20,Sat Jan 16 2016,18:15,Celta Vigo,4-3,?,Levante
+20,Sat Jan 16 2016,20:30,Villarreal,0-0,?,Betis
+20,Sat Jan 16 2016,22:05,Real Sociedad,1-1,?,La Coruña
+20,Sun Jan 17 2016,12:00,Valencia,2-2,?,Rayo Vallecano
+20,Sun Jan 17 2016,16:00,Real Madrid,5-1,?,Sporting Gijón
+20,Sun Jan 17 2016,17:15,Las Palmas,0-3,?,Atlético Madrid
+20,Sun Jan 17 2016,18:15,Getafe,3-1,?,Espanyol
+20,Sun Jan 17 2016,20:30,Barcelona,6-0,?,Athletic Club
+20,Mon Jan 18 2016,20:30,Eibar,5-1,?,Granada
+21,Fri Jan 22 2016,20:30,Sporting Gijón,5-1,?,Real Sociedad
+21,Sat Jan 23 2016,16:00,Málaga,1-2,?,Barcelona
+21,Sat Jan 23 2016,18:15,Espanyol,2-2,?,Villarreal
+21,Sat Jan 23 2016,20:30,Granada,3-2,?,Getafe
+21,Sat Jan 23 2016,22:05,Rayo Vallecano,3-0,?,Celta Vigo
+21,Sun Jan 24 2016,12:00,Athletic Club,5-2,?,Eibar
+21,Sun Jan 24 2016,16:00,Atlético Madrid,0-0,?,Sevilla
+21,Sun Jan 24 2016,18:15,La Coruña,1-1,?,Valencia
+21,Sun Jan 24 2016,20:30,Betis,1-1,?,Real Madrid
+21,Mon Jan 25 2016,20:30,Levante,3-2,?,Las Palmas
+22,Sat Jan 30 2016,16:00,Barcelona,2-1,?,Atlético Madrid
+22,Sat Jan 30 2016,18:15,Eibar,1-2,?,Málaga
+22,Sat Jan 30 2016,18:15,Getafe,0-1,?,Athletic Club
+22,Sat Jan 30 2016,20:30,Villarreal,1-0,?,Granada
+22,Sat Jan 30 2016,22:05,Real Sociedad,2-1,?,Betis
+22,Sun Jan 31 2016,12:00,Sevilla,3-1,?,Levante
+22,Sun Jan 31 2016,16:00,Valencia,0-1,?,Sporting Gijón
+22,Sun Jan 31 2016,17:15,Las Palmas,2-1,?,Celta Vigo
+22,Sun Jan 31 2016,20:30,Real Madrid,6-0,?,Espanyol
+22,Mon Feb 1 2016,20:30,La Coruña,2-2,?,Rayo Vallecano
+23,Fri Feb 5 2016,20:30,Málaga,3-0,?,Getafe
+23,Sat Feb 6 2016,16:00,Atlético Madrid,3-1,?,Eibar
+23,Sat Feb 6 2016,18:15,Rayo Vallecano,2-0,?,Las Palmas
+23,Sat Feb 6 2016,20:30,Athletic Club,0-0,?,Villarreal
+23,Sat Feb 6 2016,22:05,Sporting Gijón,1-1,?,La Coruña
+23,Sun Feb 7 2016,12:00,Levante,0-2,?,Barcelona
+23,Sun Feb 7 2016,16:00,Betis,1-0,?,Valencia
+23,Sun Feb 7 2016,18:15,Celta Vigo,1-1,?,Sevilla
+23,Sun Feb 7 2016,20:30,Granada,1-2,?,Real Madrid
+23,Mon Feb 8 2016,20:30,Espanyol,0-5,?,Real Sociedad
+24,Fri Feb 12 2016,20:30,Sporting Gijón,2-2,?,Rayo Vallecano
+24,Sat Feb 13 2016,16:00,Real Madrid,4-2,?,Athletic Club
+24,Sat Feb 13 2016,18:15,Villarreal,1-0,?,Málaga
+24,Sat Feb 13 2016,20:30,Valencia,2-1,?,Espanyol
+24,Sat Feb 13 2016,22:05,La Coruña,2-2,?,Betis
+24,Sun Feb 14 2016,12:00,Real Sociedad,3-0,?,Granada
+24,Sun Feb 14 2016,16:00,Sevilla,2-0,?,Las Palmas
+24,Sun Feb 14 2016,18:15,Getafe,0-1,?,Atlético Madrid
+24,Sun Feb 14 2016,18:15,Eibar,2-0,?,Levante
+24,Sun Feb 14 2016,20:30,Barcelona,6-1,?,Celta Vigo
+16,Wed Feb 17 2016,18:30,Sporting Gijón,1-3,?,Barcelona
+25,Fri Feb 19 2016,20:30,Levante,3-0,?,Getafe
+25,Sat Feb 20 2016,15:00,Las Palmas,1-2,?,Barcelona
+25,Sat Feb 20 2016,18:15,Espanyol,1-0,?,La Coruña
+25,Sat Feb 20 2016,20:30,Betis,1-1,?,Sporting Gijón
+25,Sat Feb 20 2016,22:05,Celta Vigo,3-2,?,Eibar
+25,Sun Feb 21 2016,12:00,Rayo Vallecano,2-2,?,Sevilla
+25,Sun Feb 21 2016,16:00,Málaga,1-1,?,Real Madrid
+25,Sun Feb 21 2016,18:15,Granada,1-2,?,Valencia
+25,Sun Feb 21 2016,18:15,Athletic Club,0-1,?,Real Sociedad
+25,Sun Feb 21 2016,20:30,Atlético Madrid,0-0,?,Villarreal
+26,Fri Feb 26 2016,20:30,Eibar,0-1,?,Las Palmas
+26,Sat Feb 27 2016,16:00,Real Madrid,0-1,?,Atlético Madrid
+26,Sat Feb 27 2016,18:15,Getafe,0-1,?,Celta Vigo
+26,Sat Feb 27 2016,18:15,Sporting Gijón,2-4,?,Espanyol
+26,Sat Feb 27 2016,20:30,Betis,2-2,?,Rayo Vallecano
+26,Sat Feb 27 2016,22:05,Real Sociedad,1-1,?,Málaga
+26,Sun Feb 28 2016,12:00,Villarreal,3-0,?,Levante
+26,Sun Feb 28 2016,16:00,Valencia,0-3,?,Athletic Club
+26,Sun Feb 28 2016,18:15,La Coruña,0-1,?,Granada
+26,Sun Feb 28 2016,20:30,Barcelona,2-1,?,Sevilla
+27,Tue Mar 1 2016,21:00,Atlético Madrid,3-0,?,Real Sociedad
+27,Tue Mar 1 2016,21:00,Las Palmas,4-0,?,Getafe
+27,Wed Mar 2 2016,20:00,Celta Vigo,0-0,?,Villarreal
+27,Wed Mar 2 2016,20:00,Sevilla,1-0,?,Eibar
+27,Wed Mar 2 2016,20:00,Athletic Club,4-1,?,La Coruña
+27,Wed Mar 2 2016,20:00,Málaga,1-2,?,Valencia
+27,Wed Mar 2 2016,21:00,Levante,1-3,?,Real Madrid
+27,Thu Mar 3 2016,20:00,Granada,2-0,?,Sporting Gijón
+27,Thu Mar 3 2016,20:30,Espanyol,0-3,?,Betis
+27,Thu Mar 3 2016,21:00,Rayo Vallecano,1-5,?,Barcelona
+28,Sat Mar 5 2016,16:00,Real Madrid,7-1,?,Celta Vigo
+28,Sat Mar 5 2016,18:15,Villarreal,0-1,?,Las Palmas
+28,Sat Mar 5 2016,20:30,Getafe,1-1,?,Sevilla
+28,Sat Mar 5 2016,22:05,La Coruña,3-3,?,Málaga
+28,Sun Mar 6 2016,12:00,Betis,2-0,?,Granada
+28,Sun Mar 6 2016,16:00,Eibar,0-4,?,Barcelona
+28,Sun Mar 6 2016,18:15,Real Sociedad,1-1,?,Levante
+28,Sun Mar 6 2016,18:15,Sporting Gijón,0-2,?,Athletic Club
+28,Sun Mar 6 2016,20:30,Valencia,1-3,?,Atlético Madrid
+28,Mon Mar 7 2016,20:30,Espanyol,2-1,?,Rayo Vallecano
+29,Fri Mar 11 2016,20:30,Málaga,1-0,?,Sporting Gijón
+29,Sat Mar 12 2016,16:00,Barcelona,6-0,?,Getafe
+29,Sat Mar 12 2016,18:15,Celta Vigo,1-0,?,Real Sociedad
+29,Sat Mar 12 2016,20:30,Atlético Madrid,3-0,?,La Coruña
+29,Sat Mar 12 2016,22:05,Rayo Vallecano,1-1,?,Eibar
+29,Sun Mar 13 2016,12:00,Levante,1-0,?,Valencia
+29,Sun Mar 13 2016,16:00,Sevilla,4-2,?,Villarreal
+29,Sun Mar 13 2016,18:15,Athletic Club,3-1,?,Betis
+29,Sun Mar 13 2016,19:30,Las Palmas,1-2,?,Real Madrid
+29,Mon Mar 14 2016,20:30,Granada,1-1,?,Espanyol
+30,Fri Mar 18 2016,20:30,Getafe,1-1,?,Eibar
+30,Sat Mar 19 2016,16:00,Sporting Gijón,2-1,?,Atlético Madrid
+30,Sat Mar 19 2016,18:15,Granada,2-2,?,Rayo Vallecano
+30,Sat Mar 19 2016,18:15,Real Sociedad,0-1,?,Las Palmas
+30,Sat Mar 19 2016,20:30,La Coruña,2-1,?,Levante
+30,Sat Mar 19 2016,22:05,Betis,0-1,?,Málaga
+30,Sun Mar 20 2016,12:00,Espanyol,2-1,?,Athletic Club
+30,Sun Mar 20 2016,16:00,Villarreal,2-2,?,Barcelona
+30,Sun Mar 20 2016,18:15,Valencia,0-2,?,Celta Vigo
+30,Sun Mar 20 2016,20:30,Real Madrid,4-0,?,Sevilla
+31,Fri Apr 1 2016,20:30,Rayo Vallecano,2-0,?,Getafe
+31,Sat Apr 2 2016,16:00,Atlético Madrid,5-1,?,Betis
+31,Sat Apr 2 2016,17:15,Las Palmas,2-1,?,Valencia
+31,Sat Apr 2 2016,20:30,Barcelona,1-2,?,Real Madrid
+31,Sat Apr 2 2016,22:05,Celta Vigo,1-1,?,La Coruña
+31,Sun Apr 3 2016,12:00,Athletic Club,1-1,?,Granada
+31,Sun Apr 3 2016,16:00,Málaga,1-1,?,Espanyol
+31,Sun Apr 3 2016,18:15,Eibar,1-2,?,Villarreal
+31,Sun Apr 3 2016,20:30,Sevilla,1-2,?,Real Sociedad
+31,Mon Apr 4 2016,20:30,Levante,0-0,?,Sporting Gijón
+32,Fri Apr 8 2016,20:30,Granada,0-0,?,Málaga
+32,Sat Apr 9 2016,16:00,Real Madrid,4-0,?,Eibar
+32,Sat Apr 9 2016,18:15,Espanyol,1-3,?,Atlético Madrid
+32,Sat Apr 9 2016,20:30,Real Sociedad,1-0,?,Barcelona
+32,Sat Apr 9 2016,22:05,Betis,1-0,?,Levante
+32,Sun Apr 10 2016,12:00,Sporting Gijón,0-1,?,Celta Vigo
+32,Sun Apr 10 2016,16:00,Valencia,2-1,?,Sevilla
+32,Sun Apr 10 2016,18:15,Villarreal,2-0,?,Getafe
+32,Sun Apr 10 2016,20:30,Athletic Club,1-0,?,Rayo Vallecano
+32,Mon Apr 11 2016,20:30,La Coruña,1-3,?,Las Palmas
+33,Fri Apr 15 2016,20:30,Levante,2-1,?,Espanyol
+33,Sat Apr 16 2016,16:00,Getafe,1-5,?,Real Madrid
+33,Sat Apr 16 2016,17:15,Las Palmas,1-1,?,Sporting Gijón
+33,Sat Apr 16 2016,20:30,Eibar,2-1,?,Real Sociedad
+33,Sat Apr 16 2016,22:05,Celta Vigo,1-1,?,Betis
+33,Sun Apr 17 2016,12:00,Málaga,0-1,?,Athletic Club
+33,Sun Apr 17 2016,16:00,Sevilla,1-1,?,La Coruña
+33,Sun Apr 17 2016,18:15,Atlético Madrid,3-0,?,Granada
+33,Sun Apr 17 2016,18:15,Rayo Vallecano,2-1,?,Villarreal
+33,Sun Apr 17 2016,20:30,Barcelona,1-2,?,Valencia
+34,Tue Apr 19 2016,20:00,Espanyol,1-1,?,Celta Vigo
+34,Tue Apr 19 2016,21:00,Betis,1-0,?,Las Palmas
+34,Wed Apr 20 2016,20:00,La Coruña,0-8,?,Barcelona
+34,Wed Apr 20 2016,20:45,Valencia,4-0,?,Eibar
+34,Wed Apr 20 2016,20:45,Málaga,1-1,?,Rayo Vallecano
+34,Wed Apr 20 2016,20:45,Sporting Gijón,2-1,?,Sevilla
+34,Wed Apr 20 2016,20:45,Athletic Club,0-1,?,Atlético Madrid
+34,Wed Apr 20 2016,22:00,Real Madrid,3-0,?,Villarreal
+34,Thu Apr 21 2016,20:30,Real Sociedad,1-2,?,Getafe
+34,Thu Apr 21 2016,21:00,Granada,5-1,?,Levante
+35,Fri Apr 22 2016,20:00,Las Palmas,4-0,?,Espanyol
+35,Sat Apr 23 2016,16:00,Rayo Vallecano,2-3,?,Real Madrid
+35,Sat Apr 23 2016,18:15,Atlético Madrid,1-0,?,Málaga
+35,Sat Apr 23 2016,20:30,Barcelona,6-0,?,Sporting Gijón
+35,Sat Apr 23 2016,22:05,Eibar,1-1,?,La Coruña
+35,Sun Apr 24 2016,12:00,Levante,2-2,?,Athletic Club
+35,Sun Apr 24 2016,16:00,Sevilla,2-0,?,Betis
+35,Sun Apr 24 2016,18:15,Getafe,2-2,?,Valencia
+35,Sun Apr 24 2016,20:30,Villarreal,0-0,?,Real Sociedad
+35,Mon Apr 25 2016,20:30,Celta Vigo,2-1,?,Granada
+36,Fri Apr 29 2016,20:30,Sporting Gijón,2-0,?,Eibar
+36,Sat Apr 30 2016,16:00,Real Sociedad,0-1,?,Real Madrid
+36,Sat Apr 30 2016,18:15,Atlético Madrid,1-0,?,Rayo Vallecano
+36,Sat Apr 30 2016,20:30,Betis,0-2,?,Barcelona
+36,Sat Apr 30 2016,22:05,Granada,3-2,?,Las Palmas
+36,Sun May 1 2016,12:00,Athletic Club,2-1,?,Celta Vigo
+36,Sun May 1 2016,16:00,Espanyol,1-0,?,Sevilla
+36,Sun May 1 2016,18:15,La Coruña,0-2,?,Getafe
+36,Sun May 1 2016,20:30,Valencia,0-2,?,Villarreal
+36,Mon May 2 2016,20:30,Málaga,3-1,?,Levante
+37,Sun May 8 2016,16:00,Las Palmas,0-0,?,Athletic Club
+37,Sun May 8 2016,17:00,Villarreal,0-2,?,La Coruña
+37,Sun May 8 2016,17:00,Real Madrid,3-2,?,Valencia
+37,Sun May 8 2016,17:00,Getafe,1-1,?,Sporting Gijón
+37,Sun May 8 2016,17:00,Barcelona,5-0,?,Espanyol
+37,Sun May 8 2016,17:00,Celta Vigo,1-0,?,Málaga
+37,Sun May 8 2016,17:00,Eibar,1-1,?,Betis
+37,Sun May 8 2016,17:00,Sevilla,1-4,?,Granada
+37,Sun May 8 2016,17:00,Real Sociedad,2-1,?,Rayo Vallecano
+37,Sun May 8 2016,17:00,Levante,2-1,?,Atlético Madrid
+38,Fri May 13 2016,20:30,Valencia,0-1,?,Real Sociedad
+38,Sat May 14 2016,17:00,Granada,0-3,?,Barcelona
+38,Sat May 14 2016,17:00,La Coruña,0-2,?,Real Madrid
+38,Sat May 14 2016,19:30,Athletic Club,3-1,?,Sevilla
+38,Sat May 14 2016,19:30,Atlético Madrid,2-0,?,Celta Vigo
+38,Sun May 15 2016,12:00,Málaga,4-1,?,Las Palmas
+38,Sun May 15 2016,19:00,Espanyol,4-2,?,Eibar
+38,Sun May 15 2016,19:30,Rayo Vallecano,3-1,?,Levante
+38,Sun May 15 2016,19:30,Betis,2-1,?,Getafe
+38,Sun May 15 2016,19:30,Sporting Gijón,2-0,?,Villarreal

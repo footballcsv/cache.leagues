@@ -1,0 +1,307 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Jul 24 2015,20:30,MSV Duisburg,1-3,?,Kaiserslautern
+1,Sat Jul 25 2015,13:00,Greuther Fürth,1-0,?,Karlsruher
+1,Sat Jul 25 2015,15:30,St. Pauli,0-0,?,Arminia
+1,Sat Jul 25 2015,15:30,FSV Frankfurt,0-1,?,RB Leipzig
+1,Sun Jul 26 2015,13:30,Paderborn 07,0-1,?,Bochum
+1,Sun Jul 26 2015,15:30,Union Berlin,1-1,?,Düsseldorf
+1,Sun Jul 26 2015,15:30,Heidenheim,1-0,?,1860 Munich
+1,Sun Jul 26 2015,15:30,Braunschweig,1-3,?,Sandhausen
+1,Mon Jul 27 2015,20:15,Freiburg,6-3,?,Nürnberg
+2,Fri Jul 31 2015,18:30,Nürnberg,3-2,?,Heidenheim
+2,Fri Jul 31 2015,18:30,Arminia,0-0,?,FSV Frankfurt
+2,Fri Jul 31 2015,20:30,Kaiserslautern,0-0,?,Braunschweig
+2,Sat Aug 1 2015,13:00,Bochum,3-0,?,MSV Duisburg
+2,Sat Aug 1 2015,15:30,1860 Munich,0-1,?,Freiburg
+2,Sun Aug 2 2015,13:30,Düsseldorf,1-2,?,Paderborn 07
+2,Sun Aug 2 2015,15:30,Sandhausen,4-3,?,Union Berlin
+2,Sun Aug 2 2015,15:30,Karlsruher,1-2,?,St. Pauli
+2,Mon Aug 3 2015,20:15,RB Leipzig,2-2,?,Greuther Fürth
+3,Fri Aug 14 2015,18:30,Heidenheim,1-0,?,Düsseldorf
+3,Fri Aug 14 2015,18:30,FSV Frankfurt,1-2,?,Karlsruher
+3,Fri Aug 14 2015,18:30,Paderborn 07,0-6,?,Sandhausen
+3,Sat Aug 15 2015,13:00,Braunschweig,0-2,?,RB Leipzig
+3,Sat Aug 15 2015,13:00,Freiburg,1-3,?,Bochum
+3,Sun Aug 16 2015,13:30,MSV Duisburg,2-2,?,Arminia
+3,Sun Aug 16 2015,13:30,Union Berlin,2-2,?,Kaiserslautern
+3,Sun Aug 16 2015,13:30,St. Pauli,3-2,?,Greuther Fürth
+3,Mon Aug 17 2015,20:15,Nürnberg,2-2,?,1860 Munich
+4,Fri Aug 21 2015,18:30,Sandhausen,0-0,?,Heidenheim
+4,Fri Aug 21 2015,18:30,Arminia,0-2,?,Braunschweig
+4,Fri Aug 21 2015,18:30,Greuther Fürth,0-2,?,FSV Frankfurt
+4,Sat Aug 22 2015,13:00,Karlsruher,2-0,?,MSV Duisburg
+4,Sat Aug 22 2015,13:00,Düsseldorf,1-2,?,Freiburg
+4,Sun Aug 23 2015,13:30,1860 Munich,0-0,?,Union Berlin
+4,Sun Aug 23 2015,13:30,RB Leipzig,0-1,?,St. Pauli
+4,Sun Aug 23 2015,13:30,Bochum,2-1,?,Nürnberg
+4,Mon Aug 24 2015,20:15,Kaiserslautern,1-0,?,Paderborn 07
+5,Fri Aug 28 2015,18:30,Freiburg,4-1,?,Sandhausen
+5,Fri Aug 28 2015,18:30,Union Berlin,1-1,?,RB Leipzig
+5,Fri Aug 28 2015,18:30,Heidenheim,3-1,?,Kaiserslautern
+5,Sat Aug 29 2015,13:00,Paderborn 07,1-2,?,Arminia
+5,Sat Aug 29 2015,13:00,MSV Duisburg,2-2,?,Greuther Fürth
+5,Sun Aug 30 2015,13:30,FSV Frankfurt,1-0,?,St. Pauli
+5,Sun Aug 30 2015,13:30,Nürnberg,1-0,?,Düsseldorf
+5,Sun Aug 30 2015,13:30,Braunschweig,6-0,?,Karlsruher
+5,Mon Aug 31 2015,20:15,Bochum,1-0,?,1860 Munich
+6,Fri Sep 11 2015,18:30,Sandhausen,1-1,?,Bochum
+6,Fri Sep 11 2015,18:30,RB Leipzig,2-0,?,Paderborn 07
+6,Fri Sep 11 2015,18:30,Kaiserslautern,0-2,?,Freiburg
+6,Sat Sep 12 2015,13:00,Arminia,0-0,?,Heidenheim
+6,Sat Sep 12 2015,13:00,Karlsruher,0-3,?,Union Berlin
+6,Sun Sep 13 2015,13:30,Greuther Fürth,3-2,?,Nürnberg
+6,Sun Sep 13 2015,13:30,FSV Frankfurt,0-3,?,Braunschweig
+6,Sun Sep 13 2015,13:30,Düsseldorf,3-0,?,1860 Munich
+6,Mon Sep 14 2015,20:15,St. Pauli,2-0,?,MSV Duisburg
+7,Fri Sep 18 2015,18:30,Freiburg,2-2,?,Arminia
+7,Fri Sep 18 2015,18:30,Bochum,1-1,?,Düsseldorf
+7,Fri Sep 18 2015,18:30,Heidenheim,1-1,?,RB Leipzig
+7,Sat Sep 19 2015,13:00,Paderborn 07,2-0,?,Karlsruher
+7,Sat Sep 19 2015,13:00,Nürnberg,2-0,?,Sandhausen
+7,Sat Sep 19 2015,13:00,1860 Munich,1-1,?,Kaiserslautern
+7,Sun Sep 20 2015,13:30,MSV Duisburg,0-1,?,FSV Frankfurt
+7,Sun Sep 20 2015,13:30,Union Berlin,1-2,?,Greuther Fürth
+7,Sun Sep 20 2015,13:30,Braunschweig,0-0,?,St. Pauli
+8,Tue Sep 22 2015,17:30,Arminia,1-1,?,Bochum
+8,Tue Sep 22 2015,17:30,Karlsruher,1-1,?,Düsseldorf
+8,Tue Sep 22 2015,17:30,Kaiserslautern,0-3,?,Nürnberg
+8,Tue Sep 22 2015,17:30,Sandhausen,1-1,?,1860 Munich
+8,Wed Sep 23 2015,17:30,FSV Frankfurt,3-2,?,Union Berlin
+8,Wed Sep 23 2015,17:30,Greuther Fürth,3-0,?,Paderborn 07
+8,Wed Sep 23 2015,17:30,MSV Duisburg,0-5,?,Braunschweig
+8,Wed Sep 23 2015,17:30,St. Pauli,1-0,?,Heidenheim
+8,Thu Sep 24 2015,20:15,RB Leipzig,1-1,?,Freiburg
+9,Fri Sep 25 2015,18:30,Nürnberg,2-2,?,Arminia
+9,Fri Sep 25 2015,18:30,Düsseldorf,0-1,?,Sandhausen
+9,Fri Sep 25 2015,18:30,Bochum,1-2,?,Kaiserslautern
+9,Sat Sep 26 2015,13:00,Union Berlin,3-2,?,MSV Duisburg
+9,Sat Sep 26 2015,13:00,Paderborn 07,0-0,?,St. Pauli
+9,Sun Sep 27 2015,13:30,Heidenheim,1-1,?,Karlsruher
+9,Sun Sep 27 2015,13:30,1860 Munich,2-2,?,RB Leipzig
+9,Sun Sep 27 2015,13:30,Freiburg,2-0,?,FSV Frankfurt
+9,Mon Sep 28 2015,20:15,Braunschweig,0-1,?,Greuther Fürth
+10,Fri Oct 2 2015,18:30,Arminia,1-1,?,1860 Munich
+10,Fri Oct 2 2015,18:30,Kaiserslautern,3-0,?,Düsseldorf
+10,Fri Oct 2 2015,18:30,FSV Frankfurt,0-4,?,Heidenheim
+10,Sat Oct 3 2015,13:00,Greuther Fürth,0-5,?,Bochum
+10,Sat Oct 3 2015,13:00,St. Pauli,1-3,?,Sandhausen
+10,Sun Oct 4 2015,13:30,RB Leipzig,3-2,?,Nürnberg
+10,Sun Oct 4 2015,13:30,Braunschweig,2-1,?,Union Berlin
+10,Sun Oct 4 2015,13:30,Karlsruher,1-1,?,Freiburg
+10,Mon Oct 5 2015,20:15,MSV Duisburg,1-0,?,Paderborn 07
+11,Fri Oct 16 2015,18:30,Paderborn 07,2-0,?,Braunschweig
+11,Fri Oct 16 2015,18:30,Sandhausen,1-0,?,Kaiserslautern
+11,Fri Oct 16 2015,18:30,Düsseldorf,1-0,?,Arminia
+11,Sat Oct 17 2015,13:00,Nürnberg,1-1,?,FSV Frankfurt
+11,Sat Oct 17 2015,13:00,Union Berlin,3-3,?,St. Pauli
+11,Sun Oct 18 2015,13:30,Freiburg,5-2,?,Greuther Fürth
+11,Sun Oct 18 2015,13:30,Bochum,0-1,?,RB Leipzig
+11,Sun Oct 18 2015,13:30,Heidenheim,1-0,?,MSV Duisburg
+11,Mon Oct 19 2015,20:15,1860 Munich,0-1,?,Karlsruher
+12,Fri Oct 23 2015,18:30,Greuther Fürth,1-0,?,1860 Munich
+12,Fri Oct 23 2015,18:30,RB Leipzig,2-1,?,Düsseldorf
+12,Fri Oct 23 2015,18:30,FSV Frankfurt,3-2,?,Bochum
+12,Sat Oct 24 2015,13:00,MSV Duisburg,0-0,?,Nürnberg
+12,Sat Oct 24 2015,13:00,Karlsruher,2-0,?,Kaiserslautern
+12,Sat Oct 24 2015,13:00,Union Berlin,0-2,?,Paderborn 07
+12,Sun Oct 25 2015,13:30,Braunschweig,1-0,?,Heidenheim
+12,Sun Oct 25 2015,13:30,St. Pauli,1-0,?,Freiburg
+12,Sun Oct 25 2015,13:30,Arminia,0-0,?,Sandhausen
+13,Fri Oct 30 2015,18:30,Kaiserslautern,0-2,?,Arminia
+13,Fri Oct 30 2015,18:30,Düsseldorf,1-0,?,Greuther Fürth
+13,Fri Oct 30 2015,18:30,Bochum,1-1,?,St. Pauli
+13,Sat Oct 31 2015,13:00,Paderborn 07,1-1,?,FSV Frankfurt
+13,Sat Oct 31 2015,13:00,Heidenheim,0-2,?,Union Berlin
+13,Sun Nov 1 2015,13:30,Sandhausen,1-2,?,RB Leipzig
+13,Sun Nov 1 2015,13:30,1860 Munich,1-0,?,MSV Duisburg
+13,Sun Nov 1 2015,13:30,Freiburg,2-2,?,Braunschweig
+13,Mon Nov 2 2015,20:15,Nürnberg,0-0,?,Karlsruher
+14,Fri Nov 6 2015,18:30,Greuther Fürth,0-0,?,Arminia
+14,Fri Nov 6 2015,18:30,FSV Frankfurt,0-1,?,Sandhausen
+14,Fri Nov 6 2015,18:30,Karlsruher,3-0,?,Bochum
+14,Sat Nov 7 2015,13:00,MSV Duisburg,1-1,?,Freiburg
+14,Sat Nov 7 2015,13:00,Union Berlin,3-3,?,Nürnberg
+14,Sun Nov 8 2015,13:30,RB Leipzig,0-2,?,Kaiserslautern
+14,Sun Nov 8 2015,13:30,Paderborn 07,1-1,?,Heidenheim
+14,Sun Nov 8 2015,13:30,Braunschweig,0-0,?,1860 Munich
+14,Mon Nov 9 2015,20:15,St. Pauli,4-0,?,Düsseldorf
+15,Fri Nov 20 2015,18:30,Sandhausen,3-1,?,Karlsruher
+15,Fri Nov 20 2015,18:30,Bochum,1-1,?,Union Berlin
+15,Fri Nov 20 2015,18:30,Düsseldorf,1-1,?,MSV Duisburg
+15,Sat Nov 21 2015,13:00,Arminia,0-1,?,RB Leipzig
+15,Sat Nov 21 2015,13:00,1860 Munich,2-0,?,St. Pauli
+15,Sun Nov 22 2015,13:30,Freiburg,4-1,?,Paderborn 07
+15,Sun Nov 22 2015,13:30,Heidenheim,1-2,?,Greuther Fürth
+15,Sun Nov 22 2015,13:30,Kaiserslautern,1-1,?,FSV Frankfurt
+15,Mon Nov 23 2015,20:15,Nürnberg,2-1,?,Braunschweig
+16,Fri Nov 27 2015,18:30,Braunschweig,1-0,?,Bochum
+16,Fri Nov 27 2015,18:30,Heidenheim,1-2,?,Freiburg
+16,Fri Nov 27 2015,18:30,Greuther Fürth,2-4,?,Kaiserslautern
+16,Sat Nov 28 2015,13:00,Union Berlin,1-1,?,Arminia
+16,Sat Nov 28 2015,13:00,Paderborn 07,4-4,?,1860 Munich
+16,Sun Nov 29 2015,13:30,MSV Duisburg,3-0,?,Sandhausen
+16,Sun Nov 29 2015,13:30,FSV Frankfurt,1-2,?,Düsseldorf
+16,Sun Nov 29 2015,13:30,St. Pauli,0-4,?,Nürnberg
+16,Mon Nov 30 2015,20:15,Karlsruher,0-1,?,RB Leipzig
+17,Fri Dec 4 2015,18:30,1860 Munich,0-1,?,FSV Frankfurt
+17,Fri Dec 4 2015,18:30,Nürnberg,2-1,?,Paderborn 07
+17,Fri Dec 4 2015,18:30,Sandhausen,1-1,?,Greuther Fürth
+17,Sat Dec 5 2015,13:00,Freiburg,3-0,?,Union Berlin
+17,Sat Dec 5 2015,13:00,Arminia,2-1,?,Karlsruher
+17,Sun Dec 6 2015,13:30,RB Leipzig,4-2,?,MSV Duisburg
+17,Sun Dec 6 2015,13:30,Bochum,1-1,?,Heidenheim
+17,Sun Dec 6 2015,13:30,Kaiserslautern,1-2,?,St. Pauli
+17,Mon Dec 7 2015,20:15,Düsseldorf,1-0,?,Braunschweig
+18,Fri Dec 11 2015,18:30,Bochum,4-0,?,Paderborn 07
+18,Fri Dec 11 2015,18:30,Sandhausen,0-2,?,Braunschweig
+18,Fri Dec 11 2015,18:30,1860 Munich,1-3,?,Heidenheim
+18,Sat Dec 12 2015,13:00,Düsseldorf,0-3,?,Union Berlin
+18,Sat Dec 12 2015,13:00,Karlsruher,1-0,?,Greuther Fürth
+18,Sun Dec 13 2015,13:30,RB Leipzig,3-1,?,FSV Frankfurt
+18,Sun Dec 13 2015,13:30,Nürnberg,2-1,?,Freiburg
+18,Sun Dec 13 2015,13:30,Kaiserslautern,2-0,?,MSV Duisburg
+18,Mon Dec 14 2015,20:15,Arminia,0-0,?,St. Pauli
+19,Fri Dec 18 2015,18:30,Union Berlin,1-0,?,Sandhausen
+19,Fri Dec 18 2015,18:30,St. Pauli,1-2,?,Karlsruher
+19,Fri Dec 18 2015,18:30,FSV Frankfurt,1-2,?,Arminia
+19,Sat Dec 19 2015,13:00,Greuther Fürth,1-2,?,RB Leipzig
+19,Sat Dec 19 2015,13:00,Heidenheim,0-3,?,Nürnberg
+19,Sun Dec 20 2015,13:30,MSV Duisburg,0-0,?,Bochum
+19,Sun Dec 20 2015,13:30,Braunschweig,1-1,?,Kaiserslautern
+19,Sun Dec 20 2015,13:30,Freiburg,3-0,?,1860 Munich
+19,Mon Dec 21 2015,20:00,Paderborn 07,0-0,?,Düsseldorf
+20,Fri Feb 5 2016,18:30,Kaiserslautern,2-2,?,Union Berlin
+20,Fri Feb 5 2016,18:30,Bochum,2-0,?,Freiburg
+20,Fri Feb 5 2016,18:30,Sandhausen,1-0,?,Paderborn 07
+20,Sat Feb 6 2016,13:00,1860 Munich,0-1,?,Nürnberg
+20,Sat Feb 6 2016,13:00,Düsseldorf,0-1,?,Heidenheim
+20,Sun Feb 7 2016,13:30,Greuther Fürth,0-2,?,St. Pauli
+20,Sun Feb 7 2016,13:30,Karlsruher,1-1,?,FSV Frankfurt
+20,Sun Feb 7 2016,13:30,RB Leipzig,2-0,?,Braunschweig
+20,Mon Feb 8 2016,20:15,Arminia,2-1,?,MSV Duisburg
+21,Fri Feb 12 2016,18:30,Paderborn 07,0-4,?,Kaiserslautern
+21,Fri Feb 12 2016,18:30,FSV Frankfurt,1-2,?,Greuther Fürth
+21,Fri Feb 12 2016,18:30,St. Pauli,1-0,?,RB Leipzig
+21,Sat Feb 13 2016,13:00,MSV Duisburg,0-1,?,Karlsruher
+21,Sat Feb 13 2016,13:00,Heidenheim,1-1,?,Sandhausen
+21,Sun Feb 14 2016,13:30,Freiburg,1-2,?,Düsseldorf
+21,Sun Feb 14 2016,13:30,Union Berlin,3-0,?,1860 Munich
+21,Sun Feb 14 2016,13:30,Braunschweig,1-0,?,Arminia
+21,Mon Feb 15 2016,20:15,Nürnberg,1-1,?,Bochum
+22,Fri Feb 19 2016,18:30,Greuther Fürth,1-1,?,MSV Duisburg
+22,Fri Feb 19 2016,18:30,St. Pauli,1-3,?,FSV Frankfurt
+22,Fri Feb 19 2016,18:30,RB Leipzig,3-0,?,Union Berlin
+22,Sat Feb 20 2016,13:00,Karlsruher,2-2,?,Braunschweig
+22,Sat Feb 20 2016,13:00,Kaiserslautern,2-2,?,Heidenheim
+22,Sun Feb 21 2016,13:30,Arminia,1-1,?,Paderborn 07
+22,Sun Feb 21 2016,13:30,Sandhausen,0-2,?,Freiburg
+22,Sun Feb 21 2016,13:30,1860 Munich,1-1,?,Bochum
+22,Mon Feb 22 2016,20:15,Düsseldorf,1-1,?,Nürnberg
+23,Fri Feb 26 2016,18:30,Union Berlin,2-1,?,Karlsruher
+23,Fri Feb 26 2016,18:30,Nürnberg,2-1,?,Greuther Fürth
+23,Fri Feb 26 2016,18:30,Paderborn 07,0-1,?,RB Leipzig
+23,Sat Feb 27 2016,13:00,Bochum,3-2,?,Sandhausen
+23,Sat Feb 27 2016,13:00,1860 Munich,3-2,?,Düsseldorf
+23,Sat Feb 27 2016,13:30,Freiburg,2-0,?,Kaiserslautern
+23,Sun Feb 28 2016,13:30,MSV Duisburg,0-2,?,St. Pauli
+23,Sun Feb 28 2016,13:30,Heidenheim,3-2,?,Arminia
+23,Sun Feb 28 2016,13:30,Braunschweig,0-0,?,FSV Frankfurt
+24,Tue Mar 1 2016,17:30,Greuther Fürth,2-0,?,Union Berlin
+24,Tue Mar 1 2016,17:30,Düsseldorf,1-3,?,Bochum
+24,Tue Mar 1 2016,17:30,Kaiserslautern,0-1,?,1860 Munich
+24,Tue Mar 1 2016,17:30,Karlsruher,0-0,?,Paderborn 07
+24,Tue Mar 1 2016,17:30,Sandhausen,0-2,?,Nürnberg
+24,Wed Mar 2 2016,17:30,Arminia,1-4,?,Freiburg
+24,Wed Mar 2 2016,17:30,RB Leipzig,3-1,?,Heidenheim
+24,Wed Mar 2 2016,17:30,FSV Frankfurt,3-3,?,MSV Duisburg
+24,Thu Mar 3 2016,20:15,St. Pauli,1-0,?,Braunschweig
+25,Fri Mar 4 2016,18:30,1860 Munich,3-2,?,Sandhausen
+25,Fri Mar 4 2016,18:30,Düsseldorf,0-1,?,Karlsruher
+25,Fri Mar 4 2016,20:30,Nürnberg,2-1,?,Kaiserslautern
+25,Sat Mar 5 2016,13:00,Paderborn 07,1-1,?,Greuther Fürth
+25,Sat Mar 5 2016,13:00,Union Berlin,4-0,?,FSV Frankfurt
+25,Sun Mar 6 2016,13:30,Bochum,2-2,?,Arminia
+25,Sun Mar 6 2016,13:30,Braunschweig,1-1,?,MSV Duisburg
+25,Sun Mar 6 2016,13:30,Heidenheim,2-0,?,St. Pauli
+25,Mon Mar 7 2016,20:15,Freiburg,2-1,?,RB Leipzig
+26,Fri Mar 11 2016,18:30,Arminia,0-4,?,Nürnberg
+26,Fri Mar 11 2016,18:30,St. Pauli,3-4,?,Paderborn 07
+26,Fri Mar 11 2016,18:30,Greuther Fürth,3-0,?,Braunschweig
+26,Sat Mar 12 2016,13:00,MSV Duisburg,2-1,?,Union Berlin
+26,Sat Mar 12 2016,13:00,Sandhausen,1-0,?,Düsseldorf
+26,Sun Mar 13 2016,13:30,FSV Frankfurt,1-3,?,Freiburg
+26,Sun Mar 13 2016,13:30,RB Leipzig,2-1,?,1860 Munich
+26,Sun Mar 13 2016,13:30,Karlsruher,0-0,?,Heidenheim
+26,Mon Mar 14 2016,20:15,Kaiserslautern,0-2,?,Bochum
+27,Fri Mar 18 2016,18:30,Union Berlin,3-1,?,Braunschweig
+27,Fri Mar 18 2016,18:30,Heidenheim,2-2,?,FSV Frankfurt
+27,Fri Mar 18 2016,18:30,Paderborn 07,0-0,?,MSV Duisburg
+27,Sat Mar 19 2016,13:00,Düsseldorf,4-3,?,Kaiserslautern
+27,Sat Mar 19 2016,13:00,Sandhausen,0-2,?,St. Pauli
+27,Sun Mar 20 2016,13:30,Bochum,2-2,?,Greuther Fürth
+27,Sun Mar 20 2016,13:30,Nürnberg,3-1,?,RB Leipzig
+27,Sun Mar 20 2016,13:30,1860 Munich,1-1,?,Arminia
+27,Mon Mar 21 2016,20:15,Freiburg,1-0,?,Karlsruher
+28,Fri Apr 1 2016,18:30,St. Pauli,0-0,?,Union Berlin
+28,Fri Apr 1 2016,18:30,Braunschweig,2-1,?,Paderborn 07
+28,Fri Apr 1 2016,18:30,MSV Duisburg,0-2,?,Heidenheim
+28,Sat Apr 2 2016,13:00,RB Leipzig,3-1,?,Bochum
+28,Sat Apr 2 2016,13:00,Arminia,0-0,?,Düsseldorf
+28,Sun Apr 3 2016,13:30,FSV Frankfurt,0-3,?,Nürnberg
+28,Sun Apr 3 2016,13:30,Kaiserslautern,2-0,?,Sandhausen
+28,Sun Apr 3 2016,13:30,Karlsruher,3-1,?,1860 Munich
+28,Mon Apr 4 2016,20:15,Greuther Fürth,2-3,?,Freiburg
+29,Fri Apr 8 2016,18:30,1860 Munich,0-1,?,Greuther Fürth
+29,Fri Apr 8 2016,18:30,Heidenheim,2-2,?,Braunschweig
+29,Fri Apr 8 2016,18:30,Paderborn 07,0-4,?,Union Berlin
+29,Sat Apr 9 2016,13:00,Sandhausen,1-4,?,Arminia
+29,Sat Apr 9 2016,13:00,Bochum,4-1,?,FSV Frankfurt
+29,Sun Apr 10 2016,13:30,Freiburg,4-3,?,St. Pauli
+29,Sun Apr 10 2016,13:30,Kaiserslautern,0-0,?,Karlsruher
+29,Sun Apr 10 2016,13:30,Nürnberg,1-2,?,MSV Duisburg
+29,Mon Apr 11 2016,20:15,Düsseldorf,1-3,?,RB Leipzig
+30,Fri Apr 15 2016,18:30,RB Leipzig,0-1,?,Sandhausen
+30,Fri Apr 15 2016,18:30,FSV Frankfurt,0-2,?,Paderborn 07
+30,Fri Apr 15 2016,18:30,MSV Duisburg,2-1,?,1860 Munich
+30,Sat Apr 16 2016,13:00,Karlsruher,2-1,?,Nürnberg
+30,Sat Apr 16 2016,13:00,St. Pauli,2-0,?,Bochum
+30,Sun Apr 17 2016,13:30,Union Berlin,1-0,?,Heidenheim
+30,Sun Apr 17 2016,13:30,Greuther Fürth,3-1,?,Düsseldorf
+30,Sun Apr 17 2016,13:30,Arminia,0-1,?,Kaiserslautern
+30,Mon Apr 18 2016,20:15,Braunschweig,2-2,?,Freiburg
+31,Fri Apr 22 2016,18:30,Freiburg,3-0,?,MSV Duisburg
+31,Fri Apr 22 2016,18:30,Bochum,1-1,?,Karlsruher
+31,Fri Apr 22 2016,18:30,Düsseldorf,1-1,?,St. Pauli
+31,Sat Apr 23 2016,13:00,Nürnberg,6-2,?,Union Berlin
+31,Sat Apr 23 2016,13:00,Heidenheim,1-1,?,Paderborn 07
+31,Sun Apr 24 2016,13:30,Sandhausen,1-0,?,FSV Frankfurt
+31,Sun Apr 24 2016,13:30,1860 Munich,1-0,?,Braunschweig
+31,Sun Apr 24 2016,13:30,Arminia,4-2,?,Greuther Fürth
+31,Mon Apr 25 2016,20:15,Kaiserslautern,1-1,?,RB Leipzig
+32,Fri Apr 29 2016,18:30,FSV Frankfurt,1-4,?,Kaiserslautern
+32,Fri Apr 29 2016,18:30,MSV Duisburg,2-1,?,Düsseldorf
+32,Fri Apr 29 2016,18:30,RB Leipzig,1-1,?,Arminia
+32,Fri Apr 29 2016,18:30,Union Berlin,1-0,?,Bochum
+32,Fri Apr 29 2016,18:30,St. Pauli,0-2,?,1860 Munich
+32,Fri Apr 29 2016,18:30,Paderborn 07,1-2,?,Freiburg
+32,Sat Apr 30 2016,13:00,Greuther Fürth,0-2,?,Heidenheim
+32,Sat Apr 30 2016,13:00,Braunschweig,3-1,?,Nürnberg
+32,Mon May 2 2016,18:30,Karlsruher,3-0,?,Sandhausen
+33,Sun May 8 2016,15:30,Düsseldorf,1-0,?,FSV Frankfurt
+33,Sun May 8 2016,15:30,Kaiserslautern,3-1,?,Greuther Fürth
+33,Sun May 8 2016,15:30,Nürnberg,1-0,?,St. Pauli
+33,Sun May 8 2016,15:30,Arminia,2-0,?,Union Berlin
+33,Sun May 8 2016,15:30,Sandhausen,2-2,?,MSV Duisburg
+33,Sun May 8 2016,15:30,Freiburg,2-0,?,Heidenheim
+33,Sun May 8 2016,15:30,1860 Munich,1-0,?,Paderborn 07
+33,Sun May 8 2016,15:30,RB Leipzig,2-0,?,Karlsruher
+33,Sun May 8 2016,15:30,Bochum,2-3,?,Braunschweig
+34,Sun May 15 2016,15:30,Paderborn 07,0-1,?,Nürnberg
+34,Sun May 15 2016,15:30,Greuther Fürth,3-1,?,Sandhausen
+34,Sun May 15 2016,15:30,Karlsruher,1-1,?,Arminia
+34,Sun May 15 2016,15:30,MSV Duisburg,1-0,?,RB Leipzig
+34,Sun May 15 2016,15:30,Braunschweig,0-2,?,Düsseldorf
+34,Sun May 15 2016,15:30,Union Berlin,2-1,?,Freiburg
+34,Sun May 15 2016,15:30,Heidenheim,2-4,?,Bochum
+34,Sun May 15 2016,15:30,FSV Frankfurt,2-1,?,1860 Munich
+34,Sun May 15 2016,15:30,St. Pauli,5-2,?,Kaiserslautern

@@ -1,0 +1,307 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 5 2016,20:30,Kaiserslautern,0-4,?,Hannover 96
+1,Sat Aug 6 2016,13:00,Bochum,2-1,?,Union Berlin
+1,Sat Aug 6 2016,15:30,Sandhausen,2-2,?,Düsseldorf
+1,Sat Aug 6 2016,15:30,Dynamo Dres,1-1,?,Nürnberg
+1,Sun Aug 7 2016,13:30,Greuther Fürth,1-0,?,1860 Munich
+1,Sun Aug 7 2016,15:30,Arminia,0-0,?,Karlsruher
+1,Sun Aug 7 2016,15:30,Braunschweig,2-1,?,W'burg Kickers
+1,Sun Aug 7 2016,15:30,Heidenheim,1-0,?,Erzgebirge Aue
+1,Mon Aug 8 2016,20:15,Stuttgart,2-1,?,St. Pauli
+2,Fri Aug 12 2016,18:30,Nürnberg,1-1,?,Heidenheim
+2,Fri Aug 12 2016,18:30,Erzgebirge Aue,2-0,?,Sandhausen
+2,Fri Aug 12 2016,20:30,Düsseldorf,1-0,?,Stuttgart
+2,Sat Aug 13 2016,13:00,Karlsruher,1-1,?,Bochum
+2,Sat Aug 13 2016,15:30,St. Pauli,0-2,?,Braunschweig
+2,Sun Aug 14 2016,13:30,Hannover 96,3-1,?,Greuther Fürth
+2,Sun Aug 14 2016,15:30,1860 Munich,1-0,?,Arminia
+2,Sun Aug 14 2016,15:30,W'burg Kickers,1-1,?,Kaiserslautern
+2,Mon Aug 15 2016,20:15,Union Berlin,2-2,?,Dynamo Dres
+3,Fri Aug 26 2016,18:30,Heidenheim,1-2,?,W'burg Kickers
+3,Fri Aug 26 2016,18:30,Bochum,1-1,?,Hannover 96
+3,Fri Aug 26 2016,18:30,Sandhausen,1-2,?,Stuttgart
+3,Sat Aug 27 2016,13:00,Greuther Fürth,3-2,?,Erzgebirge Aue
+3,Sat Aug 27 2016,13:00,Karlsruher,0-0,?,1860 Munich
+3,Sun Aug 28 2016,13:30,Dynamo Dres,1-0,?,St. Pauli
+3,Sun Aug 28 2016,13:30,Braunschweig,6-1,?,Nürnberg
+3,Sun Aug 28 2016,13:30,Arminia,4-4,?,Union Berlin
+3,Mon Aug 29 2016,20:15,Kaiserslautern,0-0,?,Düsseldorf
+4,Fri Sep 9 2016,18:30,W'burg Kickers,2-0,?,Bochum
+4,Fri Sep 9 2016,18:30,Stuttgart,1-2,?,Heidenheim
+4,Fri Sep 9 2016,18:30,Erzgebirge Aue,0-2,?,Braunschweig
+4,Sat Sep 10 2016,13:00,Union Berlin,4-0,?,Karlsruher
+4,Sat Sep 10 2016,13:00,St. Pauli,2-1,?,Arminia
+4,Sun Sep 11 2016,13:30,Sandhausen,2-0,?,Kaiserslautern
+4,Sun Sep 11 2016,13:30,Hannover 96,0-2,?,Dynamo Dres
+4,Sun Sep 11 2016,13:30,Düsseldorf,1-1,?,Greuther Fürth
+4,Mon Sep 12 2016,20:15,Nürnberg,1-2,?,1860 Munich
+5,Fri Sep 16 2016,18:30,Bochum,5-4,?,Nürnberg
+5,Fri Sep 16 2016,18:30,1860 Munich,1-2,?,Union Berlin
+5,Fri Sep 16 2016,18:30,Greuther Fürth,0-3,?,W'burg Kickers
+5,Sat Sep 17 2016,13:00,Braunschweig,2-1,?,Sandhausen
+5,Sat Sep 17 2016,13:00,Heidenheim,2-0,?,Düsseldorf
+5,Sat Sep 17 2016,13:00,Kaiserslautern,0-1,?,Stuttgart
+5,Sun Sep 18 2016,13:30,Karlsruher,1-1,?,St. Pauli
+5,Sun Sep 18 2016,13:30,Arminia,3-3,?,Hannover 96
+5,Sun Sep 18 2016,13:30,Dynamo Dres,0-3,?,Erzgebirge Aue
+6,Tue Sep 20 2016,17:30,Sandhausen,0-0,?,Heidenheim
+6,Tue Sep 20 2016,17:30,Stuttgart,2-0,?,Braunschweig
+6,Tue Sep 20 2016,17:30,Nürnberg,1-2,?,Greuther Fürth
+6,Tue Sep 20 2016,17:30,Düsseldorf,3-0,?,Bochum
+6,Wed Sep 21 2016,17:30,Hannover 96,1-0,?,Karlsruher
+6,Wed Sep 21 2016,17:30,Erzgebirge Aue,1-1,?,Arminia
+6,Wed Sep 21 2016,17:30,Kaiserslautern,3-0,?,Dynamo Dres
+6,Wed Sep 21 2016,17:30,W'burg Kickers,0-1,?,Union Berlin
+6,Thu Sep 22 2016,20:15,St. Pauli,2-2,?,1860 Munich
+7,Fri Sep 23 2016,18:30,Bochum,1-1,?,Stuttgart
+7,Fri Sep 23 2016,18:30,Braunschweig,2-1,?,Düsseldorf
+7,Fri Sep 23 2016,18:30,Greuther Fürth,1-1,?,Sandhausen
+7,Sat Sep 24 2016,13:00,Heidenheim,3-0,?,Kaiserslautern
+7,Sat Sep 24 2016,13:00,Karlsruher,2-0,?,Erzgebirge Aue
+7,Sun Sep 25 2016,13:30,Arminia,1-3,?,Nürnberg
+7,Sun Sep 25 2016,13:30,Dynamo Dres,2-2,?,W'burg Kickers
+7,Sun Sep 25 2016,13:30,1860 Munich,0-2,?,Hannover 96
+7,Mon Sep 26 2016,20:15,Union Berlin,2-0,?,St. Pauli
+8,Fri Sep 30 2016,18:30,Sandhausen,2-0,?,Dynamo Dres
+8,Fri Sep 30 2016,18:30,Erzgebirge Aue,2-4,?,Bochum
+8,Fri Sep 30 2016,18:30,Nürnberg,2-0,?,Union Berlin
+8,Sat Oct 1 2016,13:00,Hannover 96,2-0,?,St. Pauli
+8,Sat Oct 1 2016,13:00,Düsseldorf,1-1,?,Karlsruher
+8,Sun Oct 2 2016,13:30,W'burg Kickers,2-0,?,1860 Munich
+8,Sun Oct 2 2016,13:30,Heidenheim,1-1,?,Braunschweig
+8,Sun Oct 2 2016,13:30,Kaiserslautern,0-0,?,Arminia
+8,Mon Oct 3 2016,20:15,Stuttgart,4-0,?,Greuther Fürth
+9,Fri Oct 14 2016,18:30,Arminia,0-1,?,W'burg Kickers
+9,Fri Oct 14 2016,18:30,Bochum,2-2,?,Sandhausen
+9,Fri Oct 14 2016,18:30,St. Pauli,1-2,?,Erzgebirge Aue
+9,Sat Oct 15 2016,13:00,Greuther Fürth,0-2,?,Heidenheim
+9,Sat Oct 15 2016,13:00,Dynamo Dres,5-0,?,Stuttgart
+9,Sun Oct 16 2016,13:30,Union Berlin,2-1,?,Hannover 96
+9,Sun Oct 16 2016,13:30,1860 Munich,1-3,?,Düsseldorf
+9,Sun Oct 16 2016,13:30,Karlsruher,0-3,?,Nürnberg
+9,Mon Oct 17 2016,20:15,Braunschweig,1-0,?,Kaiserslautern
+10,Fri Oct 21 2016,18:30,W'burg Kickers,0-2,?,Karlsruher
+10,Fri Oct 21 2016,18:30,Düsseldorf,4-0,?,Arminia
+10,Fri Oct 21 2016,18:30,Stuttgart,2-1,?,1860 Munich
+10,Sat Oct 22 2016,13:00,Sandhausen,3-0,?,St. Pauli
+10,Sat Oct 22 2016,13:00,Heidenheim,0-0,?,Dynamo Dres
+10,Sun Oct 23 2016,13:30,Erzgebirge Aue,1-3,?,Union Berlin
+10,Sun Oct 23 2016,13:30,Nürnberg,2-0,?,Hannover 96
+10,Sun Oct 23 2016,13:30,Braunschweig,1-0,?,Greuther Fürth
+10,Mon Oct 24 2016,20:15,Kaiserslautern,3-0,?,Bochum
+11,Fri Oct 28 2016,18:30,Dynamo Dres,3-2,?,Braunschweig
+11,Fri Oct 28 2016,18:30,Arminia,1-0,?,Sandhausen
+11,Fri Oct 28 2016,18:30,1860 Munich,6-2,?,Erzgebirge Aue
+11,Sat Oct 29 2016,13:00,Greuther Fürth,0-1,?,Kaiserslautern
+11,Sat Oct 29 2016,13:00,Union Berlin,0-1,?,Düsseldorf
+11,Sun Oct 30 2016,13:30,Bochum,2-1,?,Heidenheim
+11,Sun Oct 30 2016,13:30,Karlsruher,1-3,?,Stuttgart
+11,Sun Oct 30 2016,13:30,Hannover 96,3-1,?,W'burg Kickers
+11,Mon Oct 31 2016,20:15,St. Pauli,1-1,?,Nürnberg
+12,Fri Nov 4 2016,18:30,Heidenheim,2-1,?,Karlsruher
+12,Fri Nov 4 2016,18:30,Düsseldorf,0-3,?,Dynamo Dres
+12,Fri Nov 4 2016,18:30,Erzgebirge Aue,1-2,?,Nürnberg
+12,Sat Nov 5 2016,13:00,Greuther Fürth,2-1,?,Bochum
+12,Sat Nov 5 2016,13:00,Kaiserslautern,1-0,?,Union Berlin
+12,Sun Nov 6 2016,13:30,Sandhausen,3-2,?,1860 Munich
+12,Sun Nov 6 2016,13:30,Braunschweig,2-2,?,Hannover 96
+12,Sun Nov 6 2016,13:30,Stuttgart,3-1,?,Arminia
+12,Mon Nov 7 2016,20:15,W'burg Kickers,1-0,?,St. Pauli
+13,Fri Nov 18 2016,18:30,Nürnberg,2-2,?,W'burg Kickers
+13,Fri Nov 18 2016,18:30,Bochum,1-1,?,Braunschweig
+13,Fri Nov 18 2016,18:30,Arminia,2-1,?,Heidenheim
+13,Sat Nov 19 2016,13:00,Hannover 96,2-0,?,Erzgebirge Aue
+13,Sat Nov 19 2016,13:00,Karlsruher,1-3,?,Sandhausen
+13,Sun Nov 20 2016,13:30,Union Berlin,1-1,?,Stuttgart
+13,Sun Nov 20 2016,13:30,St. Pauli,0-1,?,Düsseldorf
+13,Sun Nov 20 2016,13:30,Dynamo Dres,2-1,?,Greuther Fürth
+13,Mon Nov 21 2016,20:15,1860 Munich,1-1,?,Kaiserslautern
+14,Fri Nov 25 2016,18:30,Greuther Fürth,2-1,?,Arminia
+14,Fri Nov 25 2016,18:30,Düsseldorf,2-2,?,Hannover 96
+14,Fri Nov 25 2016,18:30,W'burg Kickers,1-1,?,Erzgebirge Aue
+14,Sat Nov 26 2016,13:00,Heidenheim,2-0,?,St. Pauli
+14,Sat Nov 26 2016,13:00,Dynamo Dres,2-2,?,Bochum
+14,Sun Nov 27 2016,13:30,Kaiserslautern,0-0,?,Karlsruher
+14,Sun Nov 27 2016,13:30,Sandhausen,0-1,?,Union Berlin
+14,Sun Nov 27 2016,13:30,Braunschweig,2-1,?,1860 Munich
+14,Mon Nov 28 2016,20:15,Stuttgart,3-1,?,Nürnberg
+15,Fri Dec 2 2016,18:30,Karlsruher,1-2,?,Greuther Fürth
+15,Fri Dec 2 2016,18:30,Hannover 96,3-2,?,Heidenheim
+15,Fri Dec 2 2016,18:30,St. Pauli,0-0,?,Kaiserslautern
+15,Sat Dec 3 2016,13:00,1860 Munich,1-0,?,Dynamo Dres
+15,Sat Dec 3 2016,13:00,Nürnberg,1-3,?,Sandhausen
+15,Sun Dec 4 2016,13:30,Arminia,1-0,?,Bochum
+15,Sun Dec 4 2016,13:30,Erzgebirge Aue,0-4,?,Stuttgart
+15,Sun Dec 4 2016,13:30,W'burg Kickers,0-0,?,Düsseldorf
+15,Mon Dec 5 2016,20:15,Union Berlin,2-0,?,Braunschweig
+16,Fri Dec 9 2016,18:30,Dynamo Dres,0-0,?,Karlsruher
+16,Fri Dec 9 2016,18:30,Heidenheim,3-0,?,Union Berlin
+16,Fri Dec 9 2016,18:30,Düsseldorf,0-2,?,Nürnberg
+16,Sat Dec 10 2016,13:00,Bochum,1-0,?,1860 Munich
+16,Sat Dec 10 2016,13:00,Kaiserslautern,0-0,?,Erzgebirge Aue
+16,Sun Dec 11 2016,13:30,Greuther Fürth,0-2,?,St. Pauli
+16,Sun Dec 11 2016,13:30,Sandhausen,0-0,?,W'burg Kickers
+16,Sun Dec 11 2016,13:30,Braunschweig,3-2,?,Arminia
+16,Mon Dec 12 2016,20:15,Stuttgart,1-2,?,Hannover 96
+17,Fri Dec 16 2016,18:30,Union Berlin,1-1,?,Greuther Fürth
+17,Fri Dec 16 2016,18:30,1860 Munich,1-1,?,Heidenheim
+17,Fri Dec 16 2016,18:30,Erzgebirge Aue,0-0,?,Düsseldorf
+17,Sat Dec 17 2016,13:00,Karlsruher,0-0,?,Braunschweig
+17,Sat Dec 17 2016,13:00,St. Pauli,1-1,?,Bochum
+17,Sun Dec 18 2016,13:30,W'burg Kickers,3-0,?,Stuttgart
+17,Sun Dec 18 2016,13:30,Arminia,1-2,?,Dynamo Dres
+17,Sun Dec 18 2016,13:30,Hannover 96,0-0,?,Sandhausen
+17,Mon Dec 19 2016,20:15,Nürnberg,2-1,?,Kaiserslautern
+18,Fri Jan 27 2017,18:30,Düsseldorf,0-3,?,Sandhausen
+18,Fri Jan 27 2017,18:30,1860 Munich,2-1,?,Greuther Fürth
+18,Fri Jan 27 2017,18:30,Union Berlin,2-1,?,Bochum
+18,Sat Jan 28 2017,13:00,W'burg Kickers,1-1,?,Braunschweig
+18,Sat Jan 28 2017,13:00,Erzgebirge Aue,2-1,?,Heidenheim
+18,Sun Jan 29 2017,13:30,Nürnberg,1-2,?,Dynamo Dres
+18,Sun Jan 29 2017,13:30,Karlsruher,3-2,?,Arminia
+18,Sun Jan 29 2017,13:30,St. Pauli,0-1,?,Stuttgart
+18,Mon Jan 30 2017,20:15,Hannover 96,1-0,?,Kaiserslautern
+19,Fri Feb 3 2017,18:30,Arminia,2-1,?,1860 Munich
+19,Fri Feb 3 2017,18:30,Kaiserslautern,1-0,?,W'burg Kickers
+19,Fri Feb 3 2017,18:30,Greuther Fürth,4-1,?,Hannover 96
+19,Sat Feb 4 2017,13:00,Sandhausen,2-0,?,Erzgebirge Aue
+19,Sat Feb 4 2017,13:00,Heidenheim,2-3,?,Nürnberg
+19,Sun Feb 5 2017,13:30,Dynamo Dres,0-0,?,Union Berlin
+19,Sun Feb 5 2017,13:30,Braunschweig,1-2,?,St. Pauli
+19,Sun Feb 5 2017,13:30,Bochum,1-1,?,Karlsruher
+19,Mon Feb 6 2017,20:15,Stuttgart,2-0,?,Düsseldorf
+20,Fri Feb 10 2017,18:30,Düsseldorf,1-1,?,Kaiserslautern
+20,Fri Feb 10 2017,18:30,Erzgebirge Aue,0-0,?,Greuther Fürth
+20,Fri Feb 10 2017,18:30,Nürnberg,1-1,?,Braunschweig
+20,Sat Feb 11 2017,13:00,1860 Munich,2-1,?,Karlsruher
+20,Sat Feb 11 2017,13:00,W'burg Kickers,0-2,?,Heidenheim
+20,Sun Feb 12 2017,13:30,Stuttgart,2-1,?,Sandhausen
+20,Sun Feb 12 2017,13:30,Union Berlin,3-1,?,Arminia
+20,Sun Feb 12 2017,13:30,St. Pauli,2-0,?,Dynamo Dres
+20,Mon Feb 13 2017,20:15,Hannover 96,2-1,?,Bochum
+21,Fri Feb 17 2017,18:30,Kaiserslautern,3-0,?,Sandhausen
+21,Fri Feb 17 2017,18:30,Braunschweig,1-1,?,Erzgebirge Aue
+21,Fri Feb 17 2017,18:30,Heidenheim,1-2,?,Stuttgart
+21,Sat Feb 18 2017,13:00,Greuther Fürth,1-0,?,Düsseldorf
+21,Sat Feb 18 2017,13:00,Bochum,2-1,?,W'burg Kickers
+21,Sun Feb 19 2017,13:30,Dynamo Dres,1-2,?,Hannover 96
+21,Sun Feb 19 2017,13:30,Karlsruher,1-2,?,Union Berlin
+21,Sun Feb 19 2017,13:30,Arminia,1-1,?,St. Pauli
+21,Mon Feb 20 2017,20:15,1860 Munich,2-0,?,Nürnberg
+22,Fri Feb 24 2017,18:30,Sandhausen,0-1,?,Braunschweig
+22,Fri Feb 24 2017,18:30,Union Berlin,2-0,?,1860 Munich
+22,Fri Feb 24 2017,18:30,W'burg Kickers,1-1,?,Greuther Fürth
+22,Sat Feb 25 2017,13:00,Hannover 96,2-2,?,Arminia
+22,Sat Feb 25 2017,13:00,Düsseldorf,0-0,?,Heidenheim
+22,Sun Feb 26 2017,13:30,Nürnberg,0-1,?,Bochum
+22,Sun Feb 26 2017,13:30,Erzgebirge Aue,1-4,?,Dynamo Dres
+22,Sun Feb 26 2017,13:30,Stuttgart,2-0,?,Kaiserslautern
+22,Mon Feb 27 2017,20:15,St. Pauli,5-0,?,Karlsruher
+23,Fri Mar 3 2017,18:30,Bochum,1-2,?,Düsseldorf
+23,Fri Mar 3 2017,18:30,Union Berlin,2-0,?,W'burg Kickers
+23,Fri Mar 3 2017,18:30,Dynamo Dres,3-3,?,Kaiserslautern
+23,Sat Mar 4 2017,13:00,1860 Munich,1-2,?,St. Pauli
+23,Sat Mar 4 2017,13:00,Karlsruher,2-0,?,Hannover 96
+23,Sun Mar 5 2017,13:30,Arminia,2-2,?,Erzgebirge Aue
+23,Sun Mar 5 2017,13:30,Heidenheim,2-2,?,Sandhausen
+23,Sun Mar 5 2017,13:30,Greuther Fürth,1-0,?,Nürnberg
+23,Mon Mar 6 2017,20:15,Braunschweig,1-1,?,Stuttgart
+24,Fri Mar 10 2017,18:30,St. Pauli,1-2,?,Union Berlin
+24,Fri Mar 10 2017,18:30,Erzgebirge Aue,1-0,?,Karlsruher
+24,Fri Mar 10 2017,18:30,Stuttgart,1-1,?,Bochum
+24,Sat Mar 11 2017,13:00,Hannover 96,1-0,?,1860 Munich
+24,Sat Mar 11 2017,13:00,W'burg Kickers,0-2,?,Dynamo Dres
+24,Sun Mar 12 2017,13:30,Nürnberg,1-0,?,Arminia
+24,Sun Mar 12 2017,13:30,Sandhausen,1-1,?,Greuther Fürth
+24,Sun Mar 12 2017,13:30,Kaiserslautern,1-1,?,Heidenheim
+24,Mon Mar 13 2017,20:15,Düsseldorf,1-2,?,Braunschweig
+25,Fri Mar 17 2017,18:30,Arminia,2-0,?,Kaiserslautern
+25,Fri Mar 17 2017,18:30,1860 Munich,2-1,?,W'burg Kickers
+25,Fri Mar 17 2017,18:30,Braunschweig,3-2,?,Heidenheim
+25,Sat Mar 18 2017,13:00,St. Pauli,0-0,?,Hannover 96
+25,Sat Mar 18 2017,13:00,Greuther Fürth,1-0,?,Stuttgart
+25,Sun Mar 19 2017,13:30,Karlsruher,0-3,?,Düsseldorf
+25,Sun Mar 19 2017,13:30,Bochum,1-1,?,Erzgebirge Aue
+25,Sun Mar 19 2017,13:30,Dynamo Dres,2-0,?,Sandhausen
+25,Mon Mar 20 2017,20:15,Union Berlin,1-0,?,Nürnberg
+26,Fri Mar 31 2017,18:30,Düsseldorf,0-1,?,1860 Munich
+26,Fri Mar 31 2017,18:30,Erzgebirge Aue,1-0,?,St. Pauli
+26,Fri Mar 31 2017,18:30,Nürnberg,2-1,?,Karlsruher
+26,Sat Apr 1 2017,13:00,W'burg Kickers,1-1,?,Arminia
+26,Sat Apr 1 2017,13:00,Hannover 96,2-0,?,Union Berlin
+26,Sat Apr 1 2017,13:00,Sandhausen,0-0,?,Bochum
+26,Sun Apr 2 2017,13:30,Kaiserslautern,0-1,?,Braunschweig
+26,Sun Apr 2 2017,13:30,Stuttgart,3-3,?,Dynamo Dres
+26,Sun Apr 2 2017,13:30,Heidenheim,0-2,?,Greuther Fürth
+27,Tue Apr 4 2017,17:30,Arminia,2-1,?,Düsseldorf
+27,Tue Apr 4 2017,17:30,Hannover 96,1-0,?,Nürnberg
+27,Tue Apr 4 2017,17:30,St. Pauli,0-0,?,Sandhausen
+27,Tue Apr 4 2017,17:30,Karlsruher,1-1,?,W'burg Kickers
+27,Wed Apr 5 2017,17:30,Bochum,0-0,?,Kaiserslautern
+27,Wed Apr 5 2017,17:30,Dynamo Dres,2-1,?,Heidenheim
+27,Wed Apr 5 2017,17:30,1860 Munich,1-1,?,Stuttgart
+27,Wed Apr 5 2017,17:30,Union Berlin,0-1,?,Erzgebirge Aue
+27,Wed Apr 5 2017,17:30,Greuther Fürth,0-0,?,Braunschweig
+28,Fri Apr 7 2017,18:30,Sandhausen,1-3,?,Arminia
+28,Fri Apr 7 2017,18:30,W'burg Kickers,0-0,?,Hannover 96
+28,Fri Apr 7 2017,18:30,Nürnberg,0-2,?,St. Pauli
+28,Sat Apr 8 2017,13:00,Kaiserslautern,2-0,?,Greuther Fürth
+28,Sat Apr 8 2017,13:00,Heidenheim,0-0,?,Bochum
+28,Sun Apr 9 2017,13:30,Erzgebirge Aue,3-0,?,1860 Munich
+28,Sun Apr 9 2017,13:30,Düsseldorf,2-2,?,Union Berlin
+28,Sun Apr 9 2017,13:30,Stuttgart,2-0,?,Karlsruher
+28,Mon Apr 10 2017,20:15,Braunschweig,1-0,?,Dynamo Dres
+29,Sat Apr 15 2017,13:00,Hannover 96,1-0,?,Braunschweig
+29,Sat Apr 15 2017,13:00,Nürnberg,2-1,?,Erzgebirge Aue
+29,Sun Apr 16 2017,13:30,Bochum,1-0,?,Greuther Fürth
+29,Sun Apr 16 2017,13:30,St. Pauli,1-0,?,W'burg Kickers
+29,Sun Apr 16 2017,13:30,Union Berlin,3-1,?,Kaiserslautern
+29,Sun Apr 16 2017,13:30,Karlsruher,0-1,?,Heidenheim
+29,Sun Apr 16 2017,13:30,1860 Munich,1-1,?,Sandhausen
+29,Sun Apr 16 2017,13:30,Dynamo Dres,1-1,?,Düsseldorf
+29,Mon Apr 17 2017,20:15,Arminia,2-3,?,Stuttgart
+30,Fri Apr 21 2017,18:30,Greuther Fürth,1-0,?,Dynamo Dres
+30,Fri Apr 21 2017,18:30,Düsseldorf,1-3,?,St. Pauli
+30,Fri Apr 21 2017,18:30,Kaiserslautern,1-0,?,1860 Munich
+30,Sat Apr 22 2017,13:00,Heidenheim,2-2,?,Arminia
+30,Sat Apr 22 2017,13:00,Erzgebirge Aue,2-2,?,Hannover 96
+30,Sun Apr 23 2017,13:30,Braunschweig,2-0,?,Bochum
+30,Sun Apr 23 2017,13:30,W'burg Kickers,1-1,?,Nürnberg
+30,Sun Apr 23 2017,13:30,Sandhausen,4-0,?,Karlsruher
+30,Mon Apr 24 2017,20:15,Stuttgart,3-1,?,Union Berlin
+31,Fri Apr 28 2017,18:30,Union Berlin,2-1,?,Sandhausen
+31,Fri Apr 28 2017,18:30,St. Pauli,3-0,?,Heidenheim
+31,Fri Apr 28 2017,18:30,Bochum,4-2,?,Dynamo Dres
+31,Sat Apr 29 2017,13:00,Nürnberg,2-3,?,Stuttgart
+31,Sat Apr 29 2017,13:00,Arminia,1-1,?,Greuther Fürth
+31,Sat Apr 29 2017,13:00,Karlsruher,1-3,?,Kaiserslautern
+31,Sun Apr 30 2017,13:30,Erzgebirge Aue,3-1,?,W'burg Kickers
+31,Sun Apr 30 2017,13:30,1860 Munich,0-1,?,Braunschweig
+31,Sun Apr 30 2017,13:30,Hannover 96,1-0,?,Düsseldorf
+32,Fri May 5 2017,18:30,Dynamo Dres,1-2,?,1860 Munich
+32,Fri May 5 2017,18:30,Kaiserslautern,1-2,?,St. Pauli
+32,Fri May 5 2017,18:30,Heidenheim,0-2,?,Hannover 96
+32,Sat May 6 2017,13:00,Sandhausen,0-1,?,Nürnberg
+32,Sat May 6 2017,13:00,Düsseldorf,1-1,?,W'burg Kickers
+32,Sun May 7 2017,13:30,Stuttgart,3-0,?,Erzgebirge Aue
+32,Sun May 7 2017,13:30,Bochum,1-1,?,Arminia
+32,Sun May 7 2017,13:30,Greuther Fürth,0-1,?,Karlsruher
+32,Mon May 8 2017,20:15,Braunschweig,3-1,?,Union Berlin
+33,Sun May 14 2017,15:30,Union Berlin,0-1,?,Heidenheim
+33,Sun May 14 2017,15:30,Arminia,6-0,?,Braunschweig
+33,Sun May 14 2017,15:30,W'burg Kickers,0-1,?,Sandhausen
+33,Sun May 14 2017,15:30,Erzgebirge Aue,1-0,?,Kaiserslautern
+33,Sun May 14 2017,15:30,St. Pauli,1-1,?,Greuther Fürth
+33,Sun May 14 2017,15:30,Nürnberg,2-3,?,Düsseldorf
+33,Sun May 14 2017,15:30,1860 Munich,1-2,?,Bochum
+33,Sun May 14 2017,15:30,Karlsruher,3-4,?,Dynamo Dres
+33,Sun May 14 2017,15:30,Hannover 96,1-0,?,Stuttgart
+34,Sun May 21 2017,15:30,Düsseldorf,1-0,?,Erzgebirge Aue
+34,Sun May 21 2017,15:30,Greuther Fürth,1-2,?,Union Berlin
+34,Sun May 21 2017,15:30,Kaiserslautern,1-0,?,Nürnberg
+34,Sun May 21 2017,15:30,Dynamo Dres,1-1,?,Arminia
+34,Sun May 21 2017,15:30,Stuttgart,4-1,?,W'burg Kickers
+34,Sun May 21 2017,15:30,Bochum,1-3,?,St. Pauli
+34,Sun May 21 2017,15:30,Sandhausen,1-1,?,Hannover 96
+34,Sun May 21 2017,15:30,Heidenheim,2-1,?,1860 Munich
+34,Sun May 21 2017,15:30,Braunschweig,2-1,?,Karlsruher

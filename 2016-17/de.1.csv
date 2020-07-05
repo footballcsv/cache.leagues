@@ -1,0 +1,307 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 26 2016,20:30,Bayern Munich,6-0,?,Werder Bremen
+1,Sat Aug 27 2016,15:30,Augsburg,0-2,?,Wolfsburg
+1,Sat Aug 27 2016,15:30,Köln,2-0,?,Darmstadt 98
+1,Sat Aug 27 2016,15:30,Hamburger SV,1-1,?,Ingolstadt 04
+1,Sat Aug 27 2016,15:30,Dortmund,2-1,?,Mainz 05
+1,Sat Aug 27 2016,15:30,Eint Frankfurt,1-0,?,Schalke 04
+1,Sat Aug 27 2016,18:30,M'gladbach,2-1,?,Leverkusen
+1,Sun Aug 28 2016,15:30,Hertha BSC,2-1,?,Freiburg
+1,Sun Aug 28 2016,17:30,Hoffenheim,2-2,?,RB Leipzig
+2,Fri Sep 9 2016,20:30,Schalke 04,0-2,?,Bayern Munich
+2,Sat Sep 10 2016,15:30,Darmstadt 98,1-0,?,Eint Frankfurt
+2,Sat Sep 10 2016,15:30,Freiburg,3-1,?,M'gladbach
+2,Sat Sep 10 2016,15:30,Ingolstadt 04,0-2,?,Hertha BSC
+2,Sat Sep 10 2016,15:30,Leverkusen,3-1,?,Hamburger SV
+2,Sat Sep 10 2016,15:30,Wolfsburg,0-0,?,Köln
+2,Sat Sep 10 2016,18:30,RB Leipzig,1-0,?,Dortmund
+2,Sun Sep 11 2016,15:30,Werder Bremen,1-2,?,Augsburg
+2,Sun Sep 11 2016,17:30,Mainz 05,4-4,?,Hoffenheim
+3,Fri Sep 16 2016,20:30,Köln,3-0,?,Freiburg
+3,Sat Sep 17 2016,15:30,Hamburger SV,0-4,?,RB Leipzig
+3,Sat Sep 17 2016,15:30,Bayern Munich,3-1,?,Ingolstadt 04
+3,Sat Sep 17 2016,15:30,Eint Frankfurt,2-1,?,Leverkusen
+3,Sat Sep 17 2016,15:30,Dortmund,6-0,?,Darmstadt 98
+3,Sat Sep 17 2016,15:30,Hoffenheim,0-0,?,Wolfsburg
+3,Sat Sep 17 2016,18:30,M'gladbach,4-1,?,Werder Bremen
+3,Sun Sep 18 2016,15:30,Augsburg,1-3,?,Mainz 05
+3,Sun Sep 18 2016,17:30,Hertha BSC,2-0,?,Schalke 04
+4,Tue Sep 20 2016,20:00,Wolfsburg,1-5,?,Dortmund
+4,Tue Sep 20 2016,20:00,Ingolstadt 04,0-2,?,Eint Frankfurt
+4,Tue Sep 20 2016,20:00,Freiburg,1-0,?,Hamburger SV
+4,Tue Sep 20 2016,20:00,Darmstadt 98,1-1,?,Hoffenheim
+4,Wed Sep 21 2016,20:00,RB Leipzig,1-1,?,M'gladbach
+4,Wed Sep 21 2016,20:00,Leverkusen,0-0,?,Augsburg
+4,Wed Sep 21 2016,20:00,Werder Bremen,1-2,?,Mainz 05
+4,Wed Sep 21 2016,20:00,Bayern Munich,3-0,?,Hertha BSC
+4,Wed Sep 21 2016,20:00,Schalke 04,1-3,?,Köln
+5,Fri Sep 23 2016,20:30,Dortmund,3-1,?,Freiburg
+5,Sat Sep 24 2016,15:30,Augsburg,1-0,?,Darmstadt 98
+5,Sat Sep 24 2016,15:30,Eint Frankfurt,3-3,?,Hertha BSC
+5,Sat Sep 24 2016,15:30,Hamburger SV,0-1,?,Bayern Munich
+5,Sat Sep 24 2016,15:30,M'gladbach,2-0,?,Ingolstadt 04
+5,Sat Sep 24 2016,15:30,Mainz 05,2-3,?,Leverkusen
+5,Sat Sep 24 2016,18:30,Werder Bremen,2-1,?,Wolfsburg
+5,Sun Sep 25 2016,15:30,Hoffenheim,2-1,?,Schalke 04
+5,Sun Sep 25 2016,17:45,Köln,1-1,?,RB Leipzig
+6,Fri Sep 30 2016,20:30,RB Leipzig,2-1,?,Augsburg
+6,Sat Oct 1 2016,15:30,Freiburg,1-0,?,Eint Frankfurt
+6,Sat Oct 1 2016,15:30,Ingolstadt 04,1-2,?,Hoffenheim
+6,Sat Oct 1 2016,15:30,Bayern Munich,1-1,?,Köln
+6,Sat Oct 1 2016,15:30,Darmstadt 98,2-2,?,Werder Bremen
+6,Sat Oct 1 2016,15:30,Hertha BSC,2-0,?,Hamburger SV
+6,Sat Oct 1 2016,18:30,Leverkusen,2-0,?,Dortmund
+6,Sun Oct 2 2016,15:30,Wolfsburg,0-0,?,Mainz 05
+6,Sun Oct 2 2016,17:30,Schalke 04,4-0,?,M'gladbach
+7,Fri Oct 14 2016,20:30,Dortmund,1-1,?,Hertha BSC
+7,Sat Oct 15 2016,15:30,Augsburg,1-1,?,Schalke 04
+7,Sat Oct 15 2016,15:30,Köln,2-1,?,Ingolstadt 04
+7,Sat Oct 15 2016,15:30,M'gladbach,0-0,?,Hamburger SV
+7,Sat Oct 15 2016,15:30,Eint Frankfurt,2-2,?,Bayern Munich
+7,Sat Oct 15 2016,15:30,Hoffenheim,2-1,?,Freiburg
+7,Sat Oct 15 2016,18:30,Werder Bremen,2-1,?,Leverkusen
+7,Sun Oct 16 2016,15:30,Mainz 05,2-1,?,Darmstadt 98
+7,Sun Oct 16 2016,17:30,Wolfsburg,0-1,?,RB Leipzig
+8,Fri Oct 21 2016,20:30,Hamburger SV,0-3,?,Eint Frankfurt
+8,Sat Oct 22 2016,15:30,Darmstadt 98,3-1,?,Wolfsburg
+8,Sat Oct 22 2016,15:30,Freiburg,2-1,?,Augsburg
+8,Sat Oct 22 2016,15:30,Ingolstadt 04,3-3,?,Dortmund
+8,Sat Oct 22 2016,15:30,Leverkusen,0-3,?,Hoffenheim
+8,Sat Oct 22 2016,15:30,Hertha BSC,2-1,?,Köln
+8,Sat Oct 22 2016,18:30,Bayern Munich,2-0,?,M'gladbach
+8,Sun Oct 23 2016,15:30,RB Leipzig,3-1,?,Werder Bremen
+8,Sun Oct 23 2016,17:30,Schalke 04,3-0,?,Mainz 05
+9,Fri Oct 28 2016,20:30,M'gladbach,0-0,?,Eint Frankfurt
+9,Sat Oct 29 2016,15:30,Mainz 05,2-0,?,Ingolstadt 04
+9,Sat Oct 29 2016,15:30,Wolfsburg,1-2,?,Leverkusen
+9,Sat Oct 29 2016,15:30,Augsburg,1-3,?,Bayern Munich
+9,Sat Oct 29 2016,15:30,Darmstadt 98,0-2,?,RB Leipzig
+9,Sat Oct 29 2016,15:30,Werder Bremen,1-3,?,Freiburg
+9,Sat Oct 29 2016,18:30,Dortmund,0-0,?,Schalke 04
+9,Sun Oct 30 2016,15:30,Hoffenheim,1-0,?,Hertha BSC
+9,Sun Oct 30 2016,17:30,Köln,3-0,?,Hamburger SV
+10,Fri Nov 4 2016,20:30,Hertha BSC,3-0,?,M'gladbach
+10,Sat Nov 5 2016,15:30,Bayern Munich,1-1,?,Hoffenheim
+10,Sat Nov 5 2016,15:30,Ingolstadt 04,0-2,?,Augsburg
+10,Sat Nov 5 2016,15:30,Leverkusen,3-2,?,Darmstadt 98
+10,Sat Nov 5 2016,15:30,Freiburg,0-3,?,Wolfsburg
+10,Sat Nov 5 2016,15:30,Hamburger SV,2-5,?,Dortmund
+10,Sat Nov 5 2016,18:30,Eint Frankfurt,1-0,?,Köln
+10,Sun Nov 6 2016,15:30,RB Leipzig,3-1,?,Mainz 05
+10,Sun Nov 6 2016,17:30,Schalke 04,3-1,?,Werder Bremen
+11,Fri Nov 18 2016,20:30,Leverkusen,2-3,?,RB Leipzig
+11,Sat Nov 19 2016,15:30,Augsburg,0-0,?,Hertha BSC
+11,Sat Nov 19 2016,15:30,Mainz 05,4-2,?,Freiburg
+11,Sat Nov 19 2016,15:30,Darmstadt 98,0-1,?,Ingolstadt 04
+11,Sat Nov 19 2016,15:30,Wolfsburg,0-1,?,Schalke 04
+11,Sat Nov 19 2016,15:30,M'gladbach,1-2,?,Köln
+11,Sat Nov 19 2016,18:30,Dortmund,1-0,?,Bayern Munich
+11,Sun Nov 20 2016,15:30,Hoffenheim,2-2,?,Hamburger SV
+11,Sun Nov 20 2016,17:30,Werder Bremen,1-2,?,Eint Frankfurt
+12,Fri Nov 25 2016,20:30,Freiburg,1-4,?,RB Leipzig
+12,Sat Nov 26 2016,15:30,Köln,0-0,?,Augsburg
+12,Sat Nov 26 2016,15:30,Ingolstadt 04,1-1,?,Wolfsburg
+12,Sat Nov 26 2016,15:30,Hamburger SV,2-2,?,Werder Bremen
+12,Sat Nov 26 2016,15:30,Eint Frankfurt,2-1,?,Dortmund
+12,Sat Nov 26 2016,15:30,M'gladbach,1-1,?,Hoffenheim
+12,Sat Nov 26 2016,18:30,Bayern Munich,2-1,?,Leverkusen
+12,Sun Nov 27 2016,15:30,Schalke 04,3-1,?,Darmstadt 98
+12,Sun Nov 27 2016,17:30,Hertha BSC,2-1,?,Mainz 05
+13,Fri Dec 2 2016,20:30,Mainz 05,1-3,?,Bayern Munich
+13,Sat Dec 3 2016,15:30,Wolfsburg,2-3,?,Hertha BSC
+13,Sat Dec 3 2016,15:30,Leverkusen,1-1,?,Freiburg
+13,Sat Dec 3 2016,15:30,Hoffenheim,4-0,?,Köln
+13,Sat Dec 3 2016,15:30,Werder Bremen,2-1,?,Ingolstadt 04
+13,Sat Dec 3 2016,15:30,Dortmund,4-1,?,M'gladbach
+13,Sat Dec 3 2016,18:30,RB Leipzig,2-1,?,Schalke 04
+13,Sun Dec 4 2016,15:30,Darmstadt 98,0-2,?,Hamburger SV
+13,Sun Dec 4 2016,17:30,Augsburg,1-1,?,Eint Frankfurt
+14,Fri Dec 9 2016,20:30,Eint Frankfurt,0-0,?,Hoffenheim
+14,Sat Dec 10 2016,15:30,Freiburg,1-0,?,Darmstadt 98
+14,Sat Dec 10 2016,15:30,Ingolstadt 04,1-0,?,RB Leipzig
+14,Sat Dec 10 2016,15:30,Köln,1-1,?,Dortmund
+14,Sat Dec 10 2016,15:30,Hamburger SV,1-0,?,Augsburg
+14,Sat Dec 10 2016,15:30,Bayern Munich,5-0,?,Wolfsburg
+14,Sat Dec 10 2016,18:30,Hertha BSC,0-1,?,Werder Bremen
+14,Sun Dec 11 2016,15:30,M'gladbach,1-0,?,Mainz 05
+14,Sun Dec 11 2016,17:30,Schalke 04,0-1,?,Leverkusen
+15,Fri Dec 16 2016,20:30,Hoffenheim,2-2,?,Dortmund
+15,Sat Dec 17 2016,15:30,Mainz 05,3-1,?,Hamburger SV
+15,Sat Dec 17 2016,15:30,Augsburg,1-0,?,M'gladbach
+15,Sat Dec 17 2016,15:30,RB Leipzig,2-0,?,Hertha BSC
+15,Sat Dec 17 2016,15:30,Werder Bremen,1-1,?,Köln
+15,Sat Dec 17 2016,15:30,Schalke 04,1-1,?,Freiburg
+15,Sat Dec 17 2016,18:30,Wolfsburg,1-0,?,Eint Frankfurt
+15,Sun Dec 18 2016,15:30,Darmstadt 98,0-1,?,Bayern Munich
+15,Sun Dec 18 2016,17:30,Leverkusen,1-2,?,Ingolstadt 04
+16,Tue Dec 20 2016,20:00,Dortmund,1-1,?,Augsburg
+16,Tue Dec 20 2016,20:00,Eint Frankfurt,3-0,?,Mainz 05
+16,Tue Dec 20 2016,20:00,M'gladbach,1-2,?,Wolfsburg
+16,Tue Dec 20 2016,20:00,Hamburger SV,2-1,?,Schalke 04
+16,Wed Dec 21 2016,20:00,Köln,1-1,?,Leverkusen
+16,Wed Dec 21 2016,20:00,Hertha BSC,2-0,?,Darmstadt 98
+16,Wed Dec 21 2016,20:00,Ingolstadt 04,1-2,?,Freiburg
+16,Wed Dec 21 2016,20:00,Bayern Munich,3-0,?,RB Leipzig
+16,Wed Dec 21 2016,20:00,Hoffenheim,1-1,?,Werder Bremen
+17,Fri Jan 20 2017,20:30,Freiburg,1-2,?,Bayern Munich
+17,Sat Jan 21 2017,15:30,Darmstadt 98,0-0,?,M'gladbach
+17,Sat Jan 21 2017,15:30,Augsburg,0-2,?,Hoffenheim
+17,Sat Jan 21 2017,15:30,Schalke 04,1-0,?,Ingolstadt 04
+17,Sat Jan 21 2017,15:30,Wolfsburg,1-0,?,Hamburger SV
+17,Sat Jan 21 2017,15:30,Werder Bremen,1-2,?,Dortmund
+17,Sat Jan 21 2017,18:30,RB Leipzig,3-0,?,Eint Frankfurt
+17,Sun Jan 22 2017,15:30,Leverkusen,3-1,?,Hertha BSC
+17,Sun Jan 22 2017,17:30,Mainz 05,0-0,?,Köln
+18,Fri Jan 27 2017,20:30,Schalke 04,0-1,?,Eint Frankfurt
+18,Sat Jan 28 2017,15:30,Ingolstadt 04,3-1,?,Hamburger SV
+18,Sat Jan 28 2017,15:30,Werder Bremen,1-2,?,Bayern Munich
+18,Sat Jan 28 2017,15:30,Darmstadt 98,1-6,?,Köln
+18,Sat Jan 28 2017,15:30,RB Leipzig,2-1,?,Hoffenheim
+18,Sat Jan 28 2017,15:30,Wolfsburg,1-2,?,Augsburg
+18,Sat Jan 28 2017,18:30,Leverkusen,2-3,?,M'gladbach
+18,Sun Jan 29 2017,15:30,Freiburg,2-1,?,Hertha BSC
+18,Sun Jan 29 2017,17:30,Mainz 05,1-1,?,Dortmund
+19,Fri Feb 3 2017,20:30,Hamburger SV,1-0,?,Leverkusen
+19,Sat Feb 4 2017,15:30,Bayern Munich,1-1,?,Schalke 04
+19,Sat Feb 4 2017,15:30,M'gladbach,3-0,?,Freiburg
+19,Sat Feb 4 2017,15:30,Köln,1-0,?,Wolfsburg
+19,Sat Feb 4 2017,15:30,Hoffenheim,4-0,?,Mainz 05
+19,Sat Feb 4 2017,15:30,Hertha BSC,1-0,?,Ingolstadt 04
+19,Sat Feb 4 2017,18:30,Dortmund,1-0,?,RB Leipzig
+19,Sun Feb 5 2017,15:30,Augsburg,3-2,?,Werder Bremen
+19,Sun Feb 5 2017,17:30,Eint Frankfurt,2-0,?,Darmstadt 98
+20,Fri Feb 10 2017,20:30,Mainz 05,2-0,?,Augsburg
+20,Sat Feb 11 2017,15:30,Leverkusen,3-0,?,Eint Frankfurt
+20,Sat Feb 11 2017,15:30,Ingolstadt 04,0-2,?,Bayern Munich
+20,Sat Feb 11 2017,15:30,RB Leipzig,0-3,?,Hamburger SV
+20,Sat Feb 11 2017,15:30,Werder Bremen,0-1,?,M'gladbach
+20,Sat Feb 11 2017,15:30,Darmstadt 98,2-1,?,Dortmund
+20,Sat Feb 11 2017,18:30,Schalke 04,2-0,?,Hertha BSC
+20,Sun Feb 12 2017,15:30,Wolfsburg,2-1,?,Hoffenheim
+20,Sun Feb 12 2017,17:30,Freiburg,2-1,?,Köln
+21,Fri Feb 17 2017,20:30,Augsburg,1-3,?,Leverkusen
+21,Sat Feb 18 2017,15:30,Dortmund,3-0,?,Wolfsburg
+21,Sat Feb 18 2017,15:30,Mainz 05,0-2,?,Werder Bremen
+21,Sat Feb 18 2017,15:30,Hertha BSC,1-1,?,Bayern Munich
+21,Sat Feb 18 2017,15:30,Eint Frankfurt,0-2,?,Ingolstadt 04
+21,Sat Feb 18 2017,15:30,Hoffenheim,2-0,?,Darmstadt 98
+21,Sat Feb 18 2017,18:30,Hamburger SV,2-2,?,Freiburg
+21,Sun Feb 19 2017,15:30,M'gladbach,1-2,?,RB Leipzig
+21,Sun Feb 19 2017,17:30,Köln,1-1,?,Schalke 04
+22,Fri Feb 24 2017,20:30,Wolfsburg,1-2,?,Werder Bremen
+22,Sat Feb 25 2017,15:30,Darmstadt 98,1-2,?,Augsburg
+22,Sat Feb 25 2017,15:30,Freiburg,0-3,?,Dortmund
+22,Sat Feb 25 2017,15:30,Bayern Munich,8-0,?,Hamburger SV
+22,Sat Feb 25 2017,15:30,Leverkusen,0-2,?,Mainz 05
+22,Sat Feb 25 2017,15:30,RB Leipzig,3-1,?,Köln
+22,Sat Feb 25 2017,18:30,Hertha BSC,2-0,?,Eint Frankfurt
+22,Sun Feb 26 2017,15:30,Ingolstadt 04,0-2,?,M'gladbach
+22,Sun Feb 26 2017,17:30,Schalke 04,1-1,?,Hoffenheim
+23,Fri Mar 3 2017,20:30,Augsburg,2-2,?,RB Leipzig
+23,Sat Mar 4 2017,15:30,Hoffenheim,5-2,?,Ingolstadt 04
+23,Sat Mar 4 2017,15:30,Mainz 05,1-1,?,Wolfsburg
+23,Sat Mar 4 2017,15:30,Dortmund,6-2,?,Leverkusen
+23,Sat Mar 4 2017,15:30,Werder Bremen,2-0,?,Darmstadt 98
+23,Sat Mar 4 2017,15:30,Köln,0-3,?,Bayern Munich
+23,Sat Mar 4 2017,18:30,M'gladbach,4-2,?,Schalke 04
+23,Sun Mar 5 2017,15:30,Eint Frankfurt,1-2,?,Freiburg
+23,Sun Mar 5 2017,17:30,Hamburger SV,1-0,?,Hertha BSC
+24,Fri Mar 10 2017,20:30,Leverkusen,1-1,?,Werder Bremen
+24,Sat Mar 11 2017,15:30,Hertha BSC,2-1,?,Dortmund
+24,Sat Mar 11 2017,15:30,RB Leipzig,0-1,?,Wolfsburg
+24,Sat Mar 11 2017,15:30,Darmstadt 98,2-1,?,Mainz 05
+24,Sat Mar 11 2017,15:30,Bayern Munich,3-0,?,Eint Frankfurt
+24,Sat Mar 11 2017,15:30,Freiburg,1-1,?,Hoffenheim
+24,Sat Mar 11 2017,18:30,Ingolstadt 04,2-2,?,Köln
+24,Sun Mar 12 2017,15:30,Schalke 04,3-0,?,Augsburg
+24,Sun Mar 12 2017,17:30,Hamburger SV,2-1,?,M'gladbach
+25,Fri Mar 17 2017,20:30,Dortmund,1-0,?,Ingolstadt 04
+25,Sat Mar 18 2017,15:30,Werder Bremen,3-0,?,RB Leipzig
+25,Sat Mar 18 2017,15:30,Köln,4-2,?,Hertha BSC
+25,Sat Mar 18 2017,15:30,Augsburg,1-1,?,Freiburg
+25,Sat Mar 18 2017,15:30,Hoffenheim,1-0,?,Leverkusen
+25,Sat Mar 18 2017,15:30,Wolfsburg,1-0,?,Darmstadt 98
+25,Sat Mar 18 2017,18:30,Eint Frankfurt,0-0,?,Hamburger SV
+25,Sun Mar 19 2017,15:30,Mainz 05,0-1,?,Schalke 04
+25,Sun Mar 19 2017,17:30,M'gladbach,0-1,?,Bayern Munich
+26,Fri Mar 31 2017,20:30,Hertha BSC,1-3,?,Hoffenheim
+26,Sat Apr 1 2017,15:30,Bayern Munich,6-0,?,Augsburg
+26,Sat Apr 1 2017,15:30,RB Leipzig,4-0,?,Darmstadt 98
+26,Sat Apr 1 2017,15:30,Schalke 04,1-1,?,Dortmund
+26,Sat Apr 1 2017,15:30,Hamburger SV,2-1,?,Köln
+26,Sat Apr 1 2017,15:30,Freiburg,2-5,?,Werder Bremen
+26,Sat Apr 1 2017,18:30,Eint Frankfurt,0-0,?,M'gladbach
+26,Sun Apr 2 2017,15:30,Ingolstadt 04,2-1,?,Mainz 05
+26,Sun Apr 2 2017,17:30,Leverkusen,3-3,?,Wolfsburg
+27,Tue Apr 4 2017,20:00,Werder Bremen,3-0,?,Schalke 04
+27,Tue Apr 4 2017,20:00,Köln,1-0,?,Eint Frankfurt
+27,Tue Apr 4 2017,20:00,Dortmund,3-0,?,Hamburger SV
+27,Tue Apr 4 2017,20:00,Hoffenheim,1-0,?,Bayern Munich
+27,Wed Apr 5 2017,20:00,Darmstadt 98,0-2,?,Leverkusen
+27,Wed Apr 5 2017,20:00,M'gladbach,1-0,?,Hertha BSC
+27,Wed Apr 5 2017,20:00,Mainz 05,2-3,?,RB Leipzig
+27,Wed Apr 5 2017,20:00,Augsburg,2-3,?,Ingolstadt 04
+27,Wed Apr 5 2017,20:00,Wolfsburg,0-1,?,Freiburg
+28,Fri Apr 7 2017,20:30,Eint Frankfurt,2-2,?,Werder Bremen
+28,Sat Apr 8 2017,15:30,RB Leipzig,1-0,?,Leverkusen
+28,Sat Apr 8 2017,15:30,Schalke 04,4-1,?,Wolfsburg
+28,Sat Apr 8 2017,15:30,Hamburger SV,2-1,?,Hoffenheim
+28,Sat Apr 8 2017,15:30,Freiburg,1-0,?,Mainz 05
+28,Sat Apr 8 2017,15:30,Köln,2-3,?,M'gladbach
+28,Sat Apr 8 2017,18:30,Bayern Munich,4-1,?,Dortmund
+28,Sun Apr 9 2017,15:30,Hertha BSC,2-0,?,Augsburg
+28,Sun Apr 9 2017,17:30,Ingolstadt 04,3-2,?,Darmstadt 98
+29,Sat Apr 15 2017,15:30,RB Leipzig,4-0,?,Freiburg
+29,Sat Apr 15 2017,15:30,Dortmund,3-1,?,Eint Frankfurt
+29,Sat Apr 15 2017,15:30,Hoffenheim,5-3,?,M'gladbach
+29,Sat Apr 15 2017,15:30,Augsburg,2-1,?,Köln
+29,Sat Apr 15 2017,15:30,Wolfsburg,3-0,?,Ingolstadt 04
+29,Sat Apr 15 2017,15:30,Mainz 05,1-0,?,Hertha BSC
+29,Sat Apr 15 2017,18:30,Leverkusen,0-0,?,Bayern Munich
+29,Sun Apr 16 2017,15:30,Werder Bremen,2-1,?,Hamburger SV
+29,Sun Apr 16 2017,17:30,Darmstadt 98,2-1,?,Schalke 04
+30,Fri Apr 21 2017,20:30,Köln,1-1,?,Hoffenheim
+30,Sat Apr 22 2017,15:30,Eint Frankfurt,3-1,?,Augsburg
+30,Sat Apr 22 2017,15:30,Ingolstadt 04,2-4,?,Werder Bremen
+30,Sat Apr 22 2017,15:30,Bayern Munich,2-2,?,Mainz 05
+30,Sat Apr 22 2017,15:30,Hertha BSC,1-0,?,Wolfsburg
+30,Sat Apr 22 2017,15:30,Hamburger SV,1-2,?,Darmstadt 98
+30,Sat Apr 22 2017,18:30,M'gladbach,2-3,?,Dortmund
+30,Sun Apr 23 2017,15:30,Freiburg,2-1,?,Leverkusen
+30,Sun Apr 23 2017,17:30,Schalke 04,1-1,?,RB Leipzig
+31,Fri Apr 28 2017,20:30,Leverkusen,1-4,?,Schalke 04
+31,Sat Apr 29 2017,15:30,RB Leipzig,0-0,?,Ingolstadt 04
+31,Sat Apr 29 2017,15:30,Mainz 05,1-2,?,M'gladbach
+31,Sat Apr 29 2017,15:30,Dortmund,0-0,?,Köln
+31,Sat Apr 29 2017,15:30,Darmstadt 98,3-0,?,Freiburg
+31,Sat Apr 29 2017,15:30,Werder Bremen,2-0,?,Hertha BSC
+31,Sat Apr 29 2017,18:30,Wolfsburg,0-6,?,Bayern Munich
+31,Sun Apr 30 2017,15:30,Augsburg,4-0,?,Hamburger SV
+31,Sun Apr 30 2017,17:30,Hoffenheim,1-0,?,Eint Frankfurt
+32,Fri May 5 2017,20:30,Köln,4-3,?,Werder Bremen
+32,Sat May 6 2017,15:30,Eint Frankfurt,0-2,?,Wolfsburg
+32,Sat May 6 2017,15:30,Bayern Munich,1-0,?,Darmstadt 98
+32,Sat May 6 2017,15:30,M'gladbach,1-1,?,Augsburg
+32,Sat May 6 2017,15:30,Dortmund,2-1,?,Hoffenheim
+32,Sat May 6 2017,15:30,Ingolstadt 04,1-1,?,Leverkusen
+32,Sat May 6 2017,18:30,Hertha BSC,1-4,?,RB Leipzig
+32,Sun May 7 2017,15:30,Hamburger SV,0-0,?,Mainz 05
+32,Sun May 7 2017,17:30,Freiburg,2-0,?,Schalke 04
+33,Sat May 13 2017,15:30,Freiburg,1-1,?,Ingolstadt 04
+33,Sat May 13 2017,15:30,Wolfsburg,1-1,?,M'gladbach
+33,Sat May 13 2017,15:30,Mainz 05,4-2,?,Eint Frankfurt
+33,Sat May 13 2017,15:30,RB Leipzig,4-5,?,Bayern Munich
+33,Sat May 13 2017,15:30,Darmstadt 98,0-2,?,Hertha BSC
+33,Sat May 13 2017,15:30,Schalke 04,1-1,?,Hamburger SV
+33,Sat May 13 2017,15:30,Augsburg,1-1,?,Dortmund
+33,Sat May 13 2017,15:30,Leverkusen,2-2,?,Köln
+33,Sat May 13 2017,15:30,Werder Bremen,3-5,?,Hoffenheim
+34,Sat May 20 2017,15:30,Bayern Munich,4-1,?,Freiburg
+34,Sat May 20 2017,15:30,Köln,2-0,?,Mainz 05
+34,Sat May 20 2017,15:30,Hoffenheim,0-0,?,Augsburg
+34,Sat May 20 2017,15:30,Hertha BSC,2-6,?,Leverkusen
+34,Sat May 20 2017,15:30,Eint Frankfurt,2-2,?,RB Leipzig
+34,Sat May 20 2017,15:30,M'gladbach,2-2,?,Darmstadt 98
+34,Sat May 20 2017,15:30,Ingolstadt 04,1-1,?,Schalke 04
+34,Sat May 20 2017,15:30,Dortmund,4-3,?,Werder Bremen
+34,Sat May 20 2017,15:30,Hamburger SV,2-1,?,Wolfsburg

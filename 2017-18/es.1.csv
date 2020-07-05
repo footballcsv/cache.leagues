@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Aug 18 2017,20:15,Leganés,1-0,?,Alavés
+1,Fri Aug 18 2017,22:15,Valencia,1-0,?,Las Palmas
+1,Sat Aug 19 2017,18:15,Celta Vigo,2-3,?,Real Sociedad
+1,Sat Aug 19 2017,20:15,Girona,2-2,?,Atlético Madrid
+1,Sat Aug 19 2017,22:15,Sevilla,1-1,?,Espanyol
+1,Sun Aug 20 2017,18:15,Athletic Club,0-0,?,Getafe
+1,Sun Aug 20 2017,20:15,Barcelona,2-0,?,Betis
+1,Sun Aug 20 2017,22:15,La Coruña,0-3,?,Real Madrid
+1,Mon Aug 21 2017,20:15,Levante,1-0,?,Villarreal
+1,Mon Aug 21 2017,22:00,Málaga,0-1,?,Eibar
+2,Fri Aug 25 2017,20:15,Real Sociedad,3-0,?,Villarreal
+2,Fri Aug 25 2017,22:00,Betis,2-1,?,Celta Vigo
+2,Sat Aug 26 2017,18:15,Alavés,0-2,?,Barcelona
+2,Sat Aug 26 2017,20:15,Girona,1-0,?,Málaga
+2,Sat Aug 26 2017,20:15,Levante,2-2,?,La Coruña
+2,Sat Aug 26 2017,21:15,Las Palmas,1-5,?,Atlético Madrid
+2,Sun Aug 27 2017,18:15,Eibar,0-1,?,Athletic Club
+2,Sun Aug 27 2017,18:15,Espanyol,0-1,?,Leganés
+2,Sun Aug 27 2017,20:15,Getafe,0-1,?,Sevilla
+2,Sun Aug 27 2017,22:15,Real Madrid,2-2,?,Valencia
+3,Fri Sep 8 2017,21:00,Leganés,1-2,?,Getafe
+3,Sat Sep 9 2017,13:00,Real Madrid,1-1,?,Levante
+3,Sat Sep 9 2017,16:15,Valencia,0-0,?,Atlético Madrid
+3,Sat Sep 9 2017,18:30,Sevilla,3-0,?,Eibar
+3,Sat Sep 9 2017,20:45,Barcelona,5-0,?,Espanyol
+3,Sun Sep 10 2017,12:00,La Coruña,2-4,?,Real Sociedad
+3,Sun Sep 10 2017,16:15,Athletic Club,2-0,?,Girona
+3,Sun Sep 10 2017,18:30,Celta Vigo,1-0,?,Alavés
+3,Sun Sep 10 2017,20:45,Villarreal,3-1,?,Betis
+3,Mon Sep 11 2017,21:00,Málaga,1-3,?,Las Palmas
+4,Fri Sep 15 2017,21:00,Eibar,1-0,?,Leganés
+4,Sat Sep 16 2017,13:00,Levante,1-1,?,Valencia
+4,Sat Sep 16 2017,16:15,Getafe,1-2,?,Barcelona
+4,Sat Sep 16 2017,18:30,Betis,2-1,?,La Coruña
+4,Sat Sep 16 2017,20:45,Atlético Madrid,1-0,?,Málaga
+4,Sun Sep 17 2017,12:00,Alavés,0-3,?,Villarreal
+4,Sun Sep 17 2017,16:15,Girona,0-1,?,Sevilla
+4,Sun Sep 17 2017,17:30,Las Palmas,1-0,?,Athletic Club
+4,Sun Sep 17 2017,20:45,Real Sociedad,1-3,?,Real Madrid
+4,Mon Sep 18 2017,21:00,Espanyol,2-1,?,Celta Vigo
+5,Tue Sep 19 2017,20:00,Valencia,5-0,?,Málaga
+5,Tue Sep 19 2017,22:00,Barcelona,6-1,?,Eibar
+5,Wed Sep 20 2017,20:00,Athletic Club,1-2,?,Atlético Madrid
+5,Wed Sep 20 2017,20:00,Leganés,0-0,?,Girona
+5,Wed Sep 20 2017,21:00,La Coruña,1-0,?,Alavés
+5,Wed Sep 20 2017,22:00,Sevilla,1-0,?,Las Palmas
+5,Wed Sep 20 2017,22:00,Real Madrid,0-1,?,Betis
+5,Thu Sep 21 2017,20:00,Villarreal,0-0,?,Espanyol
+5,Thu Sep 21 2017,21:00,Celta Vigo,1-1,?,Getafe
+5,Thu Sep 21 2017,22:00,Levante,3-0,?,Real Sociedad
+6,Sat Sep 23 2017,13:00,Atlético Madrid,2-0,?,Sevilla
+6,Sat Sep 23 2017,16:15,Alavés,1-2,?,Real Madrid
+6,Sat Sep 23 2017,18:30,Málaga,3-3,?,Athletic Club
+6,Sat Sep 23 2017,20:45,Girona,0-3,?,Barcelona
+6,Sun Sep 24 2017,12:00,Espanyol,4-1,?,La Coruña
+6,Sun Sep 24 2017,16:15,Getafe,4-0,?,Villarreal
+6,Sun Sep 24 2017,17:30,Las Palmas,0-2,?,Leganés
+6,Sun Sep 24 2017,18:30,Eibar,0-4,?,Celta Vigo
+6,Sun Sep 24 2017,20:45,Real Sociedad,2-3,?,Valencia
+6,Mon Sep 25 2017,21:00,Betis,4-0,?,Levante
+7,Fri Sep 29 2017,21:00,Celta Vigo,3-3,?,Girona
+7,Sat Sep 30 2017,13:00,La Coruña,2-1,?,Getafe
+7,Sat Sep 30 2017,16:15,Sevilla,2-0,?,Málaga
+7,Sat Sep 30 2017,18:30,Levante,0-2,?,Alavés
+7,Sat Sep 30 2017,20:45,Leganés,0-0,?,Atlético Madrid
+7,Sun Oct 1 2017,12:00,Real Sociedad,4-4,?,Betis
+7,Sun Oct 1 2017,16:15,Barcelona,3-0,?,Las Palmas
+7,Sun Oct 1 2017,18:30,Valencia,3-2,?,Athletic Club
+7,Sun Oct 1 2017,18:30,Villarreal,3-0,?,Eibar
+7,Sun Oct 1 2017,20:45,Real Madrid,2-0,?,Espanyol
+8,Fri Oct 13 2017,21:00,Espanyol,0-0,?,Levante
+8,Sat Oct 14 2017,13:00,Athletic Club,1-0,?,Sevilla
+8,Sat Oct 14 2017,16:15,Getafe,1-2,?,Real Madrid
+8,Sat Oct 14 2017,18:30,Alavés,0-2,?,Real Sociedad
+8,Sat Oct 14 2017,20:45,Atlético Madrid,1-1,?,Barcelona
+8,Sun Oct 15 2017,12:00,Eibar,0-0,?,La Coruña
+8,Sun Oct 15 2017,16:15,Girona,1-2,?,Villarreal
+8,Sun Oct 15 2017,18:30,Málaga,0-2,?,Leganés
+8,Sun Oct 15 2017,20:45,Betis,3-6,?,Valencia
+8,Mon Oct 16 2017,20:00,Las Palmas,2-5,?,Celta Vigo
+9,Sat Oct 21 2017,13:00,Levante,1-1,?,Getafe
+9,Sat Oct 21 2017,16:15,Betis,2-0,?,Alavés
+9,Sat Oct 21 2017,18:30,Valencia,4-0,?,Sevilla
+9,Sat Oct 21 2017,20:45,Barcelona,2-0,?,Málaga
+9,Sun Oct 22 2017,12:00,Villarreal,4-0,?,Las Palmas
+9,Sun Oct 22 2017,16:15,Celta Vigo,0-1,?,Atlético Madrid
+9,Sun Oct 22 2017,18:30,Leganés,1-0,?,Athletic Club
+9,Sun Oct 22 2017,20:45,Real Madrid,3-0,?,Eibar
+9,Mon Oct 23 2017,20:00,Real Sociedad,1-1,?,Espanyol
+9,Mon Oct 23 2017,21:00,La Coruña,1-2,?,Girona
+10,Sat Oct 28 2017,13:00,Alavés,1-2,?,Valencia
+10,Sat Oct 28 2017,18:30,Atlético Madrid,1-1,?,Villarreal
+10,Sat Oct 28 2017,20:45,Athletic Club,0-2,?,Barcelona
+10,Sat Oct 28 2017,22:30,Sevilla,2-1,?,Leganés
+10,Sun Oct 29 2017,12:00,Getafe,2-1,?,Real Sociedad
+10,Sun Oct 29 2017,16:15,Girona,2-1,?,Real Madrid
+10,Sun Oct 29 2017,18:30,Eibar,2-2,?,Levante
+10,Sun Oct 29 2017,20:45,Málaga,2-1,?,Celta Vigo
+10,Mon Oct 30 2017,20:00,Las Palmas,1-3,?,La Coruña
+10,Mon Oct 30 2017,21:00,Espanyol,1-0,?,Betis
+11,Fri Nov 3 2017,21:00,Betis,2-2,?,Getafe
+11,Sat Nov 4 2017,13:00,Valencia,3-0,?,Leganés
+11,Sat Nov 4 2017,16:15,La Coruña,0-1,?,Atlético Madrid
+11,Sat Nov 4 2017,18:30,Alavés,1-0,?,Espanyol
+11,Sat Nov 4 2017,20:45,Barcelona,2-1,?,Sevilla
+11,Sun Nov 5 2017,12:00,Levante,1-2,?,Girona
+11,Sun Nov 5 2017,16:15,Celta Vigo,3-1,?,Athletic Club
+11,Sun Nov 5 2017,18:30,Villarreal,2-0,?,Málaga
+11,Sun Nov 5 2017,18:30,Real Sociedad,3-1,?,Eibar
+11,Sun Nov 5 2017,20:45,Real Madrid,3-0,?,Las Palmas
+12,Fri Nov 17 2017,21:00,Girona,1-1,?,Real Sociedad
+12,Sat Nov 18 2017,13:00,Getafe,4-1,?,Alavés
+12,Sat Nov 18 2017,16:15,Leganés,0-3,?,Barcelona
+12,Sat Nov 18 2017,18:30,Sevilla,2-1,?,Celta Vigo
+12,Sat Nov 18 2017,20:45,Atlético Madrid,0-0,?,Real Madrid
+12,Sun Nov 19 2017,12:00,Málaga,3-2,?,La Coruña
+12,Sun Nov 19 2017,16:15,Espanyol,0-2,?,Valencia
+12,Sun Nov 19 2017,17:30,Las Palmas,0-2,?,Levante
+12,Sun Nov 19 2017,20:45,Athletic Club,1-1,?,Villarreal
+12,Mon Nov 20 2017,21:00,Eibar,5-0,?,Betis
+13,Fri Nov 24 2017,21:00,Celta Vigo,1-0,?,Leganés
+13,Sat Nov 25 2017,13:00,Alavés,1-2,?,Eibar
+13,Sat Nov 25 2017,16:15,Real Madrid,3-2,?,Málaga
+13,Sat Nov 25 2017,18:30,Betis,2-2,?,Girona
+13,Sat Nov 25 2017,20:45,Levante,0-5,?,Atlético Madrid
+13,Sun Nov 26 2017,12:00,La Coruña,2-2,?,Athletic Club
+13,Sun Nov 26 2017,16:15,Real Sociedad,2-2,?,Las Palmas
+13,Sun Nov 26 2017,18:30,Villarreal,2-3,?,Sevilla
+13,Sun Nov 26 2017,20:45,Valencia,1-1,?,Barcelona
+13,Mon Nov 27 2017,21:00,Espanyol,1-0,?,Getafe
+14,Fri Dec 1 2017,21:00,Málaga,0-0,?,Levante
+14,Sat Dec 2 2017,13:00,Barcelona,2-2,?,Celta Vigo
+14,Sat Dec 2 2017,16:15,Atlético Madrid,2-1,?,Real Sociedad
+14,Sat Dec 2 2017,18:30,Sevilla,2-0,?,La Coruña
+14,Sat Dec 2 2017,20:45,Athletic Club,0-0,?,Real Madrid
+14,Sun Dec 3 2017,12:00,Leganés,3-1,?,Villarreal
+14,Sun Dec 3 2017,16:15,Getafe,1-0,?,Valencia
+14,Sun Dec 3 2017,18:30,Eibar,3-1,?,Espanyol
+14,Sun Dec 3 2017,19:45,Las Palmas,1-0,?,Betis
+14,Mon Dec 4 2017,21:00,Girona,2-3,?,Alavés
+15,Fri Dec 8 2017,21:00,Alavés,2-0,?,Las Palmas
+15,Sat Dec 9 2017,13:00,Getafe,0-0,?,Eibar
+15,Sat Dec 9 2017,16:15,Real Madrid,5-0,?,Sevilla
+15,Sat Dec 9 2017,18:30,La Coruña,1-0,?,Leganés
+15,Sat Dec 9 2017,20:45,Valencia,2-1,?,Celta Vigo
+15,Sun Dec 10 2017,12:00,Real Sociedad,0-2,?,Málaga
+15,Sun Dec 10 2017,16:15,Betis,0-1,?,Atlético Madrid
+15,Sun Dec 10 2017,18:30,Levante,1-2,?,Athletic Club
+15,Sun Dec 10 2017,20:45,Villarreal,0-2,?,Barcelona
+15,Mon Dec 11 2017,21:00,Espanyol,0-1,?,Girona
+16,Fri Dec 15 2017,21:00,Sevilla,0-0,?,Levante
+16,Sat Dec 16 2017,16:15,Athletic Club,0-0,?,Real Sociedad
+16,Sat Dec 16 2017,18:30,Eibar,2-1,?,Valencia
+16,Sat Dec 16 2017,20:45,Atlético Madrid,1-0,?,Alavés
+16,Sun Dec 17 2017,12:00,Girona,1-0,?,Getafe
+16,Sun Dec 17 2017,16:15,Celta Vigo,0-1,?,Villarreal
+16,Sun Dec 17 2017,17:30,Las Palmas,2-2,?,Espanyol
+16,Sun Dec 17 2017,20:45,Barcelona,4-0,?,La Coruña
+16,Mon Dec 18 2017,21:00,Málaga,0-2,?,Betis
+17,Tue Dec 19 2017,21:30,Levante,0-0,?,Leganés
+17,Wed Dec 20 2017,19:30,Getafe,2-0,?,Las Palmas
+17,Wed Dec 20 2017,21:30,Real Sociedad,3-1,?,Sevilla
+17,Thu Dec 21 2017,19:30,Eibar,4-1,?,Girona
+17,Thu Dec 21 2017,21:30,Alavés,1-0,?,Málaga
+17,Fri Dec 22 2017,19:30,Betis,0-2,?,Athletic Club
+17,Fri Dec 22 2017,21:30,Espanyol,1-0,?,Atlético Madrid
+17,Sat Dec 23 2017,13:00,Real Madrid,0-3,?,Barcelona
+17,Sat Dec 23 2017,16:15,Valencia,0-1,?,Villarreal
+17,Sat Dec 23 2017,18:30,La Coruña,1-3,?,Celta Vigo
+18,Sat Jan 6 2018,13:00,Atlético Madrid,2-0,?,Getafe
+18,Sat Jan 6 2018,16:15,Valencia,2-1,?,Girona
+18,Sat Jan 6 2018,17:30,Las Palmas,1-2,?,Eibar
+18,Sat Jan 6 2018,20:45,Sevilla,3-5,?,Betis
+18,Sun Jan 7 2018,12:00,Leganés,1-0,?,Real Sociedad
+18,Sun Jan 7 2018,16:15,Barcelona,3-0,?,Levante
+18,Sun Jan 7 2018,18:30,Villarreal,1-1,?,La Coruña
+18,Sun Jan 7 2018,18:30,Athletic Club,2-0,?,Alavés
+18,Sun Jan 7 2018,20:45,Celta Vigo,2-2,?,Real Madrid
+18,Mon Jan 8 2018,21:00,Málaga,0-1,?,Espanyol
+19,Fri Jan 12 2018,21:00,Getafe,1-0,?,Málaga
+19,Sat Jan 13 2018,13:00,Girona,6-0,?,Las Palmas
+19,Sat Jan 13 2018,16:15,Real Madrid,0-1,?,Villarreal
+19,Sat Jan 13 2018,18:30,Eibar,0-1,?,Atlético Madrid
+19,Sat Jan 13 2018,20:45,La Coruña,1-2,?,Valencia
+19,Sun Jan 14 2018,12:00,Levante,0-1,?,Celta Vigo
+19,Sun Jan 14 2018,16:15,Alavés,1-0,?,Sevilla
+19,Sun Jan 14 2018,18:30,Espanyol,1-1,?,Athletic Club
+19,Sun Jan 14 2018,20:45,Real Sociedad,2-4,?,Barcelona
+19,Mon Jan 15 2018,21:00,Betis,3-2,?,Leganés
+20,Fri Jan 19 2018,21:00,Getafe,2-2,?,Athletic Club
+20,Sat Jan 20 2018,13:00,Espanyol,0-3,?,Sevilla
+20,Sat Jan 20 2018,16:15,Atlético Madrid,1-1,?,Girona
+20,Sat Jan 20 2018,18:30,Villarreal,2-1,?,Levante
+20,Sat Jan 20 2018,19:45,Las Palmas,2-1,?,Valencia
+20,Sun Jan 21 2018,12:00,Alavés,2-2,?,Leganés
+20,Sun Jan 21 2018,16:15,Real Madrid,7-1,?,La Coruña
+20,Sun Jan 21 2018,18:30,Real Sociedad,1-2,?,Celta Vigo
+20,Sun Jan 21 2018,20:45,Betis,0-5,?,Barcelona
+20,Mon Jan 22 2018,21:00,Eibar,1-1,?,Málaga
+21,Fri Jan 26 2018,21:00,Athletic Club,1-1,?,Eibar
+21,Sat Jan 27 2018,13:00,La Coruña,2-2,?,Levante
+21,Sat Jan 27 2018,16:15,Valencia,1-4,?,Real Madrid
+21,Sat Jan 27 2018,18:30,Málaga,0-0,?,Girona
+21,Sat Jan 27 2018,20:45,Villarreal,4-2,?,Real Sociedad
+21,Sun Jan 28 2018,12:00,Leganés,3-2,?,Espanyol
+21,Sun Jan 28 2018,16:15,Atlético Madrid,3-0,?,Las Palmas
+21,Sun Jan 28 2018,18:30,Sevilla,1-1,?,Getafe
+21,Sun Jan 28 2018,20:45,Barcelona,2-1,?,Alavés
+21,Mon Jan 29 2018,21:00,Celta Vigo,3-2,?,Betis
+22,Fri Feb 2 2018,21:00,Real Sociedad,5-0,?,La Coruña
+22,Sat Feb 3 2018,13:00,Eibar,5-1,?,Sevilla
+22,Sat Feb 3 2018,16:15,Betis,2-1,?,Villarreal
+22,Sat Feb 3 2018,18:30,Alavés,2-1,?,Celta Vigo
+22,Sat Feb 3 2018,20:45,Levante,2-2,?,Real Madrid
+22,Sun Feb 4 2018,12:00,Getafe,0-0,?,Leganés
+22,Sun Feb 4 2018,16:15,Espanyol,1-1,?,Barcelona
+22,Sun Feb 4 2018,18:30,Girona,2-0,?,Athletic Club
+22,Sun Feb 4 2018,20:45,Atlético Madrid,1-0,?,Valencia
+22,Mon Feb 5 2018,20:00,Las Palmas,1-0,?,Málaga
+23,Fri Feb 9 2018,21:00,Athletic Club,0-0,?,Las Palmas
+23,Sat Feb 10 2018,13:00,Villarreal,1-2,?,Alavés
+23,Sat Feb 10 2018,16:15,Málaga,0-1,?,Atlético Madrid
+23,Sat Feb 10 2018,18:30,Leganés,0-1,?,Eibar
+23,Sat Feb 10 2018,20:45,Real Madrid,5-2,?,Real Sociedad
+23,Sun Feb 11 2018,12:00,Sevilla,1-0,?,Girona
+23,Sun Feb 11 2018,16:15,Barcelona,0-0,?,Getafe
+23,Sun Feb 11 2018,18:30,Celta Vigo,2-2,?,Espanyol
+23,Sun Feb 11 2018,20:45,Valencia,3-1,?,Levante
+23,Mon Feb 12 2018,21:00,La Coruña,0-1,?,Betis
+24,Fri Feb 16 2018,21:00,Girona,3-0,?,Leganés
+24,Sat Feb 17 2018,12:00,Las Palmas,1-2,?,Sevilla
+24,Sat Feb 17 2018,16:15,Eibar,0-2,?,Barcelona
+24,Sat Feb 17 2018,18:30,Alavés,1-0,?,La Coruña
+24,Sat Feb 17 2018,20:45,Málaga,1-2,?,Valencia
+24,Sun Feb 18 2018,12:00,Real Sociedad,3-0,?,Levante
+24,Sun Feb 18 2018,16:15,Atlético Madrid,2-0,?,Athletic Club
+24,Sun Feb 18 2018,18:30,Espanyol,1-1,?,Villarreal
+24,Sun Feb 18 2018,20:45,Betis,3-5,?,Real Madrid
+24,Mon Feb 19 2018,21:00,Getafe,3-0,?,Celta Vigo
+16,Wed Feb 21 2018,18:45,Leganés,1-3,?,Real Madrid
+25,Fri Feb 23 2018,21:00,La Coruña,0-0,?,Espanyol
+25,Sat Feb 24 2018,13:00,Celta Vigo,2-0,?,Eibar
+25,Sat Feb 24 2018,16:15,Real Madrid,4-0,?,Alavés
+25,Sat Feb 24 2018,18:30,Leganés,0-0,?,Las Palmas
+25,Sat Feb 24 2018,20:45,Barcelona,6-1,?,Girona
+25,Sun Feb 25 2018,12:00,Villarreal,1-0,?,Getafe
+25,Sun Feb 25 2018,16:15,Athletic Club,2-1,?,Málaga
+25,Sun Feb 25 2018,18:30,Valencia,2-1,?,Real Sociedad
+25,Sun Feb 25 2018,20:45,Sevilla,2-5,?,Atlético Madrid
+25,Mon Feb 26 2018,21:00,Levante,0-2,?,Betis
+26,Tue Feb 27 2018,20:00,Espanyol,1-0,?,Real Madrid
+26,Tue Feb 27 2018,21:30,Girona,1-0,?,Celta Vigo
+26,Wed Feb 28 2018,19:30,Athletic Club,1-1,?,Valencia
+26,Wed Feb 28 2018,19:30,Málaga,0-1,?,Sevilla
+26,Wed Feb 28 2018,19:30,Getafe,3-0,?,La Coruña
+26,Wed Feb 28 2018,21:30,Eibar,1-0,?,Villarreal
+26,Wed Feb 28 2018,21:30,Atlético Madrid,4-0,?,Leganés
+26,Thu Mar 1 2018,19:30,Betis,0-0,?,Real Sociedad
+26,Thu Mar 1 2018,20:00,Las Palmas,1-1,?,Barcelona
+26,Thu Mar 1 2018,21:30,Alavés,1-0,?,Levante
+27,Sat Mar 3 2018,13:00,Villarreal,0-2,?,Girona
+27,Sat Mar 3 2018,16:15,Sevilla,2-0,?,Athletic Club
+27,Sat Mar 3 2018,18:30,La Coruña,1-1,?,Eibar
+27,Sat Mar 3 2018,18:30,Leganés,2-0,?,Málaga
+27,Sat Mar 3 2018,20:45,Real Madrid,3-1,?,Getafe
+27,Sun Mar 4 2018,12:00,Levante,1-1,?,Espanyol
+27,Sun Mar 4 2018,16:15,Barcelona,1-0,?,Atlético Madrid
+27,Sun Mar 4 2018,18:30,Real Sociedad,2-1,?,Alavés
+27,Sun Mar 4 2018,20:45,Valencia,2-0,?,Betis
+27,Mon Mar 5 2018,21:00,Celta Vigo,2-1,?,Las Palmas
+28,Fri Mar 9 2018,21:00,Girona,2-0,?,La Coruña
+28,Sat Mar 10 2018,13:00,Eibar,1-2,?,Real Madrid
+28,Sat Mar 10 2018,16:15,Sevilla,0-2,?,Valencia
+28,Sat Mar 10 2018,18:30,Getafe,0-1,?,Levante
+28,Sat Mar 10 2018,20:45,Málaga,0-2,?,Barcelona
+28,Sun Mar 11 2018,12:00,Espanyol,2-1,?,Real Sociedad
+28,Sun Mar 11 2018,16:15,Atlético Madrid,3-0,?,Celta Vigo
+28,Sun Mar 11 2018,17:30,Las Palmas,0-2,?,Villarreal
+28,Sun Mar 11 2018,20:45,Athletic Club,2-0,?,Leganés
+28,Mon Mar 12 2018,21:00,Alavés,1-3,?,Betis
+29,Fri Mar 16 2018,21:00,Levante,2-1,?,Eibar
+29,Sat Mar 17 2018,13:00,La Coruña,1-1,?,Las Palmas
+29,Sat Mar 17 2018,16:15,Valencia,3-1,?,Alavés
+29,Sat Mar 17 2018,18:30,Real Sociedad,1-2,?,Getafe
+29,Sat Mar 17 2018,20:45,Betis,3-0,?,Espanyol
+29,Sun Mar 18 2018,12:00,Leganés,2-1,?,Sevilla
+29,Sun Mar 18 2018,16:15,Barcelona,2-0,?,Athletic Club
+29,Sun Mar 18 2018,18:30,Villarreal,2-1,?,Atlético Madrid
+29,Sun Mar 18 2018,18:30,Celta Vigo,0-0,?,Málaga
+29,Sun Mar 18 2018,20:45,Real Madrid,6-3,?,Girona
+30,Sat Mar 31 2018,13:00,Girona,1-1,?,Levante
+30,Sat Mar 31 2018,16:15,Athletic Club,1-1,?,Celta Vigo
+30,Sat Mar 31 2018,17:30,Las Palmas,0-3,?,Real Madrid
+30,Sat Mar 31 2018,20:45,Sevilla,2-2,?,Barcelona
+30,Sun Apr 1 2018,12:00,Espanyol,0-0,?,Alavés
+30,Sun Apr 1 2018,16:15,Leganés,0-1,?,Valencia
+30,Sun Apr 1 2018,18:30,Málaga,1-0,?,Villarreal
+30,Sun Apr 1 2018,18:30,Eibar,0-0,?,Real Sociedad
+30,Sun Apr 1 2018,20:45,Atlético Madrid,1-0,?,La Coruña
+30,Mon Apr 2 2018,21:00,Getafe,0-1,?,Betis
+31,Fri Apr 6 2018,21:00,La Coruña,3-2,?,Málaga
+31,Sat Apr 7 2018,13:00,Alavés,2-0,?,Getafe
+31,Sat Apr 7 2018,16:15,Celta Vigo,4-0,?,Sevilla
+31,Sat Apr 7 2018,18:30,Betis,2-0,?,Eibar
+31,Sat Apr 7 2018,20:45,Barcelona,3-1,?,Leganés
+31,Sun Apr 8 2018,12:00,Levante,2-1,?,Las Palmas
+31,Sun Apr 8 2018,16:15,Real Madrid,1-1,?,Atlético Madrid
+31,Sun Apr 8 2018,18:30,Real Sociedad,5-0,?,Girona
+31,Sun Apr 8 2018,20:45,Valencia,1-0,?,Espanyol
+31,Mon Apr 9 2018,21:00,Villarreal,1-3,?,Athletic Club
+32,Fri Apr 13 2018,21:00,Girona,0-1,?,Betis
+32,Sat Apr 14 2018,13:00,Sevilla,2-2,?,Villarreal
+32,Sat Apr 14 2018,16:15,Barcelona,2-1,?,Valencia
+32,Sat Apr 14 2018,17:30,Las Palmas,0-1,?,Real Sociedad
+32,Sat Apr 14 2018,18:30,Leganés,1-0,?,Celta Vigo
+32,Sat Apr 14 2018,20:45,Athletic Club,2-3,?,La Coruña
+32,Sun Apr 15 2018,12:00,Eibar,0-1,?,Alavés
+32,Sun Apr 15 2018,16:15,Atlético Madrid,3-0,?,Levante
+32,Sun Apr 15 2018,18:30,Getafe,1-0,?,Espanyol
+32,Sun Apr 15 2018,20:45,Málaga,1-2,?,Real Madrid
+33,Tue Apr 17 2018,19:30,La Coruña,0-0,?,Sevilla
+33,Tue Apr 17 2018,21:00,Celta Vigo,2-2,?,Barcelona
+33,Tue Apr 17 2018,21:30,Villarreal,2-1,?,Leganés
+33,Wed Apr 18 2018,19:30,Valencia,1-2,?,Getafe
+33,Wed Apr 18 2018,19:30,Espanyol,0-1,?,Eibar
+33,Wed Apr 18 2018,21:30,Real Madrid,1-1,?,Athletic Club
+33,Thu Apr 19 2018,19:30,Alavés,1-2,?,Girona
+33,Thu Apr 19 2018,19:30,Real Sociedad,3-0,?,Atlético Madrid
+33,Thu Apr 19 2018,21:30,Levante,1-0,?,Málaga
+33,Thu Apr 19 2018,21:30,Betis,1-0,?,Las Palmas
+34,Fri Apr 20 2018,21:00,Leganés,0-0,?,La Coruña
+34,Sat Apr 21 2018,13:00,Eibar,0-1,?,Getafe
+34,Sat Apr 21 2018,16:15,Celta Vigo,1-1,?,Valencia
+34,Sun Apr 22 2018,12:00,Girona,0-2,?,Espanyol
+34,Sun Apr 22 2018,16:15,Málaga,2-0,?,Real Sociedad
+34,Sun Apr 22 2018,17:30,Las Palmas,0-4,?,Alavés
+34,Sun Apr 22 2018,20:45,Atlético Madrid,0-0,?,Betis
+34,Mon Apr 23 2018,21:00,Athletic Club,1-3,?,Levante
+35,Fri Apr 27 2018,21:00,Levante,2-1,?,Sevilla
+35,Sat Apr 28 2018,13:00,Espanyol,1-1,?,Las Palmas
+35,Sat Apr 28 2018,16:15,Real Sociedad,3-1,?,Athletic Club
+35,Sat Apr 28 2018,18:30,Real Madrid,2-1,?,Leganés
+35,Sat Apr 28 2018,20:45,Villarreal,4-1,?,Celta Vigo
+35,Sun Apr 29 2018,12:00,Getafe,1-1,?,Girona
+35,Sun Apr 29 2018,16:15,Alavés,0-1,?,Atlético Madrid
+35,Sun Apr 29 2018,18:30,Valencia,0-0,?,Eibar
+35,Sun Apr 29 2018,20:45,La Coruña,2-4,?,Barcelona
+35,Mon Apr 30 2018,21:00,Betis,2-1,?,Málaga
+36,Fri May 4 2018,21:00,Sevilla,1-0,?,Real Sociedad
+36,Sat May 5 2018,13:00,Girona,1-4,?,Eibar
+36,Sat May 5 2018,16:15,Athletic Club,2-0,?,Betis
+36,Sat May 5 2018,18:30,Celta Vigo,1-1,?,La Coruña
+36,Sat May 5 2018,20:45,Villarreal,1-0,?,Valencia
+36,Sun May 6 2018,12:00,Málaga,0-3,?,Alavés
+36,Sun May 6 2018,16:15,Atlético Madrid,0-2,?,Espanyol
+36,Sun May 6 2018,17:30,Las Palmas,0-1,?,Getafe
+36,Sun May 6 2018,20:45,Barcelona,2-2,?,Real Madrid
+36,Mon May 7 2018,21:00,Leganés,0-3,?,Levante
+34,Wed May 9 2018,20:00,Barcelona,5-1,?,Villarreal
+34,Wed May 9 2018,21:30,Sevilla,3-2,?,Real Madrid
+37,Sat May 12 2018,16:15,Real Sociedad,3-2,?,Leganés
+37,Sat May 12 2018,18:30,Girona,0-1,?,Valencia
+37,Sat May 12 2018,18:30,Getafe,0-1,?,Atlético Madrid
+37,Sat May 12 2018,18:30,La Coruña,2-4,?,Villarreal
+37,Sat May 12 2018,18:30,Alavés,3-1,?,Athletic Club
+37,Sat May 12 2018,18:30,Betis,2-2,?,Sevilla
+37,Sat May 12 2018,18:30,Eibar,1-0,?,Las Palmas
+37,Sat May 12 2018,20:45,Real Madrid,6-0,?,Celta Vigo
+37,Sun May 13 2018,16:15,Espanyol,4-1,?,Málaga
+37,Sun May 13 2018,20:45,Levante,5-4,?,Barcelona
+38,Sat May 19 2018,13:00,Celta Vigo,4-2,?,Levante
+38,Sat May 19 2018,16:15,Leganés,3-2,?,Betis
+38,Sat May 19 2018,17:30,Las Palmas,1-2,?,Girona
+38,Sat May 19 2018,18:30,Málaga,0-1,?,Getafe
+38,Sat May 19 2018,18:30,Sevilla,1-0,?,Alavés
+38,Sat May 19 2018,20:45,Villarreal,2-2,?,Real Madrid
+38,Sun May 20 2018,12:00,Valencia,2-1,?,La Coruña
+38,Sun May 20 2018,16:15,Athletic Club,0-1,?,Espanyol
+38,Sun May 20 2018,18:30,Atlético Madrid,2-2,?,Eibar
+38,Sun May 20 2018,20:45,Barcelona,1-0,?,Real Sociedad

@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Jul 26 2014,14:00,Mainz 05 II,1-2,?,Arminia
+1,Sat Jul 26 2014,14:00,Rot-Weiß Erfurt,1-2,?,Dortmund II
+1,Sat Jul 26 2014,14:00,Wehen,2-1,?,S'gart Kickers
+1,Sat Jul 26 2014,14:00,Jahn R'burg,3-1,?,MSV Duisburg
+1,Sat Jul 26 2014,14:00,Holstein Kiel,0-0,?,Unterhaching
+1,Sat Jul 26 2014,14:00,Dynamo Dres,2-1,?,Stuttgart II
+1,Sat Jul 26 2014,14:00,Hallescher,0-3,?,Chemnitzer FC
+1,Sat Jul 26 2014,18:00,Osnabrück,1-3,?,Energie Cottbus
+1,Sun Jul 27 2014,14:00,Großaspach,2-1,?,Fortuna Köln
+1,Sun Jul 27 2014,14:00,Preußen Münster,3-4,?,Hansa Rostock
+2,Sat Aug 2 2014,14:00,Arminia,1-5,?,Hallescher
+2,Sat Aug 2 2014,14:00,Hansa Rostock,1-1,?,Rot-Weiß Erfurt
+2,Sat Aug 2 2014,14:00,S'gart Kickers,3-1,?,Jahn R'burg
+2,Sat Aug 2 2014,14:00,Unterhaching,3-3,?,Wehen
+2,Sat Aug 2 2014,14:00,Chemnitzer FC,2-0,?,Osnabrück
+2,Sat Aug 2 2014,14:00,MSV Duisburg,1-1,?,Großaspach
+2,Sat Aug 2 2014,14:00,Dortmund II,2-2,?,Holstein Kiel
+2,Sat Aug 2 2014,14:00,Fortuna Köln,2-2,?,Mainz 05 II
+2,Sat Aug 2 2014,14:00,Stuttgart II,0-3,?,Preußen Münster
+2,Sun Aug 3 2014,14:00,Energie Cottbus,1-3,?,Dynamo Dres
+3,Tue Aug 5 2014,19:00,Jahn R'burg,0-2,?,Unterhaching
+3,Tue Aug 5 2014,19:00,Chemnitzer FC,0-0,?,Arminia
+3,Tue Aug 5 2014,19:00,Großaspach,1-1,?,S'gart Kickers
+3,Tue Aug 5 2014,19:00,Wehen,1-0,?,Dortmund II
+3,Tue Aug 5 2014,19:00,Rot-Weiß Erfurt,3-1,?,Stuttgart II
+3,Wed Aug 6 2014,18:30,Osnabrück,2-2,?,Dynamo Dres
+3,Wed Aug 6 2014,19:00,Mainz 05 II,3-4,?,MSV Duisburg
+3,Wed Aug 6 2014,19:00,Hallescher,0-2,?,Fortuna Köln
+3,Wed Aug 6 2014,19:00,Preußen Münster,0-0,?,Energie Cottbus
+3,Wed Aug 6 2014,19:00,Holstein Kiel,2-0,?,Hansa Rostock
+4,Sat Aug 9 2014,14:00,Unterhaching,3-1,?,Großaspach
+4,Sat Aug 9 2014,14:00,Energie Cottbus,0-0,?,Rot-Weiß Erfurt
+4,Sat Aug 9 2014,14:00,MSV Duisburg,1-1,?,Hallescher
+4,Sat Aug 9 2014,14:00,Stuttgart II,1-0,?,Holstein Kiel
+4,Sat Aug 9 2014,14:00,S'gart Kickers,2-0,?,Mainz 05 II
+4,Sat Aug 9 2014,14:00,Arminia,1-2,?,Osnabrück
+4,Sat Aug 9 2014,14:00,Dortmund II,5-1,?,Jahn R'burg
+4,Sat Aug 9 2014,14:00,Dynamo Dres,3-1,?,Preußen Münster
+4,Sun Aug 10 2014,14:00,Fortuna Köln,1-2,?,Chemnitzer FC
+4,Sun Aug 10 2014,14:00,Hansa Rostock,0-1,?,Wehen
+5,Fri Aug 22 2014,19:00,Wehen,4-1,?,Stuttgart II
+5,Fri Aug 22 2014,19:00,Großaspach,0-0,?,Dortmund II
+5,Sat Aug 23 2014,14:00,Rot-Weiß Erfurt,2-0,?,Dynamo Dres
+5,Sat Aug 23 2014,14:00,Arminia,2-0,?,Fortuna Köln
+5,Sat Aug 23 2014,14:00,Mainz 05 II,1-5,?,Unterhaching
+5,Sat Aug 23 2014,14:00,Hallescher,1-2,?,S'gart Kickers
+5,Sat Aug 23 2014,14:00,Holstein Kiel,0-1,?,Energie Cottbus
+5,Sat Aug 23 2014,14:00,Osnabrück,0-1,?,Preußen Münster
+5,Sat Aug 23 2014,14:00,Jahn R'burg,4-4,?,Hansa Rostock
+5,Sun Aug 24 2014,14:00,Chemnitzer FC,0-0,?,MSV Duisburg
+6,Tue Aug 26 2014,19:00,Fortuna Köln,0-1,?,Osnabrück
+6,Tue Aug 26 2014,19:00,Energie Cottbus,2-0,?,Wehen
+6,Tue Aug 26 2014,19:00,Dortmund II,1-3,?,Mainz 05 II
+6,Tue Aug 26 2014,19:00,Dynamo Dres,1-2,?,Holstein Kiel
+6,Tue Aug 26 2014,19:00,Hansa Rostock,1-3,?,Großaspach
+6,Wed Aug 27 2014,19:00,MSV Duisburg,1-1,?,Arminia
+6,Wed Aug 27 2014,19:00,S'gart Kickers,2-0,?,Chemnitzer FC
+6,Wed Aug 27 2014,19:00,Unterhaching,0-4,?,Hallescher
+6,Wed Aug 27 2014,19:00,Preußen Münster,2-2,?,Rot-Weiß Erfurt
+6,Wed Aug 27 2014,19:00,Stuttgart II,1-2,?,Jahn R'burg
+7,Fri Aug 29 2014,19:00,Mainz 05 II,0-2,?,Hansa Rostock
+7,Sat Aug 30 2014,14:00,Osnabrück,3-1,?,Rot-Weiß Erfurt
+7,Sat Aug 30 2014,14:00,Jahn R'burg,1-1,?,Energie Cottbus
+7,Sat Aug 30 2014,14:00,Großaspach,3-3,?,Stuttgart II
+7,Sat Aug 30 2014,14:00,Chemnitzer FC,2-0,?,Unterhaching
+7,Sat Aug 30 2014,14:00,Hallescher,0-0,?,Dortmund II
+7,Sat Aug 30 2014,14:00,Wehen,0-2,?,Dynamo Dres
+7,Sat Aug 30 2014,14:00,Fortuna Köln,0-1,?,MSV Duisburg
+7,Sat Aug 30 2014,14:00,Holstein Kiel,1-1,?,Preußen Münster
+7,Sun Aug 31 2014,14:00,Arminia,4-2,?,S'gart Kickers
+8,Sat Sep 6 2014,14:00,Rot-Weiß Erfurt,3-2,?,Holstein Kiel
+8,Sat Sep 6 2014,14:00,Dynamo Dres,2-1,?,Jahn R'burg
+8,Sat Sep 6 2014,14:00,S'gart Kickers,2-0,?,Fortuna Köln
+8,Sat Sep 6 2014,14:00,MSV Duisburg,3-0,?,Osnabrück
+8,Sat Sep 6 2014,14:00,Hansa Rostock,0-1,?,Hallescher
+8,Sun Sep 7 2014,14:00,Preußen Münster,3-2,?,Wehen
+9,Fri Sep 12 2014,19:00,Wehen,3-1,?,Rot-Weiß Erfurt
+9,Sat Sep 13 2014,14:00,Jahn R'burg,0-1,?,Preußen Münster
+9,Sat Sep 13 2014,14:00,Großaspach,1-3,?,Dynamo Dres
+9,Sat Sep 13 2014,14:00,Arminia,3-0,?,Dortmund II
+9,Sat Sep 13 2014,14:00,Fortuna Köln,2-0,?,Unterhaching
+9,Sat Sep 13 2014,14:00,Mainz 05 II,0-0,?,Energie Cottbus
+9,Sat Sep 13 2014,14:00,Hallescher,0-2,?,Stuttgart II
+9,Sat Sep 13 2014,14:00,MSV Duisburg,2-0,?,S'gart Kickers
+9,Sat Sep 13 2014,14:00,Osnabrück,2-1,?,Holstein Kiel
+9,Sun Sep 14 2014,14:00,Chemnitzer FC,2-0,?,Hansa Rostock
+8,Tue Sep 16 2014,18:00,Stuttgart II,1-0,?,Mainz 05 II
+8,Tue Sep 16 2014,18:30,Energie Cottbus,2-0,?,Großaspach
+8,Tue Sep 16 2014,19:00,Unterhaching,1-3,?,Arminia
+8,Wed Sep 17 2014,19:00,Dortmund II,1-3,?,Chemnitzer FC
+10,Fri Sep 19 2014,19:00,Unterhaching,1-1,?,MSV Duisburg
+10,Fri Sep 19 2014,19:00,S'gart Kickers,1-1,?,Osnabrück
+10,Fri Sep 19 2014,19:00,Dynamo Dres,1-1,?,Mainz 05 II
+10,Sat Sep 20 2014,14:00,Preußen Münster,3-1,?,Großaspach
+10,Sat Sep 20 2014,14:00,Hansa Rostock,4-2,?,Arminia
+10,Sat Sep 20 2014,14:00,Stuttgart II,0-0,?,Chemnitzer FC
+10,Sat Sep 20 2014,14:00,Dortmund II,0-2,?,Fortuna Köln
+10,Sat Sep 20 2014,14:00,Rot-Weiß Erfurt,2-0,?,Jahn R'burg
+10,Sat Sep 20 2014,14:00,Holstein Kiel,0-0,?,Wehen
+10,Sat Sep 20 2014,14:00,Energie Cottbus,1-2,?,Hallescher
+11,Tue Sep 23 2014,19:00,Osnabrück,1-3,?,Wehen
+11,Tue Sep 23 2014,19:00,Chemnitzer FC,0-1,?,Energie Cottbus
+11,Tue Sep 23 2014,19:00,S'gart Kickers,3-0,?,Unterhaching
+11,Tue Sep 23 2014,19:00,Mainz 05 II,4-0,?,Preußen Münster
+11,Wed Sep 24 2014,19:00,Jahn R'burg,0-2,?,Holstein Kiel
+11,Wed Sep 24 2014,19:00,Arminia,3-0,?,Stuttgart II
+11,Wed Sep 24 2014,19:00,Fortuna Köln,1-0,?,Hansa Rostock
+11,Wed Sep 24 2014,19:00,MSV Duisburg,2-1,?,Dortmund II
+11,Wed Sep 24 2014,19:00,Großaspach,1-1,?,Rot-Weiß Erfurt
+11,Wed Sep 24 2014,19:15,Hallescher,1-1,?,Dynamo Dres
+12,Sat Sep 27 2014,14:00,Rot-Weiß Erfurt,1-0,?,Mainz 05 II
+12,Sat Sep 27 2014,14:00,Unterhaching,3-4,?,Osnabrück
+12,Sat Sep 27 2014,14:00,Hansa Rostock,1-3,?,MSV Duisburg
+12,Sat Sep 27 2014,14:00,Dynamo Dres,1-0,?,Chemnitzer FC
+12,Sat Sep 27 2014,14:00,Dortmund II,1-1,?,S'gart Kickers
+12,Sat Sep 27 2014,14:00,Holstein Kiel,3-1,?,Großaspach
+12,Sat Sep 27 2014,14:00,Wehen,2-0,?,Jahn R'burg
+12,Sun Sep 28 2014,14:00,Preußen Münster,2-0,?,Hallescher
+12,Sun Sep 28 2014,14:00,Stuttgart II,3-1,?,Fortuna Köln
+12,Sun Sep 28 2014,14:00,Energie Cottbus,1-1,?,Arminia
+13,Sat Oct 4 2014,14:00,S'gart Kickers,3-0,?,Hansa Rostock
+13,Sat Oct 4 2014,14:00,MSV Duisburg,1-1,?,Stuttgart II
+13,Sat Oct 4 2014,14:00,Arminia,4-1,?,Dynamo Dres
+13,Sat Oct 4 2014,14:00,Chemnitzer FC,1-0,?,Preußen Münster
+13,Sat Oct 4 2014,14:00,Osnabrück,2-0,?,Jahn R'burg
+13,Sat Oct 4 2014,14:00,Unterhaching,2-0,?,Dortmund II
+13,Sat Oct 4 2014,14:00,Fortuna Köln,3-0,?,Energie Cottbus
+13,Sun Oct 5 2014,14:00,Mainz 05 II,1-1,?,Holstein Kiel
+13,Sun Oct 5 2014,14:00,Hallescher,1-2,?,Rot-Weiß Erfurt
+13,Sun Oct 5 2014,14:00,Großaspach,0-3,?,Wehen
+14,Sat Oct 18 2014,14:00,Wehen,1-2,?,Mainz 05 II
+14,Sat Oct 18 2014,14:00,Hansa Rostock,2-2,?,Unterhaching
+14,Sat Oct 18 2014,14:00,Stuttgart II,5-1,?,S'gart Kickers
+14,Sat Oct 18 2014,14:00,Jahn R'burg,2-0,?,Großaspach
+14,Sat Oct 18 2014,14:00,Dortmund II,2-2,?,Osnabrück
+14,Sat Oct 18 2014,14:00,Dynamo Dres,0-0,?,Fortuna Köln
+14,Sat Oct 18 2014,14:00,Energie Cottbus,2-0,?,MSV Duisburg
+14,Sat Oct 18 2014,14:00,Rot-Weiß Erfurt,2-0,?,Chemnitzer FC
+14,Sat Oct 18 2014,14:00,Holstein Kiel,3-0,?,Hallescher
+14,Sun Oct 19 2014,14:00,Preußen Münster,3-1,?,Arminia
+15,Fri Oct 24 2014,19:00,Fortuna Köln,1-1,?,Preußen Münster
+15,Fri Oct 24 2014,19:00,Arminia,3-0,?,Rot-Weiß Erfurt
+15,Sat Oct 25 2014,14:00,MSV Duisburg,0-0,?,Dynamo Dres
+15,Sat Oct 25 2014,14:00,Chemnitzer FC,0-0,?,Holstein Kiel
+15,Sat Oct 25 2014,14:00,Osnabrück,2-0,?,Großaspach
+15,Sat Oct 25 2014,14:00,Hallescher,3-1,?,Wehen
+15,Sat Oct 25 2014,14:00,S'gart Kickers,2-2,?,Energie Cottbus
+15,Sat Oct 25 2014,14:00,Unterhaching,0-1,?,Stuttgart II
+15,Sun Oct 26 2014,14:00,Mainz 05 II,1-0,?,Jahn R'burg
+15,Sun Oct 26 2014,15:30,Dortmund II,1-1,?,Hansa Rostock
+16,Fri Oct 31 2014,19:00,Großaspach,3-1,?,Mainz 05 II
+16,Fri Oct 31 2014,19:00,Hansa Rostock,2-2,?,Osnabrück
+16,Sat Nov 1 2014,14:00,Dynamo Dres,1-1,?,S'gart Kickers
+16,Sat Nov 1 2014,14:00,Wehen,2-0,?,Chemnitzer FC
+16,Sat Nov 1 2014,14:00,Holstein Kiel,1-0,?,Arminia
+16,Sat Nov 1 2014,14:00,Energie Cottbus,3-0,?,Unterhaching
+16,Sun Nov 2 2014,14:00,Jahn R'burg,1-1,?,Hallescher
+16,Sun Nov 2 2014,14:00,Rot-Weiß Erfurt,2-1,?,Fortuna Köln
+16,Sun Nov 2 2014,14:00,Preußen Münster,1-0,?,MSV Duisburg
+16,Sun Nov 2 2014,14:00,Stuttgart II,2-1,?,Dortmund II
+17,Fri Nov 7 2014,19:00,Dortmund II,3-0,?,Energie Cottbus
+17,Sat Nov 8 2014,14:00,Arminia,1-1,?,Wehen
+17,Sat Nov 8 2014,14:00,S'gart Kickers,1-1,?,Preußen Münster
+17,Sat Nov 8 2014,14:00,Hallescher,0-2,?,Großaspach
+17,Sat Nov 8 2014,14:00,MSV Duisburg,2-0,?,Rot-Weiß Erfurt
+17,Sat Nov 8 2014,14:00,Unterhaching,3-0,?,Dynamo Dres
+17,Sat Nov 8 2014,14:00,Chemnitzer FC,4-1,?,Jahn R'burg
+17,Sat Nov 8 2014,14:00,Hansa Rostock,4-1,?,Stuttgart II
+17,Sat Nov 8 2014,14:00,Osnabrück,2-0,?,Mainz 05 II
+17,Sun Nov 9 2014,14:00,Fortuna Köln,0-0,?,Holstein Kiel
+18,Fri Nov 21 2014,19:00,Osnabrück,3-1,?,Stuttgart II
+18,Fri Nov 21 2014,19:00,Dynamo Dres,1-1,?,Dortmund II
+18,Sat Nov 22 2014,14:00,Großaspach,1-0,?,Chemnitzer FC
+18,Sat Nov 22 2014,14:00,Rot-Weiß Erfurt,1-1,?,S'gart Kickers
+18,Sat Nov 22 2014,14:00,Preußen Münster,2-0,?,Unterhaching
+18,Sat Nov 22 2014,14:00,Wehen,0-1,?,Fortuna Köln
+18,Sat Nov 22 2014,14:00,Holstein Kiel,1-0,?,MSV Duisburg
+18,Sat Nov 22 2014,14:00,Energie Cottbus,1-0,?,Hansa Rostock
+18,Sat Nov 22 2014,14:00,Jahn R'burg,0-1,?,Arminia
+18,Sun Nov 23 2014,14:00,Mainz 05 II,0-1,?,Hallescher
+19,Fri Nov 28 2014,19:00,Stuttgart II,0-1,?,Energie Cottbus
+19,Fri Nov 28 2014,19:00,Arminia,2-0,?,Großaspach
+19,Sat Nov 29 2014,14:00,Hansa Rostock,1-3,?,Dynamo Dres
+19,Sat Nov 29 2014,14:00,Unterhaching,4-2,?,Rot-Weiß Erfurt
+19,Sat Nov 29 2014,14:00,S'gart Kickers,0-0,?,Holstein Kiel
+19,Sat Nov 29 2014,14:00,MSV Duisburg,3-2,?,Wehen
+19,Sat Nov 29 2014,14:00,Fortuna Köln,1-0,?,Jahn R'burg
+19,Sat Nov 29 2014,14:00,Hallescher,2-1,?,Osnabrück
+19,Sat Nov 29 2014,14:00,Chemnitzer FC,1-2,?,Mainz 05 II
+19,Sun Nov 30 2014,14:00,Dortmund II,1-1,?,Preußen Münster
+20,Fri Dec 5 2014,19:00,Arminia,2-0,?,Mainz 05 II
+20,Sat Dec 6 2014,14:00,Unterhaching,1-1,?,Holstein Kiel
+20,Sat Dec 6 2014,14:00,Chemnitzer FC,0-2,?,Hallescher
+20,Sat Dec 6 2014,14:00,MSV Duisburg,2-0,?,Jahn R'burg
+20,Sat Dec 6 2014,14:00,S'gart Kickers,2-1,?,Wehen
+20,Sat Dec 6 2014,14:00,Hansa Rostock,0-2,?,Preußen Münster
+20,Sat Dec 6 2014,14:00,Fortuna Köln,4-0,?,Großaspach
+20,Sat Dec 6 2014,14:00,Dortmund II,0-0,?,Rot-Weiß Erfurt
+20,Sun Dec 7 2014,14:00,Energie Cottbus,2-2,?,Osnabrück
+20,Sun Dec 7 2014,15:00,Stuttgart II,0-0,?,Dynamo Dres
+21,Fri Dec 12 2014,19:00,Mainz 05 II,1-1,?,Fortuna Köln
+21,Sat Dec 13 2014,14:00,Wehen,4-0,?,Unterhaching
+21,Sat Dec 13 2014,14:00,Dynamo Dres,1-0,?,Energie Cottbus
+21,Sat Dec 13 2014,14:00,Jahn R'burg,0-2,?,S'gart Kickers
+21,Sat Dec 13 2014,14:00,Rot-Weiß Erfurt,4-1,?,Hansa Rostock
+21,Sat Dec 13 2014,14:00,Hallescher,0-3,?,Arminia
+21,Sat Dec 13 2014,14:00,Holstein Kiel,0-2,?,Dortmund II
+21,Sat Dec 13 2014,14:00,Großaspach,1-1,?,MSV Duisburg
+21,Sat Dec 13 2014,14:00,Osnabrück,2-0,?,Chemnitzer FC
+21,Sat Dec 13 2014,14:00,Preußen Münster,1-0,?,Stuttgart II
+22,Sat Dec 20 2014,14:00,Arminia,2-0,?,Chemnitzer FC
+22,Sat Dec 20 2014,14:00,S'gart Kickers,2-0,?,Großaspach
+22,Sat Dec 20 2014,14:00,Fortuna Köln,2-2,?,Hallescher
+22,Sat Dec 20 2014,14:00,Unterhaching,3-2,?,Jahn R'burg
+22,Sat Dec 20 2014,14:00,Energie Cottbus,2-1,?,Preußen Münster
+22,Sat Dec 20 2014,14:00,MSV Duisburg,1-1,?,Mainz 05 II
+22,Sat Dec 20 2014,14:00,Hansa Rostock,0-4,?,Holstein Kiel
+22,Sat Dec 20 2014,14:00,Stuttgart II,2-2,?,Rot-Weiß Erfurt
+22,Sat Dec 20 2014,14:00,Dynamo Dres,2-1,?,Osnabrück
+23,Sat Jan 31 2015,14:00,Jahn R'burg,3-0,?,Dortmund II
+23,Sat Jan 31 2015,14:00,Chemnitzer FC,3-1,?,Fortuna Köln
+23,Sat Jan 31 2015,14:00,Hallescher,1-2,?,MSV Duisburg
+23,Sat Jan 31 2015,14:00,Wehen,1-2,?,Hansa Rostock
+23,Sat Jan 31 2015,14:00,Holstein Kiel,1-1,?,Stuttgart II
+23,Sat Jan 31 2015,14:00,Rot-Weiß Erfurt,2-0,?,Energie Cottbus
+23,Sun Feb 1 2015,14:00,Mainz 05 II,2-3,?,S'gart Kickers
+23,Sun Feb 1 2015,14:15,Preußen Münster,2-1,?,Dynamo Dres
+22,Tue Feb 3 2015,19:00,Dortmund II,0-0,?,Wehen
+24,Sat Feb 7 2015,14:00,Preußen Münster,2-0,?,Osnabrück
+24,Sat Feb 7 2015,14:00,Hansa Rostock,2-2,?,Jahn R'burg
+24,Sat Feb 7 2015,14:00,Energie Cottbus,0-2,?,Holstein Kiel
+24,Sat Feb 7 2015,14:00,Dynamo Dres,0-1,?,Rot-Weiß Erfurt
+24,Sat Feb 7 2015,14:00,MSV Duisburg,3-0,?,Chemnitzer FC
+24,Sun Feb 8 2015,14:00,Fortuna Köln,3-0,?,Arminia
+25,Fri Feb 13 2015,19:00,Mainz 05 II,0-0,?,Dortmund II
+25,Fri Feb 13 2015,19:00,Osnabrück,0-1,?,Fortuna Köln
+25,Sat Feb 14 2015,14:00,Jahn R'burg,4-1,?,Stuttgart II
+25,Sat Feb 14 2015,14:00,Hallescher,2-1,?,Unterhaching
+25,Sat Feb 14 2015,14:00,Holstein Kiel,1-0,?,Dynamo Dres
+25,Sat Feb 14 2015,14:00,Rot-Weiß Erfurt,1-0,?,Preußen Münster
+25,Sat Feb 14 2015,14:00,Großaspach,1-1,?,Hansa Rostock
+25,Sat Feb 14 2015,14:00,Chemnitzer FC,1-1,?,S'gart Kickers
+25,Sat Feb 14 2015,14:00,Wehen,1-2,?,Energie Cottbus
+25,Sun Feb 15 2015,14:00,Arminia,4-2,?,MSV Duisburg
+23,Wed Feb 18 2015,19:00,Osnabrück,0-4,?,Arminia
+26,Fri Feb 20 2015,19:00,Dortmund II,1-1,?,Hallescher
+26,Fri Feb 20 2015,19:00,Unterhaching,0-0,?,Chemnitzer FC
+26,Sat Feb 21 2015,14:00,Hansa Rostock,2-1,?,Mainz 05 II
+26,Sat Feb 21 2015,14:00,S'gart Kickers,0-2,?,Arminia
+26,Sat Feb 21 2015,14:00,Preußen Münster,1-3,?,Holstein Kiel
+26,Sat Feb 21 2015,14:00,Dynamo Dres,0-1,?,Wehen
+26,Sat Feb 21 2015,14:00,MSV Duisburg,2-0,?,Fortuna Köln
+26,Sat Feb 21 2015,14:00,Energie Cottbus,4-1,?,Jahn R'burg
+26,Sat Feb 21 2015,14:00,Stuttgart II,4-1,?,Großaspach
+26,Sat Feb 21 2015,14:00,Rot-Weiß Erfurt,3-1,?,Osnabrück
+23,Tue Feb 24 2015,19:00,Großaspach,1-4,?,Unterhaching
+27,Fri Feb 27 2015,19:00,Holstein Kiel,4-1,?,Rot-Weiß Erfurt
+27,Sat Feb 28 2015,14:00,Hallescher,1-2,?,Hansa Rostock
+27,Sat Feb 28 2015,14:00,Osnabrück,1-1,?,MSV Duisburg
+27,Sat Feb 28 2015,14:00,Wehen,2-2,?,Preußen Münster
+27,Sat Feb 28 2015,14:00,Mainz 05 II,0-2,?,Stuttgart II
+27,Sat Feb 28 2015,14:00,Fortuna Köln,0-2,?,S'gart Kickers
+27,Sat Feb 28 2015,14:00,Arminia,4-0,?,Unterhaching
+27,Sat Feb 28 2015,14:00,Jahn R'burg,2-3,?,Dynamo Dres
+27,Sat Feb 28 2015,14:00,Chemnitzer FC,3-1,?,Dortmund II
+27,Sat Feb 28 2015,14:00,Großaspach,2-2,?,Energie Cottbus
+24,Tue Mar 3 2015,18:30,Stuttgart II,1-1,?,Wehen
+28,Sat Mar 7 2015,14:00,Rot-Weiß Erfurt,0-2,?,Wehen
+28,Sat Mar 7 2015,14:00,S'gart Kickers,4-2,?,MSV Duisburg
+28,Sat Mar 7 2015,14:00,Hansa Rostock,1-0,?,Chemnitzer FC
+28,Sat Mar 7 2015,14:00,Unterhaching,1-1,?,Fortuna Köln
+28,Sat Mar 7 2015,14:00,Energie Cottbus,2-1,?,Mainz 05 II
+28,Sat Mar 7 2015,14:00,Dortmund II,1-1,?,Arminia
+28,Sat Mar 7 2015,14:00,Stuttgart II,0-1,?,Hallescher
+28,Sat Mar 7 2015,14:00,Preußen Münster,3-0,?,Jahn R'burg
+28,Sat Mar 7 2015,14:00,Dynamo Dres,0-1,?,Großaspach
+28,Sat Mar 7 2015,14:00,Holstein Kiel,1-0,?,Osnabrück
+24,Tue Mar 10 2015,18:30,Unterhaching,1-2,?,Mainz 05 II
+24,Tue Mar 10 2015,19:00,S'gart Kickers,1-1,?,Hallescher
+24,Wed Mar 11 2015,19:00,Dortmund II,0-1,?,Großaspach
+29,Fri Mar 13 2015,19:00,Wehen,0-1,?,Holstein Kiel
+29,Sat Mar 14 2015,14:00,Chemnitzer FC,1-0,?,Stuttgart II
+29,Sat Mar 14 2015,14:00,Mainz 05 II,1-0,?,Dynamo Dres
+29,Sat Mar 14 2015,14:00,Großaspach,1-1,?,Preußen Münster
+29,Sat Mar 14 2015,14:00,Hallescher,3-1,?,Energie Cottbus
+29,Sat Mar 14 2015,14:00,Fortuna Köln,0-0,?,Dortmund II
+29,Sat Mar 14 2015,14:00,Arminia,3-2,?,Hansa Rostock
+29,Sat Mar 14 2015,14:00,Osnabrück,4-1,?,S'gart Kickers
+29,Sat Mar 14 2015,14:00,Jahn R'burg,1-0,?,Rot-Weiß Erfurt
+29,Sat Mar 14 2015,14:00,MSV Duisburg,1-0,?,Unterhaching
+30,Fri Mar 20 2015,19:00,Wehen,2-0,?,Osnabrück
+30,Sat Mar 21 2015,14:00,Energie Cottbus,2-2,?,Chemnitzer FC
+30,Sat Mar 21 2015,14:00,Rot-Weiß Erfurt,0-1,?,Großaspach
+30,Sat Mar 21 2015,14:00,Unterhaching,1-2,?,S'gart Kickers
+30,Sat Mar 21 2015,14:00,Hansa Rostock,4-0,?,Fortuna Köln
+30,Sat Mar 21 2015,14:00,Preußen Münster,1-1,?,Mainz 05 II
+30,Sat Mar 21 2015,14:00,Holstein Kiel,1-0,?,Jahn R'burg
+30,Sat Mar 21 2015,14:00,Dortmund II,1-4,?,MSV Duisburg
+30,Sat Mar 21 2015,14:00,Dynamo Dres,2-3,?,Hallescher
+30,Sun Mar 22 2015,14:00,Stuttgart II,2-0,?,Arminia
+31,Sat Apr 4 2015,14:00,Mainz 05 II,3-1,?,Rot-Weiß Erfurt
+31,Sat Apr 4 2015,14:00,Arminia,3-0,?,Energie Cottbus
+31,Sat Apr 4 2015,14:00,Fortuna Köln,0-1,?,Stuttgart II
+31,Sat Apr 4 2015,14:00,Hallescher,3-0,?,Preußen Münster
+31,Sat Apr 4 2015,14:00,S'gart Kickers,2-0,?,Dortmund II
+31,Sat Apr 4 2015,14:00,Jahn R'burg,3-0,?,Wehen
+31,Sat Apr 4 2015,14:00,Chemnitzer FC,2-0,?,Dynamo Dres
+31,Sat Apr 4 2015,14:00,Großaspach,1-1,?,Holstein Kiel
+31,Sun Apr 5 2015,14:00,MSV Duisburg,2-2,?,Hansa Rostock
+31,Sun Apr 5 2015,14:00,Osnabrück,1-0,?,Unterhaching
+32,Sat Apr 11 2015,14:00,Wehen,0-1,?,Großaspach
+32,Sat Apr 11 2015,14:00,Energie Cottbus,1-1,?,Fortuna Köln
+32,Sat Apr 11 2015,14:00,Preußen Münster,2-3,?,Chemnitzer FC
+32,Sat Apr 11 2015,14:00,Holstein Kiel,1-0,?,Mainz 05 II
+32,Sat Apr 11 2015,14:00,Rot-Weiß Erfurt,1-2,?,Hallescher
+32,Sat Apr 11 2015,14:00,Hansa Rostock,1-0,?,S'gart Kickers
+32,Sat Apr 11 2015,14:00,Dynamo Dres,2-0,?,Arminia
+32,Sat Apr 11 2015,14:00,Jahn R'burg,1-1,?,Osnabrück
+32,Sun Apr 12 2015,14:00,Stuttgart II,1-2,?,MSV Duisburg
+32,Sun Apr 12 2015,14:00,Dortmund II,1-0,?,Unterhaching
+33,Fri Apr 17 2015,19:00,Unterhaching,2-1,?,Hansa Rostock
+33,Sat Apr 18 2015,14:00,Arminia,2-1,?,Preußen Münster
+33,Sat Apr 18 2015,14:00,MSV Duisburg,3-2,?,Energie Cottbus
+33,Sat Apr 18 2015,14:00,Osnabrück,1-1,?,Dortmund II
+33,Sat Apr 18 2015,14:00,S'gart Kickers,2-1,?,Stuttgart II
+33,Sat Apr 18 2015,14:00,Fortuna Köln,1-0,?,Dynamo Dres
+33,Sat Apr 18 2015,14:00,Großaspach,2-1,?,Jahn R'burg
+33,Sat Apr 18 2015,14:00,Mainz 05 II,1-1,?,Wehen
+33,Sat Apr 18 2015,14:00,Chemnitzer FC,2-1,?,Rot-Weiß Erfurt
+33,Sun Apr 19 2015,14:00,Hallescher,2-2,?,Holstein Kiel
+34,Fri Apr 24 2015,19:00,Großaspach,1-0,?,Osnabrück
+34,Sat Apr 25 2015,14:00,Wehen,3-0,?,Hallescher
+34,Sat Apr 25 2015,14:00,Jahn R'burg,0-0,?,Mainz 05 II
+34,Sat Apr 25 2015,14:00,Energie Cottbus,2-0,?,S'gart Kickers
+34,Sat Apr 25 2015,14:00,Preußen Münster,1-0,?,Fortuna Köln
+34,Sat Apr 25 2015,14:00,Holstein Kiel,2-1,?,Chemnitzer FC
+34,Sat Apr 25 2015,14:00,Hansa Rostock,3-2,?,Dortmund II
+34,Sat Apr 25 2015,14:00,Rot-Weiß Erfurt,0-4,?,Arminia
+34,Sun Apr 26 2015,14:00,Dynamo Dres,0-2,?,MSV Duisburg
+34,Sun Apr 26 2015,14:00,Stuttgart II,1-3,?,Unterhaching
+35,Sat May 2 2015,14:00,Chemnitzer FC,2-1,?,Wehen
+35,Sat May 2 2015,14:00,Mainz 05 II,3-1,?,Großaspach
+35,Sat May 2 2015,14:00,S'gart Kickers,3-4,?,Dynamo Dres
+35,Sat May 2 2015,14:00,Unterhaching,3-3,?,Energie Cottbus
+35,Sat May 2 2015,14:00,Arminia,2-2,?,Holstein Kiel
+35,Sat May 2 2015,14:00,Hallescher,2-1,?,Jahn R'burg
+35,Sat May 2 2015,14:00,Fortuna Köln,2-2,?,Rot-Weiß Erfurt
+35,Sun May 3 2015,14:00,Osnabrück,1-0,?,Hansa Rostock
+35,Sun May 3 2015,14:00,MSV Duisburg,2-1,?,Preußen Münster
+35,Sun May 3 2015,14:00,Dortmund II,2-0,?,Stuttgart II
+36,Fri May 8 2015,19:00,Stuttgart II,3-2,?,Hansa Rostock
+36,Sat May 9 2015,14:00,Preußen Münster,2-3,?,S'gart Kickers
+36,Sat May 9 2015,14:00,Jahn R'burg,0-1,?,Chemnitzer FC
+36,Sat May 9 2015,14:00,Energie Cottbus,0-3,?,Dortmund II
+36,Sat May 9 2015,14:00,Dynamo Dres,5-1,?,Unterhaching
+36,Sat May 9 2015,14:00,Wehen,1-1,?,Arminia
+36,Sat May 9 2015,14:00,Holstein Kiel,4-0,?,Fortuna Köln
+36,Sat May 9 2015,14:00,Mainz 05 II,1-1,?,Osnabrück
+36,Sun May 10 2015,14:00,Rot-Weiß Erfurt,0-2,?,MSV Duisburg
+36,Sun May 10 2015,14:00,Großaspach,2-1,?,Hallescher
+37,Sat May 16 2015,13:30,Arminia,2-2,?,Jahn R'burg
+37,Sat May 16 2015,13:30,Hallescher,1-2,?,Mainz 05 II
+37,Sat May 16 2015,13:30,Dortmund II,2-3,?,Dynamo Dres
+37,Sat May 16 2015,13:30,S'gart Kickers,0-0,?,Rot-Weiß Erfurt
+37,Sat May 16 2015,13:30,MSV Duisburg,3-1,?,Holstein Kiel
+37,Sat May 16 2015,13:30,Hansa Rostock,0-1,?,Energie Cottbus
+37,Sat May 16 2015,13:30,Unterhaching,1-0,?,Preußen Münster
+37,Sat May 16 2015,13:30,Fortuna Köln,2-1,?,Wehen
+37,Sat May 16 2015,13:30,Chemnitzer FC,2-0,?,Großaspach
+37,Sat May 16 2015,13:30,Stuttgart II,0-0,?,Osnabrück
+38,Sat May 23 2015,13:30,Energie Cottbus,2-3,?,Stuttgart II
+38,Sat May 23 2015,13:30,Mainz 05 II,1-1,?,Chemnitzer FC
+38,Sat May 23 2015,13:30,Jahn R'burg,4-0,?,Fortuna Köln
+38,Sat May 23 2015,13:30,Holstein Kiel,0-2,?,S'gart Kickers
+38,Sat May 23 2015,13:30,Großaspach,0-1,?,Arminia
+38,Sat May 23 2015,13:30,Osnabrück,2-0,?,Hallescher
+38,Sat May 23 2015,13:30,Preußen Münster,1-2,?,Dortmund II
+38,Sat May 23 2015,13:30,Wehen,1-0,?,MSV Duisburg
+38,Sat May 23 2015,13:30,Dynamo Dres,2-1,?,Hansa Rostock
+38,Sat May 23 2015,13:30,Rot-Weiß Erfurt,1-0,?,Unterhaching

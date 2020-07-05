@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 22 2015,18:00,Hellas Verona,1-1,?,Roma
+1,Sat Aug 22 2015,20:45,Lazio,2-1,?,Bologna
+1,Sun Aug 23 2015,18:00,Juventus,0-1,?,Udinese
+1,Sun Aug 23 2015,20:45,Inter,1-0,?,Atalanta
+1,Sun Aug 23 2015,20:45,Sassuolo,2-1,?,Napoli
+1,Sun Aug 23 2015,20:45,Palermo,1-0,?,Genoa
+1,Sun Aug 23 2015,20:45,Frosinone,1-2,?,Torino
+1,Sun Aug 23 2015,20:45,Fiorentina,2-0,?,Milan
+1,Sun Aug 23 2015,20:45,Empoli,1-3,?,Chievo
+1,Sun Aug 23 2015,20:45,Sampdoria,5-2,?,Carpi
+2,Sat Aug 29 2015,18:00,Bologna,0-1,?,Sassuolo
+2,Sat Aug 29 2015,20:45,Milan,2-1,?,Empoli
+2,Sun Aug 30 2015,18:00,Roma,2-1,?,Juventus
+2,Sun Aug 30 2015,20:45,Chievo,4-0,?,Lazio
+2,Sun Aug 30 2015,20:45,Atalanta,2-0,?,Frosinone
+2,Sun Aug 30 2015,20:45,Napoli,2-2,?,Sampdoria
+2,Sun Aug 30 2015,20:45,Udinese,0-1,?,Palermo
+2,Sun Aug 30 2015,20:45,Carpi,1-2,?,Inter
+2,Sun Aug 30 2015,20:45,Torino,3-1,?,Fiorentina
+2,Sun Aug 30 2015,20:45,Genoa,2-0,?,Hellas Verona
+3,Sat Sep 12 2015,18:00,Fiorentina,1-0,?,Genoa
+3,Sat Sep 12 2015,18:00,Frosinone,0-2,?,Roma
+3,Sat Sep 12 2015,20:45,Juventus,1-1,?,Chievo
+3,Sun Sep 13 2015,12:30,Hellas Verona,2-2,?,Torino
+3,Sun Sep 13 2015,15:00,Sassuolo,2-2,?,Atalanta
+3,Sun Sep 13 2015,15:00,Palermo,2-2,?,Carpi
+3,Sun Sep 13 2015,15:00,Empoli,2-2,?,Napoli
+3,Sun Sep 13 2015,18:00,Lazio,2-0,?,Udinese
+3,Sun Sep 13 2015,20:45,Inter,1-0,?,Milan
+3,Mon Sep 14 2015,20:45,Sampdoria,2-0,?,Bologna
+4,Sat Sep 19 2015,18:00,Udinese,1-2,?,Empoli
+4,Sat Sep 19 2015,20:45,Milan,3-2,?,Palermo
+4,Sun Sep 20 2015,12:30,Chievo,0-1,?,Inter
+4,Sun Sep 20 2015,15:00,Genoa,0-2,?,Juventus
+4,Sun Sep 20 2015,15:00,Atalanta,1-1,?,Hellas Verona
+4,Sun Sep 20 2015,15:00,Roma,2-2,?,Sassuolo
+4,Sun Sep 20 2015,15:00,Bologna,1-0,?,Frosinone
+4,Sun Sep 20 2015,15:00,Torino,2-0,?,Sampdoria
+4,Sun Sep 20 2015,18:00,Carpi,0-1,?,Fiorentina
+4,Sun Sep 20 2015,20:45,Napoli,5-0,?,Lazio
+5,Tue Sep 22 2015,20:45,Udinese,2-3,?,Milan
+5,Wed Sep 23 2015,20:45,Palermo,0-1,?,Sassuolo
+5,Wed Sep 23 2015,20:45,Juventus,1-1,?,Frosinone
+5,Wed Sep 23 2015,20:45,Fiorentina,2-0,?,Bologna
+5,Wed Sep 23 2015,20:45,Sampdoria,2-1,?,Roma
+5,Wed Sep 23 2015,20:45,Inter,1-0,?,Hellas Verona
+5,Wed Sep 23 2015,20:45,Carpi,0-0,?,Napoli
+5,Wed Sep 23 2015,20:45,Chievo,1-0,?,Torino
+5,Wed Sep 23 2015,20:45,Lazio,2-0,?,Genoa
+5,Thu Sep 24 2015,20:45,Empoli,0-1,?,Atalanta
+6,Sat Sep 26 2015,18:00,Roma,5-1,?,Carpi
+6,Sat Sep 26 2015,20:45,Napoli,2-1,?,Juventus
+6,Sun Sep 27 2015,12:30,Genoa,1-0,?,Milan
+6,Sun Sep 27 2015,15:00,Hellas Verona,1-2,?,Lazio
+6,Sun Sep 27 2015,15:00,Sassuolo,1-1,?,Chievo
+6,Sun Sep 27 2015,15:00,Torino,2-1,?,Palermo
+6,Sun Sep 27 2015,15:00,Bologna,1-2,?,Udinese
+6,Sun Sep 27 2015,20:45,Inter,1-4,?,Fiorentina
+6,Mon Sep 28 2015,19:00,Frosinone,2-0,?,Empoli
+6,Mon Sep 28 2015,21:00,Atalanta,2-1,?,Sampdoria
+7,Sat Oct 3 2015,18:00,Carpi,2-1,?,Torino
+7,Sat Oct 3 2015,20:45,Chievo,1-1,?,Hellas Verona
+7,Sun Oct 4 2015,12:30,Empoli,1-0,?,Sassuolo
+7,Sun Oct 4 2015,15:00,Palermo,2-4,?,Roma
+7,Sun Oct 4 2015,15:00,Sampdoria,1-1,?,Inter
+7,Sun Oct 4 2015,15:00,Udinese,1-1,?,Genoa
+7,Sun Oct 4 2015,18:00,Juventus,3-1,?,Bologna
+7,Sun Oct 4 2015,18:00,Lazio,2-0,?,Frosinone
+7,Sun Oct 4 2015,20:45,Milan,0-4,?,Napoli
+7,Sun Oct 4 2015,20:45,Fiorentina,3-0,?,Atalanta
+8,Sat Oct 17 2015,18:00,Roma,3-1,?,Empoli
+8,Sat Oct 17 2015,20:45,Torino,1-1,?,Milan
+8,Sun Oct 18 2015,12:30,Bologna,0-1,?,Palermo
+8,Sun Oct 18 2015,15:00,Napoli,2-1,?,Fiorentina
+8,Sun Oct 18 2015,15:00,Genoa,3-2,?,Chievo
+8,Sun Oct 18 2015,15:00,Frosinone,2-0,?,Sampdoria
+8,Sun Oct 18 2015,15:00,Hellas Verona,1-1,?,Udinese
+8,Sun Oct 18 2015,15:00,Atalanta,3-0,?,Carpi
+8,Sun Oct 18 2015,15:00,Sassuolo,2-1,?,Lazio
+8,Sun Oct 18 2015,20:45,Inter,0-0,?,Juventus
+9,Sat Oct 24 2015,15:00,Empoli,2-0,?,Genoa
+9,Sat Oct 24 2015,18:00,Carpi,1-2,?,Bologna
+9,Sat Oct 24 2015,20:45,Palermo,1-1,?,Inter
+9,Sun Oct 25 2015,12:30,Sampdoria,4-1,?,Hellas Verona
+9,Sun Oct 25 2015,15:00,Milan,2-1,?,Sassuolo
+9,Sun Oct 25 2015,15:00,Juventus,2-0,?,Atalanta
+9,Sun Oct 25 2015,15:00,Udinese,1-0,?,Frosinone
+9,Sun Oct 25 2015,18:00,Fiorentina,1-2,?,Roma
+9,Sun Oct 25 2015,18:00,Lazio,3-0,?,Torino
+9,Sun Oct 25 2015,20:45,Chievo,0-1,?,Napoli
+10,Tue Oct 27 2015,20:45,Bologna,0-1,?,Inter
+10,Wed Oct 28 2015,20:45,Hellas Verona,0-2,?,Fiorentina
+10,Wed Oct 28 2015,20:45,Frosinone,2-1,?,Carpi
+10,Wed Oct 28 2015,20:45,Torino,3-3,?,Genoa
+10,Wed Oct 28 2015,20:45,Sassuolo,1-0,?,Juventus
+10,Wed Oct 28 2015,20:45,Roma,3-1,?,Udinese
+10,Wed Oct 28 2015,20:45,Atalanta,2-1,?,Lazio
+10,Wed Oct 28 2015,20:45,Napoli,2-0,?,Palermo
+10,Wed Oct 28 2015,20:45,Milan,1-0,?,Chievo
+10,Thu Oct 29 2015,20:45,Sampdoria,1-1,?,Empoli
+11,Sat Oct 31 2015,18:00,Juventus,2-1,?,Torino
+11,Sat Oct 31 2015,20:45,Inter,1-0,?,Roma
+11,Sun Nov 1 2015,12:30,Fiorentina,4-1,?,Frosinone
+11,Sun Nov 1 2015,15:00,Udinese,0-0,?,Sassuolo
+11,Sun Nov 1 2015,15:00,Bologna,3-0,?,Atalanta
+11,Sun Nov 1 2015,15:00,Carpi,0-0,?,Hellas Verona
+11,Sun Nov 1 2015,15:00,Genoa,0-0,?,Napoli
+11,Sun Nov 1 2015,20:45,Lazio,1-3,?,Milan
+11,Mon Nov 2 2015,19:00,Chievo,1-1,?,Sampdoria
+11,Mon Nov 2 2015,21:00,Palermo,0-1,?,Empoli
+12,Sat Nov 7 2015,18:00,Hellas Verona,0-2,?,Bologna
+12,Sat Nov 7 2015,20:45,Milan,0-0,?,Atalanta
+12,Sun Nov 8 2015,12:30,Torino,0-1,?,Inter
+12,Sun Nov 8 2015,15:00,Roma,2-0,?,Lazio
+12,Sun Nov 8 2015,15:00,Palermo,1-0,?,Chievo
+12,Sun Nov 8 2015,15:00,Sassuolo,1-0,?,Carpi
+12,Sun Nov 8 2015,15:00,Empoli,1-3,?,Juventus
+12,Sun Nov 8 2015,15:00,Frosinone,2-2,?,Genoa
+12,Sun Nov 8 2015,18:00,Napoli,1-0,?,Udinese
+12,Sun Nov 8 2015,20:45,Sampdoria,0-2,?,Fiorentina
+13,Sat Nov 21 2015,18:00,Bologna,2-2,?,Roma
+13,Sat Nov 21 2015,20:45,Juventus,1-0,?,Milan
+13,Sun Nov 22 2015,12:30,Hellas Verona,0-2,?,Napoli
+13,Sun Nov 22 2015,15:00,Carpi,1-2,?,Chievo
+13,Sun Nov 22 2015,15:00,Lazio,1-1,?,Palermo
+13,Sun Nov 22 2015,15:00,Genoa,2-1,?,Sassuolo
+13,Sun Nov 22 2015,15:00,Udinese,1-0,?,Sampdoria
+13,Sun Nov 22 2015,15:00,Atalanta,0-1,?,Torino
+13,Sun Nov 22 2015,15:00,Fiorentina,2-2,?,Empoli
+13,Sun Nov 22 2015,20:45,Inter,4-0,?,Frosinone
+14,Sat Nov 28 2015,18:00,Torino,2-0,?,Bologna
+14,Sat Nov 28 2015,20:45,Milan,4-1,?,Sampdoria
+14,Sun Nov 29 2015,15:00,Chievo,2-3,?,Udinese
+14,Sun Nov 29 2015,15:00,Roma,0-2,?,Atalanta
+14,Sun Nov 29 2015,15:00,Genoa,1-2,?,Carpi
+14,Sun Nov 29 2015,15:00,Frosinone,3-2,?,Hellas Verona
+14,Sun Nov 29 2015,18:00,Empoli,1-0,?,Lazio
+14,Sun Nov 29 2015,20:45,Palermo,0-3,?,Juventus
+14,Mon Nov 30 2015,19:00,Sassuolo,1-1,?,Fiorentina
+14,Mon Nov 30 2015,21:00,Napoli,2-1,?,Inter
+15,Fri Dec 4 2015,20:45,Lazio,0-2,?,Juventus
+15,Sat Dec 5 2015,15:00,Torino,1-1,?,Roma
+15,Sat Dec 5 2015,20:45,Inter,1-0,?,Genoa
+15,Sun Dec 6 2015,12:30,Bologna,3-2,?,Napoli
+15,Sun Dec 6 2015,15:00,Hellas Verona,0-1,?,Empoli
+15,Sun Dec 6 2015,15:00,Fiorentina,3-0,?,Udinese
+15,Sun Dec 6 2015,15:00,Atalanta,3-0,?,Palermo
+15,Sun Dec 6 2015,15:00,Frosinone,0-2,?,Chievo
+15,Sun Dec 6 2015,18:00,Sampdoria,1-3,?,Sassuolo
+15,Sun Dec 6 2015,20:45,Carpi,0-0,?,Milan
+16,Sat Dec 12 2015,15:00,Genoa,0-1,?,Bologna
+16,Sat Dec 12 2015,18:00,Palermo,4-1,?,Frosinone
+16,Sat Dec 12 2015,20:45,Udinese,0-4,?,Inter
+16,Sun Dec 13 2015,15:00,Chievo,1-0,?,Atalanta
+16,Sun Dec 13 2015,15:00,Empoli,3-0,?,Carpi
+16,Sun Dec 13 2015,15:00,Milan,1-1,?,Hellas Verona
+16,Sun Dec 13 2015,18:00,Napoli,0-0,?,Roma
+16,Sun Dec 13 2015,20:45,Juventus,3-1,?,Fiorentina
+16,Mon Dec 14 2015,20:45,Lazio,1-1,?,Sampdoria
+17,Sat Dec 19 2015,20:45,Bologna,2-3,?,Empoli
+17,Sun Dec 20 2015,12:30,Carpi,2-3,?,Juventus
+17,Sun Dec 20 2015,15:00,Fiorentina,2-0,?,Chievo
+17,Sun Dec 20 2015,15:00,Atalanta,1-3,?,Napoli
+17,Sun Dec 20 2015,15:00,Hellas Verona,1-1,?,Sassuolo
+17,Sun Dec 20 2015,15:00,Roma,2-0,?,Genoa
+17,Sun Dec 20 2015,18:00,Frosinone,2-4,?,Milan
+17,Sun Dec 20 2015,18:00,Torino,0-1,?,Udinese
+17,Sun Dec 20 2015,18:00,Sampdoria,2-0,?,Palermo
+17,Sun Dec 20 2015,20:45,Inter,1-2,?,Lazio
+18,Tue Jan 5 2016,20:45,Genoa,2-3,?,Sampdoria
+18,Wed Jan 6 2016,12:30,Udinese,2-1,?,Atalanta
+18,Wed Jan 6 2016,15:00,Sassuolo,2-2,?,Frosinone
+18,Wed Jan 6 2016,15:00,Palermo,1-3,?,Fiorentina
+18,Wed Jan 6 2016,15:00,Lazio,0-0,?,Carpi
+18,Wed Jan 6 2016,15:00,Juventus,3-0,?,Hellas Verona
+18,Wed Jan 6 2016,15:00,Milan,0-1,?,Bologna
+18,Wed Jan 6 2016,15:00,Chievo,3-3,?,Roma
+18,Wed Jan 6 2016,18:00,Empoli,0-1,?,Inter
+18,Wed Jan 6 2016,20:45,Napoli,2-1,?,Torino
+19,Sat Jan 9 2016,15:00,Carpi,2-1,?,Udinese
+19,Sat Jan 9 2016,18:00,Fiorentina,1-3,?,Lazio
+19,Sat Jan 9 2016,20:45,Roma,1-1,?,Milan
+19,Sun Jan 10 2016,12:30,Inter,0-1,?,Sassuolo
+19,Sun Jan 10 2016,15:00,Torino,0-1,?,Empoli
+19,Sun Jan 10 2016,15:00,Hellas Verona,0-1,?,Palermo
+19,Sun Jan 10 2016,15:00,Bologna,0-1,?,Chievo
+19,Sun Jan 10 2016,15:00,Atalanta,0-2,?,Genoa
+19,Sun Jan 10 2016,15:00,Frosinone,1-5,?,Napoli
+19,Sun Jan 10 2016,20:45,Sampdoria,1-2,?,Juventus
+20,Sat Jan 16 2016,15:00,Atalanta,1-1,?,Inter
+20,Sat Jan 16 2016,18:00,Torino,4-2,?,Frosinone
+20,Sat Jan 16 2016,20:45,Napoli,3-1,?,Sassuolo
+20,Sun Jan 17 2016,12:30,Genoa,4-0,?,Palermo
+20,Sun Jan 17 2016,15:00,Bologna,2-2,?,Lazio
+20,Sun Jan 17 2016,15:00,Roma,1-1,?,Hellas Verona
+20,Sun Jan 17 2016,15:00,Udinese,0-4,?,Juventus
+20,Sun Jan 17 2016,15:00,Carpi,2-1,?,Sampdoria
+20,Sun Jan 17 2016,15:00,Chievo,1-1,?,Empoli
+20,Sun Jan 17 2016,20:45,Milan,2-0,?,Fiorentina
+16,Wed Jan 20 2016,20:45,Sassuolo,1-1,?,Torino
+21,Sat Jan 23 2016,18:00,Frosinone,0-0,?,Atalanta
+21,Sat Jan 23 2016,20:45,Empoli,2-2,?,Milan
+21,Sun Jan 24 2016,12:30,Fiorentina,2-0,?,Torino
+21,Sun Jan 24 2016,15:00,Palermo,4-1,?,Udinese
+21,Sun Jan 24 2016,15:00,Inter,1-1,?,Carpi
+21,Sun Jan 24 2016,15:00,Sampdoria,2-4,?,Napoli
+21,Sun Jan 24 2016,15:00,Hellas Verona,1-1,?,Genoa
+21,Sun Jan 24 2016,15:00,Sassuolo,0-2,?,Bologna
+21,Sun Jan 24 2016,15:00,Lazio,4-1,?,Chievo
+21,Sun Jan 24 2016,20:45,Juventus,1-0,?,Roma
+22,Sat Jan 30 2016,15:00,Carpi,1-1,?,Palermo
+22,Sat Jan 30 2016,18:00,Atalanta,1-1,?,Sassuolo
+22,Sat Jan 30 2016,20:45,Roma,3-1,?,Frosinone
+22,Sun Jan 31 2016,12:30,Chievo,0-4,?,Juventus
+22,Sun Jan 31 2016,15:00,Napoli,5-1,?,Empoli
+22,Sun Jan 31 2016,15:00,Udinese,0-0,?,Lazio
+22,Sun Jan 31 2016,15:00,Genoa,0-0,?,Fiorentina
+22,Sun Jan 31 2016,15:00,Torino,0-0,?,Hellas Verona
+22,Sun Jan 31 2016,15:00,Bologna,3-2,?,Sampdoria
+22,Sun Jan 31 2016,20:45,Milan,3-0,?,Inter
+23,Tue Feb 2 2016,20:45,Sassuolo,0-2,?,Roma
+23,Wed Feb 3 2016,18:30,Frosinone,1-0,?,Bologna
+23,Wed Feb 3 2016,20:45,Sampdoria,2-2,?,Torino
+23,Wed Feb 3 2016,20:45,Juventus,1-0,?,Genoa
+23,Wed Feb 3 2016,20:45,Inter,1-0,?,Chievo
+23,Wed Feb 3 2016,20:45,Palermo,0-2,?,Milan
+23,Wed Feb 3 2016,20:45,Fiorentina,2-1,?,Carpi
+23,Wed Feb 3 2016,20:45,Lazio,0-2,?,Napoli
+23,Wed Feb 3 2016,20:45,Empoli,1-1,?,Udinese
+23,Wed Feb 3 2016,20:45,Hellas Verona,2-1,?,Atalanta
+24,Sat Feb 6 2016,18:00,Bologna,1-1,?,Fiorentina
+24,Sat Feb 6 2016,20:45,Genoa,0-0,?,Lazio
+24,Sun Feb 7 2016,12:30,Hellas Verona,3-3,?,Inter
+24,Sun Feb 7 2016,15:00,Torino,1-2,?,Chievo
+24,Sun Feb 7 2016,15:00,Milan,1-1,?,Udinese
+24,Sun Feb 7 2016,15:00,Sassuolo,2-2,?,Palermo
+24,Sun Feb 7 2016,15:00,Frosinone,0-2,?,Juventus
+24,Sun Feb 7 2016,15:00,Napoli,1-0,?,Carpi
+24,Sun Feb 7 2016,18:00,Atalanta,0-0,?,Empoli
+24,Sun Feb 7 2016,20:45,Roma,2-1,?,Sampdoria
+25,Thu Feb 11 2016,20:45,Lazio,5-2,?,Hellas Verona
+25,Fri Feb 12 2016,20:45,Carpi,1-3,?,Roma
+25,Sat Feb 13 2016,15:00,Empoli,1-2,?,Frosinone
+25,Sat Feb 13 2016,18:00,Chievo,1-1,?,Sassuolo
+25,Sat Feb 13 2016,20:45,Juventus,1-0,?,Napoli
+25,Sun Feb 14 2016,12:30,Milan,2-1,?,Genoa
+25,Sun Feb 14 2016,15:00,Palermo,1-3,?,Torino
+25,Sun Feb 14 2016,15:00,Sampdoria,0-0,?,Atalanta
+25,Sun Feb 14 2016,15:00,Udinese,0-1,?,Bologna
+25,Sun Feb 14 2016,20:45,Fiorentina,2-1,?,Inter
+26,Fri Feb 19 2016,20:45,Bologna,0-0,?,Juventus
+26,Sat Feb 20 2016,18:00,Hellas Verona,3-1,?,Chievo
+26,Sat Feb 20 2016,20:45,Inter,3-1,?,Sampdoria
+26,Sun Feb 21 2016,15:00,Torino,0-0,?,Carpi
+26,Sun Feb 21 2016,15:00,Atalanta,2-3,?,Fiorentina
+26,Sun Feb 21 2016,15:00,Genoa,2-1,?,Udinese
+26,Sun Feb 21 2016,15:00,Sassuolo,3-2,?,Empoli
+26,Sun Feb 21 2016,18:00,Frosinone,0-0,?,Lazio
+26,Sun Feb 21 2016,20:45,Roma,5-0,?,Palermo
+26,Mon Feb 22 2016,21:00,Napoli,1-1,?,Milan
+27,Sat Feb 27 2016,18:00,Empoli,1-3,?,Roma
+27,Sat Feb 27 2016,20:45,Milan,1-0,?,Torino
+27,Sun Feb 28 2016,12:30,Palermo,0-0,?,Bologna
+27,Sun Feb 28 2016,15:00,Sampdoria,2-0,?,Frosinone
+27,Sun Feb 28 2016,15:00,Carpi,1-1,?,Atalanta
+27,Sun Feb 28 2016,15:00,Udinese,2-0,?,Hellas Verona
+27,Sun Feb 28 2016,15:00,Chievo,1-0,?,Genoa
+27,Sun Feb 28 2016,20:45,Juventus,2-0,?,Inter
+27,Mon Feb 29 2016,19:00,Lazio,0-2,?,Sassuolo
+27,Mon Feb 29 2016,21:00,Fiorentina,1-1,?,Napoli
+28,Fri Mar 4 2016,20:45,Roma,4-1,?,Fiorentina
+28,Sat Mar 5 2016,18:00,Hellas Verona,0-3,?,Sampdoria
+28,Sat Mar 5 2016,20:45,Napoli,3-1,?,Chievo
+28,Sun Mar 6 2016,12:30,Torino,1-1,?,Lazio
+28,Sun Mar 6 2016,15:00,Sassuolo,2-0,?,Milan
+28,Sun Mar 6 2016,15:00,Bologna,0-0,?,Carpi
+28,Sun Mar 6 2016,15:00,Atalanta,0-2,?,Juventus
+28,Sun Mar 6 2016,15:00,Genoa,1-0,?,Empoli
+28,Sun Mar 6 2016,15:00,Frosinone,2-0,?,Udinese
+28,Sun Mar 6 2016,20:45,Inter,3-1,?,Palermo
+29,Fri Mar 11 2016,20:45,Juventus,1-0,?,Sassuolo
+29,Sat Mar 12 2016,18:00,Empoli,1-1,?,Sampdoria
+29,Sat Mar 12 2016,20:45,Inter,2-1,?,Bologna
+29,Sun Mar 13 2016,12:30,Chievo,0-0,?,Milan
+29,Sun Mar 13 2016,15:00,Udinese,1-2,?,Roma
+29,Sun Mar 13 2016,15:00,Fiorentina,1-1,?,Hellas Verona
+29,Sun Mar 13 2016,15:00,Carpi,2-1,?,Frosinone
+29,Sun Mar 13 2016,15:00,Genoa,3-2,?,Torino
+29,Sun Mar 13 2016,20:45,Palermo,0-1,?,Napoli
+29,Sun Mar 13 2016,20:45,Lazio,2-0,?,Atalanta
+30,Sat Mar 19 2016,18:00,Empoli,0-0,?,Palermo
+30,Sat Mar 19 2016,20:45,Roma,1-1,?,Inter
+30,Sun Mar 20 2016,12:30,Atalanta,2-0,?,Bologna
+30,Sun Mar 20 2016,15:00,Frosinone,0-0,?,Fiorentina
+30,Sun Mar 20 2016,15:00,Sassuolo,1-1,?,Udinese
+30,Sun Mar 20 2016,15:00,Torino,1-4,?,Juventus
+30,Sun Mar 20 2016,15:00,Hellas Verona,1-2,?,Carpi
+30,Sun Mar 20 2016,15:00,Sampdoria,0-1,?,Chievo
+30,Sun Mar 20 2016,18:00,Napoli,3-1,?,Genoa
+30,Sun Mar 20 2016,20:45,Milan,1-1,?,Lazio
+31,Sat Apr 2 2016,18:00,Carpi,1-3,?,Sassuolo
+31,Sat Apr 2 2016,20:45,Juventus,1-0,?,Empoli
+31,Sun Apr 3 2016,12:30,Udinese,3-1,?,Napoli
+31,Sun Apr 3 2016,15:00,Fiorentina,1-1,?,Sampdoria
+31,Sun Apr 3 2016,15:00,Atalanta,2-1,?,Milan
+31,Sun Apr 3 2016,15:00,Lazio,1-4,?,Roma
+31,Sun Apr 3 2016,15:00,Chievo,3-1,?,Palermo
+31,Sun Apr 3 2016,15:00,Genoa,4-0,?,Frosinone
+31,Sun Apr 3 2016,20:45,Inter,1-2,?,Torino
+31,Mon Apr 4 2016,20:45,Bologna,0-1,?,Hellas Verona
+32,Sat Apr 9 2016,15:00,Frosinone,0-1,?,Inter
+32,Sat Apr 9 2016,18:00,Sassuolo,0-1,?,Genoa
+32,Sat Apr 9 2016,18:00,Chievo,1-0,?,Carpi
+32,Sat Apr 9 2016,20:45,Milan,1-2,?,Juventus
+32,Sun Apr 10 2016,12:30,Empoli,2-0,?,Fiorentina
+32,Sun Apr 10 2016,15:00,Torino,2-1,?,Atalanta
+32,Sun Apr 10 2016,15:00,Sampdoria,2-0,?,Udinese
+32,Sun Apr 10 2016,15:00,Napoli,3-0,?,Hellas Verona
+32,Sun Apr 10 2016,20:45,Palermo,0-3,?,Lazio
+32,Mon Apr 11 2016,20:45,Roma,1-1,?,Bologna
+33,Sat Apr 16 2016,15:00,Bologna,0-1,?,Torino
+33,Sat Apr 16 2016,18:00,Carpi,4-1,?,Genoa
+33,Sat Apr 16 2016,20:45,Inter,2-0,?,Napoli
+33,Sun Apr 17 2016,12:30,Atalanta,3-3,?,Roma
+33,Sun Apr 17 2016,15:00,Udinese,0-0,?,Chievo
+33,Sun Apr 17 2016,15:00,Fiorentina,3-1,?,Sassuolo
+33,Sun Apr 17 2016,15:00,Hellas Verona,1-2,?,Frosinone
+33,Sun Apr 17 2016,15:00,Juventus,4-0,?,Palermo
+33,Sun Apr 17 2016,18:00,Lazio,2-0,?,Empoli
+33,Sun Apr 17 2016,20:45,Sampdoria,0-1,?,Milan
+34,Tue Apr 19 2016,20:45,Napoli,6-0,?,Bologna
+34,Wed Apr 20 2016,18:30,Sassuolo,0-0,?,Sampdoria
+34,Wed Apr 20 2016,20:45,Roma,3-2,?,Torino
+34,Wed Apr 20 2016,20:45,Juventus,3-0,?,Lazio
+34,Wed Apr 20 2016,20:45,Udinese,2-1,?,Fiorentina
+34,Wed Apr 20 2016,20:45,Empoli,1-0,?,Hellas Verona
+34,Wed Apr 20 2016,20:45,Palermo,2-2,?,Atalanta
+34,Wed Apr 20 2016,20:45,Chievo,5-1,?,Frosinone
+34,Wed Apr 20 2016,20:45,Genoa,1-0,?,Inter
+34,Thu Apr 21 2016,20:45,Milan,0-0,?,Carpi
+35,Sat Apr 23 2016,20:45,Inter,3-1,?,Udinese
+35,Sun Apr 24 2016,12:30,Frosinone,0-2,?,Palermo
+35,Sun Apr 24 2016,15:00,Sampdoria,2-1,?,Lazio
+35,Sun Apr 24 2016,15:00,Atalanta,1-0,?,Chievo
+35,Sun Apr 24 2016,15:00,Bologna,2-0,?,Genoa
+35,Sun Apr 24 2016,15:00,Torino,1-3,?,Sassuolo
+35,Sun Apr 24 2016,20:45,Fiorentina,1-2,?,Juventus
+35,Mon Apr 25 2016,15:00,Roma,1-0,?,Napoli
+35,Mon Apr 25 2016,17:00,Hellas Verona,2-1,?,Milan
+35,Mon Apr 25 2016,19:00,Carpi,1-0,?,Empoli
+36,Sat Apr 30 2016,18:00,Udinese,1-5,?,Torino
+36,Sat Apr 30 2016,20:45,Chievo,0-0,?,Fiorentina
+36,Sun May 1 2016,12:30,Juventus,2-0,?,Carpi
+36,Sun May 1 2016,15:00,Empoli,0-0,?,Bologna
+36,Sun May 1 2016,15:00,Palermo,2-0,?,Sampdoria
+36,Sun May 1 2016,15:00,Sassuolo,1-0,?,Hellas Verona
+36,Sun May 1 2016,15:00,Milan,3-3,?,Frosinone
+36,Sun May 1 2016,20:45,Lazio,2-0,?,Inter
+36,Mon May 2 2016,19:00,Genoa,2-3,?,Roma
+36,Mon May 2 2016,21:00,Napoli,2-1,?,Atalanta
+37,Sat May 7 2016,18:00,Inter,2-1,?,Empoli
+37,Sat May 7 2016,20:45,Bologna,0-1,?,Milan
+37,Sun May 8 2016,12:30,Roma,3-0,?,Chievo
+37,Sun May 8 2016,15:00,Frosinone,0-1,?,Sassuolo
+37,Sun May 8 2016,15:00,Fiorentina,0-0,?,Palermo
+37,Sun May 8 2016,15:00,Sampdoria,0-3,?,Genoa
+37,Sun May 8 2016,15:00,Carpi,1-3,?,Lazio
+37,Sun May 8 2016,15:00,Atalanta,1-1,?,Udinese
+37,Sun May 8 2016,20:45,Torino,1-2,?,Napoli
+37,Sun May 8 2016,20:45,Hellas Verona,2-1,?,Juventus
+38,Sat May 14 2016,17:00,Juventus,5-0,?,Sampdoria
+38,Sat May 14 2016,20:45,Napoli,4-0,?,Frosinone
+38,Sat May 14 2016,20:45,Milan,1-3,?,Roma
+38,Sat May 14 2016,20:45,Sassuolo,3-1,?,Inter
+38,Sun May 15 2016,18:00,Genoa,1-2,?,Atalanta
+38,Sun May 15 2016,18:00,Chievo,0-0,?,Bologna
+38,Sun May 15 2016,18:00,Empoli,2-1,?,Torino
+38,Sun May 15 2016,20:45,Udinese,1-2,?,Carpi
+38,Sun May 15 2016,20:45,Palermo,3-2,?,Hellas Verona
+38,Sun May 15 2016,20:45,Lazio,2-4,?,Fiorentina

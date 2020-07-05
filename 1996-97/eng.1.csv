@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 17 1996,?,Derby County,3-3,?,Leeds United
+1,Sat Aug 17 1996,?,Wimbledon,0-3,?,Manchester Utd
+1,Sat Aug 17 1996,?,Sheffield Weds,2-1,?,Aston Villa
+1,Sat Aug 17 1996,?,Blackburn,0-2,?,Tottenham
+1,Sat Aug 17 1996,?,Sunderland,0-0,?,Leicester City
+1,Sat Aug 17 1996,?,Coventry City,0-3,?,Nott'ham Forest
+1,Sat Aug 17 1996,?,Arsenal,2-0,?,West Ham
+1,Sat Aug 17 1996,?,Middlesbrough,3-3,?,Liverpool
+1,Sat Aug 17 1996,?,Everton,2-0,?,Newcastle Utd
+1,Sun Aug 18 1996,?,Southampton,0-0,?,Chelsea
+2,Mon Aug 19 1996,?,Liverpool,2-0,?,Arsenal
+2,Tue Aug 20 1996,?,Leeds United,0-2,?,Sheffield Weds
+2,Wed Aug 21 1996,?,Aston Villa,1-0,?,Blackburn
+2,Wed Aug 21 1996,?,Newcastle Utd,2-0,?,Wimbledon
+2,Wed Aug 21 1996,?,Nott'ham Forest,1-4,?,Sunderland
+2,Wed Aug 21 1996,?,Chelsea,1-0,?,Middlesbrough
+2,Wed Aug 21 1996,?,Manchester Utd,2-2,?,Everton
+2,Wed Aug 21 1996,?,Tottenham,1-1,?,Derby County
+2,Wed Aug 21 1996,?,West Ham,1-1,?,Coventry City
+2,Wed Aug 21 1996,?,Leicester City,2-1,?,Southampton
+3,Sat Aug 24 1996,?,Liverpool,0-0,?,Sunderland
+3,Sat Aug 24 1996,?,Tottenham,0-0,?,Everton
+3,Sat Aug 24 1996,?,Chelsea,2-0,?,Coventry City
+3,Sat Aug 24 1996,?,Leicester City,0-2,?,Arsenal
+3,Sat Aug 24 1996,?,Newcastle Utd,1-2,?,Sheffield Weds
+3,Sat Aug 24 1996,?,Nott'ham Forest,1-1,?,Middlesbrough
+3,Sat Aug 24 1996,?,West Ham,2-1,?,Southampton
+3,Sat Aug 24 1996,?,Aston Villa,2-0,?,Derby County
+3,Sun Aug 25 1996,?,Manchester Utd,2-2,?,Blackburn
+3,Mon Aug 26 1996,?,Leeds United,1-0,?,Wimbledon
+4,Mon Sep 2 1996,?,Sheffield Weds,2-1,?,Leicester City
+4,Wed Sep 4 1996,?,Arsenal,3-3,?,Chelsea
+4,Wed Sep 4 1996,?,Sunderland,1-2,?,Newcastle Utd
+4,Wed Sep 4 1996,?,Everton,0-1,?,Aston Villa
+4,Wed Sep 4 1996,?,Middlesbrough,4-1,?,West Ham
+4,Wed Sep 4 1996,?,Blackburn,0-1,?,Leeds United
+4,Wed Sep 4 1996,?,Derby County,1-1,?,Manchester Utd
+4,Wed Sep 4 1996,?,Southampton,2-2,?,Nott'ham Forest
+4,Wed Sep 4 1996,?,Coventry City,0-1,?,Liverpool
+4,Wed Sep 4 1996,?,Wimbledon,1-0,?,Tottenham
+5,Sat Sep 7 1996,?,Leeds United,0-4,?,Manchester Utd
+5,Sat Sep 7 1996,?,Middlesbrough,4-0,?,Coventry City
+5,Sat Sep 7 1996,?,Wimbledon,4-0,?,Everton
+5,Sat Sep 7 1996,?,Liverpool,2-1,?,Southampton
+5,Sat Sep 7 1996,?,Nott'ham Forest,0-0,?,Leicester City
+5,Sat Sep 7 1996,?,Tottenham,1-2,?,Newcastle Utd
+5,Sat Sep 7 1996,?,Sheffield Weds,0-2,?,Chelsea
+5,Sat Sep 7 1996,?,Aston Villa,2-2,?,Arsenal
+5,Sun Sep 8 1996,?,Sunderland,0-0,?,West Ham
+5,Mon Sep 9 1996,?,Blackburn,1-2,?,Derby County
+6,Sat Sep 14 1996,?,Manchester Utd,4-1,?,Nott'ham Forest
+6,Sat Sep 14 1996,?,Coventry City,2-1,?,Leeds United
+6,Sat Sep 14 1996,?,Everton,1-2,?,Middlesbrough
+6,Sat Sep 14 1996,?,Newcastle Utd,2-1,?,Blackburn
+6,Sat Sep 14 1996,?,West Ham,0-2,?,Wimbledon
+6,Sat Sep 14 1996,?,Southampton,0-1,?,Tottenham
+6,Sat Sep 14 1996,?,Derby County,1-0,?,Sunderland
+6,Sun Sep 15 1996,?,Chelsea,1-1,?,Aston Villa
+6,Sun Sep 15 1996,?,Leicester City,0-3,?,Liverpool
+6,Mon Sep 16 1996,?,Arsenal,4-1,?,Sheffield Weds
+7,Sat Sep 21 1996,?,Sheffield Weds,0-0,?,Derby County
+7,Sat Sep 21 1996,?,Nott'ham Forest,0-2,?,West Ham
+7,Sat Sep 21 1996,?,Aston Villa,0-0,?,Manchester Utd
+7,Sat Sep 21 1996,?,Middlesbrough,0-2,?,Arsenal
+7,Sat Sep 21 1996,?,Leeds United,0-1,?,Newcastle Utd
+7,Sat Sep 21 1996,?,Liverpool,5-1,?,Chelsea
+7,Sat Sep 21 1996,?,Blackburn,1-1,?,Everton
+7,Sat Sep 21 1996,?,Sunderland,1-0,?,Coventry City
+7,Sun Sep 22 1996,?,Tottenham,1-2,?,Leicester City
+7,Mon Sep 23 1996,?,Wimbledon,3-1,?,Southampton
+8,Sat Sep 28 1996,?,Arsenal,2-0,?,Sunderland
+8,Sat Sep 28 1996,?,Leicester City,1-0,?,Leeds United
+8,Sat Sep 28 1996,?,Southampton,4-0,?,Middlesbrough
+8,Sat Sep 28 1996,?,Chelsea,1-1,?,Nott'ham Forest
+8,Sat Sep 28 1996,?,Derby County,0-2,?,Wimbledon
+8,Sat Sep 28 1996,?,Coventry City,0-0,?,Blackburn
+8,Sat Sep 28 1996,?,Everton,2-0,?,Sheffield Weds
+8,Sun Sep 29 1996,?,Manchester Utd,2-0,?,Tottenham
+8,Sun Sep 29 1996,?,West Ham,1-2,?,Liverpool
+8,Mon Sep 30 1996,?,Newcastle Utd,4-3,?,Aston Villa
+9,Sat Oct 12 1996,?,Leicester City,1-3,?,Chelsea
+9,Sat Oct 12 1996,?,Tottenham,1-0,?,Aston Villa
+9,Sat Oct 12 1996,?,Wimbledon,4-2,?,Sheffield Weds
+9,Sat Oct 12 1996,?,Manchester Utd,1-0,?,Liverpool
+9,Sat Oct 12 1996,?,Blackburn,0-2,?,Arsenal
+9,Sat Oct 12 1996,?,Leeds United,2-0,?,Nott'ham Forest
+9,Sat Oct 12 1996,?,Derby County,0-1,?,Newcastle Utd
+9,Sat Oct 12 1996,?,Everton,2-1,?,West Ham
+9,Sun Oct 13 1996,?,Coventry City,1-1,?,Southampton
+9,Mon Oct 14 1996,?,Sunderland,2-2,?,Middlesbrough
+10,Sat Oct 19 1996,?,Arsenal,0-0,?,Coventry City
+10,Sat Oct 19 1996,?,Nott'ham Forest,1-1,?,Derby County
+10,Sat Oct 19 1996,?,Chelsea,2-4,?,Wimbledon
+10,Sat Oct 19 1996,?,Middlesbrough,0-3,?,Tottenham
+10,Sat Oct 19 1996,?,Southampton,3-0,?,Sunderland
+10,Sat Oct 19 1996,?,Aston Villa,2-0,?,Leeds United
+10,Sat Oct 19 1996,?,West Ham,1-0,?,Leicester City
+10,Sat Oct 19 1996,?,Sheffield Weds,1-1,?,Blackburn
+10,Sun Oct 20 1996,?,Newcastle Utd,5-0,?,Manchester Utd
+11,Sat Oct 26 1996,?,Southampton,6-3,?,Manchester Utd
+11,Sat Oct 26 1996,?,Middlesbrough,0-0,?,Wimbledon
+11,Sat Oct 26 1996,?,Leicester City,2-0,?,Newcastle Utd
+11,Sat Oct 26 1996,?,Arsenal,3-0,?,Leeds United
+11,Sat Oct 26 1996,?,Sunderland,1-0,?,Aston Villa
+11,Sat Oct 26 1996,?,Coventry City,0-0,?,Sheffield Weds
+11,Sat Oct 26 1996,?,West Ham,2-1,?,Blackburn
+11,Sat Oct 26 1996,?,Chelsea,3-1,?,Tottenham
+11,Sun Oct 27 1996,?,Liverpool,2-1,?,Derby County
+11,Mon Oct 28 1996,?,Nott'ham Forest,0-1,?,Everton
+12,Sat Nov 2 1996,?,Wimbledon,2-2,?,Arsenal
+12,Sat Nov 2 1996,?,Derby County,2-0,?,Leicester City
+12,Sat Nov 2 1996,?,Sheffield Weds,1-1,?,Southampton
+12,Sat Nov 2 1996,?,Aston Villa,2-0,?,Nott'ham Forest
+12,Sat Nov 2 1996,?,Manchester Utd,1-2,?,Chelsea
+12,Sat Nov 2 1996,?,Leeds United,3-0,?,Sunderland
+12,Sat Nov 2 1996,?,Tottenham,1-0,?,West Ham
+12,Sun Nov 3 1996,?,Blackburn,3-0,?,Liverpool
+12,Sun Nov 3 1996,?,Newcastle Utd,3-1,?,Middlesbrough
+12,Mon Nov 4 1996,?,Everton,1-1,?,Coventry City
+13,Sat Nov 16 1996,?,Newcastle Utd,1-1,?,West Ham
+13,Sat Nov 16 1996,?,Leeds United,0-2,?,Liverpool
+13,Sat Nov 16 1996,?,Wimbledon,2-2,?,Coventry City
+13,Sat Nov 16 1996,?,Blackburn,1-1,?,Chelsea
+13,Sat Nov 16 1996,?,Tottenham,2-0,?,Sunderland
+13,Sat Nov 16 1996,?,Aston Villa,1-3,?,Leicester City
+13,Sat Nov 16 1996,?,Everton,7-1,?,Southampton
+13,Sat Nov 16 1996,?,Manchester Utd,1-0,?,Arsenal
+13,Sun Nov 17 1996,?,Derby County,2-1,?,Middlesbrough
+13,Mon Nov 18 1996,?,Sheffield Weds,2-0,?,Nott'ham Forest
+10,Wed Nov 20 1996,?,Liverpool,1-1,?,Everton
+14,Sat Nov 23 1996,?,Middlesbrough,2-2,?,Manchester Utd
+14,Sat Nov 23 1996,?,Sunderland,1-1,?,Sheffield Weds
+14,Sat Nov 23 1996,?,West Ham,1-1,?,Derby County
+14,Sat Nov 23 1996,?,Leicester City,1-2,?,Everton
+14,Sat Nov 23 1996,?,Liverpool,1-1,?,Wimbledon
+14,Sat Nov 23 1996,?,Southampton,0-2,?,Leeds United
+14,Sat Nov 23 1996,?,Chelsea,1-1,?,Newcastle Utd
+14,Sat Nov 23 1996,?,Coventry City,1-2,?,Aston Villa
+14,Sun Nov 24 1996,?,Arsenal,3-1,?,Tottenham
+14,Mon Nov 25 1996,?,Nott'ham Forest,2-2,?,Blackburn
+15,Sat Nov 30 1996,?,Wimbledon,1-0,?,Nott'ham Forest
+15,Sat Nov 30 1996,?,Sheffield Weds,0-0,?,West Ham
+15,Sat Nov 30 1996,?,Aston Villa,1-0,?,Middlesbrough
+15,Sat Nov 30 1996,?,Newcastle Utd,1-2,?,Arsenal
+15,Sat Nov 30 1996,?,Everton,1-3,?,Sunderland
+15,Sat Nov 30 1996,?,Derby County,2-1,?,Coventry City
+15,Sat Nov 30 1996,?,Blackburn,2-1,?,Southampton
+15,Sat Nov 30 1996,?,Manchester Utd,3-1,?,Leicester City
+15,Sun Dec 1 1996,?,Leeds United,2-0,?,Chelsea
+15,Mon Dec 2 1996,?,Tottenham,0-2,?,Liverpool
+17,Tue Dec 3 1996,?,Middlesbrough,0-2,?,Leicester City
+17,Wed Dec 4 1996,?,West Ham,0-2,?,Aston Villa
+17,Wed Dec 4 1996,?,Arsenal,3-1,?,Southampton
+16,Sat Dec 7 1996,?,Southampton,0-1,?,Aston Villa
+16,Sat Dec 7 1996,?,Leicester City,1-1,?,Blackburn
+16,Sat Dec 7 1996,?,Arsenal,2-2,?,Derby County
+16,Sat Dec 7 1996,?,Liverpool,0-1,?,Sheffield Weds
+16,Sat Dec 7 1996,?,Chelsea,2-2,?,Everton
+16,Sat Dec 7 1996,?,Sunderland,1-3,?,Wimbledon
+16,Sat Dec 7 1996,?,Middlesbrough,0-0,?,Leeds United
+16,Sat Dec 7 1996,?,Coventry City,1-2,?,Tottenham
+16,Sun Dec 8 1996,?,West Ham,2-2,?,Manchester Utd
+16,Mon Dec 9 1996,?,Nott'ham Forest,0-0,?,Newcastle Utd
+17,Sat Dec 14 1996,?,Wimbledon,1-0,?,Blackburn
+17,Sat Dec 14 1996,?,Leeds United,0-0,?,Tottenham
+24,Sat Dec 14 1996,?,Liverpool,5-1,?,Middlesbrough
+17,Sun Dec 15 1996,?,Sunderland,3-0,?,Chelsea
+17,Mon Dec 16 1996,?,Derby County,0-1,?,Everton
+17,Tue Dec 17 1996,?,Liverpool,4-2,?,Nott'ham Forest
+17,Tue Dec 17 1996,?,Coventry City,2-1,?,Newcastle Utd
+17,Wed Dec 18 1996,?,Sheffield Weds,1-1,?,Manchester Utd
+18,Sat Dec 21 1996,?,Manchester Utd,5-0,?,Sunderland
+18,Sat Dec 21 1996,?,Chelsea,3-1,?,West Ham
+18,Sat Dec 21 1996,?,Southampton,3-1,?,Derby County
+18,Sat Dec 21 1996,?,Nott'ham Forest,2-1,?,Arsenal
+18,Sat Dec 21 1996,?,Tottenham,1-1,?,Sheffield Weds
+18,Sat Dec 21 1996,?,Leicester City,0-2,?,Coventry City
+18,Sat Dec 21 1996,?,Everton,0-0,?,Leeds United
+18,Sun Dec 22 1996,?,Aston Villa,5-0,?,Wimbledon
+18,Mon Dec 23 1996,?,Newcastle Utd,1-1,?,Liverpool
+19,Thu Dec 26 1996,?,Aston Villa,0-2,?,Chelsea
+19,Thu Dec 26 1996,?,Liverpool,1-1,?,Leicester City
+19,Thu Dec 26 1996,?,Tottenham,3-1,?,Southampton
+19,Thu Dec 26 1996,?,Sheffield Weds,0-0,?,Arsenal
+19,Thu Dec 26 1996,?,Blackburn,1-0,?,Newcastle Utd
+19,Thu Dec 26 1996,?,Nott'ham Forest,0-4,?,Manchester Utd
+19,Thu Dec 26 1996,?,Sunderland,2-0,?,Derby County
+19,Thu Dec 26 1996,?,Leeds United,1-3,?,Coventry City
+19,Thu Dec 26 1996,?,Middlesbrough,4-2,?,Everton
+20,Sat Dec 28 1996,?,Newcastle Utd,7-1,?,Tottenham
+20,Sat Dec 28 1996,?,Coventry City,3-0,?,Middlesbrough
+20,Sat Dec 28 1996,?,Derby County,0-0,?,Blackburn
+20,Sat Dec 28 1996,?,Leicester City,2-2,?,Nott'ham Forest
+20,Sat Dec 28 1996,?,Arsenal,2-2,?,Aston Villa
+20,Sat Dec 28 1996,?,Everton,1-3,?,Wimbledon
+20,Sat Dec 28 1996,?,West Ham,2-0,?,Sunderland
+20,Sat Dec 28 1996,?,Manchester Utd,1-0,?,Leeds United
+20,Sat Dec 28 1996,?,Chelsea,2-2,?,Sheffield Weds
+20,Sun Dec 29 1996,?,Southampton,0-1,?,Liverpool
+21,Wed Jan 1 1997,?,Arsenal,2-0,?,Middlesbrough
+21,Wed Jan 1 1997,?,Coventry City,2-2,?,Sunderland
+21,Wed Jan 1 1997,?,Newcastle Utd,3-0,?,Leeds United
+21,Wed Jan 1 1997,?,Chelsea,1-0,?,Liverpool
+21,Wed Jan 1 1997,?,West Ham,0-1,?,Nott'ham Forest
+21,Wed Jan 1 1997,?,Manchester Utd,0-0,?,Aston Villa
+21,Wed Jan 1 1997,?,Everton,0-2,?,Blackburn
+22,Sat Jan 11 1997,?,Nott'ham Forest,2-0,?,Chelsea
+22,Sat Jan 11 1997,?,Sheffield Weds,2-1,?,Everton
+22,Sat Jan 11 1997,?,Liverpool,0-0,?,West Ham
+22,Sat Jan 11 1997,?,Middlesbrough,0-1,?,Southampton
+22,Sat Jan 11 1997,?,Aston Villa,2-2,?,Newcastle Utd
+22,Sat Jan 11 1997,?,Wimbledon,1-1,?,Derby County
+22,Sat Jan 11 1997,?,Leeds United,3-0,?,Leicester City
+22,Sat Jan 11 1997,?,Sunderland,1-0,?,Arsenal
+22,Sat Jan 11 1997,?,Blackburn,4-0,?,Coventry City
+22,Sun Jan 12 1997,?,Tottenham,1-2,?,Manchester Utd
+23,Sat Jan 18 1997,?,Middlesbrough,4-2,?,Sheffield Weds
+23,Sat Jan 18 1997,?,Chelsea,3-1,?,Derby County
+23,Sat Jan 18 1997,?,Leicester City,1-0,?,Wimbledon
+23,Sat Jan 18 1997,?,Southampton,2-2,?,Newcastle Utd
+23,Sat Jan 18 1997,?,Liverpool,3-0,?,Aston Villa
+23,Sat Jan 18 1997,?,Sunderland,0-0,?,Blackburn
+23,Sat Jan 18 1997,?,Coventry City,0-2,?,Manchester Utd
+23,Sun Jan 19 1997,?,Arsenal,3-1,?,Everton
+23,Sun Jan 19 1997,?,Nott'ham Forest,2-1,?,Tottenham
+23,Mon Jan 20 1997,?,West Ham,0-2,?,Leeds United
+24,Wed Jan 29 1997,?,Manchester Utd,2-1,?,Wimbledon
+24,Wed Jan 29 1997,?,Newcastle Utd,4-1,?,Everton
+24,Wed Jan 29 1997,?,Nott'ham Forest,0-1,?,Coventry City
+24,Wed Jan 29 1997,?,Leeds United,0-0,?,Derby County
+24,Wed Jan 29 1997,?,Leicester City,1-1,?,Sunderland
+24,Wed Jan 29 1997,?,West Ham,1-2,?,Arsenal
+24,Wed Jan 29 1997,?,Aston Villa,0-1,?,Sheffield Weds
+24,Wed Jan 29 1997,?,Tottenham,2-1,?,Blackburn
+25,Sat Feb 1 1997,?,Everton,2-0,?,Nott'ham Forest
+25,Sat Feb 1 1997,?,Derby County,0-1,?,Liverpool
+25,Sat Feb 1 1997,?,Aston Villa,1-0,?,Sunderland
+25,Sat Feb 1 1997,?,Sheffield Weds,0-0,?,Coventry City
+25,Sat Feb 1 1997,?,Tottenham,1-2,?,Chelsea
+25,Sat Feb 1 1997,?,Manchester Utd,2-1,?,Southampton
+25,Sat Feb 1 1997,?,Blackburn,2-1,?,West Ham
+25,Sat Feb 1 1997,?,Wimbledon,1-1,?,Middlesbrough
+25,Sat Feb 1 1997,?,Leeds United,0-0,?,Arsenal
+25,Sun Feb 2 1997,?,Newcastle Utd,4-3,?,Leicester City
+26,Sat Feb 15 1997,?,Derby County,1-0,?,West Ham
+26,Sat Feb 15 1997,?,Tottenham,0-0,?,Arsenal
+21,Wed Feb 19 1997,?,Derby County,2-2,?,Sheffield Weds
+26,Wed Feb 19 1997,?,Aston Villa,2-1,?,Coventry City
+29,Wed Feb 19 1997,?,Arsenal,1-2,?,Manchester Utd
+29,Wed Feb 19 1997,?,Liverpool,4-0,?,Leeds United
+27,Sat Feb 22 1997,?,Nott'ham Forest,0-0,?,Aston Villa
+27,Sat Feb 22 1997,?,Sunderland,0-1,?,Leeds United
+27,Sat Feb 22 1997,?,Chelsea,1-1,?,Manchester Utd
+27,Sat Feb 22 1997,?,Southampton,2-3,?,Sheffield Weds
+27,Sat Feb 22 1997,?,Middlesbrough,0-1,?,Newcastle Utd
+27,Sat Feb 22 1997,?,Leicester City,4-2,?,Derby County
+27,Sat Feb 22 1997,?,Coventry City,0-0,?,Everton
+27,Sat Feb 22 1997,?,Liverpool,0-0,?,Blackburn
+27,Sun Feb 23 1997,?,Arsenal,0-1,?,Wimbledon
+27,Mon Feb 24 1997,?,West Ham,4-3,?,Tottenham
+21,Wed Feb 26 1997,?,Southampton,0-0,?,Wimbledon
+28,Sat Mar 1 1997,?,Everton,0-2,?,Arsenal
+28,Sat Mar 1 1997,?,Sheffield Weds,3-1,?,Middlesbrough
+28,Sat Mar 1 1997,?,Newcastle Utd,0-1,?,Southampton
+28,Sat Mar 1 1997,?,Manchester Utd,3-1,?,Coventry City
+28,Sat Mar 1 1997,?,Tottenham,0-1,?,Nott'ham Forest
+28,Sat Mar 1 1997,?,Leeds United,1-0,?,West Ham
+28,Sat Mar 1 1997,?,Derby County,3-2,?,Chelsea
+28,Sat Mar 1 1997,?,Wimbledon,1-3,?,Leicester City
+28,Sat Mar 1 1997,?,Blackburn,1-0,?,Sunderland
+28,Sun Mar 2 1997,?,Aston Villa,1-0,?,Liverpool
+29,Mon Mar 3 1997,?,Coventry City,1-1,?,Wimbledon
+29,Tue Mar 4 1997,?,Sunderland,0-4,?,Tottenham
+29,Wed Mar 5 1997,?,Middlesbrough,6-1,?,Derby County
+29,Wed Mar 5 1997,?,Leicester City,1-0,?,Aston Villa
+29,Wed Mar 5 1997,?,Southampton,2-2,?,Everton
+29,Wed Mar 5 1997,?,Nott'ham Forest,0-3,?,Sheffield Weds
+29,Wed Mar 5 1997,?,Chelsea,1-1,?,Blackburn
+30,Sat Mar 8 1997,?,Sunderland,2-1,?,Manchester Utd
+30,Sat Mar 8 1997,?,Leeds United,1-0,?,Everton
+30,Sat Mar 8 1997,?,Arsenal,2-0,?,Nott'ham Forest
+30,Sat Mar 8 1997,?,Coventry City,0-0,?,Leicester City
+30,Mon Mar 10 1997,?,Liverpool,4-3,?,Newcastle Utd
+26,Tue Mar 11 1997,?,Blackburn,1-1,?,Nott'ham Forest
+26,Wed Mar 12 1997,?,Sheffield Weds,2-1,?,Sunderland
+26,Wed Mar 12 1997,?,Leeds United,0-0,?,Southampton
+30,Wed Mar 12 1997,?,West Ham,3-2,?,Chelsea
+31,Sat Mar 15 1997,?,Newcastle Utd,4-0,?,Coventry City
+31,Sat Mar 15 1997,?,Blackburn,3-1,?,Wimbledon
+31,Sat Mar 15 1997,?,Tottenham,1-0,?,Leeds United
+31,Sat Mar 15 1997,?,Aston Villa,0-0,?,West Ham
+31,Sat Mar 15 1997,?,Leicester City,1-3,?,Middlesbrough
+31,Sat Mar 15 1997,?,Everton,1-0,?,Derby County
+31,Sat Mar 15 1997,?,Manchester Utd,2-0,?,Sheffield Weds
+31,Sat Mar 15 1997,?,Southampton,0-2,?,Arsenal
+31,Sat Mar 15 1997,?,Nott'ham Forest,1-1,?,Liverpool
+31,Sun Mar 16 1997,?,Chelsea,6-2,?,Sunderland
+19,Tue Mar 18 1997,?,Wimbledon,1-1,?,West Ham
+21,Wed Mar 19 1997,?,Leicester City,1-1,?,Tottenham
+24,Wed Mar 19 1997,?,Chelsea,1-0,?,Southampton
+30,Wed Mar 19 1997,?,Middlesbrough,2-1,?,Blackburn
+32,Sat Mar 22 1997,?,Southampton,2-2,?,Leicester City
+32,Sat Mar 22 1997,?,Blackburn,0-2,?,Aston Villa
+32,Sat Mar 22 1997,?,Coventry City,1-3,?,West Ham
+32,Sat Mar 22 1997,?,Sunderland,1-1,?,Nott'ham Forest
+32,Sat Mar 22 1997,?,Everton,0-2,?,Manchester Utd
+32,Sat Mar 22 1997,?,Sheffield Weds,2-2,?,Leeds United
+32,Sat Mar 22 1997,?,Derby County,4-2,?,Tottenham
+32,Sat Mar 22 1997,?,Middlesbrough,1-0,?,Chelsea
+32,Sun Mar 23 1997,?,Wimbledon,1-1,?,Newcastle Utd
+32,Mon Mar 24 1997,?,Arsenal,1-2,?,Liverpool
+34,Mon Mar 24 1997,?,Middlesbrough,1-1,?,Nott'ham Forest
+33,Sat Apr 5 1997,?,Tottenham,1-0,?,Wimbledon
+33,Sat Apr 5 1997,?,Chelsea,0-3,?,Arsenal
+33,Sat Apr 5 1997,?,Manchester Utd,2-3,?,Derby County
+33,Sat Apr 5 1997,?,Newcastle Utd,1-1,?,Sunderland
+33,Sat Apr 5 1997,?,Aston Villa,3-1,?,Everton
+33,Sat Apr 5 1997,?,Nott'ham Forest,1-3,?,Southampton
+33,Sun Apr 6 1997,?,Liverpool,1-2,?,Coventry City
+33,Mon Apr 7 1997,?,Leeds United,0-0,?,Blackburn
+26,Wed Apr 9 1997,?,Everton,1-1,?,Leicester City
+30,Wed Apr 9 1997,?,Derby County,1-1,?,Southampton
+30,Wed Apr 9 1997,?,Wimbledon,0-2,?,Aston Villa
+30,Wed Apr 9 1997,?,Sheffield Weds,2-1,?,Tottenham
+33,Wed Apr 9 1997,?,West Ham,0-0,?,Middlesbrough
+34,Wed Apr 9 1997,?,Coventry City,3-1,?,Chelsea
+34,Sat Apr 12 1997,?,Everton,1-0,?,Tottenham
+34,Sat Apr 12 1997,?,Blackburn,2-3,?,Manchester Utd
+34,Sat Apr 12 1997,?,Southampton,2-0,?,West Ham
+34,Sat Apr 12 1997,?,Arsenal,2-0,?,Leicester City
+34,Sat Apr 12 1997,?,Derby County,2-1,?,Aston Villa
+34,Sun Apr 13 1997,?,Sheffield Weds,1-1,?,Newcastle Utd
+34,Sun Apr 13 1997,?,Sunderland,1-2,?,Liverpool
+26,Wed Apr 16 1997,?,Newcastle Utd,3-1,?,Chelsea
+34,Wed Apr 16 1997,?,Wimbledon,2-0,?,Leeds United
+36,Wed Apr 16 1997,?,Everton,1-1,?,Liverpool
+35,Sat Apr 19 1997,?,Aston Villa,1-1,?,Tottenham
+35,Sat Apr 19 1997,?,Newcastle Utd,3-1,?,Derby County
+35,Sat Apr 19 1997,?,Liverpool,1-3,?,Manchester Utd
+35,Sat Apr 19 1997,?,Nott'ham Forest,1-1,?,Leeds United
+35,Sat Apr 19 1997,?,Sheffield Weds,3-1,?,Wimbledon
+35,Sat Apr 19 1997,?,Southampton,2-2,?,Coventry City
+35,Sat Apr 19 1997,?,West Ham,2-2,?,Everton
+35,Sat Apr 19 1997,?,Middlesbrough,0-1,?,Sunderland
+35,Sat Apr 19 1997,?,Chelsea,2-1,?,Leicester City
+35,Sat Apr 19 1997,?,Arsenal,1-1,?,Blackburn
+36,Mon Apr 21 1997,?,Coventry City,1-1,?,Arsenal
+36,Tue Apr 22 1997,?,Blackburn,4-1,?,Sheffield Weds
+36,Tue Apr 22 1997,?,Leeds United,0-0,?,Aston Villa
+36,Tue Apr 22 1997,?,Wimbledon,0-1,?,Chelsea
+36,Tue Apr 22 1997,?,Sunderland,0-1,?,Southampton
+36,Wed Apr 23 1997,?,Leicester City,0-1,?,West Ham
+36,Wed Apr 23 1997,?,Derby County,0-0,?,Nott'ham Forest
+36,Thu Apr 24 1997,?,Tottenham,1-0,?,Middlesbrough
+37,Sat May 3 1997,?,Nott'ham Forest,1-1,?,Wimbledon
+37,Sat May 3 1997,?,West Ham,5-1,?,Sheffield Weds
+37,Sat May 3 1997,?,Chelsea,0-0,?,Leeds United
+37,Sat May 3 1997,?,Liverpool,2-1,?,Tottenham
+37,Sat May 3 1997,?,Arsenal,0-1,?,Newcastle Utd
+37,Sat May 3 1997,?,Middlesbrough,3-2,?,Aston Villa
+37,Sat May 3 1997,?,Sunderland,3-0,?,Everton
+37,Sat May 3 1997,?,Leicester City,2-2,?,Manchester Utd
+37,Sat May 3 1997,?,Southampton,2-0,?,Blackburn
+37,Sat May 3 1997,?,Coventry City,1-2,?,Derby County
+26,Mon May 5 1997,?,Manchester Utd,3-3,?,Middlesbrough
+26,Tue May 6 1997,?,Wimbledon,2-1,?,Liverpool
+29,Tue May 6 1997,?,West Ham,0-0,?,Newcastle Utd
+33,Wed May 7 1997,?,Leicester City,1-0,?,Sheffield Weds
+18,Thu May 8 1997,?,Blackburn,0-0,?,Middlesbrough
+36,Thu May 8 1997,?,Manchester Utd,0-0,?,Newcastle Utd
+38,Sun May 11 1997,?,Tottenham,1-2,?,Coventry City
+38,Sun May 11 1997,?,Sheffield Weds,1-1,?,Liverpool
+38,Sun May 11 1997,?,Wimbledon,1-0,?,Sunderland
+38,Sun May 11 1997,?,Aston Villa,1-0,?,Southampton
+38,Sun May 11 1997,?,Derby County,1-3,?,Arsenal
+38,Sun May 11 1997,?,Everton,1-2,?,Chelsea
+38,Sun May 11 1997,?,Manchester Utd,2-0,?,West Ham
+38,Sun May 11 1997,?,Blackburn,2-4,?,Leicester City
+38,Sun May 11 1997,?,Newcastle Utd,5-0,?,Nott'ham Forest
+38,Sun May 11 1997,?,Leeds United,1-1,?,Middlesbrough

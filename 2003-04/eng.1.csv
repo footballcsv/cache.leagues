@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 16 2003,?,Leicester City,2-2,?,Southampton
+1,Sat Aug 16 2003,?,Portsmouth,2-1,?,Aston Villa
+1,Sat Aug 16 2003,?,Manchester Utd,4-0,?,Bolton
+1,Sat Aug 16 2003,?,Blackburn,5-1,?,Wolves
+1,Sat Aug 16 2003,?,Arsenal,2-1,?,Everton
+1,Sat Aug 16 2003,?,Birmingham City,1-0,?,Tottenham
+1,Sat Aug 16 2003,?,Fulham,3-2,?,Middlesbrough
+1,Sun Aug 17 2003,?,Leeds United,2-2,?,Newcastle Utd
+1,Sun Aug 17 2003,?,Liverpool,1-2,?,Chelsea
+1,Sun Aug 17 2003,?,Charlton Ath,0-3,?,Manchester City
+2,Sat Aug 23 2003,?,Bolton,2-2,?,Blackburn
+2,Sat Aug 23 2003,?,Southampton,0-0,?,Birmingham City
+2,Sat Aug 23 2003,?,Everton,3-1,?,Fulham
+2,Sat Aug 23 2003,?,Tottenham,2-1,?,Leeds United
+2,Sat Aug 23 2003,?,Newcastle Utd,1-2,?,Manchester Utd
+2,Sat Aug 23 2003,?,Manchester City,1-1,?,Portsmouth
+2,Sat Aug 23 2003,?,Wolves,0-4,?,Charlton Ath
+2,Sat Aug 23 2003,?,Chelsea,2-1,?,Leicester City
+2,Sun Aug 24 2003,?,Middlesbrough,0-4,?,Arsenal
+2,Sun Aug 24 2003,?,Aston Villa,0-0,?,Liverpool
+3,Mon Aug 25 2003,?,Blackburn,2-3,?,Manchester City
+3,Tue Aug 26 2003,?,Leicester City,0-0,?,Middlesbrough
+3,Tue Aug 26 2003,?,Charlton Ath,2-2,?,Everton
+3,Tue Aug 26 2003,?,Leeds United,0-0,?,Southampton
+3,Tue Aug 26 2003,?,Portsmouth,4-0,?,Bolton
+3,Wed Aug 27 2003,?,Manchester Utd,1-0,?,Wolves
+3,Wed Aug 27 2003,?,Arsenal,2-0,?,Aston Villa
+3,Wed Aug 27 2003,?,Liverpool,0-0,?,Tottenham
+4,Sat Aug 30 2003,?,Newcastle Utd,0-1,?,Birmingham City
+4,Sat Aug 30 2003,?,Chelsea,2-2,?,Blackburn
+4,Sat Aug 30 2003,?,Middlesbrough,2-3,?,Leeds United
+4,Sat Aug 30 2003,?,Wolves,0-0,?,Portsmouth
+4,Sat Aug 30 2003,?,Everton,0-3,?,Liverpool
+4,Sat Aug 30 2003,?,Tottenham,0-3,?,Fulham
+4,Sat Aug 30 2003,?,Aston Villa,3-1,?,Leicester City
+4,Sat Aug 30 2003,?,Bolton,0-0,?,Charlton Ath
+4,Sun Aug 31 2003,?,Southampton,1-0,?,Manchester Utd
+4,Sun Aug 31 2003,?,Manchester City,1-2,?,Arsenal
+5,Sat Sep 13 2003,?,Southampton,2-0,?,Wolves
+5,Sat Sep 13 2003,?,Blackburn,1-3,?,Liverpool
+5,Sat Sep 13 2003,?,Everton,2-2,?,Newcastle Utd
+5,Sat Sep 13 2003,?,Bolton,2-0,?,Middlesbrough
+5,Sat Sep 13 2003,?,Arsenal,1-1,?,Portsmouth
+5,Sat Sep 13 2003,?,Chelsea,4-2,?,Tottenham
+5,Sat Sep 13 2003,?,Charlton Ath,0-2,?,Manchester Utd
+5,Sun Sep 14 2003,?,Manchester City,4-1,?,Aston Villa
+5,Sun Sep 14 2003,?,Birmingham City,2-2,?,Fulham
+5,Mon Sep 15 2003,?,Leicester City,4-0,?,Leeds United
+6,Sat Sep 20 2003,?,Newcastle Utd,0-0,?,Bolton
+6,Sat Sep 20 2003,?,Portsmouth,1-2,?,Blackburn
+6,Sat Sep 20 2003,?,Liverpool,2-1,?,Leicester City
+6,Sat Sep 20 2003,?,Fulham,2-2,?,Manchester City
+6,Sat Sep 20 2003,?,Leeds United,0-2,?,Birmingham City
+6,Sat Sep 20 2003,?,Tottenham,1-3,?,Southampton
+6,Sat Sep 20 2003,?,Wolves,0-5,?,Chelsea
+6,Sat Sep 20 2003,?,Aston Villa,2-1,?,Charlton Ath
+6,Sun Sep 21 2003,?,Manchester Utd,0-0,?,Arsenal
+6,Sun Sep 21 2003,?,Middlesbrough,1-0,?,Everton
+7,Fri Sep 26 2003,?,Arsenal,3-2,?,Newcastle Utd
+7,Sat Sep 27 2003,?,Chelsea,1-0,?,Aston Villa
+7,Sat Sep 27 2003,?,Bolton,1-1,?,Wolves
+7,Sat Sep 27 2003,?,Leicester City,1-4,?,Manchester Utd
+7,Sat Sep 27 2003,?,Birmingham City,2-0,?,Portsmouth
+7,Sat Sep 27 2003,?,Southampton,0-1,?,Middlesbrough
+7,Sun Sep 28 2003,?,Blackburn,0-2,?,Fulham
+7,Sun Sep 28 2003,?,Charlton Ath,3-2,?,Liverpool
+7,Sun Sep 28 2003,?,Manchester City,0-0,?,Tottenham
+7,Sun Sep 28 2003,?,Everton,4-0,?,Leeds United
+8,Sat Oct 4 2003,?,Tottenham,3-0,?,Everton
+8,Sat Oct 4 2003,?,Newcastle Utd,1-0,?,Southampton
+8,Sat Oct 4 2003,?,Wolves,1-0,?,Manchester City
+8,Sat Oct 4 2003,?,Fulham,2-0,?,Leicester City
+8,Sat Oct 4 2003,?,Manchester Utd,3-0,?,Birmingham City
+8,Sat Oct 4 2003,?,Liverpool,1-2,?,Arsenal
+8,Sat Oct 4 2003,?,Portsmouth,1-2,?,Charlton Ath
+8,Sat Oct 4 2003,?,Leeds United,2-1,?,Blackburn
+8,Sun Oct 5 2003,?,Aston Villa,1-1,?,Bolton
+8,Sun Oct 5 2003,?,Middlesbrough,1-2,?,Chelsea
+3,Tue Oct 14 2003,?,Birmingham City,0-0,?,Chelsea
+9,Sat Oct 18 2003,?,Manchester City,6-2,?,Bolton
+9,Sat Oct 18 2003,?,Fulham,0-0,?,Wolves
+9,Sat Oct 18 2003,?,Middlesbrough,0-1,?,Newcastle Utd
+9,Sat Oct 18 2003,?,Arsenal,2-1,?,Chelsea
+9,Sat Oct 18 2003,?,Leeds United,0-1,?,Manchester Utd
+9,Sat Oct 18 2003,?,Portsmouth,1-0,?,Liverpool
+9,Sun Oct 19 2003,?,Birmingham City,0-0,?,Aston Villa
+9,Sun Oct 19 2003,?,Leicester City,1-2,?,Tottenham
+9,Sun Oct 19 2003,?,Everton,0-0,?,Southampton
+9,Mon Oct 20 2003,?,Blackburn,0-1,?,Charlton Ath
+3,Tue Oct 21 2003,?,Fulham,2-3,?,Newcastle Utd
+10,Sat Oct 25 2003,?,Chelsea,1-0,?,Manchester City
+10,Sat Oct 25 2003,?,Southampton,2-0,?,Blackburn
+10,Sat Oct 25 2003,?,Bolton,0-1,?,Birmingham City
+10,Sat Oct 25 2003,?,Manchester Utd,1-3,?,Fulham
+10,Sat Oct 25 2003,?,Aston Villa,0-0,?,Everton
+10,Sat Oct 25 2003,?,Liverpool,3-1,?,Leeds United
+10,Sat Oct 25 2003,?,Wolves,4-3,?,Leicester City
+10,Sat Oct 25 2003,?,Newcastle Utd,3-0,?,Portsmouth
+10,Sun Oct 26 2003,?,Charlton Ath,1-1,?,Arsenal
+10,Sun Oct 26 2003,?,Tottenham,0-0,?,Middlesbrough
+11,Sat Nov 1 2003,?,Southampton,0-2,?,Manchester City
+11,Sat Nov 1 2003,?,Tottenham,0-1,?,Bolton
+11,Sat Nov 1 2003,?,Leeds United,1-4,?,Arsenal
+11,Sat Nov 1 2003,?,Middlesbrough,2-0,?,Wolves
+11,Sat Nov 1 2003,?,Everton,0-1,?,Chelsea
+11,Sat Nov 1 2003,?,Newcastle Utd,1-1,?,Aston Villa
+11,Sat Nov 1 2003,?,Manchester Utd,3-0,?,Portsmouth
+11,Sun Nov 2 2003,?,Fulham,1-2,?,Liverpool
+11,Sun Nov 2 2003,?,Leicester City,2-0,?,Blackburn
+11,Mon Nov 3 2003,?,Birmingham City,1-2,?,Charlton Ath
+12,Sat Nov 8 2003,?,Wolves,1-1,?,Birmingham City
+12,Sat Nov 8 2003,?,Arsenal,2-1,?,Tottenham
+12,Sat Nov 8 2003,?,Charlton Ath,3-1,?,Fulham
+12,Sat Nov 8 2003,?,Bolton,0-0,?,Southampton
+12,Sat Nov 8 2003,?,Aston Villa,0-2,?,Middlesbrough
+12,Sat Nov 8 2003,?,Portsmouth,6-1,?,Leeds United
+12,Sun Nov 9 2003,?,Manchester City,0-3,?,Leicester City
+12,Sun Nov 9 2003,?,Liverpool,1-2,?,Manchester Utd
+12,Sun Nov 9 2003,?,Chelsea,5-0,?,Newcastle Utd
+12,Mon Nov 10 2003,?,Blackburn,2-1,?,Everton
+13,Sat Nov 22 2003,?,Leeds United,0-2,?,Bolton
+13,Sat Nov 22 2003,?,Newcastle Utd,3-0,?,Manchester City
+13,Sat Nov 22 2003,?,Leicester City,1-1,?,Charlton Ath
+13,Sat Nov 22 2003,?,Birmingham City,0-3,?,Arsenal
+13,Sat Nov 22 2003,?,Everton,2-0,?,Wolves
+13,Sat Nov 22 2003,?,Manchester Utd,2-1,?,Blackburn
+13,Sat Nov 22 2003,?,Middlesbrough,0-0,?,Liverpool
+13,Sat Nov 22 2003,?,Southampton,0-1,?,Chelsea
+13,Sun Nov 23 2003,?,Tottenham,2-1,?,Aston Villa
+13,Mon Nov 24 2003,?,Fulham,2-0,?,Portsmouth
+14,Sat Nov 29 2003,?,Portsmouth,0-2,?,Leicester City
+14,Sat Nov 29 2003,?,Wolves,1-1,?,Newcastle Utd
+14,Sat Nov 29 2003,?,Charlton Ath,0-1,?,Leeds United
+14,Sat Nov 29 2003,?,Blackburn,1-0,?,Tottenham
+14,Sat Nov 29 2003,?,Bolton,2-0,?,Everton
+14,Sat Nov 29 2003,?,Aston Villa,1-0,?,Southampton
+14,Sun Nov 30 2003,?,Chelsea,1-0,?,Manchester Utd
+14,Sun Nov 30 2003,?,Liverpool,3-1,?,Birmingham City
+14,Sun Nov 30 2003,?,Arsenal,0-0,?,Fulham
+14,Sun Nov 30 2003,?,Manchester City,0-1,?,Middlesbrough
+15,Sat Dec 6 2003,?,Birmingham City,0-4,?,Blackburn
+15,Sat Dec 6 2003,?,Tottenham,5-2,?,Wolves
+15,Sat Dec 6 2003,?,Newcastle Utd,1-1,?,Liverpool
+15,Sat Dec 6 2003,?,Leicester City,1-1,?,Arsenal
+15,Sat Dec 6 2003,?,Middlesbrough,0-0,?,Portsmouth
+15,Sat Dec 6 2003,?,Fulham,2-1,?,Bolton
+15,Sat Dec 6 2003,?,Manchester Utd,4-0,?,Aston Villa
+15,Sat Dec 6 2003,?,Leeds United,1-1,?,Chelsea
+15,Sun Dec 7 2003,?,Everton,0-0,?,Manchester City
+15,Sun Dec 7 2003,?,Southampton,3-2,?,Charlton Ath
+16,Sat Dec 13 2003,?,Newcastle Utd,4-0,?,Tottenham
+16,Sat Dec 13 2003,?,Manchester Utd,3-1,?,Manchester City
+16,Sat Dec 13 2003,?,Liverpool,1-2,?,Southampton
+16,Sat Dec 13 2003,?,Leicester City,0-2,?,Birmingham City
+16,Sat Dec 13 2003,?,Middlesbrough,0-0,?,Charlton Ath
+16,Sat Dec 13 2003,?,Chelsea,1-2,?,Bolton
+16,Sat Dec 13 2003,?,Portsmouth,1-2,?,Everton
+16,Sun Dec 14 2003,?,Aston Villa,3-2,?,Wolves
+16,Sun Dec 14 2003,?,Arsenal,1-0,?,Blackburn
+16,Sun Dec 14 2003,?,Leeds United,3-2,?,Fulham
+17,Sat Dec 20 2003,?,Fulham,0-1,?,Chelsea
+17,Sat Dec 20 2003,?,Bolton,1-1,?,Arsenal
+17,Sat Dec 20 2003,?,Charlton Ath,0-0,?,Newcastle Utd
+17,Sat Dec 20 2003,?,Everton,3-2,?,Leicester City
+17,Sat Dec 20 2003,?,Blackburn,0-2,?,Aston Villa
+17,Sun Dec 21 2003,?,Tottenham,1-2,?,Manchester Utd
+17,Sun Dec 21 2003,?,Southampton,3-0,?,Portsmouth
+17,Mon Dec 22 2003,?,Manchester City,1-1,?,Leeds United
+18,Fri Dec 26 2003,?,Portsmouth,2-0,?,Tottenham
+18,Fri Dec 26 2003,?,Leicester City,1-1,?,Newcastle Utd
+18,Fri Dec 26 2003,?,Blackburn,2-2,?,Middlesbrough
+18,Fri Dec 26 2003,?,Leeds United,0-0,?,Aston Villa
+18,Fri Dec 26 2003,?,Charlton Ath,4-2,?,Chelsea
+18,Fri Dec 26 2003,?,Birmingham City,2-1,?,Manchester City
+18,Fri Dec 26 2003,?,Fulham,2-0,?,Southampton
+18,Fri Dec 26 2003,?,Liverpool,3-1,?,Bolton
+18,Fri Dec 26 2003,?,Manchester Utd,3-2,?,Everton
+18,Fri Dec 26 2003,?,Arsenal,3-0,?,Wolves
+19,Sun Dec 28 2003,?,Manchester City,2-2,?,Liverpool
+19,Sun Dec 28 2003,?,Wolves,3-1,?,Leeds United
+19,Sun Dec 28 2003,?,Bolton,2-2,?,Leicester City
+19,Sun Dec 28 2003,?,Aston Villa,3-0,?,Fulham
+19,Sun Dec 28 2003,?,Newcastle Utd,0-1,?,Blackburn
+19,Sun Dec 28 2003,?,Chelsea,3-0,?,Portsmouth
+19,Sun Dec 28 2003,?,Tottenham,0-1,?,Charlton Ath
+19,Sun Dec 28 2003,?,Middlesbrough,0-1,?,Manchester Utd
+19,Sun Dec 28 2003,?,Everton,1-0,?,Birmingham City
+19,Mon Dec 29 2003,?,Southampton,0-1,?,Arsenal
+20,Tue Jan 6 2004,?,Aston Villa,2-1,?,Portsmouth
+20,Wed Jan 7 2004,?,Everton,1-1,?,Arsenal
+20,Wed Jan 7 2004,?,Chelsea,0-1,?,Liverpool
+20,Wed Jan 7 2004,?,Newcastle Utd,1-0,?,Leeds United
+20,Wed Jan 7 2004,?,Bolton,1-2,?,Manchester Utd
+20,Wed Jan 7 2004,?,Southampton,0-0,?,Leicester City
+20,Wed Jan 7 2004,?,Wolves,2-2,?,Blackburn
+20,Wed Jan 7 2004,?,Middlesbrough,2-1,?,Fulham
+20,Wed Jan 7 2004,?,Tottenham,4-1,?,Birmingham City
+20,Wed Jan 7 2004,?,Manchester City,1-1,?,Charlton Ath
+21,Sat Jan 10 2004,?,Fulham,2-1,?,Everton
+21,Sat Jan 10 2004,?,Liverpool,1-0,?,Aston Villa
+21,Sat Jan 10 2004,?,Birmingham City,2-1,?,Southampton
+21,Sat Jan 10 2004,?,Leeds United,0-1,?,Tottenham
+21,Sat Jan 10 2004,?,Blackburn,3-4,?,Bolton
+21,Sat Jan 10 2004,?,Charlton Ath,2-0,?,Wolves
+21,Sat Jan 10 2004,?,Arsenal,4-1,?,Middlesbrough
+21,Sat Jan 10 2004,?,Portsmouth,4-2,?,Manchester City
+21,Sun Jan 11 2004,?,Leicester City,0-4,?,Chelsea
+21,Sun Jan 11 2004,?,Manchester Utd,0-0,?,Newcastle Utd
+22,Sat Jan 17 2004,?,Everton,0-1,?,Charlton Ath
+22,Sat Jan 17 2004,?,Middlesbrough,3-3,?,Leicester City
+22,Sat Jan 17 2004,?,Bolton,1-0,?,Portsmouth
+22,Sat Jan 17 2004,?,Manchester City,1-1,?,Blackburn
+22,Sat Jan 17 2004,?,Southampton,2-1,?,Leeds United
+22,Sat Jan 17 2004,?,Wolves,1-0,?,Manchester Utd
+22,Sat Jan 17 2004,?,Tottenham,2-1,?,Liverpool
+22,Sun Jan 18 2004,?,Chelsea,0-0,?,Birmingham City
+22,Sun Jan 18 2004,?,Aston Villa,0-2,?,Arsenal
+22,Mon Jan 19 2004,?,Newcastle Utd,3-1,?,Fulham
+17,Wed Jan 21 2004,?,Wolves,1-1,?,Liverpool
+23,Sat Jan 31 2004,?,Portsmouth,0-0,?,Wolves
+23,Sat Jan 31 2004,?,Liverpool,0-0,?,Everton
+23,Sat Jan 31 2004,?,Fulham,2-1,?,Tottenham
+23,Sat Jan 31 2004,?,Charlton Ath,1-2,?,Bolton
+23,Sat Jan 31 2004,?,Leeds United,0-3,?,Middlesbrough
+23,Sat Jan 31 2004,?,Birmingham City,1-1,?,Newcastle Utd
+23,Sat Jan 31 2004,?,Leicester City,0-5,?,Aston Villa
+23,Sat Jan 31 2004,?,Manchester Utd,3-2,?,Southampton
+23,Sun Feb 1 2004,?,Blackburn,2-3,?,Chelsea
+23,Sun Feb 1 2004,?,Arsenal,2-1,?,Manchester City
+24,Sat Feb 7 2004,?,Wolves,1-3,?,Arsenal
+24,Sat Feb 7 2004,?,Everton,3-4,?,Manchester Utd
+24,Sat Feb 7 2004,?,Bolton,2-2,?,Liverpool
+24,Sat Feb 7 2004,?,Newcastle Utd,3-1,?,Leicester City
+24,Sat Feb 7 2004,?,Tottenham,4-3,?,Portsmouth
+24,Sat Feb 7 2004,?,Aston Villa,2-0,?,Leeds United
+24,Sat Feb 7 2004,?,Middlesbrough,0-1,?,Blackburn
+24,Sat Feb 7 2004,?,Southampton,0-0,?,Fulham
+24,Sun Feb 8 2004,?,Manchester City,0-0,?,Birmingham City
+24,Sun Feb 8 2004,?,Chelsea,1-0,?,Charlton Ath
+25,Tue Feb 10 2004,?,Leeds United,4-1,?,Wolves
+25,Tue Feb 10 2004,?,Leicester City,1-1,?,Bolton
+25,Tue Feb 10 2004,?,Arsenal,2-0,?,Southampton
+25,Wed Feb 11 2004,?,Fulham,1-2,?,Aston Villa
+25,Wed Feb 11 2004,?,Liverpool,2-1,?,Manchester City
+25,Wed Feb 11 2004,?,Birmingham City,3-0,?,Everton
+25,Wed Feb 11 2004,?,Blackburn,1-1,?,Newcastle Utd
+25,Wed Feb 11 2004,?,Manchester Utd,2-3,?,Middlesbrough
+25,Wed Feb 11 2004,?,Portsmouth,0-2,?,Chelsea
+25,Wed Feb 11 2004,?,Charlton Ath,2-4,?,Tottenham
+26,Sat Feb 21 2004,?,Southampton,3-3,?,Everton
+26,Sat Feb 21 2004,?,Chelsea,1-2,?,Arsenal
+26,Sat Feb 21 2004,?,Wolves,2-1,?,Fulham
+26,Sat Feb 21 2004,?,Manchester Utd,1-1,?,Leeds United
+26,Sat Feb 21 2004,?,Bolton,1-3,?,Manchester City
+26,Sat Feb 21 2004,?,Newcastle Utd,2-1,?,Middlesbrough
+26,Sat Feb 21 2004,?,Charlton Ath,3-2,?,Blackburn
+26,Sun Feb 22 2004,?,Aston Villa,2-2,?,Birmingham City
+26,Sun Feb 22 2004,?,Tottenham,4-4,?,Leicester City
+27,Sat Feb 28 2004,?,Arsenal,2-1,?,Charlton Ath
+27,Sat Feb 28 2004,?,Fulham,1-1,?,Manchester Utd
+27,Sat Feb 28 2004,?,Blackburn,1-1,?,Southampton
+27,Sat Feb 28 2004,?,Manchester City,0-1,?,Chelsea
+27,Sat Feb 28 2004,?,Everton,2-0,?,Aston Villa
+27,Sat Feb 28 2004,?,Leicester City,0-0,?,Wolves
+27,Sun Feb 29 2004,?,Portsmouth,1-1,?,Newcastle Utd
+27,Sun Feb 29 2004,?,Leeds United,2-2,?,Liverpool
+17,Wed Mar 3 2004,?,Birmingham City,3-1,?,Middlesbrough
+27,Sat Mar 6 2004,?,Birmingham City,2-0,?,Bolton
+27,Tue Mar 9 2004,?,Middlesbrough,1-0,?,Tottenham
+28,Sat Mar 13 2004,?,Fulham,2-0,?,Leeds United
+28,Sat Mar 13 2004,?,Charlton Ath,1-0,?,Middlesbrough
+28,Sat Mar 13 2004,?,Blackburn,0-2,?,Arsenal
+28,Sat Mar 13 2004,?,Birmingham City,0-1,?,Leicester City
+28,Sat Mar 13 2004,?,Bolton,0-2,?,Chelsea
+28,Sat Mar 13 2004,?,Everton,1-0,?,Portsmouth
+28,Sun Mar 14 2004,?,Manchester City,4-1,?,Manchester Utd
+28,Sun Mar 14 2004,?,Tottenham,1-0,?,Newcastle Utd
+28,Sun Mar 14 2004,?,Wolves,0-4,?,Aston Villa
+28,Sun Mar 14 2004,?,Southampton,2-0,?,Liverpool
+26,Wed Mar 17 2004,?,Liverpool,3-0,?,Portsmouth
+29,Sat Mar 20 2004,?,Aston Villa,0-2,?,Blackburn
+29,Sat Mar 20 2004,?,Newcastle Utd,3-1,?,Charlton Ath
+29,Sat Mar 20 2004,?,Leicester City,1-1,?,Everton
+29,Sat Mar 20 2004,?,Liverpool,1-0,?,Wolves
+29,Sat Mar 20 2004,?,Manchester Utd,3-0,?,Tottenham
+29,Sat Mar 20 2004,?,Middlesbrough,5-3,?,Birmingham City
+29,Sat Mar 20 2004,?,Arsenal,2-1,?,Bolton
+29,Sat Mar 20 2004,?,Chelsea,2-1,?,Fulham
+29,Sun Mar 21 2004,?,Portsmouth,1-0,?,Southampton
+29,Mon Mar 22 2004,?,Leeds United,2-1,?,Manchester City
+30,Sat Mar 27 2004,?,Southampton,1-0,?,Tottenham
+30,Sat Mar 27 2004,?,Birmingham City,4-1,?,Leeds United
+30,Sat Mar 27 2004,?,Manchester City,0-0,?,Fulham
+30,Sat Mar 27 2004,?,Everton,1-1,?,Middlesbrough
+30,Sat Mar 27 2004,?,Charlton Ath,1-2,?,Aston Villa
+30,Sat Mar 27 2004,?,Chelsea,5-2,?,Wolves
+30,Sat Mar 27 2004,?,Blackburn,1-2,?,Portsmouth
+30,Sun Mar 28 2004,?,Bolton,1-0,?,Newcastle Utd
+30,Sun Mar 28 2004,?,Leicester City,0-0,?,Liverpool
+30,Sun Mar 28 2004,?,Arsenal,1-1,?,Manchester Utd
+31,Sat Apr 3 2004,?,Tottenham,0-1,?,Chelsea
+31,Sat Apr 3 2004,?,Wolves,1-4,?,Southampton
+31,Sat Apr 3 2004,?,Middlesbrough,2-0,?,Bolton
+31,Sat Apr 3 2004,?,Fulham,0-0,?,Birmingham City
+31,Sat Apr 3 2004,?,Newcastle Utd,4-2,?,Everton
+31,Sun Apr 4 2004,?,Aston Villa,1-1,?,Manchester City
+31,Sun Apr 4 2004,?,Liverpool,4-0,?,Blackburn
+31,Mon Apr 5 2004,?,Leeds United,3-2,?,Leicester City
+32,Fri Apr 9 2004,?,Everton,3-1,?,Tottenham
+32,Fri Apr 9 2004,?,Arsenal,4-2,?,Liverpool
+32,Sat Apr 10 2004,?,Chelsea,0-0,?,Middlesbrough
+32,Sat Apr 10 2004,?,Leicester City,0-2,?,Fulham
+32,Sat Apr 10 2004,?,Birmingham City,1-2,?,Manchester Utd
+32,Sat Apr 10 2004,?,Charlton Ath,1-1,?,Portsmouth
+32,Sat Apr 10 2004,?,Manchester City,3-3,?,Wolves
+32,Sat Apr 10 2004,?,Blackburn,1-2,?,Leeds United
+32,Sat Apr 10 2004,?,Bolton,2-2,?,Aston Villa
+33,Sun Apr 11 2004,?,Newcastle Utd,0-0,?,Arsenal
+33,Mon Apr 12 2004,?,Middlesbrough,3-1,?,Southampton
+33,Mon Apr 12 2004,?,Tottenham,1-1,?,Manchester City
+33,Mon Apr 12 2004,?,Aston Villa,3-2,?,Chelsea
+33,Mon Apr 12 2004,?,Portsmouth,3-1,?,Birmingham City
+33,Mon Apr 12 2004,?,Wolves,1-2,?,Bolton
+33,Mon Apr 12 2004,?,Fulham,3-4,?,Blackburn
+33,Mon Apr 12 2004,?,Liverpool,0-1,?,Charlton Ath
+33,Tue Apr 13 2004,?,Leeds United,1-1,?,Everton
+33,Tue Apr 13 2004,?,Manchester Utd,1-0,?,Leicester City
+34,Fri Apr 16 2004,?,Arsenal,5-0,?,Leeds United
+34,Sat Apr 17 2004,?,Blackburn,1-0,?,Leicester City
+34,Sat Apr 17 2004,?,Portsmouth,1-0,?,Manchester Utd
+34,Sat Apr 17 2004,?,Wolves,2-0,?,Middlesbrough
+34,Sat Apr 17 2004,?,Bolton,2-0,?,Tottenham
+34,Sat Apr 17 2004,?,Manchester City,1-3,?,Southampton
+34,Sat Apr 17 2004,?,Charlton Ath,1-1,?,Birmingham City
+34,Sat Apr 17 2004,?,Liverpool,0-0,?,Fulham
+34,Sat Apr 17 2004,?,Chelsea,0-0,?,Everton
+34,Sun Apr 18 2004,?,Aston Villa,0-0,?,Newcastle Utd
+31,Tue Apr 20 2004,?,Manchester Utd,2-0,?,Charlton Ath
+35,Sat Apr 24 2004,?,Middlesbrough,1-2,?,Aston Villa
+35,Sat Apr 24 2004,?,Leicester City,1-1,?,Manchester City
+35,Sat Apr 24 2004,?,Southampton,1-2,?,Bolton
+35,Sat Apr 24 2004,?,Manchester Utd,0-1,?,Liverpool
+35,Sat Apr 24 2004,?,Fulham,2-0,?,Charlton Ath
+35,Sat Apr 24 2004,?,Everton,0-1,?,Blackburn
+35,Sun Apr 25 2004,?,Birmingham City,2-2,?,Wolves
+35,Sun Apr 25 2004,?,Tottenham,2-2,?,Arsenal
+35,Sun Apr 25 2004,?,Newcastle Utd,2-1,?,Chelsea
+35,Sun Apr 25 2004,?,Leeds United,1-2,?,Portsmouth
+36,Sat May 1 2004,?,Arsenal,0-0,?,Birmingham City
+36,Sat May 1 2004,?,Chelsea,4-0,?,Southampton
+36,Sat May 1 2004,?,Portsmouth,1-1,?,Fulham
+36,Sat May 1 2004,?,Charlton Ath,2-2,?,Leicester City
+36,Sat May 1 2004,?,Wolves,2-1,?,Everton
+36,Sat May 1 2004,?,Blackburn,1-0,?,Manchester Utd
+36,Sat May 1 2004,?,Manchester City,1-0,?,Newcastle Utd
+36,Sun May 2 2004,?,Liverpool,2-0,?,Middlesbrough
+36,Sun May 2 2004,?,Aston Villa,1-0,?,Tottenham
+36,Sun May 2 2004,?,Bolton,4-1,?,Leeds United
+31,Tue May 4 2004,?,Portsmouth,1-1,?,Arsenal
+37,Sat May 8 2004,?,Southampton,1-1,?,Aston Villa
+37,Sat May 8 2004,?,Tottenham,1-0,?,Blackburn
+37,Sat May 8 2004,?,Manchester Utd,1-1,?,Chelsea
+37,Sat May 8 2004,?,Birmingham City,0-3,?,Liverpool
+37,Sat May 8 2004,?,Middlesbrough,2-1,?,Manchester City
+37,Sat May 8 2004,?,Everton,1-2,?,Bolton
+37,Sat May 8 2004,?,Leicester City,3-1,?,Portsmouth
+37,Sat May 8 2004,?,Leeds United,3-3,?,Charlton Ath
+37,Sun May 9 2004,?,Newcastle Utd,1-1,?,Wolves
+37,Sun May 9 2004,?,Fulham,0-1,?,Arsenal
+32,Wed May 12 2004,?,Southampton,3-3,?,Newcastle Utd
+38,Sat May 15 2004,?,Wolves,0-2,?,Tottenham
+38,Sat May 15 2004,?,Portsmouth,5-1,?,Middlesbrough
+38,Sat May 15 2004,?,Liverpool,1-1,?,Newcastle Utd
+38,Sat May 15 2004,?,Aston Villa,0-2,?,Manchester Utd
+38,Sat May 15 2004,?,Arsenal,2-1,?,Leicester City
+38,Sat May 15 2004,?,Chelsea,1-0,?,Leeds United
+38,Sat May 15 2004,?,Bolton,0-2,?,Fulham
+38,Sat May 15 2004,?,Manchester City,5-1,?,Everton
+38,Sat May 15 2004,?,Charlton Ath,2-1,?,Southampton
+38,Sat May 15 2004,?,Blackburn,1-1,?,Birmingham City

@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 18 2001,?,Charlton Ath,1-2,?,Everton
+1,Sat Aug 18 2001,?,Tottenham,0-0,?,Aston Villa
+1,Sat Aug 18 2001,?,Leicester City,0-5,?,Bolton
+1,Sat Aug 18 2001,?,Liverpool,2-1,?,West Ham
+1,Sat Aug 18 2001,?,Leeds United,2-0,?,Southampton
+1,Sat Aug 18 2001,?,Sunderland,1-0,?,Ipswich Town
+1,Sat Aug 18 2001,?,Derby County,2-1,?,Blackburn
+1,Sat Aug 18 2001,?,Middlesbrough,0-4,?,Arsenal
+1,Sun Aug 19 2001,?,Manchester Utd,3-2,?,Fulham
+1,Sun Aug 19 2001,?,Chelsea,1-1,?,Newcastle Utd
+2,Mon Aug 20 2001,?,Everton,1-1,?,Tottenham
+2,Tue Aug 21 2001,?,Ipswich Town,3-1,?,Derby County
+2,Tue Aug 21 2001,?,Arsenal,1-2,?,Leeds United
+2,Tue Aug 21 2001,?,Bolton,1-0,?,Middlesbrough
+2,Wed Aug 22 2001,?,Blackburn,2-2,?,Manchester Utd
+2,Wed Aug 22 2001,?,Fulham,2-0,?,Sunderland
+3,Sat Aug 25 2001,?,Southampton,0-2,?,Chelsea
+3,Sat Aug 25 2001,?,Arsenal,4-0,?,Leicester City
+3,Sat Aug 25 2001,?,West Ham,0-0,?,Leeds United
+3,Sat Aug 25 2001,?,Ipswich Town,0-1,?,Charlton Ath
+3,Sat Aug 25 2001,?,Fulham,0-0,?,Derby County
+3,Sat Aug 25 2001,?,Everton,2-0,?,Middlesbrough
+3,Sat Aug 25 2001,?,Blackburn,2-1,?,Tottenham
+3,Sun Aug 26 2001,?,Aston Villa,1-1,?,Manchester Utd
+3,Sun Aug 26 2001,?,Newcastle Utd,1-1,?,Sunderland
+3,Mon Aug 27 2001,?,Bolton,2-1,?,Liverpool
+4,Sat Sep 8 2001,?,Derby County,0-0,?,West Ham
+4,Sat Sep 8 2001,?,Leicester City,1-1,?,Ipswich Town
+4,Sat Sep 8 2001,?,Leeds United,0-0,?,Bolton
+4,Sat Sep 8 2001,?,Manchester Utd,4-1,?,Everton
+4,Sat Sep 8 2001,?,Sunderland,1-0,?,Blackburn
+4,Sat Sep 8 2001,?,Liverpool,1-3,?,Aston Villa
+4,Sat Sep 8 2001,?,Middlesbrough,1-4,?,Newcastle Utd
+4,Sat Sep 8 2001,?,Chelsea,1-1,?,Arsenal
+4,Sun Sep 9 2001,?,Charlton Ath,1-1,?,Fulham
+4,Sun Sep 9 2001,?,Tottenham,2-0,?,Southampton
+5,Sat Sep 15 2001,?,Newcastle Utd,4-3,?,Manchester Utd
+5,Sat Sep 15 2001,?,Everton,1-3,?,Liverpool
+5,Sat Sep 15 2001,?,Derby County,2-3,?,Leicester City
+5,Sat Sep 15 2001,?,Fulham,1-3,?,Arsenal
+5,Sat Sep 15 2001,?,Middlesbrough,2-0,?,West Ham
+5,Sat Sep 15 2001,?,Bolton,0-1,?,Southampton
+5,Sun Sep 16 2001,?,Charlton Ath,0-2,?,Leeds United
+5,Sun Sep 16 2001,?,Tottenham,2-3,?,Chelsea
+5,Sun Sep 16 2001,?,Aston Villa,0-0,?,Sunderland
+5,Sun Sep 16 2001,?,Ipswich Town,1-1,?,Blackburn
+6,Tue Sep 18 2001,?,Sunderland,1-2,?,Tottenham
+6,Wed Sep 19 2001,?,Leicester City,1-2,?,Middlesbrough
+6,Wed Sep 19 2001,?,Blackburn,1-1,?,Bolton
+7,Sat Sep 22 2001,?,Manchester Utd,4-0,?,Ipswich Town
+7,Sat Sep 22 2001,?,Leicester City,0-0,?,Fulham
+7,Sat Sep 22 2001,?,Arsenal,1-1,?,Bolton
+7,Sat Sep 22 2001,?,Liverpool,1-0,?,Tottenham
+7,Sat Sep 22 2001,?,Sunderland,2-2,?,Charlton Ath
+7,Sat Sep 22 2001,?,Blackburn,1-0,?,Everton
+7,Sun Sep 23 2001,?,Chelsea,2-2,?,Middlesbrough
+7,Sun Sep 23 2001,?,West Ham,3-0,?,Newcastle Utd
+7,Sun Sep 23 2001,?,Leeds United,3-0,?,Derby County
+7,Mon Sep 24 2001,?,Southampton,1-3,?,Aston Villa
+2,Wed Sep 26 2001,?,Newcastle Utd,1-0,?,Leicester City
+8,Sat Sep 29 2001,?,Charlton Ath,2-0,?,Leicester City
+8,Sat Sep 29 2001,?,Tottenham,3-5,?,Manchester Utd
+8,Sat Sep 29 2001,?,Derby County,0-2,?,Arsenal
+8,Sat Sep 29 2001,?,Bolton,0-2,?,Sunderland
+8,Sat Sep 29 2001,?,Middlesbrough,1-3,?,Southampton
+8,Sun Sep 30 2001,?,Ipswich Town,1-2,?,Leeds United
+8,Sun Sep 30 2001,?,Aston Villa,2-0,?,Blackburn
+8,Sun Sep 30 2001,?,Fulham,1-1,?,Chelsea
+8,Sun Sep 30 2001,?,Newcastle Utd,0-2,?,Liverpool
+8,Fri Oct 5 2001,?,Everton,5-0,?,West Ham
+9,Sat Oct 13 2001,?,Ipswich Town,0-0,?,Everton
+9,Sat Oct 13 2001,?,Chelsea,2-0,?,Leicester City
+9,Sat Oct 13 2001,?,Bolton,0-4,?,Newcastle Utd
+9,Sat Oct 13 2001,?,Southampton,0-2,?,Arsenal
+9,Sat Oct 13 2001,?,Liverpool,1-1,?,Leeds United
+9,Sat Oct 13 2001,?,Sunderland,1-3,?,Manchester Utd
+9,Sun Oct 14 2001,?,Charlton Ath,0-0,?,Middlesbrough
+9,Sun Oct 14 2001,?,Blackburn,7-1,?,West Ham
+9,Sun Oct 14 2001,?,Aston Villa,2-0,?,Fulham
+9,Mon Oct 15 2001,?,Tottenham,3-1,?,Derby County
+10,Sat Oct 20 2001,?,Manchester Utd,1-2,?,Bolton
+10,Sat Oct 20 2001,?,Derby County,1-1,?,Charlton Ath
+10,Sat Oct 20 2001,?,Arsenal,3-3,?,Blackburn
+10,Sat Oct 20 2001,?,West Ham,2-0,?,Southampton
+10,Sat Oct 20 2001,?,Leicester City,1-4,?,Liverpool
+10,Sat Oct 20 2001,?,Everton,3-2,?,Aston Villa
+10,Sun Oct 21 2001,?,Leeds United,0-0,?,Chelsea
+10,Sun Oct 21 2001,?,Fulham,1-1,?,Ipswich Town
+10,Sun Oct 21 2001,?,Newcastle Utd,0-2,?,Tottenham
+10,Mon Oct 22 2001,?,Middlesbrough,2-0,?,Sunderland
+2,Wed Oct 24 2001,?,Aston Villa,1-0,?,Charlton Ath
+2,Wed Oct 24 2001,?,West Ham,2-1,?,Chelsea
+6,Wed Oct 24 2001,?,Southampton,3-3,?,Ipswich Town
+11,Sat Oct 27 2001,?,Manchester Utd,1-1,?,Leeds United
+11,Sat Oct 27 2001,?,Charlton Ath,0-2,?,Liverpool
+11,Sat Oct 27 2001,?,Fulham,2-1,?,Southampton
+11,Sat Oct 27 2001,?,Sunderland,1-1,?,Arsenal
+11,Sat Oct 27 2001,?,Tottenham,2-1,?,Middlesbrough
+11,Sat Oct 27 2001,?,Everton,1-3,?,Newcastle Utd
+11,Sat Oct 27 2001,?,Aston Villa,3-2,?,Bolton
+11,Sun Oct 28 2001,?,Ipswich Town,2-3,?,West Ham
+11,Sun Oct 28 2001,?,Derby County,1-1,?,Chelsea
+11,Mon Oct 29 2001,?,Blackburn,0-0,?,Leicester City
+12,Sat Nov 3 2001,?,Leicester City,1-0,?,Sunderland
+12,Sat Nov 3 2001,?,Newcastle Utd,3-0,?,Aston Villa
+12,Sat Nov 3 2001,?,West Ham,0-2,?,Fulham
+12,Sat Nov 3 2001,?,Southampton,1-2,?,Blackburn
+12,Sat Nov 3 2001,?,Bolton,2-2,?,Everton
+12,Sat Nov 3 2001,?,Middlesbrough,5-1,?,Derby County
+12,Sun Nov 4 2001,?,Leeds United,2-1,?,Tottenham
+12,Sun Nov 4 2001,?,Liverpool,3-1,?,Manchester Utd
+12,Sun Nov 4 2001,?,Chelsea,2-1,?,Ipswich Town
+12,Sun Nov 4 2001,?,Arsenal,2-4,?,Charlton Ath
+13,Sat Nov 17 2001,?,Sunderland,2-0,?,Leeds United
+13,Sat Nov 17 2001,?,Blackburn,1-1,?,Liverpool
+13,Sat Nov 17 2001,?,Tottenham,1-1,?,Arsenal
+13,Sat Nov 17 2001,?,Derby County,1-0,?,Southampton
+13,Sat Nov 17 2001,?,Fulham,3-1,?,Newcastle Utd
+13,Sat Nov 17 2001,?,Aston Villa,0-0,?,Middlesbrough
+13,Sat Nov 17 2001,?,Manchester Utd,2-0,?,Leicester City
+13,Sun Nov 18 2001,?,Everton,0-0,?,Chelsea
+13,Sun Nov 18 2001,?,Ipswich Town,1-2,?,Bolton
+13,Mon Nov 19 2001,?,Charlton Ath,4-4,?,West Ham
+14,Sat Nov 24 2001,?,Newcastle Utd,1-0,?,Derby County
+14,Sat Nov 24 2001,?,Leicester City,0-0,?,Everton
+14,Sat Nov 24 2001,?,West Ham,0-1,?,Tottenham
+14,Sat Nov 24 2001,?,Chelsea,0-0,?,Blackburn
+14,Sat Nov 24 2001,?,Southampton,1-0,?,Charlton Ath
+14,Sat Nov 24 2001,?,Bolton,0-0,?,Fulham
+14,Sun Nov 25 2001,?,Arsenal,3-1,?,Manchester Utd
+14,Sun Nov 25 2001,?,Middlesbrough,0-0,?,Ipswich Town
+14,Sun Nov 25 2001,?,Leeds United,1-1,?,Aston Villa
+14,Sun Nov 25 2001,?,Liverpool,1-0,?,Sunderland
+15,Sat Dec 1 2001,?,Derby County,0-1,?,Liverpool
+15,Sat Dec 1 2001,?,Manchester Utd,0-3,?,Chelsea
+15,Sat Dec 1 2001,?,Charlton Ath,1-1,?,Newcastle Utd
+15,Sat Dec 1 2001,?,Ipswich Town,0-2,?,Arsenal
+15,Sat Dec 1 2001,?,Aston Villa,0-2,?,Leicester City
+15,Sat Dec 1 2001,?,Blackburn,0-1,?,Middlesbrough
+15,Sat Dec 1 2001,?,Sunderland,1-0,?,West Ham
+15,Sun Dec 2 2001,?,Everton,2-0,?,Southampton
+15,Sun Dec 2 2001,?,Fulham,0-0,?,Leeds United
+15,Mon Dec 3 2001,?,Tottenham,3-2,?,Bolton
+6,Wed Dec 5 2001,?,Chelsea,0-1,?,Charlton Ath
+6,Wed Dec 5 2001,?,West Ham,1-1,?,Aston Villa
+16,Sat Dec 8 2001,?,Derby County,1-0,?,Bolton
+16,Sat Dec 8 2001,?,Liverpool,2-0,?,Middlesbrough
+16,Sat Dec 8 2001,?,Fulham,2-0,?,Everton
+16,Sat Dec 8 2001,?,Charlton Ath,3-1,?,Tottenham
+16,Sat Dec 8 2001,?,Manchester Utd,0-1,?,West Ham
+16,Sat Dec 8 2001,?,Leicester City,0-4,?,Southampton
+16,Sun Dec 9 2001,?,Sunderland,0-0,?,Chelsea
+16,Sun Dec 9 2001,?,Arsenal,3-2,?,Aston Villa
+16,Sun Dec 9 2001,?,Blackburn,1-2,?,Leeds United
+16,Sun Dec 9 2001,?,Ipswich Town,0-1,?,Newcastle Utd
+6,Wed Dec 12 2001,?,Manchester Utd,5-0,?,Derby County
+6,Wed Dec 12 2001,?,Liverpool,0-0,?,Fulham
+17,Sat Dec 15 2001,?,Everton,1-0,?,Derby County
+17,Sat Dec 15 2001,?,Tottenham,4-0,?,Fulham
+17,Sat Dec 15 2001,?,Southampton,2-0,?,Sunderland
+17,Sat Dec 15 2001,?,West Ham,1-1,?,Arsenal
+17,Sat Dec 15 2001,?,Middlesbrough,0-1,?,Manchester Utd
+17,Sat Dec 15 2001,?,Bolton,0-0,?,Charlton Ath
+17,Sat Dec 15 2001,?,Newcastle Utd,2-1,?,Blackburn
+17,Sun Dec 16 2001,?,Chelsea,4-0,?,Liverpool
+17,Sun Dec 16 2001,?,Leeds United,2-2,?,Leicester City
+17,Mon Dec 17 2001,?,Aston Villa,2-1,?,Ipswich Town
+6,Tue Dec 18 2001,?,Arsenal,1-3,?,Newcastle Utd
+6,Wed Dec 19 2001,?,Leeds United,3-2,?,Everton
+18,Sat Dec 22 2001,?,Tottenham,1-2,?,Ipswich Town
+18,Sat Dec 22 2001,?,Sunderland,1-0,?,Everton
+18,Sat Dec 22 2001,?,Leicester City,1-1,?,West Ham
+18,Sat Dec 22 2001,?,Derby County,3-1,?,Aston Villa
+18,Sat Dec 22 2001,?,Charlton Ath,0-2,?,Blackburn
+18,Sat Dec 22 2001,?,Leeds United,3-4,?,Newcastle Utd
+18,Sat Dec 22 2001,?,Manchester Utd,6-1,?,Southampton
+18,Sun Dec 23 2001,?,Chelsea,5-1,?,Bolton
+18,Sun Dec 23 2001,?,Liverpool,1-2,?,Arsenal
+19,Wed Dec 26 2001,?,Southampton,1-0,?,Tottenham
+19,Wed Dec 26 2001,?,West Ham,4-0,?,Derby County
+19,Wed Dec 26 2001,?,Arsenal,2-1,?,Chelsea
+19,Wed Dec 26 2001,?,Ipswich Town,2-0,?,Leicester City
+19,Wed Dec 26 2001,?,Aston Villa,1-2,?,Liverpool
+19,Wed Dec 26 2001,?,Everton,0-2,?,Manchester Utd
+19,Wed Dec 26 2001,?,Bolton,0-3,?,Leeds United
+19,Wed Dec 26 2001,?,Newcastle Utd,3-0,?,Middlesbrough
+19,Wed Dec 26 2001,?,Fulham,0-0,?,Charlton Ath
+19,Wed Dec 26 2001,?,Blackburn,0-3,?,Sunderland
+20,Sat Dec 29 2001,?,Everton,0-3,?,Charlton Ath
+20,Sat Dec 29 2001,?,Southampton,0-1,?,Leeds United
+20,Sat Dec 29 2001,?,Bolton,2-2,?,Leicester City
+20,Sat Dec 29 2001,?,Aston Villa,1-1,?,Tottenham
+20,Sat Dec 29 2001,?,Newcastle Utd,1-2,?,Chelsea
+20,Sat Dec 29 2001,?,West Ham,1-1,?,Liverpool
+20,Sat Dec 29 2001,?,Ipswich Town,5-0,?,Sunderland
+20,Sat Dec 29 2001,?,Arsenal,2-1,?,Middlesbrough
+20,Sat Dec 29 2001,?,Blackburn,0-1,?,Derby County
+20,Sun Dec 30 2001,?,Fulham,2-3,?,Manchester Utd
+21,Tue Jan 1 2002,?,Charlton Ath,3-2,?,Ipswich Town
+21,Tue Jan 1 2002,?,Liverpool,1-1,?,Bolton
+21,Tue Jan 1 2002,?,Tottenham,1-0,?,Blackburn
+21,Tue Jan 1 2002,?,Sunderland,1-1,?,Aston Villa
+21,Tue Jan 1 2002,?,Middlesbrough,1-0,?,Everton
+21,Tue Jan 1 2002,?,Leeds United,3-0,?,West Ham
+21,Tue Jan 1 2002,?,Chelsea,2-4,?,Southampton
+21,Wed Jan 2 2002,?,Manchester Utd,3-1,?,Newcastle Utd
+21,Wed Jan 2 2002,?,Derby County,0-1,?,Fulham
+2,Wed Jan 9 2002,?,Southampton,2-0,?,Liverpool
+22,Sat Jan 12 2002,?,Bolton,2-2,?,Chelsea
+22,Sat Jan 12 2002,?,Fulham,2-1,?,Middlesbrough
+22,Sat Jan 12 2002,?,Ipswich Town,2-1,?,Tottenham
+22,Sat Jan 12 2002,?,Aston Villa,2-1,?,Derby County
+22,Sat Jan 12 2002,?,West Ham,1-0,?,Leicester City
+22,Sat Jan 12 2002,?,Everton,1-0,?,Sunderland
+22,Sat Jan 12 2002,?,Newcastle Utd,3-1,?,Leeds United
+22,Sat Jan 12 2002,?,Blackburn,4-1,?,Charlton Ath
+22,Sun Jan 13 2002,?,Southampton,1-3,?,Manchester Utd
+22,Sun Jan 13 2002,?,Arsenal,1-1,?,Liverpool
+23,Sat Jan 19 2002,?,Middlesbrough,1-1,?,Bolton
+23,Sat Jan 19 2002,?,Liverpool,1-1,?,Southampton
+23,Sat Jan 19 2002,?,Leicester City,0-0,?,Newcastle Utd
+23,Sat Jan 19 2002,?,Manchester Utd,2-1,?,Blackburn
+23,Sat Jan 19 2002,?,Sunderland,1-1,?,Fulham
+23,Sat Jan 19 2002,?,Derby County,1-3,?,Ipswich Town
+23,Sat Jan 19 2002,?,Tottenham,1-1,?,Everton
+23,Sun Jan 20 2002,?,Leeds United,1-1,?,Arsenal
+23,Sun Jan 20 2002,?,Chelsea,5-1,?,West Ham
+23,Mon Jan 21 2002,?,Charlton Ath,1-2,?,Aston Villa
+33,Tue Jan 22 2002,?,Manchester Utd,0-1,?,Liverpool
+21,Wed Jan 23 2002,?,Leicester City,1-3,?,Arsenal
+24,Tue Jan 29 2002,?,Charlton Ath,1-0,?,Derby County
+24,Tue Jan 29 2002,?,Sunderland,0-1,?,Middlesbrough
+24,Tue Jan 29 2002,?,Bolton,0-4,?,Manchester Utd
+24,Wed Jan 30 2002,?,Southampton,2-0,?,West Ham
+24,Wed Jan 30 2002,?,Chelsea,2-0,?,Leeds United
+24,Wed Jan 30 2002,?,Tottenham,1-3,?,Newcastle Utd
+24,Wed Jan 30 2002,?,Liverpool,1-0,?,Leicester City
+24,Wed Jan 30 2002,?,Ipswich Town,1-0,?,Fulham
+24,Wed Jan 30 2002,?,Aston Villa,0-0,?,Everton
+24,Wed Jan 30 2002,?,Blackburn,2-3,?,Arsenal
+25,Sat Feb 2 2002,?,Manchester Utd,4-1,?,Sunderland
+25,Sat Feb 2 2002,?,Derby County,1-0,?,Tottenham
+25,Sat Feb 2 2002,?,Arsenal,1-1,?,Southampton
+25,Sat Feb 2 2002,?,Newcastle Utd,3-2,?,Bolton
+25,Sat Feb 2 2002,?,Leicester City,2-3,?,Chelsea
+25,Sat Feb 2 2002,?,Fulham,0-0,?,Aston Villa
+25,Sat Feb 2 2002,?,West Ham,2-0,?,Blackburn
+25,Sat Feb 2 2002,?,Everton,1-2,?,Ipswich Town
+25,Sun Feb 3 2002,?,Middlesbrough,0-0,?,Charlton Ath
+25,Sun Feb 3 2002,?,Leeds United,0-4,?,Liverpool
+26,Sat Feb 9 2002,?,Ipswich Town,0-6,?,Liverpool
+26,Sat Feb 9 2002,?,Fulham,2-0,?,Blackburn
+26,Sat Feb 9 2002,?,Aston Villa,1-1,?,Chelsea
+26,Sat Feb 9 2002,?,Derby County,0-1,?,Sunderland
+26,Sat Feb 9 2002,?,Newcastle Utd,3-1,?,Southampton
+26,Sat Feb 9 2002,?,Middlesbrough,2-2,?,Leeds United
+26,Sat Feb 9 2002,?,Bolton,1-0,?,West Ham
+26,Sat Feb 9 2002,?,Tottenham,2-1,?,Leicester City
+26,Sun Feb 10 2002,?,Charlton Ath,0-2,?,Manchester Utd
+26,Sun Feb 10 2002,?,Everton,0-1,?,Arsenal
+18,Mon Feb 11 2002,?,Middlesbrough,2-1,?,Fulham
+27,Sat Feb 23 2002,?,Leicester City,0-3,?,Derby County
+27,Sat Feb 23 2002,?,Manchester Utd,1-0,?,Aston Villa
+27,Sat Feb 23 2002,?,Southampton,0-0,?,Bolton
+27,Sat Feb 23 2002,?,West Ham,1-0,?,Middlesbrough
+27,Sat Feb 23 2002,?,Arsenal,4-1,?,Fulham
+27,Sat Feb 23 2002,?,Liverpool,1-1,?,Everton
+27,Sun Feb 24 2002,?,Sunderland,0-1,?,Newcastle Utd
+27,Sun Feb 24 2002,?,Leeds United,0-0,?,Charlton Ath
+28,Sat Mar 2 2002,?,Tottenham,2-1,?,Sunderland
+28,Sat Mar 2 2002,?,Ipswich Town,1-3,?,Southampton
+28,Sat Mar 2 2002,?,Middlesbrough,1-0,?,Leicester City
+28,Sat Mar 2 2002,?,Bolton,1-1,?,Blackburn
+28,Sat Mar 2 2002,?,Charlton Ath,2-1,?,Chelsea
+28,Sat Mar 2 2002,?,Newcastle Utd,0-2,?,Arsenal
+28,Sat Mar 2 2002,?,Fulham,0-2,?,Liverpool
+28,Sat Mar 2 2002,?,Aston Villa,2-1,?,West Ham
+28,Sun Mar 3 2002,?,Derby County,2-2,?,Manchester Utd
+28,Sun Mar 3 2002,?,Everton,0-0,?,Leeds United
+29,Tue Mar 5 2002,?,Sunderland,1-0,?,Bolton
+29,Tue Mar 5 2002,?,Arsenal,1-0,?,Derby County
+29,Tue Mar 5 2002,?,Blackburn,3-0,?,Aston Villa
+29,Wed Mar 6 2002,?,Chelsea,3-2,?,Fulham
+29,Wed Mar 6 2002,?,Southampton,1-1,?,Middlesbrough
+29,Wed Mar 6 2002,?,Leeds United,2-0,?,Ipswich Town
+29,Wed Mar 6 2002,?,Manchester Utd,4-0,?,Tottenham
+29,Wed Mar 6 2002,?,West Ham,1-0,?,Everton
+29,Wed Mar 6 2002,?,Liverpool,3-0,?,Newcastle Utd
+29,Sat Mar 9 2002,?,Leicester City,1-1,?,Charlton Ath
+27,Wed Mar 13 2002,?,Blackburn,2-1,?,Ipswich Town
+27,Wed Mar 13 2002,?,Chelsea,4-0,?,Tottenham
+30,Sat Mar 16 2002,?,Chelsea,4-0,?,Sunderland
+30,Sat Mar 16 2002,?,Southampton,2-2,?,Leicester City
+30,Sat Mar 16 2002,?,West Ham,3-5,?,Manchester Utd
+30,Sat Mar 16 2002,?,Everton,2-1,?,Fulham
+30,Sat Mar 16 2002,?,Newcastle Utd,2-2,?,Ipswich Town
+30,Sat Mar 16 2002,?,Middlesbrough,1-2,?,Liverpool
+30,Sat Mar 16 2002,?,Bolton,1-3,?,Derby County
+30,Sun Mar 17 2002,?,Leeds United,3-1,?,Blackburn
+30,Sun Mar 17 2002,?,Aston Villa,1-2,?,Arsenal
+30,Mon Mar 18 2002,?,Tottenham,0-1,?,Charlton Ath
+31,Sat Mar 23 2002,?,Derby County,3-4,?,Everton
+31,Sat Mar 23 2002,?,Ipswich Town,0-0,?,Aston Villa
+31,Sat Mar 23 2002,?,Manchester Utd,0-1,?,Middlesbrough
+31,Sat Mar 23 2002,?,Charlton Ath,1-2,?,Bolton
+31,Sat Mar 23 2002,?,Leicester City,0-2,?,Leeds United
+31,Sat Mar 23 2002,?,Sunderland,1-1,?,Southampton
+31,Sun Mar 24 2002,?,Liverpool,1-0,?,Chelsea
+31,Sun Mar 24 2002,?,Fulham,0-2,?,Tottenham
+32,Fri Mar 29 2002,?,Newcastle Utd,6-2,?,Everton
+32,Sat Mar 30 2002,?,Bolton,3-2,?,Aston Villa
+32,Sat Mar 30 2002,?,Liverpool,2-0,?,Charlton Ath
+32,Sat Mar 30 2002,?,West Ham,3-1,?,Ipswich Town
+32,Sat Mar 30 2002,?,Leicester City,2-1,?,Blackburn
+32,Sat Mar 30 2002,?,Middlesbrough,1-1,?,Tottenham
+32,Sat Mar 30 2002,?,Chelsea,2-1,?,Derby County
+32,Sat Mar 30 2002,?,Arsenal,3-0,?,Sunderland
+32,Sat Mar 30 2002,?,Southampton,1-1,?,Fulham
+32,Sat Mar 30 2002,?,Leeds United,3-4,?,Manchester Utd
+33,Mon Apr 1 2002,?,Ipswich Town,0-0,?,Chelsea
+33,Mon Apr 1 2002,?,Everton,3-1,?,Bolton
+33,Mon Apr 1 2002,?,Tottenham,2-1,?,Leeds United
+33,Mon Apr 1 2002,?,Sunderland,2-1,?,Leicester City
+33,Mon Apr 1 2002,?,Blackburn,2-0,?,Southampton
+33,Mon Apr 1 2002,?,Fulham,0-1,?,West Ham
+33,Mon Apr 1 2002,?,Charlton Ath,0-3,?,Arsenal
+33,Mon Apr 1 2002,?,Derby County,0-1,?,Middlesbrough
+33,Tue Apr 2 2002,?,Aston Villa,1-1,?,Newcastle Utd
+34,Sat Apr 6 2002,?,Arsenal,2-1,?,Tottenham
+34,Sat Apr 6 2002,?,West Ham,2-0,?,Charlton Ath
+34,Sat Apr 6 2002,?,Chelsea,3-0,?,Everton
+34,Sat Apr 6 2002,?,Leicester City,0-1,?,Manchester Utd
+34,Sat Apr 6 2002,?,Southampton,2-0,?,Derby County
+34,Sat Apr 6 2002,?,Middlesbrough,2-1,?,Aston Villa
+34,Sat Apr 6 2002,?,Bolton,4-1,?,Ipswich Town
+34,Sun Apr 7 2002,?,Leeds United,2-0,?,Sunderland
+34,Mon Apr 8 2002,?,Newcastle Utd,1-1,?,Fulham
+35,Wed Apr 10 2002,?,Blackburn,0-0,?,Chelsea
+35,Sat Apr 13 2002,?,Aston Villa,0-1,?,Leeds United
+35,Sat Apr 13 2002,?,Tottenham,1-1,?,West Ham
+35,Sat Apr 13 2002,?,Charlton Ath,1-1,?,Southampton
+35,Sat Apr 13 2002,?,Everton,2-2,?,Leicester City
+35,Sat Apr 13 2002,?,Derby County,2-3,?,Newcastle Utd
+35,Sat Apr 13 2002,?,Sunderland,0-1,?,Liverpool
+36,Sat Apr 20 2002,?,Chelsea,0-3,?,Manchester Utd
+36,Sat Apr 20 2002,?,Liverpool,2-0,?,Derby County
+36,Sat Apr 20 2002,?,Southampton,0-1,?,Everton
+36,Sat Apr 20 2002,?,West Ham,3-0,?,Sunderland
+36,Sat Apr 20 2002,?,Leeds United,0-1,?,Fulham
+36,Sat Apr 20 2002,?,Bolton,1-1,?,Tottenham
+36,Sat Apr 20 2002,?,Middlesbrough,1-3,?,Blackburn
+36,Sat Apr 20 2002,?,Newcastle Utd,3-0,?,Charlton Ath
+36,Sat Apr 20 2002,?,Leicester City,2-2,?,Aston Villa
+36,Sun Apr 21 2002,?,Arsenal,2-0,?,Ipswich Town
+31,Tue Apr 23 2002,?,Blackburn,2-2,?,Newcastle Utd
+35,Tue Apr 23 2002,?,Fulham,3-0,?,Bolton
+31,Wed Apr 24 2002,?,Arsenal,2-0,?,West Ham
+35,Wed Apr 24 2002,?,Ipswich Town,1-0,?,Middlesbrough
+37,Sat Apr 27 2002,?,Newcastle Utd,3-1,?,West Ham
+37,Sat Apr 27 2002,?,Fulham,0-0,?,Leicester City
+37,Sat Apr 27 2002,?,Middlesbrough,0-2,?,Chelsea
+37,Sat Apr 27 2002,?,Aston Villa,2-1,?,Southampton
+37,Sat Apr 27 2002,?,Charlton Ath,2-2,?,Sunderland
+37,Sat Apr 27 2002,?,Tottenham,1-0,?,Liverpool
+37,Sat Apr 27 2002,?,Derby County,0-1,?,Leeds United
+37,Sat Apr 27 2002,?,Ipswich Town,0-1,?,Manchester Utd
+37,Sun Apr 28 2002,?,Everton,1-2,?,Blackburn
+37,Mon Apr 29 2002,?,Bolton,0-2,?,Arsenal
+34,Wed May 8 2002,?,Liverpool,4-3,?,Blackburn
+35,Wed May 8 2002,?,Manchester Utd,0-1,?,Arsenal
+38,Sat May 11 2002,?,Leicester City,2-1,?,Tottenham
+38,Sat May 11 2002,?,West Ham,2-1,?,Bolton
+38,Sat May 11 2002,?,Arsenal,4-3,?,Everton
+38,Sat May 11 2002,?,Liverpool,5-0,?,Ipswich Town
+38,Sat May 11 2002,?,Southampton,3-1,?,Newcastle Utd
+38,Sat May 11 2002,?,Blackburn,3-0,?,Fulham
+38,Sat May 11 2002,?,Chelsea,1-3,?,Aston Villa
+38,Sat May 11 2002,?,Sunderland,1-1,?,Derby County
+38,Sat May 11 2002,?,Manchester Utd,0-0,?,Charlton Ath
+38,Sat May 11 2002,?,Leeds United,1-0,?,Middlesbrough

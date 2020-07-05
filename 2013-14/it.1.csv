@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 24 2013,?,Sampdoria,0-1,?,Juventus
+1,Sat Aug 24 2013,?,Hellas Verona,2-1,?,Milan
+1,Sun Aug 25 2013,?,Napoli,3-0,?,Bologna
+1,Sun Aug 25 2013,?,Parma,0-0,?,Chievo
+1,Sun Aug 25 2013,?,Cagliari,2-1,?,Atalanta
+1,Sun Aug 25 2013,?,Inter,2-0,?,Genoa
+1,Sun Aug 25 2013,?,Torino,2-0,?,Sassuolo
+1,Sun Aug 25 2013,?,Livorno,0-2,?,Roma
+1,Sun Aug 25 2013,?,Lazio,2-1,?,Udinese
+1,Mon Aug 26 2013,?,Fiorentina,2-1,?,Catania
+2,Sat Aug 31 2013,?,Juventus,4-1,?,Lazio
+2,Sat Aug 31 2013,?,Chievo,2-4,?,Napoli
+2,Sun Sep 1 2013,?,Atalanta,2-0,?,Torino
+2,Sun Sep 1 2013,?,Milan,3-1,?,Cagliari
+2,Sun Sep 1 2013,?,Sassuolo,1-4,?,Livorno
+2,Sun Sep 1 2013,?,Catania,0-3,?,Inter
+2,Sun Sep 1 2013,?,Roma,3-0,?,Hellas Verona
+2,Sun Sep 1 2013,?,Bologna,2-2,?,Sampdoria
+2,Sun Sep 1 2013,?,Genoa,2-5,?,Fiorentina
+2,Sun Sep 1 2013,?,Udinese,3-1,?,Parma
+3,Sat Sep 14 2013,?,Torino,2-2,?,Milan
+3,Sat Sep 14 2013,?,Inter,1-1,?,Juventus
+3,Sat Sep 14 2013,?,Napoli,2-0,?,Atalanta
+3,Sun Sep 15 2013,?,Lazio,3-0,?,Chievo
+3,Sun Sep 15 2013,?,Livorno,2-0,?,Catania
+3,Sun Sep 15 2013,?,Hellas Verona,2-0,?,Sassuolo
+3,Sun Sep 15 2013,?,Sampdoria,0-3,?,Genoa
+3,Sun Sep 15 2013,?,Udinese,1-1,?,Bologna
+3,Sun Sep 15 2013,?,Fiorentina,1-1,?,Cagliari
+3,Mon Sep 16 2013,?,Parma,1-3,?,Roma
+4,Sat Sep 21 2013,?,Genoa,0-0,?,Livorno
+4,Sat Sep 21 2013,?,Cagliari,2-2,?,Sampdoria
+4,Sat Sep 21 2013,?,Chievo,2-1,?,Udinese
+4,Sun Sep 22 2013,?,Catania,0-0,?,Parma
+4,Sun Sep 22 2013,?,Bologna,1-2,?,Torino
+4,Sun Sep 22 2013,?,Milan,1-2,?,Napoli
+4,Sun Sep 22 2013,?,Roma,2-0,?,Lazio
+4,Sun Sep 22 2013,?,Atalanta,0-2,?,Fiorentina
+4,Sun Sep 22 2013,?,Sassuolo,0-7,?,Inter
+4,Sun Sep 22 2013,?,Juventus,2-1,?,Hellas Verona
+5,Tue Sep 24 2013,?,Udinese,1-0,?,Genoa
+5,Wed Sep 25 2013,?,Bologna,3-3,?,Milan
+5,Wed Sep 25 2013,?,Sampdoria,0-2,?,Roma
+5,Wed Sep 25 2013,?,Livorno,1-1,?,Cagliari
+5,Wed Sep 25 2013,?,Parma,4-3,?,Atalanta
+5,Wed Sep 25 2013,?,Napoli,1-1,?,Sassuolo
+5,Wed Sep 25 2013,?,Lazio,3-1,?,Catania
+5,Wed Sep 25 2013,?,Chievo,1-2,?,Juventus
+5,Wed Sep 25 2013,?,Torino,2-2,?,Hellas Verona
+5,Thu Sep 26 2013,?,Inter,2-1,?,Fiorentina
+6,Sat Sep 28 2013,?,Genoa,0-2,?,Napoli
+6,Sat Sep 28 2013,?,Milan,1-0,?,Sampdoria
+6,Sun Sep 29 2013,?,Catania,2-0,?,Chievo
+6,Sun Sep 29 2013,?,Roma,5-0,?,Bologna
+6,Sun Sep 29 2013,?,Torino,0-1,?,Juventus
+6,Sun Sep 29 2013,?,Sassuolo,2-2,?,Lazio
+6,Sun Sep 29 2013,?,Hellas Verona,2-1,?,Livorno
+6,Sun Sep 29 2013,?,Atalanta,2-0,?,Udinese
+6,Sun Sep 29 2013,?,Cagliari,1-1,?,Inter
+6,Mon Sep 30 2013,?,Fiorentina,2-2,?,Parma
+7,Sat Oct 5 2013,?,Chievo,0-1,?,Atalanta
+7,Sat Oct 5 2013,?,Inter,0-3,?,Roma
+7,Sun Oct 6 2013,?,Lazio,0-0,?,Fiorentina
+7,Sun Oct 6 2013,?,Napoli,4-0,?,Livorno
+7,Sun Oct 6 2013,?,Udinese,2-0,?,Cagliari
+7,Sun Oct 6 2013,?,Juventus,3-2,?,Milan
+7,Sun Oct 6 2013,?,Catania,1-1,?,Genoa
+7,Sun Oct 6 2013,?,Bologna,1-4,?,Hellas Verona
+7,Sun Oct 6 2013,?,Sampdoria,2-2,?,Torino
+7,Sun Oct 6 2013,?,Parma,3-1,?,Sassuolo
+8,Fri Oct 18 2013,?,Roma,2-0,?,Napoli
+8,Sat Oct 19 2013,?,Cagliari,2-1,?,Catania
+8,Sat Oct 19 2013,?,Milan,1-0,?,Udinese
+8,Sun Oct 20 2013,?,Genoa,2-1,?,Chievo
+8,Sun Oct 20 2013,?,Livorno,1-2,?,Sampdoria
+8,Sun Oct 20 2013,?,Sassuolo,2-1,?,Bologna
+8,Sun Oct 20 2013,?,Torino,3-3,?,Inter
+8,Sun Oct 20 2013,?,Atalanta,2-1,?,Lazio
+8,Sun Oct 20 2013,?,Hellas Verona,3-2,?,Parma
+8,Sun Oct 20 2013,?,Fiorentina,4-2,?,Juventus
+9,Sat Oct 26 2013,?,Sampdoria,1-0,?,Atalanta
+9,Sat Oct 26 2013,?,Inter,4-2,?,Hellas Verona
+9,Sun Oct 27 2013,?,Lazio,2-0,?,Cagliari
+9,Sun Oct 27 2013,?,Catania,0-0,?,Sassuolo
+9,Sun Oct 27 2013,?,Bologna,1-0,?,Livorno
+9,Sun Oct 27 2013,?,Juventus,2-0,?,Genoa
+9,Sun Oct 27 2013,?,Parma,3-2,?,Milan
+9,Sun Oct 27 2013,?,Napoli,2-0,?,Torino
+9,Sun Oct 27 2013,?,Chievo,1-2,?,Fiorentina
+9,Sun Oct 27 2013,?,Udinese,0-1,?,Roma
+10,Tue Oct 29 2013,?,Atalanta,1-1,?,Inter
+10,Wed Oct 30 2013,?,Hellas Verona,2-0,?,Sampdoria
+10,Wed Oct 30 2013,?,Genoa,1-0,?,Parma
+10,Wed Oct 30 2013,?,Fiorentina,1-2,?,Napoli
+10,Wed Oct 30 2013,?,Cagliari,0-3,?,Bologna
+10,Wed Oct 30 2013,?,Juventus,4-0,?,Catania
+10,Wed Oct 30 2013,?,Milan,1-1,?,Lazio
+10,Wed Oct 30 2013,?,Sassuolo,1-2,?,Udinese
+10,Wed Oct 30 2013,?,Livorno,3-3,?,Torino
+10,Thu Oct 31 2013,?,Roma,1-0,?,Chievo
+11,Sat Nov 2 2013,?,Napoli,2-1,?,Catania
+11,Sat Nov 2 2013,?,Parma,0-1,?,Juventus
+11,Sat Nov 2 2013,?,Milan,0-2,?,Fiorentina
+11,Sun Nov 3 2013,?,Hellas Verona,2-1,?,Cagliari
+11,Sun Nov 3 2013,?,Livorno,1-0,?,Atalanta
+11,Sun Nov 3 2013,?,Torino,1-1,?,Roma
+11,Sun Nov 3 2013,?,Udinese,0-3,?,Inter
+11,Sun Nov 3 2013,?,Lazio,0-2,?,Genoa
+11,Sun Nov 3 2013,?,Sampdoria,3-4,?,Sassuolo
+11,Mon Nov 4 2013,?,Bologna,0-0,?,Chievo
+12,Sat Nov 9 2013,?,Inter,2-0,?,Livorno
+12,Sat Nov 9 2013,?,Catania,1-0,?,Udinese
+12,Sun Nov 10 2013,?,Genoa,2-0,?,Hellas Verona
+12,Sun Nov 10 2013,?,Chievo,0-0,?,Milan
+12,Sun Nov 10 2013,?,Cagliari,2-1,?,Torino
+12,Sun Nov 10 2013,?,Parma,1-1,?,Lazio
+12,Sun Nov 10 2013,?,Roma,1-1,?,Sassuolo
+12,Sun Nov 10 2013,?,Fiorentina,2-1,?,Sampdoria
+12,Sun Nov 10 2013,?,Atalanta,2-1,?,Bologna
+12,Sun Nov 10 2013,?,Juventus,3-0,?,Napoli
+13,Sat Nov 23 2013,?,Napoli,0-1,?,Parma
+13,Sat Nov 23 2013,?,Hellas Verona,0-1,?,Chievo
+13,Sat Nov 23 2013,?,Milan,1-1,?,Genoa
+13,Sun Nov 24 2013,?,Udinese,1-0,?,Fiorentina
+13,Sun Nov 24 2013,?,Livorno,0-2,?,Juventus
+13,Sun Nov 24 2013,?,Sampdoria,1-1,?,Lazio
+13,Sun Nov 24 2013,?,Bologna,1-1,?,Inter
+13,Sun Nov 24 2013,?,Torino,4-1,?,Catania
+13,Sun Nov 24 2013,?,Sassuolo,2-0,?,Atalanta
+13,Mon Nov 25 2013,?,Roma,0-0,?,Cagliari
+14,Sat Nov 30 2013,?,Genoa,1-1,?,Torino
+14,Sat Nov 30 2013,?,Parma,1-1,?,Bologna
+14,Sun Dec 1 2013,?,Atalanta,1-1,?,Roma
+14,Sun Dec 1 2013,?,Inter,1-1,?,Sampdoria
+14,Sun Dec 1 2013,?,Catania,1-3,?,Milan
+14,Sun Dec 1 2013,?,Juventus,1-0,?,Udinese
+14,Sun Dec 1 2013,?,Chievo,3-0,?,Livorno
+14,Sun Dec 1 2013,?,Cagliari,2-2,?,Sassuolo
+14,Mon Dec 2 2013,?,Lazio,2-4,?,Napoli
+14,Mon Dec 2 2013,?,Fiorentina,4-3,?,Hellas Verona
+15,Fri Dec 6 2013,?,Bologna,0-2,?,Juventus
+15,Sat Dec 7 2013,?,Livorno,2-2,?,Milan
+15,Sat Dec 7 2013,?,Napoli,3-3,?,Udinese
+15,Sun Dec 8 2013,?,Torino,1-0,?,Lazio
+15,Sun Dec 8 2013,?,Hellas Verona,2-1,?,Atalanta
+15,Sun Dec 8 2013,?,Roma,2-1,?,Fiorentina
+15,Sun Dec 8 2013,?,Sassuolo,0-1,?,Chievo
+15,Sun Dec 8 2013,?,Sampdoria,2-0,?,Catania
+15,Sun Dec 8 2013,?,Cagliari,2-1,?,Genoa
+15,Sun Dec 8 2013,?,Inter,3-3,?,Parma
+16,Sat Dec 14 2013,?,Catania,0-0,?,Hellas Verona
+16,Sun Dec 15 2013,?,Genoa,1-1,?,Atalanta
+16,Sun Dec 15 2013,?,Napoli,4-2,?,Inter
+16,Sun Dec 15 2013,?,Fiorentina,3-0,?,Bologna
+16,Sun Dec 15 2013,?,Juventus,4-0,?,Sassuolo
+16,Sun Dec 15 2013,?,Parma,0-0,?,Cagliari
+16,Sun Dec 15 2013,?,Chievo,0-1,?,Sampdoria
+16,Sun Dec 15 2013,?,Udinese,0-2,?,Torino
+16,Sun Dec 15 2013,?,Lazio,2-0,?,Livorno
+16,Mon Dec 16 2013,?,Milan,2-2,?,Roma
+17,Sat Dec 21 2013,?,Cagliari,1-1,?,Napoli
+17,Sat Dec 21 2013,?,Livorno,1-2,?,Udinese
+17,Sun Dec 22 2013,?,Inter,1-0,?,Milan
+17,Sun Dec 22 2013,?,Sampdoria,1-1,?,Parma
+17,Sun Dec 22 2013,?,Roma,4-0,?,Catania
+17,Sun Dec 22 2013,?,Torino,4-1,?,Chievo
+17,Sun Dec 22 2013,?,Bologna,1-0,?,Genoa
+17,Sun Dec 22 2013,?,Atalanta,1-4,?,Juventus
+17,Sun Dec 22 2013,?,Sassuolo,0-1,?,Fiorentina
+17,Sun Dec 22 2013,?,Hellas Verona,4-1,?,Lazio
+18,Sun Jan 5 2014,?,Chievo,0-0,?,Cagliari
+18,Sun Jan 5 2014,?,Fiorentina,1-0,?,Livorno
+18,Sun Jan 5 2014,?,Juventus,3-0,?,Roma
+18,Mon Jan 6 2014,?,Udinese,1-3,?,Hellas Verona
+18,Mon Jan 6 2014,?,Milan,3-0,?,Atalanta
+18,Mon Jan 6 2014,?,Genoa,2-0,?,Sassuolo
+18,Mon Jan 6 2014,?,Napoli,2-0,?,Sampdoria
+18,Mon Jan 6 2014,?,Catania,2-0,?,Bologna
+18,Mon Jan 6 2014,?,Parma,3-1,?,Torino
+18,Mon Jan 6 2014,?,Lazio,1-0,?,Inter
+19,Sat Jan 11 2014,?,Bologna,0-0,?,Lazio
+19,Sat Jan 11 2014,?,Livorno,0-3,?,Parma
+19,Sun Jan 12 2014,?,Torino,0-0,?,Fiorentina
+19,Sun Jan 12 2014,?,Sassuolo,4-3,?,Milan
+19,Sun Jan 12 2014,?,Hellas Verona,0-3,?,Napoli
+19,Sun Jan 12 2014,?,Atalanta,2-1,?,Catania
+19,Sun Jan 12 2014,?,Cagliari,1-4,?,Juventus
+19,Sun Jan 12 2014,?,Roma,4-0,?,Genoa
+19,Mon Jan 13 2014,?,Sampdoria,3-0,?,Udinese
+19,Mon Jan 13 2014,?,Inter,1-1,?,Chievo
+20,Sat Jan 18 2014,?,Roma,3-0,?,Livorno
+20,Sat Jan 18 2014,?,Juventus,4-2,?,Sampdoria
+20,Sun Jan 19 2014,?,Genoa,1-0,?,Inter
+20,Sun Jan 19 2014,?,Catania,0-3,?,Fiorentina
+20,Sun Jan 19 2014,?,Chievo,1-2,?,Parma
+20,Sun Jan 19 2014,?,Sassuolo,0-2,?,Torino
+20,Sun Jan 19 2014,?,Udinese,2-3,?,Lazio
+20,Sun Jan 19 2014,?,Atalanta,1-0,?,Cagliari
+20,Sun Jan 19 2014,?,Bologna,2-2,?,Napoli
+20,Sun Jan 19 2014,?,Milan,1-0,?,Hellas Verona
+21,Sat Jan 25 2014,?,Lazio,1-1,?,Juventus
+21,Sat Jan 25 2014,?,Napoli,1-1,?,Chievo
+21,Sun Jan 26 2014,?,Sampdoria,1-1,?,Bologna
+21,Sun Jan 26 2014,?,Livorno,3-1,?,Sassuolo
+21,Sun Jan 26 2014,?,Torino,1-0,?,Atalanta
+21,Sun Jan 26 2014,?,Inter,0-0,?,Catania
+21,Sun Jan 26 2014,?,Parma,1-0,?,Udinese
+21,Sun Jan 26 2014,?,Cagliari,1-2,?,Milan
+21,Sun Jan 26 2014,?,Hellas Verona,1-3,?,Roma
+21,Sun Jan 26 2014,?,Fiorentina,3-3,?,Genoa
+22,Sat Feb 1 2014,?,Milan,1-1,?,Torino
+22,Sat Feb 1 2014,?,Bologna,0-2,?,Udinese
+22,Sat Feb 1 2014,?,Cagliari,1-0,?,Fiorentina
+22,Sun Feb 2 2014,?,Sassuolo,1-2,?,Hellas Verona
+22,Sun Feb 2 2014,?,Catania,3-3,?,Livorno
+22,Sun Feb 2 2014,?,Juventus,3-1,?,Inter
+22,Sun Feb 2 2014,?,Chievo,0-2,?,Lazio
+22,Sun Feb 2 2014,?,Atalanta,3-0,?,Napoli
+22,Mon Feb 3 2014,?,Genoa,0-1,?,Sampdoria
+23,Sat Feb 8 2014,?,Udinese,3-0,?,Chievo
+23,Sat Feb 8 2014,?,Fiorentina,2-0,?,Atalanta
+23,Sat Feb 8 2014,?,Napoli,3-1,?,Milan
+23,Sun Feb 9 2014,?,Inter,1-0,?,Sassuolo
+23,Sun Feb 9 2014,?,Hellas Verona,2-2,?,Juventus
+23,Sun Feb 9 2014,?,Parma,0-0,?,Catania
+23,Sun Feb 9 2014,?,Sampdoria,1-0,?,Cagliari
+23,Sun Feb 9 2014,?,Lazio,0-0,?,Roma
+23,Sun Feb 9 2014,?,Torino,1-2,?,Bologna
+23,Sun Feb 9 2014,?,Livorno,0-1,?,Genoa
+24,Fri Feb 14 2014,?,Milan,1-0,?,Bologna
+24,Sat Feb 15 2014,?,Fiorentina,1-2,?,Inter
+24,Sun Feb 16 2014,?,Genoa,3-3,?,Udinese
+24,Sun Feb 16 2014,?,Atalanta,0-4,?,Parma
+24,Sun Feb 16 2014,?,Juventus,3-1,?,Chievo
+24,Sun Feb 16 2014,?,Roma,3-0,?,Sampdoria
+24,Sun Feb 16 2014,?,Sassuolo,0-2,?,Napoli
+24,Sun Feb 16 2014,?,Catania,3-1,?,Lazio
+24,Sun Feb 16 2014,?,Cagliari,1-2,?,Livorno
+24,Mon Feb 17 2014,?,Hellas Verona,1-3,?,Torino
+25,Sat Feb 22 2014,?,Bologna,0-1,?,Roma
+25,Sun Feb 23 2014,?,Sampdoria,0-2,?,Milan
+25,Sun Feb 23 2014,?,Udinese,1-1,?,Atalanta
+25,Sun Feb 23 2014,?,Chievo,2-0,?,Catania
+25,Sun Feb 23 2014,?,Livorno,2-3,?,Hellas Verona
+25,Sun Feb 23 2014,?,Juventus,1-0,?,Torino
+25,Sun Feb 23 2014,?,Lazio,3-2,?,Sassuolo
+25,Sun Feb 23 2014,?,Inter,1-1,?,Cagliari
+25,Mon Feb 24 2014,?,Parma,2-2,?,Fiorentina
+25,Mon Feb 24 2014,?,Napoli,1-1,?,Genoa
+26,Sat Mar 1 2014,?,Roma,0-0,?,Inter
+26,Sun Mar 2 2014,?,Milan,0-2,?,Juventus
+26,Sun Mar 2 2014,?,Atalanta,2-1,?,Chievo
+26,Sun Mar 2 2014,?,Torino,0-2,?,Sampdoria
+26,Sun Mar 2 2014,?,Cagliari,3-0,?,Udinese
+26,Sun Mar 2 2014,?,Livorno,1-1,?,Napoli
+26,Sun Mar 2 2014,?,Genoa,2-0,?,Catania
+26,Sun Mar 2 2014,?,Sassuolo,0-1,?,Parma
+26,Sun Mar 2 2014,?,Fiorentina,0-1,?,Lazio
+26,Sun Mar 2 2014,?,Hellas Verona,0-0,?,Bologna
+27,Sat Mar 8 2014,?,Catania,1-1,?,Cagliari
+27,Sat Mar 8 2014,?,Udinese,1-0,?,Milan
+27,Sun Mar 9 2014,?,Bologna,0-0,?,Sassuolo
+27,Sun Mar 9 2014,?,Chievo,2-1,?,Genoa
+27,Sun Mar 9 2014,?,Inter,1-0,?,Torino
+27,Sun Mar 9 2014,?,Lazio,0-1,?,Atalanta
+27,Sun Mar 9 2014,?,Parma,2-0,?,Hellas Verona
+27,Sun Mar 9 2014,?,Napoli,1-0,?,Roma
+27,Sun Mar 9 2014,?,Sampdoria,4-2,?,Livorno
+27,Sun Mar 9 2014,?,Juventus,1-0,?,Fiorentina
+28,Sat Mar 15 2014,?,Hellas Verona,0-2,?,Inter
+28,Sun Mar 16 2014,?,Milan,2-4,?,Parma
+28,Sun Mar 16 2014,?,Sassuolo,3-1,?,Catania
+28,Sun Mar 16 2014,?,Atalanta,3-0,?,Sampdoria
+28,Sun Mar 16 2014,?,Livorno,2-1,?,Bologna
+28,Sun Mar 16 2014,?,Fiorentina,3-1,?,Chievo
+28,Sun Mar 16 2014,?,Genoa,0-1,?,Juventus
+28,Sun Mar 16 2014,?,Cagliari,0-2,?,Lazio
+28,Mon Mar 17 2014,?,Torino,0-1,?,Napoli
+28,Mon Mar 17 2014,?,Roma,3-2,?,Udinese
+29,Sat Mar 22 2014,?,Torino,3-1,?,Livorno
+29,Sat Mar 22 2014,?,Chievo,0-2,?,Roma
+29,Sun Mar 23 2014,?,Bologna,1-0,?,Cagliari
+29,Sun Mar 23 2014,?,Catania,0-1,?,Juventus
+29,Sun Mar 23 2014,?,Parma,1-1,?,Genoa
+29,Sun Mar 23 2014,?,Sampdoria,5-0,?,Hellas Verona
+29,Sun Mar 23 2014,?,Napoli,0-1,?,Fiorentina
+29,Sun Mar 23 2014,?,Inter,1-2,?,Atalanta
+29,Sun Mar 23 2014,?,Lazio,1-1,?,Milan
+29,Sun Mar 23 2014,?,Udinese,1-0,?,Sassuolo
+30,Tue Mar 25 2014,?,Roma,2-1,?,Torino
+30,Wed Mar 26 2014,?,Catania,2-4,?,Napoli
+30,Wed Mar 26 2014,?,Cagliari,1-0,?,Hellas Verona
+30,Wed Mar 26 2014,?,Fiorentina,0-2,?,Milan
+30,Wed Mar 26 2014,?,Chievo,3-0,?,Bologna
+30,Wed Mar 26 2014,?,Juventus,2-1,?,Parma
+30,Wed Mar 26 2014,?,Atalanta,2-0,?,Livorno
+30,Wed Mar 26 2014,?,Genoa,2-0,?,Lazio
+30,Wed Mar 26 2014,?,Sassuolo,1-2,?,Sampdoria
+30,Thu Mar 27 2014,?,Inter,0-0,?,Udinese
+31,Sat Mar 29 2014,?,Bologna,0-2,?,Atalanta
+31,Sat Mar 29 2014,?,Milan,3-0,?,Chievo
+31,Sun Mar 30 2014,?,Napoli,2-0,?,Juventus
+31,Sun Mar 30 2014,?,Sassuolo,0-2,?,Roma
+31,Sun Mar 30 2014,?,Sampdoria,0-0,?,Fiorentina
+31,Sun Mar 30 2014,?,Lazio,3-2,?,Parma
+31,Sun Mar 30 2014,?,Torino,2-1,?,Cagliari
+31,Sun Mar 30 2014,?,Hellas Verona,3-0,?,Genoa
+31,Mon Mar 31 2014,?,Livorno,2-2,?,Inter
+31,Mon Mar 31 2014,?,Udinese,1-0,?,Catania
+22,Wed Apr 2 2014,?,Roma,4-2,?,Parma
+32,Sat Apr 5 2014,?,Chievo,0-1,?,Hellas Verona
+32,Sat Apr 5 2014,?,Inter,2-2,?,Bologna
+32,Sun Apr 6 2014,?,Fiorentina,2-1,?,Udinese
+32,Sun Apr 6 2014,?,Atalanta,0-2,?,Sassuolo
+32,Sun Apr 6 2014,?,Cagliari,1-3,?,Roma
+32,Sun Apr 6 2014,?,Lazio,2-0,?,Sampdoria
+32,Sun Apr 6 2014,?,Catania,1-2,?,Torino
+32,Sun Apr 6 2014,?,Parma,1-0,?,Napoli
+32,Mon Apr 7 2014,?,Genoa,1-2,?,Milan
+32,Mon Apr 7 2014,?,Juventus,2-0,?,Livorno
+33,Sat Apr 12 2014,?,Sassuolo,1-1,?,Cagliari
+33,Sat Apr 12 2014,?,Roma,3-1,?,Atalanta
+33,Sun Apr 13 2014,?,Milan,1-0,?,Catania
+33,Sun Apr 13 2014,?,Torino,2-1,?,Genoa
+33,Sun Apr 13 2014,?,Livorno,2-4,?,Chievo
+33,Sun Apr 13 2014,?,Napoli,4-2,?,Lazio
+33,Sun Apr 13 2014,?,Hellas Verona,3-5,?,Fiorentina
+33,Sun Apr 13 2014,?,Bologna,1-1,?,Parma
+33,Sun Apr 13 2014,?,Sampdoria,0-4,?,Inter
+33,Mon Apr 14 2014,?,Udinese,0-2,?,Juventus
+34,Sat Apr 19 2014,?,Juventus,1-0,?,Bologna
+34,Sat Apr 19 2014,?,Chievo,0-1,?,Sassuolo
+34,Sat Apr 19 2014,?,Udinese,1-1,?,Napoli
+34,Sat Apr 19 2014,?,Lazio,3-3,?,Torino
+34,Sat Apr 19 2014,?,Parma,0-2,?,Inter
+34,Sat Apr 19 2014,?,Atalanta,1-2,?,Hellas Verona
+34,Sat Apr 19 2014,?,Fiorentina,0-1,?,Roma
+34,Sat Apr 19 2014,?,Catania,2-1,?,Sampdoria
+34,Sat Apr 19 2014,?,Genoa,1-2,?,Cagliari
+34,Sat Apr 19 2014,?,Milan,3-0,?,Livorno
+35,Fri Apr 25 2014,?,Roma,2-0,?,Milan
+35,Sat Apr 26 2014,?,Inter,0-0,?,Napoli
+35,Sat Apr 26 2014,?,Bologna,0-3,?,Fiorentina
+35,Sun Apr 27 2014,?,Torino,2-0,?,Udinese
+35,Sun Apr 27 2014,?,Hellas Verona,4-0,?,Catania
+35,Sun Apr 27 2014,?,Sampdoria,2-1,?,Chievo
+35,Sun Apr 27 2014,?,Atalanta,1-1,?,Genoa
+35,Sun Apr 27 2014,?,Livorno,0-2,?,Lazio
+35,Sun Apr 27 2014,?,Cagliari,1-0,?,Parma
+35,Mon Apr 28 2014,?,Sassuolo,1-3,?,Juventus
+36,Sun May 4 2014,?,Chievo,0-1,?,Torino
+36,Sun May 4 2014,?,Milan,1-0,?,Inter
+36,Sun May 4 2014,?,Parma,2-0,?,Sampdoria
+36,Sun May 4 2014,?,Genoa,0-0,?,Bologna
+36,Sun May 4 2014,?,Catania,4-1,?,Roma
+36,Sun May 4 2014,?,Udinese,5-3,?,Livorno
+36,Mon May 5 2014,?,Juventus,1-0,?,Atalanta
+36,Mon May 5 2014,?,Lazio,3-3,?,Hellas Verona
+36,Tue May 6 2014,?,Napoli,3-0,?,Cagliari
+36,Tue May 6 2014,?,Fiorentina,3-4,?,Sassuolo
+37,Sat May 10 2014,?,Inter,4-1,?,Lazio
+37,Sat May 10 2014,?,Hellas Verona,2-2,?,Udinese
+37,Sun May 11 2014,?,Roma,0-1,?,Juventus
+37,Sun May 11 2014,?,Sampdoria,2-5,?,Napoli
+37,Sun May 11 2014,?,Sassuolo,4-2,?,Genoa
+37,Sun May 11 2014,?,Bologna,1-2,?,Catania
+37,Sun May 11 2014,?,Livorno,0-1,?,Fiorentina
+37,Sun May 11 2014,?,Torino,1-1,?,Parma
+37,Sun May 11 2014,?,Atalanta,2-1,?,Milan
+37,Sun May 11 2014,?,Cagliari,0-1,?,Chievo
+38,Sat May 17 2014,?,Udinese,3-3,?,Sampdoria
+38,Sun May 18 2014,?,Parma,2-0,?,Livorno
+38,Sun May 18 2014,?,Milan,2-1,?,Sassuolo
+38,Sun May 18 2014,?,Chievo,2-1,?,Inter
+38,Sun May 18 2014,?,Genoa,1-0,?,Roma
+38,Sun May 18 2014,?,Catania,2-1,?,Atalanta
+38,Sun May 18 2014,?,Juventus,3-0,?,Cagliari
+38,Sun May 18 2014,?,Lazio,1-0,?,Bologna
+38,Sun May 18 2014,?,Fiorentina,2-2,?,Torino
+38,Sun May 18 2014,?,Napoli,5-1,?,Hellas Verona

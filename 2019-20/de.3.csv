@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Fri Jul 19 2019,19:00,1860 Munich,1-1,?,Preußen Münster
+1,Sat Jul 20 2019,14:00,Hansa Rostock,3-3,?,Viktoria Köln
+1,Sat Jul 20 2019,14:00,Meppen,0-2,?,Zwickau
+1,Sat Jul 20 2019,14:00,Kaiserslautern,1-1,?,Unterhaching
+1,Sat Jul 20 2019,14:00,MSV Duisburg,4-1,?,Großaspach
+1,Sat Jul 20 2019,14:00,W'burg Kickers,3-1,?,FC Bayern II
+1,Sat Jul 20 2019,17:45,Magdeburg,2-4,?,Braunschweig
+1,Sun Jul 21 2019,13:00,Chemnitzer FC,1-1,?,SV Waldhof
+1,Sun Jul 21 2019,14:00,Uerdingen,1-0,?,Hallescher
+1,Mon Jul 22 2019,19:00,Carl Zeiss Jena,1-2,?,Ingolstadt 04
+2,Fri Jul 26 2019,19:00,FC Bayern II,2-1,?,Uerdingen
+2,Sat Jul 27 2019,14:00,SV Waldhof,0-0,?,Meppen
+2,Sat Jul 27 2019,14:00,Unterhaching,5-4,?,W'burg Kickers
+2,Sat Jul 27 2019,14:00,Hallescher,1-0,?,Hansa Rostock
+2,Sat Jul 27 2019,14:00,Preußen Münster,2-0,?,Carl Zeiss Jena
+2,Sat Jul 27 2019,14:00,Ingolstadt 04,3-2,?,MSV Duisburg
+2,Sat Jul 27 2019,14:00,Großaspach,1-3,?,Kaiserslautern
+2,Sat Jul 27 2019,14:00,Braunschweig,2-1,?,1860 Munich
+2,Sun Jul 28 2019,13:00,Viktoria Köln,3-2,?,Chemnitzer FC
+2,Sun Jul 28 2019,14:00,Zwickau,0-0,?,Magdeburg
+3,Tue Jul 30 2019,19:00,Carl Zeiss Jena,0-2,?,Braunschweig
+3,Tue Jul 30 2019,19:00,W'burg Kickers,0-3,?,Großaspach
+3,Tue Jul 30 2019,19:00,Uerdingen,2-2,?,Unterhaching
+3,Tue Jul 30 2019,19:00,Hansa Rostock,2-1,?,FC Bayern II
+3,Tue Jul 30 2019,19:00,Kaiserslautern,0-0,?,Ingolstadt 04
+3,Wed Jul 31 2019,19:00,1860 Munich,3-0,?,Zwickau
+3,Wed Jul 31 2019,19:00,Viktoria Köln,0-2,?,Hallescher
+3,Wed Jul 31 2019,19:00,Chemnitzer FC,2-4,?,Meppen
+3,Wed Jul 31 2019,19:00,MSV Duisburg,2-0,?,Preußen Münster
+3,Wed Jul 31 2019,19:00,Magdeburg,1-1,?,SV Waldhof
+4,Fri Aug 2 2019,19:00,Ingolstadt 04,3-0,?,W'burg Kickers
+4,Sat Aug 3 2019,14:00,Preußen Münster,3-2,?,Kaiserslautern
+4,Sat Aug 3 2019,14:00,Unterhaching,1-0,?,Hansa Rostock
+4,Sat Aug 3 2019,14:00,Großaspach,2-2,?,Uerdingen
+4,Sat Aug 3 2019,14:00,Meppen,1-3,?,Magdeburg
+4,Sat Aug 3 2019,14:00,FC Bayern II,2-5,?,Viktoria Köln
+4,Sat Aug 3 2019,14:00,Hallescher,3-1,?,Chemnitzer FC
+4,Sun Aug 4 2019,13:00,Braunschweig,0-3,?,MSV Duisburg
+4,Sun Aug 4 2019,14:00,Zwickau,2-0,?,Carl Zeiss Jena
+4,Mon Aug 5 2019,19:00,SV Waldhof,4-0,?,1860 Munich
+5,Fri Aug 16 2019,19:00,Chemnitzer FC,0-0,?,Magdeburg
+5,Sat Aug 17 2019,14:00,1860 Munich,0-0,?,Meppen
+5,Sat Aug 17 2019,14:00,MSV Duisburg,3-1,?,Zwickau
+5,Sat Aug 17 2019,14:00,Uerdingen,0-3,?,Ingolstadt 04
+5,Sat Aug 17 2019,14:00,Viktoria Köln,0-2,?,Unterhaching
+5,Sat Aug 17 2019,14:00,W'burg Kickers,3-2,?,Preußen Münster
+5,Sat Aug 17 2019,14:00,Hansa Rostock,0-1,?,Großaspach
+5,Sun Aug 18 2019,13:00,Kaiserslautern,0-3,?,Braunschweig
+5,Sun Aug 18 2019,14:00,Carl Zeiss Jena,1-2,?,SV Waldhof
+5,Mon Aug 19 2019,19:00,Hallescher,1-2,?,FC Bayern II
+6,Fri Aug 23 2019,19:00,Ingolstadt 04,2-2,?,Hansa Rostock
+6,Sat Aug 24 2019,14:00,Meppen,3-0,?,Carl Zeiss Jena
+6,Sat Aug 24 2019,14:00,FC Bayern II,2-2,?,Chemnitzer FC
+6,Sat Aug 24 2019,14:00,Großaspach,0-3,?,Viktoria Köln
+6,Sat Aug 24 2019,14:00,Preußen Münster,1-1,?,Uerdingen
+6,Sat Aug 24 2019,14:00,Magdeburg,5-1,?,1860 Munich
+6,Sat Aug 24 2019,14:00,Braunschweig,5-2,?,W'burg Kickers
+6,Sun Aug 25 2019,13:00,SV Waldhof,4-3,?,MSV Duisburg
+6,Sun Aug 25 2019,14:00,Unterhaching,0-3,?,Hallescher
+6,Mon Aug 26 2019,19:00,Zwickau,3-5,?,Kaiserslautern
+7,Fri Aug 30 2019,18:00,Chemnitzer FC,0-1,?,1860 Munich
+7,Sat Aug 31 2019,14:00,Hallescher,4-0,?,Großaspach
+7,Sat Aug 31 2019,14:00,W'burg Kickers,0-2,?,Zwickau
+7,Sat Aug 31 2019,14:00,Hansa Rostock,1-0,?,Preußen Münster
+7,Sat Aug 31 2019,14:00,FC Bayern II,1-2,?,Unterhaching
+7,Sat Aug 31 2019,14:00,Viktoria Köln,3-0,?,Ingolstadt 04
+7,Sun Sep 1 2019,13:00,Kaiserslautern,1-1,?,SV Waldhof
+7,Sun Sep 1 2019,14:00,Uerdingen,1-2,?,Braunschweig
+7,Mon Sep 2 2019,19:00,Carl Zeiss Jena,1-1,?,Magdeburg
+8,Fri Sep 13 2019,19:00,Magdeburg,1-1,?,MSV Duisburg
+8,Sat Sep 14 2019,14:00,Meppen,6-1,?,Kaiserslautern
+8,Sat Sep 14 2019,14:00,Zwickau,1-2,?,Uerdingen
+8,Sat Sep 14 2019,14:00,Großaspach,2-2,?,FC Bayern II
+8,Sat Sep 14 2019,14:00,1860 Munich,3-1,?,Carl Zeiss Jena
+8,Sat Sep 14 2019,14:00,Preußen Münster,2-3,?,Viktoria Köln
+8,Sat Sep 14 2019,14:00,SV Waldhof,1-2,?,W'burg Kickers
+8,Sun Sep 15 2019,13:00,Ingolstadt 04,2-3,?,Hallescher
+8,Sun Sep 15 2019,14:00,Braunschweig,1-2,?,Hansa Rostock
+8,Mon Sep 16 2019,19:00,Unterhaching,2-1,?,Chemnitzer FC
+9,Fri Sep 20 2019,19:00,W'burg Kickers,3-2,?,Meppen
+9,Sat Sep 21 2019,14:00,Hallescher,2-2,?,Preußen Münster
+9,Sat Sep 21 2019,14:00,MSV Duisburg,2-1,?,1860 Munich
+9,Sat Sep 21 2019,14:00,Viktoria Köln,0-0,?,Braunschweig
+9,Sat Sep 21 2019,14:00,Kaiserslautern,1-1,?,Magdeburg
+9,Sat Sep 21 2019,14:00,Chemnitzer FC,3-2,?,Carl Zeiss Jena
+9,Sat Sep 21 2019,14:00,Unterhaching,2-0,?,Großaspach
+9,Sun Sep 22 2019,13:00,Hansa Rostock,1-1,?,Zwickau
+9,Sun Sep 22 2019,14:00,FC Bayern II,2-1,?,Ingolstadt 04
+9,Mon Sep 23 2019,19:00,Uerdingen,0-3,?,SV Waldhof
+10,Fri Sep 27 2019,19:00,Magdeburg,3-0,?,W'burg Kickers
+10,Sat Sep 28 2019,14:00,Preußen Münster,1-4,?,FC Bayern II
+10,Sat Sep 28 2019,14:00,Großaspach,2-0,?,Chemnitzer FC
+10,Sat Sep 28 2019,14:00,1860 Munich,3-1,?,Kaiserslautern
+10,Sat Sep 28 2019,14:00,Carl Zeiss Jena,1-2,?,MSV Duisburg
+10,Sat Sep 28 2019,14:00,Zwickau,4-0,?,Viktoria Köln
+10,Sat Sep 28 2019,14:00,Braunschweig,1-1,?,Hallescher
+10,Sun Sep 29 2019,13:00,SV Waldhof,1-1,?,Hansa Rostock
+10,Sun Sep 29 2019,14:00,Meppen,1-2,?,Uerdingen
+10,Mon Sep 30 2019,19:00,Ingolstadt 04,0-0,?,Unterhaching
+7,Wed Oct 2 2019,19:00,MSV Duisburg,1-3,?,Meppen
+11,Fri Oct 4 2019,19:00,Uerdingen,0-0,?,Magdeburg
+11,Sat Oct 5 2019,14:00,Hansa Rostock,2-1,?,Meppen
+11,Sat Oct 5 2019,14:00,Hallescher,1-1,?,Zwickau
+11,Sat Oct 5 2019,14:00,Großaspach,1-5,?,Ingolstadt 04
+11,Sat Oct 5 2019,14:00,Kaiserslautern,3-1,?,Carl Zeiss Jena
+11,Sat Oct 5 2019,14:00,Viktoria Köln,2-2,?,SV Waldhof
+11,Sat Oct 5 2019,14:00,Unterhaching,2-2,?,Preußen Münster
+11,Sun Oct 6 2019,13:00,FC Bayern II,2-0,?,Braunschweig
+11,Sun Oct 6 2019,14:00,Chemnitzer FC,3-1,?,MSV Duisburg
+11,Mon Oct 7 2019,19:00,W'burg Kickers,2-1,?,1860 Munich
+12,Fri Oct 18 2019,19:00,MSV Duisburg,3-1,?,Kaiserslautern
+12,Sat Oct 19 2019,14:00,SV Waldhof,0-4,?,Hallescher
+12,Sat Oct 19 2019,14:00,1860 Munich,0-1,?,Uerdingen
+12,Sat Oct 19 2019,14:00,Preußen Münster,1-1,?,Großaspach
+12,Sat Oct 19 2019,14:00,Braunschweig,0-0,?,Unterhaching
+12,Sat Oct 19 2019,14:00,Magdeburg,0-1,?,Hansa Rostock
+12,Sat Oct 19 2019,14:00,Ingolstadt 04,1-1,?,Chemnitzer FC
+12,Sun Oct 20 2019,13:00,Zwickau,3-0,?,FC Bayern II
+12,Sun Oct 20 2019,14:00,Carl Zeiss Jena,1-1,?,W'burg Kickers
+12,Mon Oct 21 2019,19:00,Meppen,1-1,?,Viktoria Köln
+13,Fri Oct 25 2019,19:00,Viktoria Köln,1-1,?,Magdeburg
+13,Sat Oct 26 2019,14:00,Hallescher,3-3,?,Meppen
+13,Sat Oct 26 2019,14:00,Unterhaching,0-0,?,Zwickau
+13,Sat Oct 26 2019,14:00,Uerdingen,2-0,?,Carl Zeiss Jena
+13,Sat Oct 26 2019,14:00,Ingolstadt 04,3-2,?,Preußen Münster
+13,Sat Oct 26 2019,14:00,Hansa Rostock,2-1,?,1860 Munich
+13,Sat Oct 26 2019,14:00,W'burg Kickers,0-2,?,MSV Duisburg
+13,Sun Oct 27 2019,13:00,Chemnitzer FC,3-1,?,Kaiserslautern
+13,Sun Oct 27 2019,14:00,Großaspach,1-3,?,Braunschweig
+13,Mon Oct 28 2019,19:00,FC Bayern II,2-2,?,SV Waldhof
+14,Fri Nov 1 2019,19:00,Zwickau,0-1,?,Großaspach
+14,Sat Nov 2 2019,14:00,Magdeburg,1-0,?,Hallescher
+14,Sat Nov 2 2019,14:00,1860 Munich,4-2,?,Viktoria Köln
+14,Sat Nov 2 2019,14:00,Braunschweig,0-3,?,Ingolstadt 04
+14,Sat Nov 2 2019,14:00,Kaiserslautern,2-3,?,W'burg Kickers
+14,Sat Nov 2 2019,14:00,Preußen Münster,3-3,?,Chemnitzer FC
+14,Sat Nov 2 2019,14:00,SV Waldhof,0-3,?,Unterhaching
+14,Sun Nov 3 2019,13:00,Meppen,5-3,?,FC Bayern II
+14,Sun Nov 3 2019,14:00,Carl Zeiss Jena,3-1,?,Hansa Rostock
+14,Mon Nov 4 2019,19:00,MSV Duisburg,2-0,?,Uerdingen
+15,Fri Nov 8 2019,19:00,Viktoria Köln,2-2,?,Carl Zeiss Jena
+15,Sat Nov 9 2019,14:00,Großaspach,0-3,?,SV Waldhof
+15,Sat Nov 9 2019,14:00,Uerdingen,0-3,?,Kaiserslautern
+15,Sat Nov 9 2019,14:00,Unterhaching,0-0,?,Meppen
+15,Sat Nov 9 2019,14:00,Hansa Rostock,1-2,?,MSV Duisburg
+15,Sat Nov 9 2019,14:00,Ingolstadt 04,4-2,?,Zwickau
+15,Sat Nov 9 2019,14:00,Hallescher,0-1,?,1860 Munich
+15,Sun Nov 10 2019,13:00,FC Bayern II,2-1,?,Magdeburg
+15,Sun Nov 10 2019,14:00,Chemnitzer FC,0-0,?,W'burg Kickers
+15,Mon Nov 11 2019,19:00,Preußen Münster,1-1,?,Braunschweig
+16,Fri Nov 22 2019,19:00,Carl Zeiss Jena,0-3,?,Hallescher
+16,Sat Nov 23 2019,14:00,Braunschweig,2-1,?,Chemnitzer FC
+16,Sat Nov 23 2019,14:00,Magdeburg,3-0,?,Unterhaching
+16,Sat Nov 23 2019,14:00,W'burg Kickers,1-2,?,Uerdingen
+16,Sat Nov 23 2019,14:00,Meppen,2-1,?,Großaspach
+16,Sat Nov 23 2019,14:00,Zwickau,4-2,?,Preußen Münster
+16,Sat Nov 23 2019,14:00,SV Waldhof,0-0,?,Ingolstadt 04
+16,Sun Nov 24 2019,13:00,Kaiserslautern,2-0,?,Hansa Rostock
+16,Sun Nov 24 2019,14:00,1860 Munich,1-1,?,FC Bayern II
+16,Mon Nov 25 2019,19:00,MSV Duisburg,2-1,?,Viktoria Köln
+17,Fri Nov 29 2019,19:00,FC Bayern II,2-3,?,Carl Zeiss Jena
+17,Sat Nov 30 2019,14:00,Viktoria Köln,2-4,?,Kaiserslautern
+17,Sat Nov 30 2019,14:00,Hallescher,1-0,?,MSV Duisburg
+17,Sat Nov 30 2019,14:00,Preußen Münster,1-3,?,SV Waldhof
+17,Sat Nov 30 2019,14:00,Großaspach,1-2,?,Magdeburg
+17,Sat Nov 30 2019,14:00,Chemnitzer FC,1-1,?,Uerdingen
+17,Sat Nov 30 2019,14:00,Hansa Rostock,1-0,?,W'burg Kickers
+17,Sun Dec 1 2019,13:00,Ingolstadt 04,1-1,?,Meppen
+17,Sun Dec 1 2019,14:00,Unterhaching,2-3,?,1860 Munich
+17,Mon Dec 2 2019,19:00,Braunschweig,3-1,?,Zwickau
+18,Fri Dec 6 2019,19:00,Chemnitzer FC,2-2,?,Zwickau
+18,Sat Dec 7 2019,14:00,Carl Zeiss Jena,0-3,?,Unterhaching
+18,Sat Dec 7 2019,14:00,W'burg Kickers,3-1,?,Viktoria Köln
+18,Sat Dec 7 2019,14:00,Uerdingen,4-1,?,Hansa Rostock
+18,Sat Dec 7 2019,14:00,1860 Munich,1-1,?,Großaspach
+18,Sat Dec 7 2019,14:00,Magdeburg,0-2,?,Ingolstadt 04
+18,Sat Dec 7 2019,14:00,Kaiserslautern,1-0,?,Hallescher
+18,Sun Dec 8 2019,13:00,SV Waldhof,0-0,?,Braunschweig
+18,Sun Dec 8 2019,14:00,MSV Duisburg,3-2,?,FC Bayern II
+18,Mon Dec 9 2019,19:00,Meppen,3-1,?,Preußen Münster
+19,Fri Dec 13 2019,19:00,Preußen Münster,2-0,?,Magdeburg
+19,Sat Dec 14 2019,14:00,Hansa Rostock,1-2,?,Chemnitzer FC
+19,Sat Dec 14 2019,14:00,FC Bayern II,1-3,?,Kaiserslautern
+19,Sat Dec 14 2019,14:00,Zwickau,0-1,?,SV Waldhof
+19,Sat Dec 14 2019,14:00,Hallescher,2-5,?,W'burg Kickers
+19,Sat Dec 14 2019,14:00,Braunschweig,1-2,?,Meppen
+19,Sat Dec 14 2019,14:00,Viktoria Köln,0-1,?,Uerdingen
+19,Sun Dec 15 2019,13:00,Großaspach,1-2,?,Carl Zeiss Jena
+19,Sun Dec 15 2019,14:00,Unterhaching,2-2,?,MSV Duisburg
+19,Mon Dec 16 2019,19:00,Ingolstadt 04,2-2,?,1860 Munich
+20,Fri Dec 20 2019,19:00,Viktoria Köln,1-5,?,Hansa Rostock
+20,Sat Dec 21 2019,14:00,SV Waldhof,4-3,?,Chemnitzer FC
+20,Sat Dec 21 2019,14:00,Zwickau,2-2,?,Meppen
+20,Sat Dec 21 2019,14:00,Großaspach,1-1,?,MSV Duisburg
+20,Sat Dec 21 2019,14:00,Unterhaching,1-1,?,Kaiserslautern
+20,Sat Dec 21 2019,14:00,Braunschweig,2-2,?,Magdeburg
+20,Sat Dec 21 2019,14:00,Preußen Münster,0-1,?,1860 Munich
+20,Sun Dec 22 2019,13:00,Hallescher,1-1,?,Uerdingen
+20,Sun Dec 22 2019,14:00,Ingolstadt 04,5-1,?,Carl Zeiss Jena
+20,Sun Dec 22 2019,15:00,FC Bayern II,1-1,?,W'burg Kickers
+21,Fri Jan 24 2020,19:00,Hansa Rostock,1-0,?,Hallescher
+21,Sat Jan 25 2020,14:00,MSV Duisburg,1-1,?,Ingolstadt 04
+21,Sat Jan 25 2020,14:00,Meppen,0-1,?,SV Waldhof
+21,Sat Jan 25 2020,14:00,W'burg Kickers,1-2,?,Unterhaching
+21,Sat Jan 25 2020,14:00,Magdeburg,1-2,?,Zwickau
+21,Sat Jan 25 2020,14:00,Carl Zeiss Jena,1-2,?,Preußen Münster
+21,Sat Jan 25 2020,14:00,Chemnitzer FC,2-2,?,Viktoria Köln
+21,Sun Jan 26 2020,13:00,1860 Munich,4-1,?,Braunschweig
+21,Sun Jan 26 2020,14:00,Uerdingen,0-3,?,FC Bayern II
+21,Mon Jan 27 2020,19:00,Kaiserslautern,0-0,?,Großaspach
+22,Fri Jan 31 2020,19:00,Hallescher,3-4,?,Viktoria Köln
+22,Sat Feb 1 2020,14:00,Braunschweig,1-1,?,Carl Zeiss Jena
+22,Sat Feb 1 2020,14:00,Unterhaching,1-0,?,Uerdingen
+22,Sat Feb 1 2020,14:00,Meppen,1-2,?,Chemnitzer FC
+22,Sat Feb 1 2020,14:00,Preußen Münster,1-4,?,MSV Duisburg
+22,Sat Feb 1 2020,14:00,FC Bayern II,1-0,?,Hansa Rostock
+22,Sat Feb 1 2020,14:00,Ingolstadt 04,2-1,?,Kaiserslautern
+22,Sun Feb 2 2020,13:00,SV Waldhof,1-1,?,Magdeburg
+22,Sun Feb 2 2020,14:00,Zwickau,2-2,?,1860 Munich
+22,Mon Feb 3 2020,19:00,Großaspach,0-6,?,W'burg Kickers
+23,Fri Feb 7 2020,19:00,MSV Duisburg,1-1,?,Braunschweig
+23,Sat Feb 8 2020,14:00,Uerdingen,2-1,?,Großaspach
+23,Sat Feb 8 2020,14:00,Hansa Rostock,1-1,?,Unterhaching
+23,Sat Feb 8 2020,14:00,Magdeburg,0-2,?,Meppen
+23,Sat Feb 8 2020,14:00,Kaiserslautern,1-1,?,Preußen Münster
+23,Sat Feb 8 2020,14:00,1860 Munich,1-1,?,SV Waldhof
+23,Sat Feb 8 2020,14:00,Viktoria Köln,2-4,?,FC Bayern II
+23,Sun Feb 9 2020,13:00,W'burg Kickers,3-1,?,Ingolstadt 04
+23,Sun Feb 9 2020,14:00,Chemnitzer FC,3-0,?,Hallescher
+23,Mon Feb 10 2020,19:00,Carl Zeiss Jena,2-1,?,Zwickau
+24,Fri Feb 14 2020,19:00,Preußen Münster,0-0,?,W'burg Kickers
+24,Sat Feb 15 2020,14:00,Magdeburg,1-1,?,Chemnitzer FC
+24,Sat Feb 15 2020,14:00,Braunschweig,2-0,?,Kaiserslautern
+24,Sat Feb 15 2020,14:00,Ingolstadt 04,0-1,?,Uerdingen
+24,Sat Feb 15 2020,14:00,Großaspach,0-1,?,Hansa Rostock
+24,Sat Feb 15 2020,14:00,Unterhaching,1-1,?,Viktoria Köln
+24,Sat Feb 15 2020,14:00,Meppen,1-1,?,1860 Munich
+24,Sun Feb 16 2020,13:00,Zwickau,1-0,?,MSV Duisburg
+24,Sun Feb 16 2020,14:00,SV Waldhof,1-1,?,Carl Zeiss Jena
+24,Mon Feb 17 2020,19:00,FC Bayern II,6-1,?,Hallescher
+25,Fri Feb 21 2020,19:00,Viktoria Köln,1-0,?,Großaspach
+25,Sat Feb 22 2020,14:00,Hansa Rostock,3-0,?,Ingolstadt 04
+25,Sat Feb 22 2020,14:00,Carl Zeiss Jena,0-2,?,Meppen
+25,Sat Feb 22 2020,14:00,Kaiserslautern,0-0,?,Zwickau
+25,Sat Feb 22 2020,14:00,W'burg Kickers,3-1,?,Braunschweig
+25,Sat Feb 22 2020,14:00,Uerdingen,0-2,?,Preußen Münster
+25,Sat Feb 22 2020,14:00,MSV Duisburg,2-3,?,SV Waldhof
+25,Sun Feb 23 2020,13:00,1860 Munich,1-1,?,Magdeburg
+25,Sun Feb 23 2020,14:00,Hallescher,3-5,?,Unterhaching
+25,Mon Feb 24 2020,19:00,Chemnitzer FC,1-0,?,FC Bayern II
+26,Fri Feb 28 2020,19:00,Unterhaching,0-1,?,FC Bayern II
+26,Sat Feb 29 2020,14:00,Zwickau,1-2,?,W'burg Kickers
+26,Sat Feb 29 2020,14:00,SV Waldhof,1-1,?,Kaiserslautern
+26,Sat Feb 29 2020,14:00,Großaspach,1-0,?,Hallescher
+26,Sat Feb 29 2020,14:00,Braunschweig,4-1,?,Uerdingen
+26,Sat Feb 29 2020,14:00,1860 Munich,4-3,?,Chemnitzer FC
+26,Sat Feb 29 2020,14:00,Magdeburg,6-2,?,Carl Zeiss Jena
+26,Sun Mar 1 2020,13:00,Ingolstadt 04,0-1,?,Viktoria Köln
+26,Sun Mar 1 2020,14:00,Meppen,1-0,?,MSV Duisburg
+26,Mon Mar 2 2020,19:00,Preußen Münster,1-0,?,Hansa Rostock
+27,Fri Mar 6 2020,19:00,MSV Duisburg,1-0,?,Magdeburg
+27,Sat Mar 7 2020,14:00,Chemnitzer FC,1-0,?,Unterhaching
+27,Sat Mar 7 2020,14:00,Kaiserslautern,3-3,?,Meppen
+27,Sat Mar 7 2020,14:00,Viktoria Köln,2-1,?,Preußen Münster
+27,Sat Mar 7 2020,14:00,W'burg Kickers,0-0,?,SV Waldhof
+27,Sat Mar 7 2020,14:00,Carl Zeiss Jena,0-3,?,1860 Munich
+27,Sat Mar 7 2020,14:00,FC Bayern II,2-0,?,Großaspach
+27,Sun Mar 8 2020,13:00,Uerdingen,4-2,?,Zwickau
+27,Sun Mar 8 2020,14:00,Hallescher,1-1,?,Ingolstadt 04
+27,Mon Mar 9 2020,19:00,Hansa Rostock,3-0,?,Braunschweig
+28,Sat May 30 2020,14:00,SV Waldhof,1-2,?,Uerdingen
+28,Sat May 30 2020,14:00,Magdeburg,0-1,?,Kaiserslautern
+28,Sat May 30 2020,14:00,Zwickau,2-2,?,Hansa Rostock
+28,Sat May 30 2020,14:00,Meppen,1-3,?,W'burg Kickers
+28,Sat May 30 2020,14:00,Braunschweig,4-2,?,Viktoria Köln
+28,Sat May 30 2020,14:00,Großaspach,0-2,?,Unterhaching
+28,Sat May 30 2020,14:00,Ingolstadt 04,1-2,?,FC Bayern II
+28,Sun May 31 2020,13:00,1860 Munich,3-2,?,MSV Duisburg
+28,Sun May 31 2020,14:00,Preußen Münster,4-2,?,Hallescher
+28,Sun May 31 2020,17:00,Carl Zeiss Jena,0-1,?,Chemnitzer FC
+29,Tue Jun 2 2020,19:00,W'burg Kickers,0-1,?,Magdeburg
+29,Tue Jun 2 2020,19:00,Uerdingen,0-0,?,Meppen
+29,Tue Jun 2 2020,19:00,Viktoria Köln,3-0,?,Zwickau
+29,Tue Jun 2 2020,20:30,Unterhaching,1-2,?,Ingolstadt 04
+29,Tue Jun 2 2020,20:30,Hansa Rostock,0-1,?,SV Waldhof
+29,Wed Jun 3 2020,19:00,FC Bayern II,3-2,?,Preußen Münster
+29,Wed Jun 3 2020,19:00,MSV Duisburg,1-1,?,Carl Zeiss Jena
+29,Wed Jun 3 2020,19:00,Hallescher,0-1,?,Braunschweig
+29,Wed Jun 3 2020,20:30,Kaiserslautern,1-1,?,1860 Munich
+29,Wed Jun 3 2020,20:30,Chemnitzer FC,0-1,?,Großaspach
+30,Fri Jun 5 2020,19:00,Magdeburg,1-1,?,Uerdingen
+30,Sat Jun 6 2020,14:00,1860 Munich,1-2,?,W'burg Kickers
+30,Sat Jun 6 2020,14:00,Zwickau,5-1,?,Hallescher
+30,Sat Jun 6 2020,14:00,MSV Duisburg,2-1,?,Chemnitzer FC
+30,Sat Jun 6 2020,14:00,Braunschweig,1-1,?,FC Bayern II
+30,Sat Jun 6 2020,14:00,SV Waldhof,2-1,?,Viktoria Köln
+30,Sat Jun 6 2020,14:00,Meppen,0-3,?,Hansa Rostock
+30,Sun Jun 7 2020,13:00,Preußen Münster,2-1,?,Unterhaching
+30,Sun Jun 7 2020,14:00,Kaiserslautern,2-1,?,Carl Zeiss Jena
+30,Sun Jun 7 2020,17:00,Ingolstadt 04,1-1,?,Großaspach
+31,Tue Jun 9 2020,19:00,Viktoria Köln,1-3,?,Meppen
+31,Tue Jun 9 2020,19:00,Uerdingen,1-3,?,1860 Munich
+31,Tue Jun 9 2020,19:00,FC Bayern II,2-0,?,Zwickau
+31,Tue Jun 9 2020,20:30,Hallescher,3-0,?,SV Waldhof
+31,Tue Jun 9 2020,20:30,Hansa Rostock,3-1,?,Magdeburg
+31,Wed Jun 10 2020,19:00,Großaspach,0-0,?,Preußen Münster
+31,Wed Jun 10 2020,19:00,W'burg Kickers,4-2,?,Carl Zeiss Jena
+31,Wed Jun 10 2020,19:00,Chemnitzer FC,0-1,?,Ingolstadt 04
+31,Wed Jun 10 2020,20:30,Unterhaching,1-3,?,Braunschweig
+31,Wed Jun 10 2020,20:30,Kaiserslautern,1-3,?,MSV Duisburg
+32,Fri Jun 12 2020,19:00,Meppen,2-3,?,Hallescher
+32,Sat Jun 13 2020,14:00,1860 Munich,0-1,?,Hansa Rostock
+32,Sat Jun 13 2020,14:00,Kaiserslautern,2-0,?,Chemnitzer FC
+32,Sat Jun 13 2020,14:00,Braunschweig,2-1,?,Großaspach
+32,Sat Jun 13 2020,14:00,Magdeburg,2-0,?,Viktoria Köln
+32,Sat Jun 13 2020,14:00,MSV Duisburg,1-1,?,W'burg Kickers
+32,Sat Jun 13 2020,14:00,Preußen Münster,0-0,?,Ingolstadt 04
+32,Sun Jun 14 2020,13:00,Carl Zeiss Jena,0-0,?,Uerdingen
+32,Sun Jun 14 2020,14:00,Zwickau,3-3,?,Unterhaching
+32,Sun Jun 14 2020,17:00,SV Waldhof,2-3,?,FC Bayern II
+33,Tue Jun 16 2020,19:00,Ingolstadt 04,0-0,?,Braunschweig
+33,Tue Jun 16 2020,19:00,W'burg Kickers,2-0,?,Kaiserslautern
+33,Tue Jun 16 2020,19:00,Chemnitzer FC,1-0,?,Preußen Münster
+33,Tue Jun 16 2020,20:30,Hallescher,1-1,?,Magdeburg
+33,Tue Jun 16 2020,20:30,Viktoria Köln,2-0,?,1860 Munich
+33,Wed Jun 17 2020,19:00,Großaspach,1-0,?,Zwickau
+33,Wed Jun 17 2020,19:00,FC Bayern II,5-1,?,Meppen
+33,Wed Jun 17 2020,19:00,Unterhaching,0-0,?,SV Waldhof
+33,Wed Jun 17 2020,20:30,Uerdingen,1-1,?,MSV Duisburg
+33,Wed Jun 17 2020,20:30,Hansa Rostock,4-0,?,Carl Zeiss Jena
+34,Fri Jun 19 2020,19:00,W'burg Kickers,3-0,?,Chemnitzer FC
+34,Sat Jun 20 2020,14:00,SV Waldhof,3-2,?,Großaspach
+34,Sat Jun 20 2020,14:00,Kaiserslautern,4-0,?,Uerdingen
+34,Sat Jun 20 2020,14:00,Braunschweig,1-0,?,Preußen Münster
+34,Sat Jun 20 2020,14:00,Magdeburg,2-2,?,FC Bayern II
+34,Sat Jun 20 2020,14:00,Carl Zeiss Jena,2-3,?,Viktoria Köln
+34,Sat Jun 20 2020,14:00,MSV Duisburg,0-0,?,Hansa Rostock
+34,Sun Jun 21 2020,13:00,Meppen,3-0,?,Unterhaching
+34,Sun Jun 21 2020,14:00,1860 Munich,2-1,?,Hallescher
+34,Sun Jun 21 2020,17:00,Zwickau,0-3,?,Ingolstadt 04
+35,Tue Jun 23 2020,19:00,Uerdingen,1-2,?,W'burg Kickers
+35,Tue Jun 23 2020,19:00,Chemnitzer FC,1-2,?,Braunschweig
+35,Tue Jun 23 2020,20:30,Hansa Rostock,1-1,?,Kaiserslautern
+35,Tue Jun 23 2020,20:30,Viktoria Köln,1-0,?,MSV Duisburg
+35,Wed Jun 24 2020,19:00,Preußen Münster,2-1,?,Zwickau
+35,Wed Jun 24 2020,19:00,Großaspach,1-2,?,Meppen
+35,Wed Jun 24 2020,19:00,Unterhaching,0-0,?,Magdeburg
+35,Wed Jun 24 2020,20:30,FC Bayern II,2-1,?,1860 Munich
+35,Wed Jun 24 2020,20:30,Ingolstadt 04,2-0,?,SV Waldhof
+35,Wed Jun 24 2020,20:30,Hallescher,5-3,?,Carl Zeiss Jena
+36,Fri Jun 26 2020,19:00,Uerdingen,1-1,?,Chemnitzer FC
+36,Sat Jun 27 2020,14:00,W'burg Kickers,3-1,?,Hansa Rostock
+36,Sat Jun 27 2020,14:00,Kaiserslautern,3-0,?,Viktoria Köln
+36,Sat Jun 27 2020,14:00,1860 Munich,3-0,?,Unterhaching
+36,Sat Jun 27 2020,14:00,MSV Duisburg,2-2,?,Hallescher
+36,Sat Jun 27 2020,14:00,Zwickau,3-2,?,Braunschweig
+36,Sat Jun 27 2020,14:00,SV Waldhof,0-0,?,Preußen Münster
+36,Sat Jun 27 2020,14:00,Carl Zeiss Jena,1-2,?,FC Bayern II
+36,Sun Jun 28 2020,13:00,Meppen,0-2,?,Ingolstadt 04
+36,Sun Jun 28 2020,14:00,Magdeburg,0-1,?,Großaspach
+37,Wed Jul 1 2020,19:00,Großaspach,,,1860 Munich
+37,Wed Jul 1 2020,19:00,Zwickau,,,Chemnitzer FC
+37,Wed Jul 1 2020,19:00,Unterhaching,,,Carl Zeiss Jena
+37,Wed Jul 1 2020,19:00,Preußen Münster,,,Meppen
+37,Wed Jul 1 2020,19:00,Viktoria Köln,,,W'burg Kickers
+37,Wed Jul 1 2020,19:00,Ingolstadt 04,,,Magdeburg
+37,Wed Jul 1 2020,19:00,FC Bayern II,,,MSV Duisburg
+37,Wed Jul 1 2020,19:00,Braunschweig,,,SV Waldhof
+37,Wed Jul 1 2020,19:00,Hallescher,,,Kaiserslautern
+37,Wed Jul 1 2020,19:00,Hansa Rostock,,,Uerdingen
+38,Sat Jul 4 2020,14:00,Meppen,,,Braunschweig
+38,Sat Jul 4 2020,14:00,Chemnitzer FC,,,Hansa Rostock
+38,Sat Jul 4 2020,14:00,Kaiserslautern,,,FC Bayern II
+38,Sat Jul 4 2020,14:00,1860 Munich,,,Ingolstadt 04
+38,Sat Jul 4 2020,14:00,Carl Zeiss Jena,,,Großaspach
+38,Sat Jul 4 2020,14:00,MSV Duisburg,,,Unterhaching
+38,Sat Jul 4 2020,14:00,W'burg Kickers,,,Hallescher
+38,Sat Jul 4 2020,14:00,Uerdingen,,,Viktoria Köln
+38,Sat Jul 4 2020,14:00,Magdeburg,,,Preußen Münster
+38,Sat Jul 4 2020,14:00,SV Waldhof,,,Zwickau

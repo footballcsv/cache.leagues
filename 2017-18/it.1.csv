@@ -1,0 +1,381 @@
+Matchday,Date,Time,Team 1,FT,HT,Team 2
+1,Sat Aug 19 2017,18:00,Juventus,3-0,?,Cagliari
+1,Sat Aug 19 2017,20:45,Hellas Verona,1-3,?,Napoli
+1,Sun Aug 20 2017,18:00,Atalanta,0-1,?,Roma
+1,Sun Aug 20 2017,20:45,Sampdoria,2-1,?,Benevento
+1,Sun Aug 20 2017,20:45,Udinese,1-2,?,Chievo
+1,Sun Aug 20 2017,20:45,Bologna,1-1,?,Torino
+1,Sun Aug 20 2017,20:45,Lazio,0-0,?,SPAL
+1,Sun Aug 20 2017,20:45,Crotone,0-3,?,Milan
+1,Sun Aug 20 2017,20:45,Sassuolo,0-0,?,Genoa
+1,Sun Aug 20 2017,20:45,Inter,3-0,?,Fiorentina
+2,Sat Aug 26 2017,18:00,Benevento,0-1,?,Bologna
+2,Sat Aug 26 2017,18:00,Genoa,2-4,?,Juventus
+2,Sat Aug 26 2017,20:45,Roma,1-3,?,Inter
+2,Sun Aug 27 2017,18:00,Torino,3-0,?,Sassuolo
+2,Sun Aug 27 2017,20:45,Fiorentina,1-2,?,Sampdoria
+2,Sun Aug 27 2017,20:45,Chievo,1-2,?,Lazio
+2,Sun Aug 27 2017,20:45,Crotone,0-0,?,Hellas Verona
+2,Sun Aug 27 2017,20:45,Milan,2-1,?,Cagliari
+2,Sun Aug 27 2017,20:45,SPAL,3-2,?,Udinese
+2,Sun Aug 27 2017,20:45,Napoli,3-1,?,Atalanta
+3,Sat Sep 9 2017,18:00,Juventus,3-0,?,Chievo
+3,Sun Sep 10 2017,12:30,Inter,2-0,?,SPAL
+3,Sun Sep 10 2017,15:00,Hellas Verona,0-5,?,Fiorentina
+3,Sun Sep 10 2017,15:00,Cagliari,1-0,?,Crotone
+3,Sun Sep 10 2017,15:00,Atalanta,2-1,?,Sassuolo
+3,Sun Sep 10 2017,15:00,Udinese,1-0,?,Genoa
+3,Sun Sep 10 2017,16:00,Lazio,4-1,?,Milan
+3,Sun Sep 10 2017,18:00,Benevento,0-1,?,Torino
+3,Sun Sep 10 2017,20:45,Bologna,0-3,?,Napoli
+4,Sat Sep 16 2017,15:00,Crotone,0-2,?,Inter
+4,Sat Sep 16 2017,18:00,Fiorentina,2-1,?,Bologna
+4,Sat Sep 16 2017,20:45,Roma,3-0,?,Hellas Verona
+4,Sun Sep 17 2017,12:30,Sassuolo,1-3,?,Juventus
+4,Sun Sep 17 2017,15:00,Torino,2-2,?,Sampdoria
+4,Sun Sep 17 2017,15:00,SPAL,0-2,?,Cagliari
+4,Sun Sep 17 2017,15:00,Napoli,6-0,?,Benevento
+4,Sun Sep 17 2017,15:00,Milan,2-1,?,Udinese
+4,Sun Sep 17 2017,18:00,Chievo,1-1,?,Atalanta
+4,Sun Sep 17 2017,20:45,Genoa,2-3,?,Lazio
+5,Tue Sep 19 2017,20:45,Bologna,1-1,?,Inter
+5,Wed Sep 20 2017,18:00,Benevento,0-4,?,Roma
+5,Wed Sep 20 2017,20:45,Juventus,1-0,?,Fiorentina
+5,Wed Sep 20 2017,20:45,Cagliari,0-1,?,Sassuolo
+5,Wed Sep 20 2017,20:45,Udinese,2-3,?,Torino
+5,Wed Sep 20 2017,20:45,Hellas Verona,0-0,?,Sampdoria
+5,Wed Sep 20 2017,20:45,Milan,2-0,?,SPAL
+5,Wed Sep 20 2017,20:45,Lazio,1-4,?,Napoli
+5,Wed Sep 20 2017,20:45,Atalanta,5-1,?,Crotone
+5,Wed Sep 20 2017,20:45,Genoa,1-1,?,Chievo
+6,Sat Sep 23 2017,15:00,Roma,3-1,?,Udinese
+6,Sat Sep 23 2017,18:00,SPAL,2-3,?,Napoli
+6,Sat Sep 23 2017,20:45,Juventus,4-0,?,Torino
+6,Sun Sep 24 2017,12:30,Sampdoria,2-0,?,Milan
+6,Sun Sep 24 2017,15:00,Cagliari,0-2,?,Chievo
+6,Sun Sep 24 2017,15:00,Hellas Verona,0-3,?,Lazio
+6,Sun Sep 24 2017,15:00,Inter,1-0,?,Genoa
+6,Sun Sep 24 2017,15:00,Crotone,2-0,?,Benevento
+6,Sun Sep 24 2017,18:00,Sassuolo,0-1,?,Bologna
+6,Sun Sep 24 2017,20:45,Fiorentina,1-1,?,Atalanta
+7,Sat Sep 30 2017,18:00,Udinese,4-0,?,Sampdoria
+7,Sat Sep 30 2017,20:45,Genoa,0-1,?,Bologna
+7,Sun Oct 1 2017,12:30,Napoli,3-0,?,Cagliari
+7,Sun Oct 1 2017,15:00,SPAL,1-1,?,Crotone
+7,Sun Oct 1 2017,15:00,Lazio,6-1,?,Sassuolo
+7,Sun Oct 1 2017,15:00,Torino,2-2,?,Hellas Verona
+7,Sun Oct 1 2017,15:00,Benevento,1-2,?,Inter
+7,Sun Oct 1 2017,15:00,Chievo,2-1,?,Fiorentina
+7,Sun Oct 1 2017,18:00,Milan,0-2,?,Roma
+7,Sun Oct 1 2017,20:45,Atalanta,2-2,?,Juventus
+8,Sat Oct 14 2017,18:00,Juventus,1-2,?,Lazio
+8,Sat Oct 14 2017,20:45,Roma,0-1,?,Napoli
+8,Sun Oct 15 2017,12:30,Fiorentina,2-1,?,Udinese
+8,Sun Oct 15 2017,15:00,Crotone,2-2,?,Torino
+8,Sun Oct 15 2017,15:00,Bologna,2-1,?,SPAL
+8,Sun Oct 15 2017,15:00,Sampdoria,3-1,?,Atalanta
+8,Sun Oct 15 2017,15:00,Cagliari,2-3,?,Genoa
+8,Sun Oct 15 2017,15:00,Sassuolo,0-0,?,Chievo
+8,Sun Oct 15 2017,20:45,Inter,3-2,?,Milan
+8,Mon Oct 16 2017,20:45,Hellas Verona,1-0,?,Benevento
+9,Sat Oct 21 2017,18:00,Sampdoria,5-0,?,Crotone
+9,Sat Oct 21 2017,20:45,Napoli,0-0,?,Inter
+9,Sun Oct 22 2017,12:30,Chievo,3-2,?,Hellas Verona
+9,Sun Oct 22 2017,15:00,SPAL,0-1,?,Sassuolo
+9,Sun Oct 22 2017,15:00,Torino,0-1,?,Roma
+9,Sun Oct 22 2017,15:00,Benevento,0-3,?,Fiorentina
+9,Sun Oct 22 2017,15:00,Atalanta,1-0,?,Bologna
+9,Sun Oct 22 2017,15:00,Milan,0-0,?,Genoa
+9,Sun Oct 22 2017,18:00,Udinese,2-6,?,Juventus
+9,Sun Oct 22 2017,20:45,Lazio,3-0,?,Cagliari
+10,Tue Oct 24 2017,20:45,Inter,3-2,?,Sampdoria
+10,Wed Oct 25 2017,18:30,Atalanta,3-0,?,Hellas Verona
+10,Wed Oct 25 2017,20:45,Fiorentina,3-0,?,Torino
+10,Wed Oct 25 2017,20:45,Cagliari,2-1,?,Benevento
+10,Wed Oct 25 2017,20:45,Genoa,2-3,?,Napoli
+10,Wed Oct 25 2017,20:45,Sassuolo,0-1,?,Udinese
+10,Wed Oct 25 2017,20:45,Bologna,1-2,?,Lazio
+10,Wed Oct 25 2017,20:45,Juventus,4-1,?,SPAL
+10,Wed Oct 25 2017,20:45,Roma,1-0,?,Crotone
+10,Wed Oct 25 2017,20:45,Chievo,1-4,?,Milan
+11,Sat Oct 28 2017,18:00,Milan,0-2,?,Juventus
+11,Sat Oct 28 2017,20:45,Roma,1-0,?,Bologna
+11,Sun Oct 29 2017,12:30,Benevento,1-5,?,Lazio
+11,Sun Oct 29 2017,15:00,Sampdoria,4-1,?,Chievo
+11,Sun Oct 29 2017,15:00,SPAL,1-0,?,Genoa
+11,Sun Oct 29 2017,15:00,Udinese,2-1,?,Atalanta
+11,Sun Oct 29 2017,15:00,Napoli,3-1,?,Sassuolo
+11,Sun Oct 29 2017,15:00,Crotone,2-1,?,Fiorentina
+11,Sun Oct 29 2017,20:45,Torino,2-1,?,Cagliari
+11,Mon Oct 30 2017,20:45,Hellas Verona,1-2,?,Inter
+12,Sat Nov 4 2017,18:00,Bologna,2-3,?,Crotone
+12,Sat Nov 4 2017,20:45,Genoa,0-2,?,Sampdoria
+12,Sun Nov 5 2017,12:30,Inter,1-1,?,Torino
+12,Sun Nov 5 2017,15:00,Chievo,0-0,?,Napoli
+12,Sun Nov 5 2017,15:00,Fiorentina,2-4,?,Roma
+12,Sun Nov 5 2017,15:00,Cagliari,2-1,?,Hellas Verona
+12,Sun Nov 5 2017,15:00,Juventus,2-1,?,Benevento
+12,Sun Nov 5 2017,18:00,Atalanta,1-1,?,SPAL
+12,Sun Nov 5 2017,20:45,Sassuolo,0-2,?,Milan
+13,Sat Nov 18 2017,18:00,Roma,2-1,?,Lazio
+13,Sat Nov 18 2017,20:45,Napoli,2-1,?,Milan
+13,Sun Nov 19 2017,12:30,Crotone,0-1,?,Genoa
+13,Sun Nov 19 2017,15:00,SPAL,1-1,?,Fiorentina
+13,Sun Nov 19 2017,15:00,Benevento,1-2,?,Sassuolo
+13,Sun Nov 19 2017,15:00,Torino,1-1,?,Chievo
+13,Sun Nov 19 2017,15:00,Sampdoria,3-2,?,Juventus
+13,Sun Nov 19 2017,15:00,Udinese,0-1,?,Cagliari
+13,Sun Nov 19 2017,20:45,Inter,2-0,?,Atalanta
+13,Mon Nov 20 2017,20:45,Hellas Verona,2-3,?,Bologna
+14,Sat Nov 25 2017,15:00,Bologna,3-0,?,Sampdoria
+14,Sat Nov 25 2017,18:00,Sassuolo,0-2,?,Hellas Verona
+14,Sat Nov 25 2017,18:00,Chievo,2-1,?,SPAL
+14,Sat Nov 25 2017,20:45,Cagliari,1-3,?,Inter
+14,Sun Nov 26 2017,15:00,Genoa,1-1,?,Roma
+14,Sun Nov 26 2017,15:00,Udinese,0-1,?,Napoli
+14,Sun Nov 26 2017,15:00,Milan,0-0,?,Torino
+14,Sun Nov 26 2017,18:00,Lazio,1-1,?,Fiorentina
+14,Sun Nov 26 2017,20:45,Juventus,3-0,?,Crotone
+14,Mon Nov 27 2017,20:45,Atalanta,1-0,?,Benevento
+15,Fri Dec 1 2017,18:30,Roma,3-1,?,SPAL
+15,Fri Dec 1 2017,20:45,Napoli,0-1,?,Juventus
+15,Sat Dec 2 2017,20:45,Torino,1-1,?,Atalanta
+15,Sun Dec 3 2017,12:30,Benevento,2-2,?,Milan
+15,Sun Dec 3 2017,15:00,Inter,5-0,?,Chievo
+15,Sun Dec 3 2017,15:00,Fiorentina,3-0,?,Sassuolo
+15,Sun Dec 3 2017,15:00,Bologna,1-1,?,Cagliari
+15,Sun Dec 3 2017,20:45,Sampdoria,1-2,?,Lazio
+15,Mon Dec 4 2017,19:00,Crotone,0-3,?,Udinese
+15,Mon Dec 4 2017,21:00,Hellas Verona,0-1,?,Genoa
+16,Sat Dec 9 2017,18:00,Cagliari,2-2,?,Sampdoria
+16,Sat Dec 9 2017,20:45,Juventus,0-0,?,Inter
+16,Sun Dec 10 2017,12:30,Chievo,0-0,?,Roma
+16,Sun Dec 10 2017,15:00,Napoli,0-0,?,Fiorentina
+16,Sun Dec 10 2017,15:00,Udinese,2-0,?,Benevento
+16,Sun Dec 10 2017,15:00,SPAL,2-2,?,Hellas Verona
+16,Sun Dec 10 2017,18:00,Sassuolo,2-1,?,Crotone
+16,Sun Dec 10 2017,20:45,Milan,2-1,?,Bologna
+16,Mon Dec 11 2017,21:00,Lazio,1-3,?,Torino
+16,Tue Dec 12 2017,19:00,Genoa,1-2,?,Atalanta
+17,Sat Dec 16 2017,15:00,Inter,1-3,?,Udinese
+17,Sat Dec 16 2017,18:00,Torino,1-3,?,Napoli
+17,Sat Dec 16 2017,20:45,Roma,1-0,?,Cagliari
+17,Sun Dec 17 2017,12:30,Hellas Verona,3-0,?,Milan
+17,Sun Dec 17 2017,15:00,Crotone,1-0,?,Chievo
+17,Sun Dec 17 2017,15:00,Sampdoria,0-1,?,Sassuolo
+17,Sun Dec 17 2017,15:00,Fiorentina,0-0,?,Genoa
+17,Sun Dec 17 2017,15:00,Bologna,0-3,?,Juventus
+17,Sun Dec 17 2017,18:00,Benevento,1-2,?,SPAL
+17,Sun Dec 17 2017,20:45,Atalanta,3-3,?,Lazio
+18,Fri Dec 22 2017,18:00,Chievo,2-3,?,Bologna
+18,Fri Dec 22 2017,20:45,Cagliari,0-1,?,Fiorentina
+18,Sat Dec 23 2017,12:30,Lazio,4-0,?,Crotone
+18,Sat Dec 23 2017,15:00,Sassuolo,1-0,?,Inter
+18,Sat Dec 23 2017,15:00,Genoa,1-0,?,Benevento
+18,Sat Dec 23 2017,15:00,SPAL,2-2,?,Torino
+18,Sat Dec 23 2017,15:00,Napoli,3-2,?,Sampdoria
+18,Sat Dec 23 2017,15:00,Udinese,4-0,?,Hellas Verona
+18,Sat Dec 23 2017,18:00,Milan,0-2,?,Atalanta
+18,Sat Dec 23 2017,20:45,Juventus,1-0,?,Roma
+19,Fri Dec 29 2017,20:45,Crotone,0-1,?,Napoli
+19,Sat Dec 30 2017,12:30,Fiorentina,1-1,?,Milan
+19,Sat Dec 30 2017,15:00,Roma,1-1,?,Sassuolo
+19,Sat Dec 30 2017,15:00,Bologna,1-2,?,Udinese
+19,Sat Dec 30 2017,15:00,Sampdoria,2-0,?,SPAL
+19,Sat Dec 30 2017,15:00,Benevento,1-0,?,Chievo
+19,Sat Dec 30 2017,15:00,Torino,0-0,?,Genoa
+19,Sat Dec 30 2017,15:00,Atalanta,1-2,?,Cagliari
+19,Sat Dec 30 2017,18:00,Inter,0-0,?,Lazio
+19,Sat Dec 30 2017,20:45,Hellas Verona,1-3,?,Juventus
+20,Fri Jan 5 2018,18:00,Chievo,1-1,?,Udinese
+20,Fri Jan 5 2018,20:45,Fiorentina,1-1,?,Inter
+20,Sat Jan 6 2018,12:30,Torino,3-0,?,Bologna
+20,Sat Jan 6 2018,15:00,Benevento,3-2,?,Sampdoria
+20,Sat Jan 6 2018,15:00,Milan,1-0,?,Crotone
+20,Sat Jan 6 2018,15:00,SPAL,2-5,?,Lazio
+20,Sat Jan 6 2018,15:00,Napoli,2-0,?,Hellas Verona
+20,Sat Jan 6 2018,15:00,Genoa,1-0,?,Sassuolo
+20,Sat Jan 6 2018,18:00,Roma,1-2,?,Atalanta
+20,Sat Jan 6 2018,20:45,Cagliari,0-1,?,Juventus
+21,Sun Jan 21 2018,12:30,Atalanta,0-1,?,Napoli
+21,Sun Jan 21 2018,15:00,Sampdoria,3-1,?,Fiorentina
+21,Sun Jan 21 2018,15:00,Sassuolo,1-1,?,Torino
+21,Sun Jan 21 2018,15:00,Udinese,1-1,?,SPAL
+21,Sun Jan 21 2018,15:00,Lazio,5-1,?,Chievo
+21,Sun Jan 21 2018,15:00,Bologna,3-0,?,Benevento
+21,Sun Jan 21 2018,15:00,Hellas Verona,0-3,?,Crotone
+21,Sun Jan 21 2018,18:00,Cagliari,1-2,?,Milan
+21,Sun Jan 21 2018,20:45,Inter,1-1,?,Roma
+21,Mon Jan 22 2018,20:45,Juventus,1-0,?,Genoa
+12,Wed Jan 24 2018,18:30,Lazio,3-0,?,Udinese
+3,Wed Jan 24 2018,20:45,Sampdoria,1-1,?,Roma
+22,Sat Jan 27 2018,18:00,Sassuolo,0-3,?,Atalanta
+22,Sat Jan 27 2018,20:45,Chievo,0-2,?,Juventus
+22,Sun Jan 28 2018,12:30,SPAL,1-1,?,Inter
+22,Sun Jan 28 2018,15:00,Napoli,3-1,?,Bologna
+22,Sun Jan 28 2018,15:00,Genoa,0-1,?,Udinese
+22,Sun Jan 28 2018,15:00,Crotone,1-1,?,Cagliari
+22,Sun Jan 28 2018,15:00,Torino,3-0,?,Benevento
+22,Sun Jan 28 2018,15:00,Fiorentina,1-4,?,Hellas Verona
+22,Sun Jan 28 2018,18:00,Milan,2-1,?,Lazio
+22,Sun Jan 28 2018,20:45,Roma,0-1,?,Sampdoria
+23,Sat Feb 3 2018,18:00,Sampdoria,1-1,?,Torino
+23,Sat Feb 3 2018,20:45,Inter,1-1,?,Crotone
+23,Sun Feb 4 2018,12:30,Hellas Verona,0-1,?,Roma
+23,Sun Feb 4 2018,15:00,Udinese,1-1,?,Milan
+23,Sun Feb 4 2018,15:00,Atalanta,1-0,?,Chievo
+23,Sun Feb 4 2018,15:00,Bologna,1-2,?,Fiorentina
+23,Sun Feb 4 2018,15:00,Juventus,7-0,?,Sassuolo
+23,Sun Feb 4 2018,15:00,Cagliari,2-0,?,SPAL
+23,Sun Feb 4 2018,20:45,Benevento,0-2,?,Napoli
+23,Mon Feb 5 2018,20:45,Lazio,1-2,?,Genoa
+24,Fri Feb 9 2018,20:45,Fiorentina,0-2,?,Juventus
+24,Sat Feb 10 2018,15:00,SPAL,0-4,?,Milan
+24,Sat Feb 10 2018,18:00,Crotone,1-1,?,Atalanta
+24,Sat Feb 10 2018,20:45,Napoli,4-1,?,Lazio
+24,Sun Feb 11 2018,12:30,Sassuolo,0-0,?,Cagliari
+24,Sun Feb 11 2018,15:00,Inter,2-1,?,Bologna
+24,Sun Feb 11 2018,15:00,Sampdoria,2-0,?,Hellas Verona
+24,Sun Feb 11 2018,15:00,Torino,2-0,?,Udinese
+24,Sun Feb 11 2018,15:00,Chievo,0-1,?,Genoa
+24,Sun Feb 11 2018,20:45,Roma,5-2,?,Benevento
+25,Sat Feb 17 2018,15:00,Udinese,0-2,?,Roma
+25,Sat Feb 17 2018,18:00,Chievo,2-1,?,Cagliari
+25,Sat Feb 17 2018,20:45,Genoa,2-0,?,Inter
+25,Sun Feb 18 2018,12:30,Torino,0-1,?,Juventus
+25,Sun Feb 18 2018,15:00,Napoli,1-0,?,SPAL
+25,Sun Feb 18 2018,15:00,Bologna,2-1,?,Sassuolo
+25,Sun Feb 18 2018,15:00,Benevento,3-2,?,Crotone
+25,Sun Feb 18 2018,18:00,Atalanta,1-1,?,Fiorentina
+25,Sun Feb 18 2018,20:45,Milan,1-0,?,Sampdoria
+25,Mon Feb 19 2018,20:45,Lazio,2-0,?,Hellas Verona
+26,Sat Feb 24 2018,18:00,Bologna,2-0,?,Genoa
+26,Sat Feb 24 2018,20:45,Inter,2-0,?,Benevento
+26,Sun Feb 25 2018,12:30,Crotone,2-3,?,SPAL
+26,Sun Feb 25 2018,15:00,Hellas Verona,2-1,?,Torino
+26,Sun Feb 25 2018,15:00,Sassuolo,0-3,?,Lazio
+26,Sun Feb 25 2018,15:00,Fiorentina,1-0,?,Chievo
+26,Sun Feb 25 2018,15:00,Sampdoria,2-1,?,Udinese
+26,Sun Feb 25 2018,20:45,Roma,0-2,?,Milan
+26,Mon Feb 26 2018,20:45,Cagliari,0-5,?,Napoli
+27,Sat Mar 3 2018,15:00,SPAL,1-0,?,Bologna
+27,Sat Mar 3 2018,18:00,Lazio,0-1,?,Juventus
+27,Sat Mar 3 2018,20:45,Napoli,2-4,?,Roma
+28,Fri Mar 9 2018,20:45,Roma,3-0,?,Torino
+28,Sat Mar 10 2018,20:45,Hellas Verona,1-0,?,Chievo
+28,Sun Mar 11 2018,12:30,Fiorentina,1-0,?,Benevento
+28,Sun Mar 11 2018,15:00,Crotone,4-1,?,Sampdoria
+28,Sun Mar 11 2018,15:00,Juventus,2-0,?,Udinese
+28,Sun Mar 11 2018,15:00,Bologna,0-1,?,Atalanta
+28,Sun Mar 11 2018,15:00,Sassuolo,1-1,?,SPAL
+28,Sun Mar 11 2018,15:00,Cagliari,2-2,?,Lazio
+28,Sun Mar 11 2018,18:00,Genoa,0-1,?,Milan
+28,Sun Mar 11 2018,20:45,Inter,0-0,?,Napoli
+26,Wed Mar 14 2018,18:00,Juventus,2-0,?,Atalanta
+29,Sat Mar 17 2018,18:00,Udinese,1-2,?,Sassuolo
+29,Sat Mar 17 2018,20:45,SPAL,0-0,?,Juventus
+29,Sun Mar 18 2018,12:30,Sampdoria,0-5,?,Inter
+29,Sun Mar 18 2018,15:00,Torino,1-2,?,Fiorentina
+29,Sun Mar 18 2018,15:00,Milan,3-2,?,Chievo
+29,Sun Mar 18 2018,15:00,Hellas Verona,0-5,?,Atalanta
+29,Sun Mar 18 2018,15:00,Crotone,0-2,?,Roma
+29,Sun Mar 18 2018,15:00,Benevento,1-2,?,Cagliari
+29,Sun Mar 18 2018,20:45,Lazio,1-1,?,Bologna
+29,Sun Mar 18 2018,20:45,Napoli,1-0,?,Genoa
+30,Sat Mar 31 2018,12:30,Bologna,1-1,?,Roma
+30,Sat Mar 31 2018,15:00,Lazio,6-2,?,Benevento
+30,Sat Mar 31 2018,15:00,Cagliari,0-4,?,Torino
+30,Sat Mar 31 2018,15:00,Inter,3-0,?,Hellas Verona
+30,Sat Mar 31 2018,15:00,Genoa,1-1,?,SPAL
+30,Sat Mar 31 2018,15:00,Fiorentina,2-0,?,Crotone
+30,Sat Mar 31 2018,15:00,Atalanta,2-0,?,Udinese
+30,Sat Mar 31 2018,18:00,Chievo,2-1,?,Sampdoria
+30,Sat Mar 31 2018,18:00,Sassuolo,1-1,?,Napoli
+30,Sat Mar 31 2018,20:45,Juventus,3-1,?,Milan
+27,Tue Apr 3 2018,18:30,Genoa,2-1,?,Cagliari
+27,Tue Apr 3 2018,18:30,Atalanta,1-2,?,Sampdoria
+27,Tue Apr 3 2018,18:30,Udinese,0-2,?,Fiorentina
+27,Wed Apr 4 2018,17:00,Benevento,3-0,?,Hellas Verona
+27,Wed Apr 4 2018,18:30,Torino,4-1,?,Crotone
+27,Wed Apr 4 2018,18:30,Milan,0-0,?,Inter
+27,Wed Apr 4 2018,18:30,Chievo,1-1,?,Sassuolo
+31,Sat Apr 7 2018,15:00,Benevento,2-4,?,Juventus
+31,Sat Apr 7 2018,18:00,SPAL,1-1,?,Atalanta
+31,Sat Apr 7 2018,18:00,Roma,0-2,?,Fiorentina
+31,Sat Apr 7 2018,20:45,Sampdoria,0-0,?,Genoa
+31,Sun Apr 8 2018,12:30,Torino,1-0,?,Inter
+31,Sun Apr 8 2018,15:00,Crotone,1-0,?,Bologna
+31,Sun Apr 8 2018,15:00,Napoli,2-1,?,Chievo
+31,Sun Apr 8 2018,15:00,Hellas Verona,1-0,?,Cagliari
+31,Sun Apr 8 2018,18:00,Udinese,1-2,?,Lazio
+31,Sun Apr 8 2018,20:45,Milan,1-1,?,Sassuolo
+32,Sat Apr 14 2018,15:00,Cagliari,2-1,?,Udinese
+32,Sat Apr 14 2018,18:00,Chievo,0-0,?,Torino
+32,Sat Apr 14 2018,18:00,Genoa,1-0,?,Crotone
+32,Sat Apr 14 2018,20:45,Atalanta,0-0,?,Inter
+32,Sun Apr 15 2018,12:30,Fiorentina,0-0,?,SPAL
+32,Sun Apr 15 2018,15:00,Bologna,2-0,?,Hellas Verona
+32,Sun Apr 15 2018,15:00,Sassuolo,2-2,?,Benevento
+32,Sun Apr 15 2018,15:00,Milan,0-0,?,Napoli
+32,Sun Apr 15 2018,18:00,Juventus,3-0,?,Sampdoria
+32,Sun Apr 15 2018,20:45,Lazio,0-0,?,Roma
+33,Tue Apr 17 2018,20:45,Inter,4-0,?,Cagliari
+33,Wed Apr 18 2018,18:00,Benevento,0-3,?,Atalanta
+33,Wed Apr 18 2018,20:45,Torino,1-1,?,Milan
+33,Wed Apr 18 2018,20:45,Roma,2-1,?,Genoa
+33,Wed Apr 18 2018,20:45,Napoli,4-2,?,Udinese
+33,Wed Apr 18 2018,20:45,Sampdoria,1-0,?,Bologna
+33,Wed Apr 18 2018,20:45,Crotone,1-1,?,Juventus
+33,Wed Apr 18 2018,20:45,Hellas Verona,0-1,?,Sassuolo
+33,Wed Apr 18 2018,20:45,Fiorentina,3-4,?,Lazio
+33,Wed Apr 18 2018,20:45,SPAL,0-0,?,Chievo
+34,Sat Apr 21 2018,15:00,SPAL,0-3,?,Roma
+34,Sat Apr 21 2018,18:00,Sassuolo,1-0,?,Fiorentina
+34,Sat Apr 21 2018,20:45,Milan,0-1,?,Benevento
+34,Sun Apr 22 2018,12:30,Cagliari,0-0,?,Bologna
+34,Sun Apr 22 2018,15:00,Atalanta,2-1,?,Torino
+34,Sun Apr 22 2018,15:00,Chievo,1-2,?,Inter
+34,Sun Apr 22 2018,15:00,Udinese,1-2,?,Crotone
+34,Sun Apr 22 2018,15:00,Lazio,4-0,?,Sampdoria
+34,Sun Apr 22 2018,20:45,Juventus,0-1,?,Napoli
+34,Mon Apr 23 2018,20:45,Genoa,3-1,?,Hellas Verona
+35,Sat Apr 28 2018,18:00,Roma,4-1,?,Chievo
+35,Sat Apr 28 2018,20:45,Inter,2-3,?,Juventus
+35,Sun Apr 29 2018,12:30,Crotone,4-1,?,Sassuolo
+35,Sun Apr 29 2018,15:00,Atalanta,3-1,?,Genoa
+35,Sun Apr 29 2018,15:00,Benevento,3-3,?,Udinese
+35,Sun Apr 29 2018,15:00,Sampdoria,4-1,?,Cagliari
+35,Sun Apr 29 2018,15:00,Bologna,1-2,?,Milan
+35,Sun Apr 29 2018,15:00,Hellas Verona,1-3,?,SPAL
+35,Sun Apr 29 2018,18:00,Fiorentina,3-0,?,Napoli
+35,Sun Apr 29 2018,20:45,Torino,0-1,?,Lazio
+36,Sat May 5 2018,18:00,Milan,4-1,?,Hellas Verona
+36,Sat May 5 2018,20:45,Juventus,3-1,?,Bologna
+36,Sun May 6 2018,12:30,Udinese,0-4,?,Inter
+36,Sun May 6 2018,15:00,Genoa,2-3,?,Fiorentina
+36,Sun May 6 2018,15:00,Lazio,1-1,?,Atalanta
+36,Sun May 6 2018,15:00,Napoli,2-2,?,Torino
+36,Sun May 6 2018,15:00,SPAL,2-0,?,Benevento
+36,Sun May 6 2018,15:00,Chievo,2-1,?,Crotone
+36,Sun May 6 2018,18:00,Sassuolo,1-0,?,Sampdoria
+36,Sun May 6 2018,20:45,Cagliari,0-1,?,Roma
+37,Sat May 12 2018,18:00,Benevento,1-0,?,Genoa
+37,Sat May 12 2018,20:45,Inter,1-2,?,Sassuolo
+37,Sun May 13 2018,15:00,Hellas Verona,0-1,?,Udinese
+37,Sun May 13 2018,15:00,Torino,2-1,?,SPAL
+37,Sun May 13 2018,15:00,Bologna,1-2,?,Chievo
+37,Sun May 13 2018,15:00,Fiorentina,0-1,?,Cagliari
+37,Sun May 13 2018,15:00,Crotone,2-2,?,Lazio
+37,Sun May 13 2018,18:00,Atalanta,1-1,?,Milan
+37,Sun May 13 2018,20:45,Sampdoria,0-2,?,Napoli
+37,Sun May 13 2018,20:45,Roma,0-0,?,Juventus
+38,Sat May 19 2018,15:00,Juventus,2-1,?,Hellas Verona
+38,Sun May 20 2018,15:00,Genoa,1-2,?,Torino
+38,Sun May 20 2018,18:00,Milan,5-1,?,Fiorentina
+38,Sun May 20 2018,18:00,SPAL,3-1,?,Sampdoria
+38,Sun May 20 2018,18:00,Udinese,1-0,?,Bologna
+38,Sun May 20 2018,18:00,Napoli,2-1,?,Crotone
+38,Sun May 20 2018,18:00,Chievo,1-0,?,Benevento
+38,Sun May 20 2018,18:00,Cagliari,1-0,?,Atalanta
+38,Sun May 20 2018,20:45,Sassuolo,0-1,?,Roma
+38,Sun May 20 2018,20:45,Lazio,2-3,?,Inter
